@@ -34,7 +34,26 @@ export interface DumpContext {
     itemNameMap: object;
 }
 
-const stats = [
+export interface Stat {
+    label: string;
+    value: string;
+}
+
+export interface LotGrowMap {
+    grow1: string;
+    gwait1: number;
+    grow2?: string;
+    gwait2?: number;
+    grow3?: string;
+    gwait3?: string;
+}
+
+export interface ArtifactRandLotItem {
+    iname: string;
+    lot: LotGrowMap[];
+}
+
+const stats: Stat[] = [
     {
         label: "HP",
         value: "hp"
@@ -97,7 +116,7 @@ const getTypeMap = () => {
         typeNameMap[info.key] = info.value;
     });
     
-    ArtifactRandLot.items.forEach((item) => {
+    ArtifactRandLot.items.forEach((item: ArtifactRandLotItem) => {
         typeMap[item.iname] = [];
     
         if (item.lot[0].grow1) {
@@ -106,12 +125,14 @@ const getTypeMap = () => {
                 value: item.lot[0].grow1
             });
         }
+
         if (item.lot[0].grow2) {
             typeMap[item.iname].push({
                 label: typeNameMap[item.lot[0].grow2],
                 value: item.lot[0].grow2
             });
         }
+
         if (item.lot[0].grow3) {
             typeMap[item.iname].push({
                 label: typeNameMap[item.lot[0].grow3],
