@@ -34,12 +34,12 @@ export interface DumpContext {
     itemNameMap: object;
 }
 
-export interface Stat {
+interface Stat {
     label: string;
     value: string;
 }
 
-export interface LotGrowMap {
+interface LotGrowMap {
     grow1: string;
     gwait1: number;
     grow2?: string;
@@ -48,7 +48,7 @@ export interface LotGrowMap {
     gwait3?: string;
 }
 
-export interface ArtifactRandLotItem {
+interface ArtifactRandLotItem {
     iname: string;
     lot: LotGrowMap[];
 }
@@ -408,17 +408,12 @@ const defaultContext: DumpContext = {
     itemNameMap: getItemNameMap(),
 };
 
-console.log(defaultContext);
+export const WotvDumpContext = createContext(defaultContext);
 
-const WotvDumpContext = createContext(defaultContext);
-
-const WotvDumpProvider = (props) => {
+export const WotvDumpProvider = (props) => {
     return (
         <WotvDumpContext.Provider value={defaultContext}>
             {props.children}
         </WotvDumpContext.Provider>
     );
 }
-
-export {WotvDumpContext as default, WotvDumpProvider};
-
