@@ -1,10 +1,13 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import {App} from './components/App';
+import {UserDataProvider} from './contexts/UserDataProvider';
 import {WotvDumpProvider} from './contexts/WotvDumpContext';
 
 ReactDOM.render((
     <WotvDumpProvider>
-        <App />
+        <UserDataProvider>
+            <App />
+        </UserDataProvider>
     </WotvDumpProvider>
 ), document.getElementById('app'));
