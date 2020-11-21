@@ -4,11 +4,11 @@ import {BooksList} from './BooksList';
 import {UserBooksProvider, wotvBooks} from '../contexts/UserBooksContext';
 
 describe('BooksList', () => {
-  it('renders an BooksList', () => {
-    renderSubject({});
+    it('renders an BooksList', () => {
+        renderSubject({});
 
-    expect(screen.getAllByRole('textbox')).toHaveLength(wotvBooks.length);
-  });
+        expect(screen.getAllByRole('textbox')).toHaveLength(wotvBooks.length);
+    });
 });
 
 interface OptionalProps {}
