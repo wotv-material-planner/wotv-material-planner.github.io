@@ -7,7 +7,7 @@ import './App.scss'
 export const App: FunctionComponent = () => {
     const dumpContext = useContext(WotvDumpContext);
 
-    console.log(dumpContext);
+    // console.log(dumpContext);
 
     return (
         <div className="App">

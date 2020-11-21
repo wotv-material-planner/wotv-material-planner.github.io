@@ -1,19 +1,24 @@
 import * as React from 'react';
-import {shallow} from 'enzyme';
+import {render, screen} from '@testing-library/react';
 import {App} from './App';
+import {UserDataProvider} from '../contexts/UserDataProvider';
 
 describe('App', () => {
-  it('renders a keep builder', () => {
-    const subject = shallowRender({});
+  it('renders an App', () => {
+    renderSubject({});
 
-    expect(subject.find('.App').exists()).toBe(true);
+    expect(screen.getByText('FFBE WOTV MATERIAL PLANNER')).toBeTruthy();
   });
 });
 
 interface OptionalProps {}
 
-const shallowRender = (props: OptionalProps) => {
-  return shallow(<App {...makeProps(props)} />)
+const renderSubject = (props: OptionalProps) => {
+  return render(
+    <UserDataProvider>
+      <App {...makeProps(props)} />
+    </UserDataProvider>
+  )
 };
 
 const makeProps = (props: OptionalProps) => {
