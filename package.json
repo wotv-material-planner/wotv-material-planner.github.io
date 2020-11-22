@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/wotv-material-planner/wotv-material-planner.github.io/issues"
   },
-  "homepage": "https://github.com/wotv-material-planner/wotv-material-planner.github.io#readme",
+  "homepage": "/",
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
