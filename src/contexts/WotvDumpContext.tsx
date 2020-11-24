@@ -32,6 +32,7 @@ export interface DumpContext {
     artifactAwakeMap: object;
     itemMap: object;
     itemNameMap: object;
+    itemBooks: object[];
 }
 
 interface Stat {
@@ -390,7 +391,13 @@ const getItemNameMap = () => {
     return itemNameMap;
 };
 
-const defaultContext: DumpContext = {
+const getItemBooks = () => {
+    return ItemName_en.infos.filter((item) => {
+        return item.key.startsWith('IT_AF_AW_');
+    });
+};
+
+export const defaultContext: DumpContext = {
     typeMap: getTypeMap(),
     growthMap: getGrowthMap(),
     buffMap: getBuffMap(),
@@ -406,6 +413,7 @@ const defaultContext: DumpContext = {
     artifactAwakeMap: getArtifactAwakeMap(),
     itemMap: getItemMap(),
     itemNameMap: getItemNameMap(),
+    itemBooks: getItemBooks(),
 };
 
 export const WotvDumpContext = createContext(defaultContext);
