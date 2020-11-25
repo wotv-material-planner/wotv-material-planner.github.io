@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {createContext, useContext, Dispatch, SetStateAction} from 'react';
-import { usePersistedState } from '../hooks/UsePersistedState';
+import {usePersistedState} from '../hooks/UsePersistedState';
 import {WotvDumpContext} from './WotvDumpContext';
 
 export interface Book {
