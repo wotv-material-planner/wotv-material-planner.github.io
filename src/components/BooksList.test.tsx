@@ -24,5 +24,5 @@ const renderSubject = (props: OptionalProps) => {
 }
 
 const makeProps = (props: OptionalProps) => {
-  return {};
+    return {};
 };
