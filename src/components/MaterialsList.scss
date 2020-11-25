@@ -1,0 +1,9 @@
+@import '../styles/variables.scss';
+
+.MaterialsList {
+    input {
+        background-color: $black;
+        border: 1px solid lime;
+        color: $white;
+    }
+}
