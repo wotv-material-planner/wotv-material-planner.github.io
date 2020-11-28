@@ -889,6 +889,10 @@
       "value": "Summon error."
     },
     {
+      "key": "APP_ERROR_2427",
+      "value": "Cannot be retrieved as the comeback period has passed."
+    },
+    {
       "key": "APP_ERROR_2501",
       "value": "Challenge mission not available at this time."
     },
@@ -1487,6 +1491,10 @@
     {
       "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
       "value": "Your account has been suspended.<br><br>For details, please contact Customer Support through the Title Screen by tapping [Support] > [Inquiries]."
+    },
+    {
+      "key": "APP_ERROR_5308",
+      "value": "You have exceeded the max number of applicable supports."
     }
   ]
 }

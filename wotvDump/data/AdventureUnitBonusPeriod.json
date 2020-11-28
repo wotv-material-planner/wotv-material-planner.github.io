@@ -185,6 +185,42 @@
       "begin_at": "2020/10/14",
       "end_at": "2020/10/20 17:59:59",
       "bonus_set_id": "BONUS_GL_026"
+    },
+    {
+      "iname": "GL_PERIOD_030",
+      "begin_at": "2020/10/20 18:30:00",
+      "end_at": "2020/10/27 23:59:59",
+      "bonus_set_id": "BONUS_GL_027"
+    },
+    {
+      "iname": "GL_PERIOD_031",
+      "begin_at": "2020/10/28",
+      "end_at": "2020/11/03 23:59:59",
+      "bonus_set_id": "BONUS_GL_028"
+    },
+    {
+      "iname": "GL_PERIOD_032",
+      "begin_at": "2020/11/04",
+      "end_at": "2020/11/10 23:59:59",
+      "bonus_set_id": "BONUS_GL_029"
+    },
+    {
+      "iname": "GL_PERIOD_033",
+      "begin_at": "2020/11/11",
+      "end_at": "2020/11/17 17:59:59",
+      "bonus_set_id": "BONUS_GL_030"
+    },
+    {
+      "iname": "GL_PERIOD_034",
+      "begin_at": "2020/11/17 18:30:00",
+      "end_at": "2020/11/24 21:59:59",
+      "bonus_set_id": "BONUS_GL_031"
+    },
+    {
+      "iname": "GL_PERIOD_035",
+      "begin_at": "2020/11/24 22:30:00",
+      "end_at": "2020/12/01 23:59:59",
+      "bonus_set_id": "BONUS_GL_032"
     }
   ]
 }

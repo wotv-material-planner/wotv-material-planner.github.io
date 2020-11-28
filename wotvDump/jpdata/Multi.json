@@ -58,6 +58,11 @@
       "image": "ev_aw_high_003"
     },
     {
+      "iname": "SE_MU_AW_HIGH_04",
+      "event_type": 3,
+      "image": "ev_aw_high_004"
+    },
+    {
       "iname": "SE_MU_SM_FIRE_01",
       "event_type": 3,
       "image": "ev_summon_002"
@@ -101,8 +106,8 @@
       "iname": "SE_MU_EV_01_EX",
       "event_type": 1,
       "image": "ev_01_ex_01",
-      "start": "2020/03/17 10:30:00",
-      "end": "2020/03/31 23:59:59"
+      "start": "2020/11/24 15:00:00",
+      "end": "2020/11/30 23:59:59"
     },
     {
       "iname": "SE_MU_EV_02_EX",
@@ -154,25 +159,32 @@
       "end": "2020/10/14 9:59:59"
     },
     {
+      "iname": "SE_MU_EV_09_EX",
+      "event_type": 1,
+      "image": "ev_09_ex_01",
+      "start": "2020/11/01",
+      "end": "2020/11/15 23:59:59"
+    },
+    {
       "iname": "SE_MU_EV_SCR_01",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2020/10/01",
-      "end": "2020/10/07 14:59:59"
+      "start": "2020/11/01",
+      "end": "2020/11/06 14:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_02",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2020/10/07 15:00:00",
-      "end": "2020/10/14 9:59:59"
+      "start": "2020/11/06 15:00:00",
+      "end": "2020/11/13 17:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_03",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2020/10/14 11:00:00",
-      "end": "2020/10/21 14:59:59"
+      "start": "2020/11/13 19:00:00",
+      "end": "2020/11/30 22:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_04",
@@ -185,8 +197,8 @@
       "iname": "SE_MU_EV_ETRE_EX",
       "event_type": 1,
       "image": "ev_etre_ex_01",
-      "start": "2020/03/17 10:30:00",
-      "end": "2020/03/31 23:59:59"
+      "start": "2020/11/24 15:00:00",
+      "end": "2020/11/30 23:59:59"
     },
     {
       "iname": "SE_MU_EV_THLA_EX",
@@ -327,6 +339,20 @@
       "image": "ev_ff4_ex_01",
       "start": "2020/07/22 15:00:00",
       "end": "2020/08/17 9:59:59"
+    },
+    {
+      "iname": "SE_MU_FF10_01_EX",
+      "event_type": 1,
+      "image": "ev_ff10_ex_01",
+      "start": "2020/11/13 19:00:00",
+      "end": "2020/12/31 23:59:59"
+    },
+    {
+      "iname": "SE_MU_FF10_02_EX",
+      "event_type": 1,
+      "image": "ev_ff10_ex_02",
+      "start": "2020/11/24 15:00:00",
+      "end": "2020/12/31 23:59:59"
     }
   ]
 }

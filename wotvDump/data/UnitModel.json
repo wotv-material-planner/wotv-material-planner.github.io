@@ -47,6 +47,21 @@
       "shield": "AF_LW_SHI_001"
     },
     {
+      "iname": "UN_LW_P_LILS_01",
+      "bodyId": "LAPSlils_01",
+      "img": "LAPSlils_01"
+    },
+    {
+      "iname": "UN_LW_P_RYER_01",
+      "bodyId": "LAPSryer_01",
+      "img": "LAPSryer_01"
+    },
+    {
+      "iname": "UN_LW_P_RIRY_01",
+      "bodyId": "LAPSriry_01",
+      "img": "LAPSriry_01"
+    },
+    {
       "iname": "UN_LW_P_NASR",
       "shield": "AF_LW_SHI_002"
     },
@@ -235,6 +250,11 @@
       "img": "LAPScsli_01"
     },
     {
+      "iname": "UN_LW_E_CSLI_02",
+      "bodyId": "LAPScsli_02",
+      "img": "LAPScsli_02"
+    },
+    {
       "iname": "UN_GM_SWITCH_01",
       "bodyId": "GMCKswch_01",
       "bodyTex": "GMCKswch_01",
@@ -273,6 +293,21 @@
       "img": "ITEMcrst_01"
     },
     {
+      "iname": "UN_GM_CRYSTAL_02",
+      "bodyId": "ITEMcrst_02",
+      "img": "ITEMcrst_02"
+    },
+    {
+      "iname": "UN_GM_CRYSTAL_03",
+      "bodyId": "ITEMcrst_03",
+      "img": "ITEMcrst_03"
+    },
+    {
+      "iname": "UN_GM_CRYSTAL_04",
+      "bodyId": "ITEMcrst_04",
+      "img": "ITEMcrst_04"
+    },
+    {
       "iname": "UN_LW_E_STRN_01",
       "bodyId": "LAPSstrn_01",
       "img": "LAPSstrn_01"
@@ -281,6 +316,11 @@
       "iname": "UN_LW_E_CACT_03",
       "bodyId": "LAPScact_02",
       "img": "LAPScact_02"
+    },
+    {
+      "iname": "UN_LW_E_RYER_01_MOGI",
+      "bodyId": "LAPSryer_01",
+      "img": "LAPSryer_01"
     }
   ]
 }

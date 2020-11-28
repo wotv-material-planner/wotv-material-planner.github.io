@@ -13,6 +13,10 @@
       "value": "Recovers HP/TP (S)."
     },
     {
+      "key": "SK_CRYSTAL_04",
+      "value": "Restores HP/AP (S) & boosts Bravery"
+    },
+    {
       "key": "SK_LW_WAR_ATK",
       "value": ""
     },
@@ -494,7 +498,7 @@
     },
     {
       "key": "SK_LW_MNK_M_2",
-      "value": "Removes Poison, Blind, Sleep, Silence, Petrify, Toad, Immobilize, and Disable from allies within area around self."
+      "value": "Removes Poison, Blind, Sleep, Silence, Petrify, Gradual Petrify, Toad, Immobilize, and Disable from allies within area around self."
     },
     {
       "key": "SK_LW_MNK_S_5",
@@ -538,7 +542,7 @@
     },
     {
       "key": "SK_LW_MNK_M_2_SUB",
-      "value": "Removes Poison, Blind, Sleep, Silence, Petrify, Toad, Immobilize, and Disable from allies within area around self."
+      "value": "Removes Poison, Blind, Sleep, Silence, Petrify, Gradual Petrify, Toad, Immobilize, and Disable from allies within area around self."
     },
     {
       "key": "SK_LW_MNK_S_5_SUB",
@@ -1298,7 +1302,7 @@
     },
     {
       "key": "SK_LW_WHM_M_2_INIT",
-      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
+      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Gradual Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
     },
     {
       "key": "SK_LW_WHM_M_1",
@@ -1350,7 +1354,7 @@
     },
     {
       "key": "SK_LW_WHM_M_2",
-      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
+      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Gradual Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
     },
     {
       "key": "SK_LW_CLR_ATK",
@@ -1362,7 +1366,7 @@
     },
     {
       "key": "SK_LW_CLR_M_4",
-      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Toad, Immobilize, Disable, Berserk, and Stun from allies within range."
+      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Gradual Petrify, Toad, Immobilize, Disable, Berserk, and Stun from allies within range."
     },
     {
       "key": "SK_LW_CLR_S_5",
@@ -1402,7 +1406,7 @@
     },
     {
       "key": "SK_LW_CLR_M_4_SUB",
-      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Toad, Immobilize, Disable, Berserk, and Stun from allies within range."
+      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Gradual Petrify, Toad, Immobilize, Disable, Berserk, and Stun from allies within range."
     },
     {
       "key": "SK_LW_CLR_S_5_SUB",
@@ -1614,7 +1618,7 @@
     },
     {
       "key": "SK_LW_RDM_M_2_INIT",
-      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
+      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Gradual Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
     },
     {
       "key": "SK_LW_RDM_S_2_INIT",
@@ -1682,7 +1686,7 @@
     },
     {
       "key": "SK_LW_RDM_M_2",
-      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
+      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Gradual Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
     },
     {
       "key": "SK_LW_RDM_S_2",
@@ -1870,7 +1874,7 @@
     },
     {
       "key": "SK_LW_FINA_S_3",
-      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
+      "value": "Removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, Gradual Petrify, Toad, Immobilize, Disable, Berserk, and Stun from target."
     },
     {
       "key": "SK_LW_FINA_S_4",
@@ -2282,7 +2286,7 @@
     },
     {
       "key": "SK_LW_RAIN_M_2",
-      "value": "Raises own Ice Res for 3 turns & nullifies status ailments (Poison, Blind, and Petrify)."
+      "value": "Raises own Ice Res for 3 turns & nullifies status ailments (Poison, Blind, Petrify, and Gradual Petrify)."
     },
     {
       "key": "SK_LW_RAIN_M_3",
@@ -2509,6 +2513,54 @@
       "value": "DEF Up"
     },
     {
+      "key": "SK_LW_MST_M_1_SUB",
+      "value": "Deals Dmg (L) to targets within range based on caster's MAG stat & Guaranteed Hit."
+    },
+    {
+      "key": "SK_LW_MST_M_2_SUB",
+      "value": "Bestows a barrier on self that reduces Phys Dmg (3 times)."
+    },
+    {
+      "key": "SK_LW_MST_M_3_SUB",
+      "value": "Raises Faith of allies within area around self."
+    },
+    {
+      "key": "SK_LW_MST_FIRE_S_1",
+      "value": "Deals Fire Dmg (S) to target based on caster's MAG stat & chance of lowering CT (S)."
+    },
+    {
+      "key": "SK_LW_MST_ICE_S_1",
+      "value": "Deals Ice Dmg (S) to target based on caster's MAG stat & chance of lowering CT (S)."
+    },
+    {
+      "key": "SK_LW_MST_WIND_S_1",
+      "value": "Deals Wind Dmg (S) to target based on caster's MAG stat & chance of lowering CT (S)."
+    },
+    {
+      "key": "SK_LW_MST_THUN_S_1",
+      "value": "Deals Lightning Dmg (S) to target based on caster's MAG stat & chance of lowering CT (S)."
+    },
+    {
+      "key": "SK_LW_MST_WATR_S_1",
+      "value": "Deals Water Dmg (S) to target based on caster's MAG stat & chance of lowering CT (S)."
+    },
+    {
+      "key": "SK_LW_MST_SOIL_S_1",
+      "value": "Deals Earth Dmg (S) to target based on caster's MAG stat & chance of lowering CT (S)."
+    },
+    {
+      "key": "SK_LW_MST_SHIN_S_1",
+      "value": "Deals Light Dmg (S) to target based on caster's MAG stat & chance of lowering CT (S)."
+    },
+    {
+      "key": "SK_LW_MST_DARK_S_1",
+      "value": "Deals Dark Dmg (S) to target based on caster's MAG stat & chance of lowering CT (S)."
+    },
+    {
+      "key": "SK_LW_MST_S_2",
+      "value": "Raises own Jump/Move by 1 for 3 turns."
+    },
+    {
       "key": "SK_FFT_AGRA_ATK",
       "value": ""
     },
@@ -2665,12 +2717,68 @@
       "value": "Deals Light Dmg (M) to targets within range based on caster's MAG stat & increases potency against targets whose Height is a multiple of 2."
     },
     {
+      "key": "SK_LW_CAL_FIRE_M_2",
+      "value": "Deals Fire Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_M_2_B",
+      "value": "Deals Fire Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_ICE_M_2",
+      "value": "Deals Ice Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_ICE_M_2_B",
+      "value": "Deals Ice Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_WIND_M_2",
+      "value": "Deals Wind Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_WIND_M_2_B",
+      "value": "Deals Wind Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_M_2",
+      "value": "Deals Earth Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_M_2_B",
+      "value": "Deals Earth Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_THUN_M_2",
+      "value": "Deals Lightning Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_THUN_M_2_B",
+      "value": "Deals Lightning Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
       "key": "SK_LW_CAL_WATER_M_2",
       "value": "Deals Water Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
     },
     {
       "key": "SK_LW_CAL_WATER_M_2_B",
       "value": "Deals Water Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_M_2",
+      "value": "Deals Light Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_M_2_B",
+      "value": "Deals Light Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_DARK_M_2",
+      "value": "Deals Dark Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_DARK_M_2_B",
+      "value": "Deals Dark Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
     },
     {
       "key": "SK_LW_CAL_M_3",
@@ -2681,8 +2789,36 @@
       "value": "Recovers HP (S) of allies within range & increases effect on targets whose Height is a multiple of 2."
     },
     {
+      "key": "SK_LW_CAL_FIRE_S_1_INIT",
+      "value": "Deals Fire Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_ICE_S_1_INIT",
+      "value": "Deals Ice Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_WIND_S_1_INIT",
+      "value": "Deals Wind Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_S_1_INIT",
+      "value": "Deals Earth Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_THUN_S_1_INIT",
+      "value": "Deals Lightning Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
       "key": "SK_LW_CAL_WATER_S_1_INIT",
       "value": "Deals Water Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_S_1_INIT",
+      "value": "Deals Light Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_DARK_S_1_INIT",
+      "value": "Deals Dark Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
     },
     {
       "key": "SK_LW_CAL_S_2_INIT",
@@ -2697,12 +2833,68 @@
       "value": "Chance of inflicting Disable on targets within area around self for 3 turns & increases chance on targets whose Height is a multiple of 2."
     },
     {
+      "key": "SK_LW_CAL_FIRE_S_4",
+      "value": "Deals Fire Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_S_4_B",
+      "value": "Deals Fire Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_ICE_S_4",
+      "value": "Deals Ice Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_ICE_S_4_B",
+      "value": "Deals Ice Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_WIND_S_4",
+      "value": "Deals Wind Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_WIND_S_4_B",
+      "value": "Deals Wind Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_S_4",
+      "value": "Deals Earth Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_S_4_B",
+      "value": "Deals Earth Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_THUN_S_4",
+      "value": "Deals Lightning Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_THUN_S_4_B",
+      "value": "Deals Lightning Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
       "key": "SK_LW_CAL_WATER_S_4",
       "value": "Deals Water Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
     },
     {
       "key": "SK_LW_CAL_WATER_S_4_B",
       "value": "Deals Water Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_S_4",
+      "value": "Deals Light Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_S_4_B",
+      "value": "Deals Light Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_DARK_S_4",
+      "value": "Deals Dark Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_DARK_S_4_B",
+      "value": "Deals Dark Dmg (Min) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
     },
     {
       "key": "SK_LW_CAL_S_5",
@@ -2719,6 +2911,122 @@
     {
       "key": "SK_LW_CAL_P_2",
       "value": "Replaces own abilities targeting Level 4 with Level 3 only during battle."
+    },
+    {
+      "key": "SK_LW_CAL_M_1_SUB",
+      "value": "Deals Light Dmg (M) to targets within range based on caster's MAG stat & increases potency against targets whose Height is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_M_1_B_SUB",
+      "value": "Deals Light Dmg (M) to targets within range based on caster's MAG stat & increases potency against targets whose Height is a multiple of 2."
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_M_2_SUB",
+      "value": "Deals Fire Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_M_2_B_SUB",
+      "value": "Deals Fire Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_ICE_M_2_SUB",
+      "value": "Deals Ice Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_ICE_M_2_B_SUB",
+      "value": "Deals Ice Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_WIND_M_2_SUB",
+      "value": "Deals Wind Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_WIND_M_2_B_SUB",
+      "value": "Deals Wind Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_M_2_SUB",
+      "value": "Deals Earth Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_M_2_B_SUB",
+      "value": "Deals Earth Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_THUN_M_2_SUB",
+      "value": "Deals Lightning Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_THUN_M_2_B_SUB",
+      "value": "Deals Lightning Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_WATER_M_2_SUB",
+      "value": "Deals Water Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_WATER_M_2_B_SUB",
+      "value": "Deals Water Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_M_2_SUB",
+      "value": "Deals Light Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_M_2_B_SUB",
+      "value": "Deals Light Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_DARK_M_2_SUB",
+      "value": "Deals Dark Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 4."
+    },
+    {
+      "key": "SK_LW_CAL_DARK_M_2_B_SUB",
+      "value": "Deals Dark Dmg (S) to targets within range based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_M_3_SUB",
+      "value": "Recovers HP (S) of allies within range & increases effect on targets whose Height is a multiple of 3."
+    },
+    {
+      "key": "SK_LW_CAL_M_3_B_SUB",
+      "value": "Recovers HP (S) of allies within range & increases effect on targets whose Height is a multiple of 2."
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_S_1",
+      "value": "Deals Fire Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_ICE_S_1",
+      "value": "Deals Ice Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_WIND_S_1",
+      "value": "Deals Wind Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_S_1",
+      "value": "Deals Earth Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_THUN_S_1",
+      "value": "Deals Lightning Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_WATER_S_1",
+      "value": "Deals Water Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_S_1",
+      "value": "Deals Light Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_DARK_S_1",
+      "value": "Deals Dark Dmg (S) to target based on caster's MAG stat & increases potency based on target's Height."
+    },
+    {
+      "key": "SK_LW_CAL_S_2",
+      "value": "Recovers ally’s HP (S) & increases effect based on target's Height."
     },
     {
       "key": "SK_LW_STRN_ATK",
@@ -2847,6 +3155,202 @@
     {
       "key": "SK_LW_LSWL_P_2",
       "value": "Raises DEF Piercing Rate & raises power of Fatal Bloom/Accuracy Rate."
+    },
+    {
+      "key": "SK_LW_MKN_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_MKN_WIND_M_1",
+      "value": "Deals Wind Dmg (L) to targets within range based on caster's MAG stat & bestows Earth Eater."
+    },
+    {
+      "key": "SK_LW_MKN_SOIL_M_1",
+      "value": "Deals Earth Dmg (L) to targets within range based on caster's MAG stat & bestows Lightning Eater."
+    },
+    {
+      "key": "SK_LW_MKN_M_2",
+      "value": "Consumes own HP to deal Dmg (L) to targets within range based on caster's MAG stat."
+    },
+    {
+      "key": "SK_LW_MKN_M_3",
+      "value": "Deals Dmg (M) to target based on caster's MAG stat & Airborne Killer."
+    },
+    {
+      "key": "SK_LW_MKN_WIND_S_1_INIT",
+      "value": "Deals Wind Dmg (S) to target based on caster's MAG stat & bestows Earth Eater."
+    },
+    {
+      "key": "SK_LW_MKN_SOIL_S_1_INIT",
+      "value": "Deals Earth Dmg (S) to target based on caster's MAG stat & bestows Lightning Eater."
+    },
+    {
+      "key": "SK_LW_MKN_S_3_INIT",
+      "value": "Deals Dmg (Min) to target based on caster's MAG stat & absorbs Dmg dealt & significantly raises own MAG for 1 turn & raises Slash Res Piercing Rate."
+    },
+    {
+      "key": "SK_LW_MKN_S_2",
+      "value": "Consumes own HP to raise own MAG for 3 turns."
+    },
+    {
+      "key": "SK_LW_MKN_WIND_S_4",
+      "value": "Lowers target's Wind Res for 3 turns."
+    },
+    {
+      "key": "SK_LW_MKN_SOIL_S_4",
+      "value": "Lowers target's Earth Res for 3 turns."
+    },
+    {
+      "key": "SK_LW_MKN_R_1",
+      "value": "Chance of recovering own AP when taking Magic Attack Dmg."
+    },
+    {
+      "key": "SK_LW_MKN_WIND_P_1",
+      "value": "Raises Wind Attack & lowers Ice Res."
+    },
+    {
+      "key": "SK_LW_MKN_SOIL_P_1",
+      "value": "Raises Earth Attack & lowers Wind Res."
+    },
+    {
+      "key": "SK_LW_MKN_P_2",
+      "value": "Raises SPR Piercing Rate/Accuracy."
+    },
+    {
+      "key": "SK_FF4_CECL_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_FF4_CECL_M_1",
+      "value": "Deals Dmg (L) to targets within range & lowers ATK for 3 turns."
+    },
+    {
+      "key": "SK_FF4_CECL_M_2",
+      "value": "Raises own DEF/SPR for 3 turns & significantly raises SPR Debuff Res."
+    },
+    {
+      "key": "SK_FF4_CECL_M_3",
+      "value": "Consumes own HP to bestow a barrier on allies within range excluding self that reduces Phys Dmg (3 times)."
+    },
+    {
+      "key": "SK_FF4_CECL_S_1",
+      "value": "Deals Dmg (S) to target & raises own AGI for 1 turn."
+    },
+    {
+      "key": "SK_FF4_CECL_S_3",
+      "value": "Deals 2-Hit Dmg (M) to target & chance of inflicting Disable for 3 turns."
+    },
+    {
+      "key": "SK_FF4_CECL_S_2",
+      "value": "Raises Max HP of allies within area around self for 3 turns & recovers the amount of HP raised."
+    },
+    {
+      "key": "SK_FF4_CECL_S_4",
+      "value": "Consumes own HP to bestow a barrier on an ally excluding self that reduces Magic Dmg (3 times)."
+    },
+    {
+      "key": "SK_FF4_CECL_S_5",
+      "value": "Deals Dmg (M) to targets within range & bestows Reaper Killer."
+    },
+    {
+      "key": "SK_FF4_CECL_R_1",
+      "value": "Chance of taking reduced Phys Attack Dmg."
+    },
+    {
+      "key": "SK_FF4_CECL_P_1",
+      "value": "Raises Max HP/DEF."
+    },
+    {
+      "key": "SK_FF4_KAIN_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_FF4_KAIN_M_1",
+      "value": "Deals Dmg (L) to target after Jump delay & lowers Healing Power for 3 turns."
+    },
+    {
+      "key": "SK_FF4_KAIN_M_2",
+      "value": "Deals Dmg (M) to targets within area around self & chance of inflicting Confusion for 3 turns."
+    },
+    {
+      "key": "SK_FF4_KAIN_M_3",
+      "value": "Deals Dmg (S) to target & Piercing & absorbs Dmg dealt."
+    },
+    {
+      "key": "SK_FF4_KAIN_S_1",
+      "value": "Lowers target's Pierce Res 3 turns, then deals Dmg (S) & Piercing."
+    },
+    {
+      "key": "SK_FF4_KAIN_S_2",
+      "value": "Raises own AGI/ATK for 3 turns."
+    },
+    {
+      "key": "SK_FF4_KAIN_S_3",
+      "value": "Deals Dmg (M) to targets within range."
+    },
+    {
+      "key": "SK_FF4_KAIN_S_4",
+      "value": "Consumes own HP to deal Dmg (M) to target & Piercing & bestows Light Eater."
+    },
+    {
+      "key": "SK_FF4_KAIN_R_1",
+      "value": "Chance of Counterattack when taking Phys Attack Dmg & Piercing."
+    },
+    {
+      "key": "SK_FF4_KAIN_P_1",
+      "value": "Significantly raises ATK & lowers DEF."
+    },
+    {
+      "key": "SK_FF4_ROSA_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_FF4_ROSA_M_1",
+      "value": "Lowers target's Ice Res for 3 turns, then deals Dmg (M)."
+    },
+    {
+      "key": "SK_FF4_ROSA_M_1_B",
+      "value": "Lowers target's Ice Res for 3 turns, then deals Dmg (L)."
+    },
+    {
+      "key": "SK_FF4_ROSA_M_2",
+      "value": "Deals Light Dmg (L) to target based on caster's MAG stat & Guaranteed Hit & bestows Reaper Killer."
+    },
+    {
+      "key": "SK_FF4_ROSA_M_3",
+      "value": "Deals Dmg (L) to target & Guaranteed Hit."
+    },
+    {
+      "key": "SK_FF4_ROSA_S_1",
+      "value": "Bestows Protect on ally for 3 turns."
+    },
+    {
+      "key": "SK_FF4_ROSA_S_2",
+      "value": "Deals Dmg (S) to target & chance of inflicting Silence for 3 turns."
+    },
+    {
+      "key": "SK_FF4_ROSA_S_3",
+      "value": "Nullifies Poison, Blind, Silence, Paralysis, Confusion, and Stop of allies within area around self for 3 turns."
+    },
+    {
+      "key": "SK_FF4_ROSA_S_4",
+      "value": "Recovers target's HP (M)."
+    },
+    {
+      "key": "SK_FF4_ROSA_S_5",
+      "value": "Deals Dmg (S) to targets within range."
+    },
+    {
+      "key": "SK_FF4_ROSA_R_1",
+      "value": "Chance of evading all attacks."
+    },
+    {
+      "key": "SK_FF4_ROSA_P_1",
+      "value": "Range +1 & bestows Man Eater"
+    },
+    {
+      "key": "SK_FF4_ROSA_P_2",
+      "value": "Raises AGI & power of Ice Crystal Arrow."
     },
     {
       "key": "SK_LW_TU_BLM_ICE",
@@ -3205,6 +3709,14 @@
       "value": "Chance of Counterattack when taking Dmg & chance of inflicting Paralysis for 3 turns."
     },
     {
+      "key": "SK_CACT_M_01_CNTUP",
+      "value": "Deals fixed Dmg (1,000) to target."
+    },
+    {
+      "key": "SK_CACT_M_02_CNTUP",
+      "value": "Deals fixed Dmg (10,000) to target."
+    },
+    {
       "key": "SK_GLSP_ATK",
       "value": ""
     },
@@ -3218,6 +3730,14 @@
     },
     {
       "key": "SK_GLSP_R_01",
+      "value": "Chance of dealing 2-Hit Dmg (S) when taking Dmg & chance of inflicting Poison for 3 turns."
+    },
+    {
+      "key": "SK_GLSP_M_02_TOW",
+      "value": "Deals Dmg (S) to targets within range & chance of inflicting Immobilize for 3 turns."
+    },
+    {
+      "key": "SK_GLSP_R_01_TOW",
       "value": "Chance of dealing 2-Hit Dmg (S) when taking Dmg & chance of inflicting Poison for 3 turns."
     },
     {
@@ -3322,7 +3842,7 @@
     },
     {
       "key": "SK_CHCB_M_03",
-      "value": "Removes Poison, Blind, Immobilize, Disable, Stop, Silence, and Petrify from allies within area around self."
+      "value": "Removes Poison, Blind, Immobilize, Disable, Stop, Silence, Petrify, and Gradual Petrify from allies within area around self."
     },
     {
       "key": "SK_CHCB_M_04",
@@ -3665,6 +4185,14 @@
       "value": "Deals Phys Dmg (M) to units within area around self & chance of inflicting status ailments (Blind/Silence) for 3 turns."
     },
     {
+      "key": "SK_THDG_R_01_RA",
+      "value": "Deals Phys Dmg (S) to targets within area around self when taking Phys Attack Dmg & lowers ATK/MAG/DEF/SPR for 2 turns."
+    },
+    {
+      "key": "SK_THDG_M_01_RA",
+      "value": "Deals 2-Hit Dmg (M) to target & chance of inflicting Paralysis for 3 turns."
+    },
+    {
       "key": "SK_DABL_ATK",
       "value": ""
     },
@@ -3705,6 +4233,10 @@
       "value": "Deals Dmg (M) to enemies within range & chance of inflicting Paralysis for 3 turns."
     },
     {
+      "key": "SK_FNRR_M_04_2",
+      "value": "Deals Ice Magic Dmg (L) to targets within area around self & chance of inflicting Paralysis for 3 turns."
+    },
+    {
       "key": "SK_FNRR_ATK",
       "value": ""
     },
@@ -3722,7 +4254,7 @@
     },
     {
       "key": "SK_FNRR_M_04",
-      "value": "Deals Ice Dmg (L) to targets within area around self & chance of inflicting Paralysis for 3 turns."
+      "value": "Deals Ice Magic Dmg (L) to targets within area around self & chance of inflicting Paralysis for 3 turns."
     },
     {
       "key": "SK_TITN_ATK",
@@ -3745,6 +4277,22 @@
       "value": "Deals Dmg (L) to targets within range & chance of inflicting Immobilize for 3 turns."
     },
     {
+      "key": "SK_BLMN_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_BLMN_M_01",
+      "value": "Deals Dmg (L) to targets within range based on caster's MAG stat."
+    },
+    {
+      "key": "SK_BLMN_M_02",
+      "value": "Deals Dmg to targets within area around self based on caster's MAG stat & chance of inflicting Doom."
+    },
+    {
+      "key": "SK_BLMN_M_03",
+      "value": "Counters Magic Attacks"
+    },
+    {
       "key": "SK_BHMT_ATK_02",
       "value": ""
     },
@@ -3759,6 +4307,38 @@
     {
       "key": "SK_BHMT_M_03_02",
       "value": "Deals Dmg (XL) to target."
+    },
+    {
+      "key": "SK_AGON_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_AGON_M_01",
+      "value": "Deals Dmg (S) to targets within range."
+    },
+    {
+      "key": "SK_AGON_M_02",
+      "value": "Deals Dmg (Max) to target."
+    },
+    {
+      "key": "SK_AGON_M_03",
+      "value": "Deals Dmg (L) to targets within area around self & chance of inflicting Paralysis for 3 turns."
+    },
+    {
+      "key": "SK_AGON_M_04",
+      "value": "Significantly raises own ATK/MAG for 3 turns & significantly lowers Evasion Rate for 3 turns."
+    },
+    {
+      "key": "SK_AGON_M_05",
+      "value": "Significantly raises own DEF/SPR for 3 turns."
+    },
+    {
+      "key": "SK_AGON_M_06",
+      "value": "Lowers own ATK/MAG/DEF/SPR for 5 turns & bestows Quicken (stackable up to 3 times)."
+    },
+    {
+      "key": "SK_AGON_R_01",
+      "value": "High chance of Counterattack when taking Dmg & chance of inflicting Stop on target."
     },
     {
       "key": "SK_TNBR_ATK",
@@ -3783,6 +4363,26 @@
     {
       "key": "SK_TNBR_M_04_R",
       "value": "Deals DMG to target based on number of killed allies & Guaranteed Hit."
+    },
+    {
+      "key": "SK_CHCB2_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_CHCB2_M_01",
+      "value": "Deals Dmg (M) to targets within range & chance of 1-panel Knockback."
+    },
+    {
+      "key": "SK_CHCB2_M_02",
+      "value": "Recovers a set percentage of HP of allies within area around self & removes status ailments (Poison, Blind, Paralysis, Confusion, Stun) & raises DEF/AGI for 3 turns."
+    },
+    {
+      "key": "SK_CHCB2_M_03",
+      "value": "Deals 2-Hit Wind Dmg (L) to targets within range & chance of inflicting Stun for 1 turn."
+    },
+    {
+      "key": "SK_CHCB2_R_01",
+      "value": "Chance of Counterattack when taking Dmg."
     },
     {
       "key": "SK_LW_E_VIK_ATK",
@@ -3819,6 +4419,58 @@
     {
       "key": "SK_LW_E_VIK_S_3",
       "value": "Raises own ATK/DEF for 3 turns & lowers Evasion Rate."
+    },
+    {
+      "key": "SK_DMNW_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_DMNW_M_1",
+      "value": "Inflicts Petrify on target 3 turns after taking Magic Attack Dmg."
+    },
+    {
+      "key": "SK_DMNW_M_2",
+      "value": "Raises own DEF and SPR for 3 turns."
+    },
+    {
+      "key": "SK_DMNW_M_3",
+      "value": "Deals Dmg (L) to targets within range."
+    },
+    {
+      "key": "SK_DMNW_M_4_1",
+      "value": "Causes Knockback & deals fixed Dmg (250)."
+    },
+    {
+      "key": "SK_DMNW_M_4_2",
+      "value": "Causes Knockback & deals fixed Dmg (500)."
+    },
+    {
+      "key": "SK_DMNW_M_4_3",
+      "value": "Causes Knockback & deals fixed Dmg (750)."
+    },
+    {
+      "key": "SK_DMNW_M_5",
+      "value": "Inflicts Instant Death on target."
+    },
+    {
+      "key": "SK_GLBZ_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_GLBZ_M_1",
+      "value": "Deals Non-Elemental Dmg (Min) to target based on caster's MAG stat & chance of inflicting Poison for 3 turns."
+    },
+    {
+      "key": "SK_GLBZ_M_2",
+      "value": "Deals Non-Elemental Dmg (S) to target based on caster's MAG stat & absorbs Dmg dealt."
+    },
+    {
+      "key": "SK_GLBZ_M_3",
+      "value": "Deals Dmg (L) to target & lowers SPR for 3 turns."
+    },
+    {
+      "key": "SK_GLBZ_M_4",
+      "value": "Deals Dmg (L) to targets within range & lowers SPR for 3 turns."
     },
     {
       "key": "SK_LB_LW_MONT",
@@ -4017,6 +4669,34 @@
       "value": "Raises own DEF Piercing Rate, then deals Dmg (L) to targets within range."
     },
     {
+      "key": "SK_LB_LW_RYER_01",
+      "value": "Removes all Buffs from target, then deals Dmg (L) based on caster's MAG stat & increases potency against targets whose unit Lv. is a multiple of 3."
+    },
+    {
+      "key": "SK_LB_LW_RIRY_01",
+      "value": "Deals Dmg (M) to targets within range based on caster's MAG stat & chance of inflicting Poison for 3 turns."
+    },
+    {
+      "key": "SK_LB_LW_HWLT",
+      "value": "Lowers target's Wind Res for 3 turns, then deals Dmg (L) based on caster's MAG stat."
+    },
+    {
+      "key": "SK_LB_LW_SCAL",
+      "value": "Deals 3-Hit Dmg (L) to targets within range based on caster's MAG stat & chance of inflicting Paralysis for 3 turns."
+    },
+    {
+      "key": "SK_LB_FF04_CECL",
+      "value": "Deals Dmg (L) to target & chance of inflicting Stun for 1 turn."
+    },
+    {
+      "key": "SK_LB_FF04_ROSA",
+      "value": "Recovers HP (L) of allies within area around self & recovers AP of allies excluding self."
+    },
+    {
+      "key": "SK_LB_FF04_KAIN",
+      "value": "Deals Dmg (L) to targets within range & chance of inflicting Slow for 3 turns."
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Evokes Ifrit, deals Fire Dmg (Max) to targets within range & activates temporary Map Effects (raises allies' ATK/MAG & significantly lowers enemies' Fire Res)."
     },
@@ -4113,6 +4793,22 @@
       "value": "Evokes Titan, deals Earth Dmg (L) to targets within range & chance of inflicting Immobilize for 3 turns & activates temporary Map Effects (raises allies' ATK/MAG & significantly lowers enemies' Earth Res)."
     },
     {
+      "key": "SK_SMN_BLMN",
+      "value": "Evokes Bloody Moon, deals Dark Dmg (L) to targets within area around self & chance of inflicting Doom."
+    },
+    {
+      "key": "SK_SMN_AGON",
+      "value": "Evokes Aigaion, deals Lightning Dmg (L) to targets within area around self & chance of inflicting Paralysis for 3 turns."
+    },
+    {
+      "key": "SK_SMN_CHCB_02",
+      "value": "Evokes Chocobo, recovers a set percentage of HP of allies within range & removes status ailments (Poison, Blind, Paralysis, Confusion, Stun) & raises DEF/AGI for 3 turns."
+    },
+    {
+      "key": "SK_SMN_DMNW",
+      "value": "Evokes Demon Wall, deals Non-Elemental Dmg (L) to targets within range & activates temporary Map Effects (raises allies' ATK & significantly lowers enemies' Dark Res)."
+    },
+    {
       "key": "SK_US_POTION",
       "value": "Recovers ally's HP (S)."
     },
@@ -4166,7 +4862,7 @@
     },
     {
       "key": "SK_US_GOLDNEEDLE",
-      "value": "Removes Petrify from ally."
+      "value": "Removes Petrify and Gradual Petrify from ally."
     },
     {
       "key": "SK_US_REMEDY",
@@ -4178,7 +4874,7 @@
     },
     {
       "key": "SK_US_HOLYTORCH",
-      "value": "Removes Haste, Regen, Protect, Shell, Float from enemy."
+      "value": "Removes Haste, Regen, Protect, Shell, Float, and Reraise from enemy."
     },
     {
       "key": "SK_US_HERODRINK",
@@ -4533,6 +5229,42 @@
       "value": "Critical Hit Rate +50"
     },
     {
+      "key": "SK_MA_LW_RYER_01",
+      "value": "Wind Unit Allies' Max HP +10%/Wind Attack +15, own Evasion Rate +10"
+    },
+    {
+      "key": "SK_MA_LW_RIRY_01",
+      "value": "Earth Unit Allies' Max HP +10%/Earth Attack +15, own Slash Res Piercing Rate +20"
+    },
+    {
+      "key": "SK_MA_LW_HWLT",
+      "value": "SPR Piercing Rate +20, MAG +10%"
+    },
+    {
+      "key": "SK_MA_LW_SCAL",
+      "value": "MAG +20%, Activation Time -20%"
+    },
+    {
+      "key": "SK_MA_LW_MRAL",
+      "value": "Hate +5, Area Attack Res +15"
+    },
+    {
+      "key": "SK_MA_LW_CHEL",
+      "value": "AGI +10%, Activation Time -25%"
+    },
+    {
+      "key": "SK_MA_FF4_CECL",
+      "value": "Light Attack +15"
+    },
+    {
+      "key": "SK_MA_FF4_ROSA",
+      "value": "MAG +10%, SPR +10"
+    },
+    {
+      "key": "SK_MA_FF4_KAIN",
+      "value": "DEF Piercing Rate +20, Accuracy Rate +10"
+    },
+    {
       "key": "SK_LW_SLASH_1",
       "value": "Slash ATK +2"
     },
@@ -4603,6 +5335,26 @@
     {
       "key": "SK_LW_AVOID_5_SSR",
       "value": "Evasion Rate +8"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_1",
+      "value": "Magic Attack Res Piercing Rate +1"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_2",
+      "value": "Magic Attack Res Piercing Rate +2"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_3",
+      "value": "Magic Attack Res Piercing Rate +4"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_4",
+      "value": "Magic Attack Res Piercing Rate +6"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_5",
+      "value": "Magic Attack Res Piercing Rate +10"
     },
     {
       "key": "SK_LW_SWO_003_1",
@@ -4761,6 +5513,14 @@
       "value": ""
     },
     {
+      "key": "SK_LW_RNG_007_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_RNG_007_5",
+      "value": ""
+    },
+    {
       "key": "SK_ACC_LW_MONT_1_1",
       "value": "Raises AGI of allies within range for 3 turns (stackable up to 2 times)."
     },
@@ -4802,7 +5562,7 @@
     },
     {
       "key": "SK_FTW_LW_AYKA_1_1",
-      "value": "Bestows a barrier on allies within range that reduces Dmg for 3 turns & removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, and Petrify."
+      "value": "Bestows a barrier on allies within range that reduces Dmg for 3 turns & removes Poison, Blind, Sleep, Silence, Paralysis, Confusion, Petrify, and Gradual Petrify."
     },
     {
       "key": "SK_HLM_LW_GLMS_1_1",
@@ -4899,6 +5659,42 @@
     {
       "key": "SK_BOW_LW_RRIR_1_1",
       "value": ""
+    },
+    {
+      "key": "SK_ACC_LW_RIRY_01_1_1",
+      "value": "Bestows Reraise on self, allows unit to automatically recover from KO status once per battle (HP recovery (Min))"
+    },
+    {
+      "key": "SK_ACC_LW_RYER_01_1_1",
+      "value": "Significantly raises own MAG for 3 turns & raises Accuracy Rate & lowers DEF/SPR."
+    },
+    {
+      "key": "SK_CLT_LW_HWLT_1_1",
+      "value": "Consumes own HP to evade all Phys Attacks for 1 turn."
+    },
+    {
+      "key": "SK_ACC_LW_SCAL_1_1",
+      "value": "Consumes own HP to significantly raise ally's MAG for 3 turns."
+    },
+    {
+      "key": "SK_SWO_LW_MRAL_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ROD_LW_CHEL_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ACC_FF4_CECL_1_1",
+      "value": "Raises ATK/MAG of allies within range for 3 turns & raises Bravery."
+    },
+    {
+      "key": "SK_ACC_FF4_ROSA_1_1",
+      "value": "Raises own ATK/MAG for 3 turns."
+    },
+    {
+      "key": "SK_HLM_FF4_KAIN_1_1",
+      "value": "Raises own Move by 1 for 3 turns & bestows Haste on self."
     },
     {
       "key": "SK_ACC_LW_MONT_ARENA",
@@ -5697,11 +6493,263 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_VKTR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BLMN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BLMN_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GUREN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GUREN_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHCB_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHCB_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TITN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TITN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TITN_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TITN_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TITN_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TITN_P2MAX",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_KING_P",
       "value": ""
     },
     {
       "key": "SK_VC_LW_KING_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BLMN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BLMN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_AGON_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_AGON_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_AGON_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GUREN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GUREN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHCB_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHCB_PAW",
       "value": ""
     },
     {
@@ -6290,30 +7338,6 @@
     },
     {
       "key": "SK_VC_LW_ORDR_PAW",
-      "value": ""
-    },
-    {
-      "key": "SK_VC_LW_TITN_P",
-      "value": ""
-    },
-    {
-      "key": "SK_VC_LW_TITN_PAW",
-      "value": ""
-    },
-    {
-      "key": "SK_VC_LW_TITN_PMAX",
-      "value": ""
-    },
-    {
-      "key": "SK_GL_VC_LW_TITN_P2",
-      "value": ""
-    },
-    {
-      "key": "SK_GL_VC_LW_TITN_P2AW",
-      "value": ""
-    },
-    {
-      "key": "SK_GL_VC_LW_TITN_P2MAX",
       "value": ""
     },
     {
@@ -7037,6 +8061,10 @@
       "value": "Quest-balancing skill"
     },
     {
+      "key": "SK_BTL_PKILLER_MAN_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
       "key": "SK_BTL_KILLER_MAN_1-100_U",
       "value": "Quest-balancing skill"
     },
@@ -7085,6 +8113,10 @@
       "value": "Quest-balancing skill"
     },
     {
+      "key": "SK_BTL_SILENCE_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
       "key": "SK_BTL_TOAD_1-100_U",
       "value": "Quest-balancing skill"
     },
@@ -7093,11 +8125,35 @@
       "value": "Quest-balancing skill"
     },
     {
+      "key": "SK_BTL_DONMV_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
       "key": "SK_BTL_DONMV_1-100_D",
       "value": "Quest-balancing skill"
     },
     {
+      "key": "SK_BTL_STUN_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STUN_1-100_D",
+      "value": "Quest-balancing skill"
+    },
+    {
       "key": "SK_BTL_DEFPIERCE_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_DEFPIERCE_1-100_U_KISO",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_MDFPIERCE_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_MDFPIERCE_1-100_U_KISO",
       "value": "Quest-balancing skill"
     },
     {
@@ -7110,6 +8166,50 @@
     },
     {
       "key": "SK_BTL_INV_POISON",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_FIRE_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_ICE_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_WIND_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_SOIL_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_THUNDER_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_WATER_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_SHINE_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_DARK_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_STR_ELEMALL_1-100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_RESDB_DF_1_100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_RESDB_ATK_1_100_U",
       "value": "Quest-balancing skill"
     },
     {
@@ -7226,6 +8326,26 @@
     },
     {
       "key": "SK_GMK_ATK_KATA_2",
+      "value": "Gimmick Attack (Catapult Area)"
+    },
+    {
+      "key": "SK_GMK_ATK_KENZAN",
+      "value": "Gimmick Attack (Fixed Dmg)"
+    },
+    {
+      "key": "SK_GMK_ATK_CANN_1",
+      "value": "Gimmick Attack (Rundall Cannon Single Unit)"
+    },
+    {
+      "key": "SK_GMK_ATK_CANN_2",
+      "value": "Gimmick Attack (Rundall Cannon Area)"
+    },
+    {
+      "key": "SK_GMK_ATK_KATA_1_EN",
+      "value": "Gimmick Attack (Catapult Single Unit)"
+    },
+    {
+      "key": "SK_GMK_ATK_KATA_2_EN",
       "value": "Gimmick Attack (Catapult Area)"
     },
     {

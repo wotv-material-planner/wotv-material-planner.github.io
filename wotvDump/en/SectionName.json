@@ -105,6 +105,18 @@
       "value": "Part 1, Chapter 9, Scene 2"
     },
     {
+      "key": "SE_ST_010903",
+      "value": "Part 1, Chapter 9, Scene 3"
+    },
+    {
+      "key": "SE_ST_011001",
+      "value": "Part 1, Chapter 10, Scene 1"
+    },
+    {
+      "key": "SE_ST_011002",
+      "value": "Part 1, Chapter 10, Scene 2"
+    },
+    {
       "key": "SE_WD_010101",
       "value": "Lion's Great Forest"
     },
@@ -169,6 +181,34 @@
       "value": "Everna Snowfield"
     },
     {
+      "key": "SE_WD_010207",
+      "value": "Yuzyula Snow Plains"
+    },
+    {
+      "key": "SE_PTQ_0001",
+      "value": "Trials of Reckoning"
+    },
+    {
+      "key": "SE_PTQ_FF4_01",
+      "value": "FFIV Collaboration — Trials of Reckoning"
+    },
+    {
+      "key": "SE_EV_WAVE_001",
+      "value": "Wave Quest"
+    },
+    {
+      "key": "SE_EV_FF4_01_01",
+      "value": "FINAL FANTASY IV Event Quest"
+    },
+    {
+      "key": "SE_EV_FF4_01_EX",
+      "value": "FINAL FANTASY IV Quest [EX]"
+    },
+    {
+      "key": "SE_MU_FF4_01_EX",
+      "value": "FINAL FANTASY IV Quest [EX]"
+    },
+    {
       "key": "SE_SB_01",
       "value": "Beast's Den"
     },
@@ -203,6 +243,22 @@
     {
       "key": "SE_MU_SB_05",
       "value": "Ifrit Challenge"
+    },
+    {
+      "key": "SE_SB_06",
+      "value": "Fenrir Challenge"
+    },
+    {
+      "key": "SE_MU_SB_06",
+      "value": "Fenrir Challenge"
+    },
+    {
+      "key": "SE_CHAL_01",
+      "value": "Challenge Quest"
+    },
+    {
+      "key": "SE_CHAL_02",
+      "value": "Challenge Quest II"
     },
     {
       "key": "SE_EV_UNITEXP_01",
@@ -385,6 +441,18 @@
       "value": "[Multi] Gouga and Saiga: Part I [EX]"
     },
     {
+      "key": "SE_EV_06_01",
+      "value": "A Damsel in Distress"
+    },
+    {
+      "key": "SE_EV_06_EX_01",
+      "value": "A Damsel in Distress [EX]"
+    },
+    {
+      "key": "SE_MU_EV_06_EX",
+      "value": "[Multi] A Damsel in Distress [EX]"
+    },
+    {
       "key": "SE_EV_SBEXP_01",
       "value": "Magicite Reward Quest"
     },
@@ -501,26 +569,6 @@
       "value": "FINAL FANTASY TACTICS Part II Event Quest [EX]"
     },
     {
-      "key": "SE_EV_ART_SCR_00",
-      "value": "High Difficulty Secret Book Reward Quest"
-    },
-    {
-      "key": "SE_MU_EV_SCR_00",
-      "value": "[Multi] High Difficulty Secret Book Reward Quest"
-    },
-    {
-      "key": "SE_EV_ART_SCR_01",
-      "value": "High Difficulty Secret Book Reward Quest"
-    },
-    {
-      "key": "SE_MU_EV_SCR_01",
-      "value": "[Multi] High Difficulty Secret Book Reward Quest"
-    },
-    {
-      "key": "SE_EV_JP_001",
-      "value": "JP Reward Quest"
-    },
-    {
       "key": "SE_EV_ART_CRF_02",
       "value": "Brutal Difficulty Equipment Training Quest"
     },
@@ -545,12 +593,12 @@
       "value": "Equipment Training Quest"
     },
     {
-      "key": "SE_EV_ART_SCR_02",
-      "value": "High Difficulty Secret Book Reward Quest"
+      "key": "SE_EV_ART_CRF_05",
+      "value": "Equipment Training Quest"
     },
     {
-      "key": "SE_MU_EV_SCR_02",
-      "value": "[Multi] High Difficulty Secret Book Reward Quest"
+      "key": "SE_MU_ART_CRF_05",
+      "value": "Equipment Training Quest"
     },
     {
       "key": "SE_EV_BEGN_2001",
@@ -625,6 +673,34 @@
       "value": "FF EXVIUS Universe Quest"
     },
     {
+      "key": "SE_EV_ART_SCR_00",
+      "value": "High Difficulty Secret Book Reward Quest"
+    },
+    {
+      "key": "SE_MU_EV_SCR_00",
+      "value": "[Multi] High Difficulty Secret Book Reward Quest"
+    },
+    {
+      "key": "SE_EV_ART_SCR_01",
+      "value": "High Difficulty Secret Book Reward Quest"
+    },
+    {
+      "key": "SE_MU_EV_SCR_01",
+      "value": "[Multi] High Difficulty Secret Book Reward Quest"
+    },
+    {
+      "key": "SE_EV_ART_SCR_02",
+      "value": "High Difficulty Secret Book Reward Quest"
+    },
+    {
+      "key": "SE_MU_EV_SCR_02",
+      "value": "[Multi] High Difficulty Secret Book Reward Quest"
+    },
+    {
+      "key": "SE_EV_JP_001",
+      "value": "JP Reward Quest"
+    },
+    {
       "key": "SE_EV_NEWMAP_001",
       "value": "Mock Guild Battle"
     },
@@ -641,6 +717,14 @@
       "value": "Mock Guild Battle"
     },
     {
+      "key": "SE_EV_GL_NMAP_001",
+      "value": "Mock Guild Battle"
+    },
+    {
+      "key": "SE_EV_GL_NMAP_002",
+      "value": "Mock Guild Battle"
+    },
+    {
       "key": "SE_EV_FF1_01",
       "value": "FINAL FANTASY I Quest"
     },
@@ -651,10 +735,6 @@
     {
       "key": "SE_MU_FF1_01_EX",
       "value": "FINAL FANTASY I Quest [EX]"
-    },
-    {
-      "key": "SE_CHAL_01",
-      "value": "Challenge Quest"
     },
     {
       "key": "SE_EV_AW_HIGH_02",
@@ -709,8 +789,8 @@
       "value": "Six-Month Anniversary Countdown Quest"
     },
     {
-      "key": "SE_PTQ_0001",
-      "value": "Trials of Reckoning"
+      "key": "SE_EV_GL_TWCQ",
+      "value": "Porcelain Tower Launch Celebration Quest"
     }
   ]
 }

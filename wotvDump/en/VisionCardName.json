@@ -105,6 +105,22 @@
       "value": "Raging Earth, Titan"
     },
     {
+      "key": "VC_LW_VKTR",
+      "value": "Mask of Deceit"
+    },
+    {
+      "key": "VC_LW_HALL",
+      "value": "Exorcists "
+    },
+    {
+      "key": "VC_LW_AGON",
+      "value": "Steel-Plated Destruction, Aigaion"
+    },
+    {
+      "key": "VC_FF4_DMNW",
+      "value": "Demon Wall"
+    },
+    {
       "key": "VC_LW_IGNT",
       "value": "Metal Daemon, Iron Giant"
     },
@@ -203,6 +219,18 @@
     {
       "key": "VC_LW_KING",
       "value": "The Four Warring Lords"
+    },
+    {
+      "key": "VC_LW_BLMN",
+      "value": "Netherworldly Crimson Orb, Bloody Moon"
+    },
+    {
+      "key": "VC_LW_GUREN",
+      "value": "Chivalrous Outlaws, «Rubeus»"
+    },
+    {
+      "key": "VC_LW_CHCB",
+      "value": "Beloved Sidekick, Chocobo"
     },
     {
       "key": "VC_LW_CACT",

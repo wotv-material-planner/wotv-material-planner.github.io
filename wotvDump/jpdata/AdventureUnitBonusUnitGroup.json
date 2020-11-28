@@ -1969,6 +1969,256 @@
           "iname": "UN_LW_P_BYLO"
         }
       ]
+    },
+    {
+      "iname": "UNIT_GROUP_179",
+      "units": [
+        {
+          "iname": "UN_LW_P_RIRY_01"
+        },
+        {
+          "iname": "UN_LW_P_CRIS"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_180",
+      "units": [
+        {
+          "iname": "UN_LW_P_RYER_01"
+        },
+        {
+          "iname": "UN_LW_P_RARD"
+        },
+        {
+          "iname": "UN_LW_P_ELSI"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_181",
+      "units": [
+        {
+          "iname": "UN_LW_P_STRN_01"
+        },
+        {
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "iname": "UN_LW_P_DRND"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_182",
+      "units": [
+        {
+          "iname": "UN_LW_P_MACR"
+        },
+        {
+          "iname": "UN_LW_P_MONT"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_183",
+      "units": [
+        {
+          "iname": "UN_LW_P_GABL"
+        },
+        {
+          "iname": "UN_LW_P_ELSR"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_184",
+      "units": [
+        {
+          "iname": "UN_LW_P_ROBB"
+        },
+        {
+          "iname": "UN_LW_P_ENBT"
+        },
+        {
+          "iname": "UN_LW_P_WHIS"
+        },
+        {
+          "iname": "UN_LW_P_VNLA"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_185",
+      "units": [
+        {
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "iname": "UN_LW_P_ZIZA"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_186",
+      "units": [
+        {
+          "iname": "UN_LW_P_RYER"
+        },
+        {
+          "iname": "UN_LW_P_PHBE"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_187",
+      "units": [
+        {
+          "iname": "UN_LW_P_GABL"
+        },
+        {
+          "iname": "UN_LW_P_ELSR"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_188",
+      "units": [
+        {
+          "iname": "UN_LW_P_ROBB"
+        },
+        {
+          "iname": "UN_LW_P_WHIS"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_189",
+      "units": [
+        {
+          "iname": "UN_LW_P_VSTR"
+        },
+        {
+          "iname": "UN_LW_P_RIRY"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_190",
+      "units": [
+        {
+          "iname": "UN_LW_P_RART"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_191",
+      "units": [
+        {
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "iname": "UN_FF10_P_YUNA"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_192",
+      "units": [
+        {
+          "iname": "UN_LW_P_GABL"
+        },
+        {
+          "iname": "UN_LW_P_ELSR"
+        },
+        {
+          "iname": "UN_LW_P_ELDE"
+        },
+        {
+          "iname": "UN_LW_P_STRN"
+        },
+        {
+          "iname": "UN_LW_P_MONT"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_193",
+      "units": [
+        {
+          "iname": "UN_LW_P_ROBB"
+        },
+        {
+          "iname": "UN_LW_P_ORDR"
+        },
+        {
+          "iname": "UN_LW_P_BYLO"
+        },
+        {
+          "iname": "UN_LW_P_RART"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_194",
+      "units": [
+        {
+          "iname": "UN_LW_P_MDNA"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_195",
+      "units": [
+        {
+          "iname": "UN_FF10_P_ARON"
+        },
+        {
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "iname": "UN_FF10_P_YUNA"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_196",
+      "units": [
+        {
+          "iname": "UN_LW_P_ZIZA"
+        },
+        {
+          "iname": "UN_LW_P_AILN"
+        },
+        {
+          "iname": "UN_LW_P_ZZAN"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_197",
+      "units": [
+        {
+          "iname": "UN_LW_P_LSWL"
+        },
+        {
+          "iname": "UN_LW_P_MDNA"
+        },
+        {
+          "iname": "UN_LW_P_VKTR"
+        },
+        {
+          "iname": "UN_LW_P_GRSR"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_198",
+      "units": [
+        {
+          "iname": "UN_LW_P_ETRE"
+        }
+      ]
     }
   ]
 }

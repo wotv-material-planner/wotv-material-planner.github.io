@@ -203,6 +203,42 @@
       "begin_at": "2020/10/14",
       "end_at": "2020/10/20 17:59:59",
       "charge_bonus_id": "CHARGE_BONUS_GL_0028"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_30",
+      "begin_at": "2020/10/20 18:30:00",
+      "end_at": "2020/10/27 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0029"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_31",
+      "begin_at": "2020/10/28",
+      "end_at": "2020/11/03 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0030"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_32",
+      "begin_at": "2020/11/04",
+      "end_at": "2020/11/10 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0031"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_33",
+      "begin_at": "2020/11/11",
+      "end_at": "2020/11/17 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0032"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_34",
+      "begin_at": "2020/11/17 18:30:00",
+      "end_at": "2020/11/24 21:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0033"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_35",
+      "begin_at": "2020/11/24 22:30:00",
+      "end_at": "2020/12/01 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0034"
     }
   ]
 }

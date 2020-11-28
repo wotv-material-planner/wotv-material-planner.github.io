@@ -13,6 +13,10 @@
       "value": "Crystal Effect"
     },
     {
+      "key": "SK_CRYSTAL_04",
+      "value": "Crystal Effect"
+    },
+    {
       "key": "SK_LW_WAR_ATK",
       "value": "Normal Attack"
     },
@@ -2509,6 +2513,54 @@
       "value": "DEF Up Lv. 1"
     },
     {
+      "key": "SK_LW_MST_M_1_SUB",
+      "value": "Energy Buster"
+    },
+    {
+      "key": "SK_LW_MST_M_2_SUB",
+      "value": "Shield of Staves"
+    },
+    {
+      "key": "SK_LW_MST_M_3_SUB",
+      "value": "Faith Rising"
+    },
+    {
+      "key": "SK_LW_MST_FIRE_S_1",
+      "value": "Fire Staff"
+    },
+    {
+      "key": "SK_LW_MST_ICE_S_1",
+      "value": "Ice Staff"
+    },
+    {
+      "key": "SK_LW_MST_WIND_S_1",
+      "value": "Wind Staff"
+    },
+    {
+      "key": "SK_LW_MST_THUN_S_1",
+      "value": "Lightning Staff"
+    },
+    {
+      "key": "SK_LW_MST_WATR_S_1",
+      "value": "Water Staff"
+    },
+    {
+      "key": "SK_LW_MST_SOIL_S_1",
+      "value": "Earth Staff"
+    },
+    {
+      "key": "SK_LW_MST_SHIN_S_1",
+      "value": "Light Staff"
+    },
+    {
+      "key": "SK_LW_MST_DARK_S_1",
+      "value": "Dark Staff"
+    },
+    {
+      "key": "SK_LW_MST_S_2",
+      "value": "Winged Staff"
+    },
+    {
       "key": "SK_FFT_AGRA_ATK",
       "value": "Normal Attack"
     },
@@ -2665,12 +2717,68 @@
       "value": "Height 2 Holy"
     },
     {
+      "key": "SK_LW_CAL_FIRE_M_2",
+      "value": "Level 4 Firaga"
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_M_2_B",
+      "value": "Level 3 Firaga"
+    },
+    {
+      "key": "SK_LW_CAL_ICE_M_2",
+      "value": "Level 4 Blizzaga"
+    },
+    {
+      "key": "SK_LW_CAL_ICE_M_2_B",
+      "value": "Level 3 Blizzaga"
+    },
+    {
+      "key": "SK_LW_CAL_WIND_M_2",
+      "value": "Level 4 Aeroga"
+    },
+    {
+      "key": "SK_LW_CAL_WIND_M_2_B",
+      "value": "Level 3 Aeroga"
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_M_2",
+      "value": "Level 4 Stonega"
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_M_2_B",
+      "value": "Level 3 Stonega"
+    },
+    {
+      "key": "SK_LW_CAL_THUN_M_2",
+      "value": "Level 4 Thundaga"
+    },
+    {
+      "key": "SK_LW_CAL_THUN_M_2_B",
+      "value": "Level 3 Thundaga"
+    },
+    {
       "key": "SK_LW_CAL_WATER_M_2",
       "value": "Level 4 Waterga"
     },
     {
       "key": "SK_LW_CAL_WATER_M_2_B",
       "value": "Level 3 Waterga"
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_M_2",
+      "value": "Level 4 Banishga"
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_M_2_B",
+      "value": "Level 3 Banishga"
+    },
+    {
+      "key": "SK_LW_CAL_DARK_M_2",
+      "value": "Level 4 Darkga"
+    },
+    {
+      "key": "SK_LW_CAL_DARK_M_2_B",
+      "value": "Level 3 Darkga"
     },
     {
       "key": "SK_LW_CAL_M_3",
@@ -2681,8 +2789,36 @@
       "value": "Height 2 Cura"
     },
     {
+      "key": "SK_LW_CAL_FIRE_S_1_INIT",
+      "value": "Height-Based Fire"
+    },
+    {
+      "key": "SK_LW_CAL_ICE_S_1_INIT",
+      "value": "Height-Based Blizzard"
+    },
+    {
+      "key": "SK_LW_CAL_WIND_S_1_INIT",
+      "value": "Height-Based Aero"
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_S_1_INIT",
+      "value": "Height-Based Stone"
+    },
+    {
+      "key": "SK_LW_CAL_THUN_S_1_INIT",
+      "value": "Height-Based Thunder"
+    },
+    {
       "key": "SK_LW_CAL_WATER_S_1_INIT",
       "value": "Height-Based Water"
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_S_1_INIT",
+      "value": "Height-Based Banish"
+    },
+    {
+      "key": "SK_LW_CAL_DARK_S_1_INIT",
+      "value": "Height-Based Dark"
     },
     {
       "key": "SK_LW_CAL_S_2_INIT",
@@ -2697,12 +2833,68 @@
       "value": "Height 2 Disable"
     },
     {
+      "key": "SK_LW_CAL_FIRE_S_4",
+      "value": "Level 4 Fira"
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_S_4_B",
+      "value": "Level 3 Fira"
+    },
+    {
+      "key": "SK_LW_CAL_ICE_S_4",
+      "value": "Level 4 Blizzara"
+    },
+    {
+      "key": "SK_LW_CAL_ICE_S_4_B",
+      "value": "Level 3 Blizzara"
+    },
+    {
+      "key": "SK_LW_CAL_WIND_S_4",
+      "value": "Level 4 Aerora"
+    },
+    {
+      "key": "SK_LW_CAL_WIND_S_4_B",
+      "value": "Level 3 Aerora"
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_S_4",
+      "value": "Level 4 Stonera"
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_S_4_B",
+      "value": "Level 3 Stonera"
+    },
+    {
+      "key": "SK_LW_CAL_THUN_S_4",
+      "value": "Level 4 Thundara"
+    },
+    {
+      "key": "SK_LW_CAL_THUN_S_4_B",
+      "value": "Level 3 Thundara"
+    },
+    {
       "key": "SK_LW_CAL_WATER_S_4",
       "value": "Level 4 Watera"
     },
     {
       "key": "SK_LW_CAL_WATER_S_4_B",
       "value": "Level 3 Watera"
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_S_4",
+      "value": "Level 4 Banishra"
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_S_4_B",
+      "value": "Level 3 Banishra"
+    },
+    {
+      "key": "SK_LW_CAL_DARK_S_4",
+      "value": "Level 4 Darkra"
+    },
+    {
+      "key": "SK_LW_CAL_DARK_S_4_B",
+      "value": "Level 3 Darkra"
     },
     {
       "key": "SK_LW_CAL_S_5",
@@ -2719,6 +2911,122 @@
     {
       "key": "SK_LW_CAL_P_2",
       "value": "Level 4 to Level 3"
+    },
+    {
+      "key": "SK_LW_CAL_M_1_SUB",
+      "value": "Height 3 Holy"
+    },
+    {
+      "key": "SK_LW_CAL_M_1_B_SUB",
+      "value": "Height 2 Holy"
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_M_2_SUB",
+      "value": "Level 4 Firaga"
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_M_2_B_SUB",
+      "value": "Level 3 Firaga"
+    },
+    {
+      "key": "SK_LW_CAL_ICE_M_2_SUB",
+      "value": "Level 4 Blizzaga"
+    },
+    {
+      "key": "SK_LW_CAL_ICE_M_2_B_SUB",
+      "value": "Level 3 Blizzaga"
+    },
+    {
+      "key": "SK_LW_CAL_WIND_M_2_SUB",
+      "value": "Level 4 Aeroga"
+    },
+    {
+      "key": "SK_LW_CAL_WIND_M_2_B_SUB",
+      "value": "Level 3 Aeroga"
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_M_2_SUB",
+      "value": "Level 4 Stonega"
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_M_2_B_SUB",
+      "value": "Level 3 Stonega"
+    },
+    {
+      "key": "SK_LW_CAL_THUN_M_2_SUB",
+      "value": "Level 4 Thundaga"
+    },
+    {
+      "key": "SK_LW_CAL_THUN_M_2_B_SUB",
+      "value": "Level 3 Thundaga"
+    },
+    {
+      "key": "SK_LW_CAL_WATER_M_2_SUB",
+      "value": "Level 4 Waterga"
+    },
+    {
+      "key": "SK_LW_CAL_WATER_M_2_B_SUB",
+      "value": "Level 3 Waterga"
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_M_2_SUB",
+      "value": "Level 4 Banishga"
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_M_2_B_SUB",
+      "value": "Level 3 Banishga"
+    },
+    {
+      "key": "SK_LW_CAL_DARK_M_2_SUB",
+      "value": "Level 4 Darkga"
+    },
+    {
+      "key": "SK_LW_CAL_DARK_M_2_B_SUB",
+      "value": "Level 3 Darkga"
+    },
+    {
+      "key": "SK_LW_CAL_M_3_SUB",
+      "value": "Height 3 Cura"
+    },
+    {
+      "key": "SK_LW_CAL_M_3_B_SUB",
+      "value": "Height 2 Cura"
+    },
+    {
+      "key": "SK_LW_CAL_FIRE_S_1",
+      "value": "Height-Based Fire"
+    },
+    {
+      "key": "SK_LW_CAL_ICE_S_1",
+      "value": "Height-Based Blizzard"
+    },
+    {
+      "key": "SK_LW_CAL_WIND_S_1",
+      "value": "Height-Based Aero"
+    },
+    {
+      "key": "SK_LW_CAL_SOIL_S_1",
+      "value": "Height-Based Stone"
+    },
+    {
+      "key": "SK_LW_CAL_THUN_S_1",
+      "value": "Height-Based Thunder"
+    },
+    {
+      "key": "SK_LW_CAL_WATER_S_1",
+      "value": "Height-Based Water"
+    },
+    {
+      "key": "SK_LW_CAL_SHIN_S_1",
+      "value": "Height-Based Banish"
+    },
+    {
+      "key": "SK_LW_CAL_DARK_S_1",
+      "value": "Height-Based Dark"
+    },
+    {
+      "key": "SK_LW_CAL_S_2",
+      "value": "Height-Based Cure"
     },
     {
       "key": "SK_LW_STRN_ATK",
@@ -2849,6 +3157,202 @@
       "value": "Tranquil Detachment"
     },
     {
+      "key": "SK_LW_MKN_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_MKN_WIND_M_1",
+      "value": "Aeroga Blade"
+    },
+    {
+      "key": "SK_LW_MKN_SOIL_M_1",
+      "value": "Stonega Blade"
+    },
+    {
+      "key": "SK_LW_MKN_M_2",
+      "value": "Hazard Slash"
+    },
+    {
+      "key": "SK_LW_MKN_M_3",
+      "value": "Soaring Blade"
+    },
+    {
+      "key": "SK_LW_MKN_WIND_S_1_INIT",
+      "value": "Aero Blade"
+    },
+    {
+      "key": "SK_LW_MKN_SOIL_S_1_INIT",
+      "value": "Stone Blade"
+    },
+    {
+      "key": "SK_LW_MKN_S_3_INIT",
+      "value": "Drain Evocation"
+    },
+    {
+      "key": "SK_LW_MKN_S_2",
+      "value": "Hazard Spell"
+    },
+    {
+      "key": "SK_LW_MKN_WIND_S_4",
+      "value": "Windbreak Rune"
+    },
+    {
+      "key": "SK_LW_MKN_SOIL_S_4",
+      "value": "Earthbreak Rune"
+    },
+    {
+      "key": "SK_LW_MKN_R_1",
+      "value": "Magic Commutation"
+    },
+    {
+      "key": "SK_LW_MKN_WIND_P_1",
+      "value": "Wind-Enhancing Rune"
+    },
+    {
+      "key": "SK_LW_MKN_SOIL_P_1",
+      "value": "Earth-Enhancing Rune"
+    },
+    {
+      "key": "SK_LW_MKN_P_2",
+      "value": "Sharp Mind"
+    },
+    {
+      "key": "SK_FF4_CECL_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_FF4_CECL_M_1",
+      "value": "Holy Knight's Blade: Attack"
+    },
+    {
+      "key": "SK_FF4_CECL_M_2",
+      "value": "Light's Protection"
+    },
+    {
+      "key": "SK_FF4_CECL_M_3",
+      "value": "Devoted Defense"
+    },
+    {
+      "key": "SK_FF4_CECL_S_1",
+      "value": "Speed of Light"
+    },
+    {
+      "key": "SK_FF4_CECL_S_3",
+      "value": "Shining Double"
+    },
+    {
+      "key": "SK_FF4_CECL_S_2",
+      "value": "Divine Aura"
+    },
+    {
+      "key": "SK_FF4_CECL_S_4",
+      "value": "Devoted Guard"
+    },
+    {
+      "key": "SK_FF4_CECL_S_5",
+      "value": "Lightbringer"
+    },
+    {
+      "key": "SK_FF4_CECL_R_1",
+      "value": "Overcomer of Ordeals"
+    },
+    {
+      "key": "SK_FF4_CECL_P_1",
+      "value": "Blood of the Lunarians"
+    },
+    {
+      "key": "SK_FF4_KAIN_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_FF4_KAIN_M_1",
+      "value": "Dragon Raid"
+    },
+    {
+      "key": "SK_FF4_KAIN_M_2",
+      "value": "Brain Piercer"
+    },
+    {
+      "key": "SK_FF4_KAIN_M_3",
+      "value": "Blood Lance"
+    },
+    {
+      "key": "SK_FF4_KAIN_S_1",
+      "value": "Piercing Lance"
+    },
+    {
+      "key": "SK_FF4_KAIN_S_2",
+      "value": "Then You've Nothing to Fear"
+    },
+    {
+      "key": "SK_FF4_KAIN_S_3",
+      "value": "Spear Swipe"
+    },
+    {
+      "key": "SK_FF4_KAIN_S_4",
+      "value": "Hazard Thrust"
+    },
+    {
+      "key": "SK_FF4_KAIN_R_1",
+      "value": "Counterattack Lance"
+    },
+    {
+      "key": "SK_FF4_KAIN_P_1",
+      "value": "Pride of the Dragoons"
+    },
+    {
+      "key": "SK_FF4_ROSA_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_FF4_ROSA_M_1",
+      "value": "Ice Crystal Arrow"
+    },
+    {
+      "key": "SK_FF4_ROSA_M_1_B",
+      "value": "Ice Crystal Arrow"
+    },
+    {
+      "key": "SK_FF4_ROSA_M_2",
+      "value": "Holy"
+    },
+    {
+      "key": "SK_FF4_ROSA_M_3",
+      "value": "Surefire Shot"
+    },
+    {
+      "key": "SK_FF4_ROSA_S_1",
+      "value": "Protect"
+    },
+    {
+      "key": "SK_FF4_ROSA_S_2",
+      "value": "Silencing Arrow"
+    },
+    {
+      "key": "SK_FF4_ROSA_S_3",
+      "value": "Pure Prayer"
+    },
+    {
+      "key": "SK_FF4_ROSA_S_4",
+      "value": "Pray"
+    },
+    {
+      "key": "SK_FF4_ROSA_S_5",
+      "value": "Hail Shower"
+    },
+    {
+      "key": "SK_FF4_ROSA_R_1",
+      "value": "Dodge"
+    },
+    {
+      "key": "SK_FF4_ROSA_P_1",
+      "value": "Deep Love"
+    },
+    {
+      "key": "SK_FF4_ROSA_P_2",
+      "value": "Blessing of Ice"
+    },
+    {
       "key": "SK_LW_TU_BLM_ICE",
       "value": "Blizzara"
     },
@@ -2862,7 +3366,7 @@
     },
     {
       "key": "SK_IFRT_M_03_01_100_U",
-      "value": ""
+      "value": "Boil"
     },
     {
       "key": "SK_LW_TU_WAR_M_4",
@@ -3205,6 +3709,14 @@
       "value": "Paralyzing Needle"
     },
     {
+      "key": "SK_CACT_M_01_CNTUP",
+      "value": "1,000 Needles"
+    },
+    {
+      "key": "SK_CACT_M_02_CNTUP",
+      "value": "10,000 Needles"
+    },
+    {
       "key": "SK_GLSP_ATK",
       "value": "Normal Attack"
     },
@@ -3218,6 +3730,14 @@
     },
     {
       "key": "SK_GLSP_R_01",
+      "value": "Turtle Shell"
+    },
+    {
+      "key": "SK_GLSP_M_02_TOW",
+      "value": "Flatten"
+    },
+    {
+      "key": "SK_GLSP_R_01_TOW",
       "value": "Turtle Shell"
     },
     {
@@ -3665,6 +4185,14 @@
       "value": "Unleash"
     },
     {
+      "key": "SK_THDG_R_01_RA",
+      "value": "Dragon Voice"
+    },
+    {
+      "key": "SK_THDG_M_01_RA",
+      "value": "Head Rush"
+    },
+    {
       "key": "SK_DABL_ATK",
       "value": "Normal Attack"
     },
@@ -3703,6 +4231,10 @@
     {
       "key": "SK_MDFY_M_04",
       "value": "Mind Blast"
+    },
+    {
+      "key": "SK_FNRR_M_04_2",
+      "value": "Mystic Roar"
     },
     {
       "key": "SK_FNRR_ATK",
@@ -3745,6 +4277,22 @@
       "value": "Gaia's Wrath"
     },
     {
+      "key": "SK_BLMN_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_BLMN_M_01",
+      "value": "Meteor Moon"
+    },
+    {
+      "key": "SK_BLMN_M_02",
+      "value": "Moon of Death's Sneer"
+    },
+    {
+      "key": "SK_BLMN_M_03",
+      "value": "Crimson Moon's Great Descent"
+    },
+    {
       "key": "SK_BHMT_ATK_02",
       "value": "Normal Attack"
     },
@@ -3759,6 +4307,38 @@
     {
       "key": "SK_BHMT_M_03_02",
       "value": "Heave"
+    },
+    {
+      "key": "SK_AGON_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_AGON_M_01",
+      "value": "Core Laser"
+    },
+    {
+      "key": "SK_AGON_M_02",
+      "value": "Arm Burst"
+    },
+    {
+      "key": "SK_AGON_M_03",
+      "value": "Electromagnetic Explosion"
+    },
+    {
+      "key": "SK_AGON_M_04",
+      "value": "Upper Voltage"
+    },
+    {
+      "key": "SK_AGON_M_05",
+      "value": "Metal Coat"
+    },
+    {
+      "key": "SK_AGON_M_06",
+      "value": "High Maneuverability Mode Switch"
+    },
+    {
+      "key": "SK_AGON_R_01",
+      "value": "Drill Arm"
     },
     {
       "key": "SK_TNBR_ATK",
@@ -3783,6 +4363,26 @@
     {
       "key": "SK_TNBR_M_04_R",
       "value": "Everyone's Grudge"
+    },
+    {
+      "key": "SK_CHCB2_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_CHCB2_M_01",
+      "value": "Chocobo Spin"
+    },
+    {
+      "key": "SK_CHCB2_M_02",
+      "value": "Grooming"
+    },
+    {
+      "key": "SK_CHCB2_M_03",
+      "value": "Chocobo Blitz"
+    },
+    {
+      "key": "SK_CHCB2_R_01",
+      "value": "Counter"
     },
     {
       "key": "SK_LW_E_VIK_ATK",
@@ -3819,6 +4419,58 @@
     {
       "key": "SK_LW_E_VIK_S_3",
       "value": "Rebellious Spirit"
+    },
+    {
+      "key": "SK_DMNW_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_DMNW_M_1",
+      "value": "Petrifying Gaze"
+    },
+    {
+      "key": "SK_DMNW_M_2",
+      "value": "Demonic Wall"
+    },
+    {
+      "key": "SK_DMNW_M_3",
+      "value": "Landslide Crash"
+    },
+    {
+      "key": "SK_DMNW_M_4_1",
+      "value": "Approach"
+    },
+    {
+      "key": "SK_DMNW_M_4_2",
+      "value": "Approach"
+    },
+    {
+      "key": "SK_DMNW_M_4_3",
+      "value": "Approach"
+    },
+    {
+      "key": "SK_DMNW_M_5",
+      "value": "Crash Down"
+    },
+    {
+      "key": "SK_GLBZ_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_GLBZ_M_1",
+      "value": "Bio"
+    },
+    {
+      "key": "SK_GLBZ_M_2",
+      "value": "Drain"
+    },
+    {
+      "key": "SK_GLBZ_M_3",
+      "value": "Black Fang"
+    },
+    {
+      "key": "SK_GLBZ_M_4",
+      "value": "Ebony Fang "
     },
     {
       "key": "SK_LB_LW_MONT",
@@ -4017,6 +4669,34 @@
       "value": "Azure Sky"
     },
     {
+      "key": "SK_LB_LW_RYER_01",
+      "value": "Animal Pumpkin"
+    },
+    {
+      "key": "SK_LB_LW_RIRY_01",
+      "value": "Creeping Terror"
+    },
+    {
+      "key": "SK_LB_LW_HWLT",
+      "value": "Stella Artis"
+    },
+    {
+      "key": "SK_LB_LW_SCAL",
+      "value": "Divine Thunder Summon"
+    },
+    {
+      "key": "SK_LB_FF04_CECL",
+      "value": "Sacred Rage"
+    },
+    {
+      "key": "SK_LB_FF04_ROSA",
+      "value": "Miracle of Two Moons"
+    },
+    {
+      "key": "SK_LB_FF04_KAIN",
+      "value": "Dragon's Bane"
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Hellfire"
     },
@@ -4111,6 +4791,22 @@
     {
       "key": "SK_SMN_TITN",
       "value": "Gaia's Wrath"
+    },
+    {
+      "key": "SK_SMN_BLMN",
+      "value": "Moon of Death's Sneer"
+    },
+    {
+      "key": "SK_SMN_AGON",
+      "value": "Electromagnetic Explosion"
+    },
+    {
+      "key": "SK_SMN_CHCB_02",
+      "value": "Chocobo's Healing"
+    },
+    {
+      "key": "SK_SMN_DMNW",
+      "value": "Landslide Crash"
     },
     {
       "key": "SK_US_POTION",
@@ -4533,6 +5229,42 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_RYER_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_RIRY_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_HWLT",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_SCAL",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_MRAL",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_CHEL",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FF4_CECL",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FF4_ROSA",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FF4_KAIN",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_LW_SLASH_1",
       "value": "Slash ATK +2"
     },
@@ -4603,6 +5335,26 @@
     {
       "key": "SK_LW_AVOID_5_SSR",
       "value": "Evasion Rate +8"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_1",
+      "value": "Magic Attack Res Piercing Rate +1"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_2",
+      "value": "Magic Attack Res Piercing Rate +2"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_3",
+      "value": "Magic Attack Res Piercing Rate +4"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_4",
+      "value": "Magic Attack Res Piercing Rate +6"
+    },
+    {
+      "key": "SK_LW_PIERCEMAGIC_5",
+      "value": "Magic Attack Res Piercing Rate +10"
     },
     {
       "key": "SK_LW_SWO_003_1",
@@ -4761,6 +5513,14 @@
       "value": "Purple Lightning (Ice Attack Up)"
     },
     {
+      "key": "SK_LW_RNG_007_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_RNG_007_5",
+      "value": ""
+    },
+    {
       "key": "SK_ACC_LW_MONT_1_1",
       "value": "Rallying Cry"
     },
@@ -4899,6 +5659,42 @@
     {
       "key": "SK_BOW_LW_RRIR_1_1",
       "value": ""
+    },
+    {
+      "key": "SK_ACC_LW_RIRY_01_1_1",
+      "value": "Zombie Transformation"
+    },
+    {
+      "key": "SK_ACC_LW_RYER_01_1_1",
+      "value": "Full Moon Style"
+    },
+    {
+      "key": "SK_CLT_LW_HWLT_1_1",
+      "value": "Fresh Blood Rune"
+    },
+    {
+      "key": "SK_ACC_LW_SCAL_1_1",
+      "value": "Magic Surge"
+    },
+    {
+      "key": "SK_SWO_LW_MRAL_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ROD_LW_CHEL_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ACC_FF4_CECL_1_1",
+      "value": "Holy Knight's Cheer"
+    },
+    {
+      "key": "SK_ACC_FF4_ROSA_1_1",
+      "value": "Elegant Archer"
+    },
+    {
+      "key": "SK_HLM_FF4_KAIN_1_1",
+      "value": "Dragoon's Pride"
     },
     {
       "key": "SK_ACC_LW_MONT_ARENA",
@@ -5697,11 +6493,263 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_VKTR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BLMN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BLMN_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GUREN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GUREN_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHCB_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHCB_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TITN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TITN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TITN_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TITN_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TITN_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TITN_P2MAX",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_KING_P",
       "value": ""
     },
     {
       "key": "SK_VC_LW_KING_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VKTR_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_VKTR_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BLMN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BLMN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_AGON_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_AGON_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_AGON_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_AGON_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF4_DMNW_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF4_DMNW_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GUREN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GUREN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHCB_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHCB_PAW",
       "value": ""
     },
     {
@@ -6290,30 +7338,6 @@
     },
     {
       "key": "SK_VC_LW_ORDR_PAW",
-      "value": ""
-    },
-    {
-      "key": "SK_VC_LW_TITN_P",
-      "value": ""
-    },
-    {
-      "key": "SK_VC_LW_TITN_PAW",
-      "value": ""
-    },
-    {
-      "key": "SK_VC_LW_TITN_PMAX",
-      "value": ""
-    },
-    {
-      "key": "SK_GL_VC_LW_TITN_P2",
-      "value": ""
-    },
-    {
-      "key": "SK_GL_VC_LW_TITN_P2AW",
-      "value": ""
-    },
-    {
-      "key": "SK_GL_VC_LW_TITN_P2MAX",
       "value": ""
     },
     {
@@ -7037,6 +8061,10 @@
       "value": "Area Attack Res 1-100 Down"
     },
     {
+      "key": "SK_BTL_PKILLER_MAN_1-100_U",
+      "value": "Man Eater Upon Phys Attack 1-100 Up"
+    },
+    {
       "key": "SK_BTL_KILLER_MAN_1-100_U",
       "value": "Man Eater 1-100 Up"
     },
@@ -7085,6 +8113,10 @@
       "value": "Status Ailment [Poison] Chance 1-100 Up"
     },
     {
+      "key": "SK_BTL_SILENCE_1-100_U",
+      "value": "Status Ailment [Silence] Chance 1-100 Up"
+    },
+    {
       "key": "SK_BTL_TOAD_1-100_U",
       "value": "Status Ailment [Toad] Chance 1-100 Up"
     },
@@ -7093,12 +8125,36 @@
       "value": "Status Ailment [Petrify] Chance 1-100 Up"
     },
     {
+      "key": "SK_BTL_DONMV_1-100_U",
+      "value": "Status Ailment [Immobilize] Chance 1-100 Up"
+    },
+    {
       "key": "SK_BTL_DONMV_1-100_D",
       "value": "Status Ailment [Immobilize] Chance 1-100 Down"
     },
     {
+      "key": "SK_BTL_STUN_1-100_U",
+      "value": "Status Ailment [Stun] Chance 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STUN_1-100_D",
+      "value": "Status Ailment [Stun] Chance 1-100 Down"
+    },
+    {
       "key": "SK_BTL_DEFPIERCE_1-100_U",
       "value": "DEF Piercing Rate 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_DEFPIERCE_1-100_U_KISO",
+      "value": "DEF Piercing Rate 1-100 Up (Base)"
+    },
+    {
+      "key": "SK_BTL_MDFPIERCE_1-100_U",
+      "value": "SPR Piercing Rate 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_MDFPIERCE_1-100_U_KISO",
+      "value": "SPR Piercing Rate 1-100 Up (Base)"
     },
     {
       "key": "SK_BTL_INV_DEATH",
@@ -7111,6 +8167,50 @@
     {
       "key": "SK_BTL_INV_POISON",
       "value": "Null Poison"
+    },
+    {
+      "key": "SK_BTL_STR_FIRE_1-100_U",
+      "value": "Fire Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STR_ICE_1-100_U",
+      "value": "Ice Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STR_WIND_1-100_U",
+      "value": "Wind Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STR_SOIL_1-100_U",
+      "value": "Earth Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STR_THUNDER_1-100_U",
+      "value": "Lightning Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STR_WATER_1-100_U",
+      "value": "Water Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STR_SHINE_1-100_U",
+      "value": "Light Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STR_DARK_1-100_U",
+      "value": "Dark Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_STR_ELEMALL_1-100_U",
+      "value": "All Elemental Attack Power 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_RESDB_DF_1_100_U",
+      "value": "DEF Debuff Res 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_RESDB_ATK_1_100_U",
+      "value": "ATK Debuff Res 1-100 Up"
     },
     {
       "key": "SK_BTL_JOB_THI_1_15_U",
@@ -7226,6 +8326,26 @@
     },
     {
       "key": "SK_GMK_ATK_KATA_2",
+      "value": "Stone Volley"
+    },
+    {
+      "key": "SK_GMK_ATK_KENZAN",
+      "value": "Damage Zone"
+    },
+    {
+      "key": "SK_GMK_ATK_CANN_1",
+      "value": "Bombardment"
+    },
+    {
+      "key": "SK_GMK_ATK_CANN_2",
+      "value": "Explosive Shell"
+    },
+    {
+      "key": "SK_GMK_ATK_KATA_1_EN",
+      "value": "Stone Throw"
+    },
+    {
+      "key": "SK_GMK_ATK_KATA_2_EN",
       "value": "Stone Volley"
     },
     {

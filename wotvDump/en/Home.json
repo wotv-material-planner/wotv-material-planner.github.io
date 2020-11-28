@@ -9,6 +9,14 @@
       "value": "Summon"
     },
     {
+      "key": "GLOBAL_MAIN_GACHA_COMEBACK",
+      "value": "<space=-2><line-height=18>Comeback<br><space=-2>Summon"
+    },
+    {
+      "key": "GLOBAL_MAIN_GACHA_BEGINNER",
+      "value": "Beginners Only"
+    },
+    {
       "key": "GLOBAL_MAIN_SHOP",
       "value": "Shop"
     },
@@ -45,12 +53,12 @@
       "value": "Commence Battle: From"
     },
     {
-      "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
-      "value": "Preparing Next Battle: Until"
-    },
-    {
       "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_AGGREGATE",
       "value": "Calculating..."
+    },
+    {
+      "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_PREPARATION",
+      "value": "Preparing Next Battle: Until"
     },
     {
       "key": "GLOBAL_MAIN_LIMITED_GUILDBATTLE_START_AT_FMT",
@@ -118,7 +126,7 @@
     },
     {
       "key": "GLOBAL_MAIN_EXPEDITION",
-      "value": "<line-height=18><size=20><cspace=0><space=-8>Chocobo<br><cspace=0><space=0><size=20>Expedition"
+      "value": "Chocobo<br>Expedition"
     },
     {
       "key": "GLOBAL_MAIN_BEGINNER",
@@ -130,7 +138,7 @@
     },
     {
       "key": "GLOBAL_MAIN_EXCHANGE",
-      "value": "<size=18>Item<br>Exchange Shop"
+      "value": "<space=-1em>Item<br>Exchange Shop"
     },
     {
       "key": "GLOBAL_MAIN_NEWS",
@@ -447,6 +455,26 @@
     {
       "key": "VIP_FUNCTIONTYPE_STAMINABUYNUMUP_ITEM",
       "value": "<color=#04EC04>+{0}</color> NRG restorations (Items)"
+    },
+    {
+      "key": "VIP_FUNCTIONTYPE_UNITEXPQUESTADDNUM",
+      "value": "Additional EXP Chamber attempts <color=#04EC04>+{0}</color>"
+    },
+    {
+      "key": "VIP_FUNCTIONTYPE_GILQUESTADDNUM",
+      "value": "Additional Gil Chamber Attempts <color=#04EC04>+{0}</color>"
+    },
+    {
+      "key": "VIP_FUNCTIONTYPE_AFEXPQUESTADDNUM",
+      "value": "Additional Ore Chamber attempts <color=#04EC04>+{0}</color>"
+    },
+    {
+      "key": "VIP_FUNCTIONTYPE_VCEXPQUESTADDNUM",
+      "value": "Additional Growth Egg Chamber attempts <color=#04EC04>+{0}</color> "
+    },
+    {
+      "key": "VIP_FUNCTIONTYPE_WAEXPQUESTADDNUM",
+      "value": "Additional Pot Chamber attempts <color=#04EC04>+{0}</color>"
     },
     {
       "key": "VIP_NOTICE_TITLE",
@@ -897,16 +925,20 @@
       "value": "<line-height=34>Consume the following items and awaken the unit?"
     },
     {
-      "key": "UNIT_INTIMACY_TITLE",
-      "value": "Affinity"
-    },
-    {
       "key": "UNIT_AWAKE_CHECK_BTN",
       "value": "Awaken"
     },
     {
+      "key": "UNIT_INTIMACY_TITLE",
+      "value": "Affinity"
+    },
+    {
       "key": "UNIT_INTIMACY_UNIT_TITLE",
       "value": "Unit"
+    },
+    {
+      "key": "UNIT_INTIMACY_NBEAST_TITLE",
+      "value": "Esper"
     },
     {
       "key": "UNIT_INTIMACY_DETAIL_BONUS_TITLE",
@@ -1069,6 +1101,10 @@
       "value": "Ability Set"
     },
     {
+      "key": "ABILITY_BOARD_BULK_ENHANCE",
+      "value": "Batch Enhance"
+    },
+    {
       "key": "ABILITY_BOARD_MAIN_COMMAND",
       "value": "Main Ability"
     },
@@ -1213,6 +1249,10 @@
       "value": "Ability has been set."
     },
     {
+      "key": "ABILITY_BOARD_BULK_ENHANCE_TITLE",
+      "value": "Ability Batch Enhance"
+    },
+    {
       "key": "ABILITY_ENHANCE_RESULT_TITLE",
       "value": "Ability Lv. Up"
     },
@@ -1293,6 +1333,10 @@
       "value": "{0} Dmg Effect"
     },
     {
+      "key": "ABILITY_ENHANCE_RESULT_EFFECT_OF",
+      "value": "{0}'s Effect"
+    },
+    {
       "key": "ABILITY_ENHANCE_RESULT_GAIN",
       "value": "{0} Acquisition Modifier"
     },
@@ -1315,6 +1359,10 @@
     {
       "key": "ABILITY_ENHANCE_RESULT_DEF_IGNORE",
       "value": "DEF Piercing Effect"
+    },
+    {
+      "key": "ABILITY_ENHANCE_RESULT_RESIST_IGNORE",
+      "value": "{0}"
     },
     {
       "key": "NETHERBEAST_SYNCHRO_TITLE",
@@ -1445,6 +1493,10 @@
       "value": "Drops"
     },
     {
+      "key": "QUEST_ICON_DROPAMOUNT_PIECE_TITLE",
+      "value": "Shards Acquired"
+    },
+    {
       "key": "QUEST_ICON_ARTIPROFICIENCY_TITLE",
       "value": "Equipment Proficiency<br>EXP"
     },
@@ -1455,6 +1507,10 @@
     {
       "key": "QUEST_ICON_DROPRATE_TITLE",
       "value": "Drop Rate"
+    },
+    {
+      "key": "QUEST_ICON_DROPRATE_PIECE_TITLE",
+      "value": "Shard Drop Rate"
     },
     {
       "key": "QUEST_ICON_EXPPLAYER_TITLE",
@@ -1481,6 +1537,14 @@
       "value": "{0}/{1}"
     },
     {
+      "key": "QUEST_ICON_HARD",
+      "value": "Hard"
+    },
+    {
+      "key": "QUEST_ICON_CHARACTER",
+      "value": "<space=-0.3em>Character"
+    },
+    {
       "key": "QUEST_SUBMENU_STORY",
       "value": "Story<br>Quests"
     },
@@ -1499,6 +1563,10 @@
     {
       "key": "QUEST_SUBMENU_HARD_AMOUNT",
       "value": "Today's Total Hard Quest Attempts"
+    },
+    {
+      "key": "QUEST_SUBMENU_HARD",
+      "value": "Hard Quest List"
     },
     {
       "key": "QUEST_CONDITION_PLAYER_LEVEL",
@@ -1695,6 +1763,46 @@
     {
       "key": "WORLDQUEST_AREA_ACHIEVEDALL_DESC",
       "value": "All quests in this area have been completed."
+    },
+    {
+      "key": "WORLDQUEST_HARDLIST_TITLE",
+      "value": "Hard Quest List"
+    },
+    {
+      "key": "WORLDQUEST_HARDLIST_DESC",
+      "value": "You can select a Quest from its icon."
+    },
+    {
+      "key": "WORLDQUEST_HARDLIST_BOOKMARK",
+      "value": "Bookmark"
+    },
+    {
+      "key": "WORLDQUEST_HARDLIST_BOOKMARKEDIT",
+      "value": "Edit Bookmarks"
+    },
+    {
+      "key": "WORLDQUEST_HARDLIST_SKIP",
+      "value": "Skip All"
+    },
+    {
+      "key": "WORLDQUEST_HARDLIST_NOLIST",
+      "value": "Hard Quest not found."
+    },
+    {
+      "key": "WORLDQUEST_HARDLIST_NOBOOKMARK",
+      "value": "Bookmark not registered."
+    },
+    {
+      "key": "WORLDQUEST_BOOKMARK_TITLE",
+      "value": "Edit Bookmarks"
+    },
+    {
+      "key": "WORLDQUEST_BOOKMARK_DESC",
+      "value": "Add or remove a Bookmark by tapping the icon."
+    },
+    {
+      "key": "WORLDQUEST_BOOKMARK_SAVE",
+      "value": "Save"
     },
     {
       "key": "DEFAULT_PARTY_NAME",
@@ -2041,6 +2149,10 @@
       "value": "Monthly"
     },
     {
+      "key": "SHOP_STEPUP",
+      "value": "STEP"
+    },
+    {
       "key": "SHOP_BUY_CHECK_TITLE",
       "value": "Confirm Purchase"
     },
@@ -2147,6 +2259,10 @@
     {
       "key": "SHOP_RANDOM_LIMIT",
       "value": "Open for 30 Minutes Only!"
+    },
+    {
+      "key": "SHOP_COMEBACK_OPEN",
+      "value": "Comeback Pack available now!"
     },
     {
       "key": "SHOP_MISSION_TAB_PRODUCT",
@@ -2323,6 +2439,18 @@
     {
       "key": "SHOP_BUY_ITEM_CAPACITY_OVER_MESSAGE",
       "value": "Cannot purchase as it would exceed your item carrying capacity."
+    },
+    {
+      "key": "SHOP_HOME_APPEAL_TITLE",
+      "value": "New Limited Items!"
+    },
+    {
+      "key": "SHOP_HOME_APPEAL_CONFIRM_TITLE",
+      "value": "This item has a time limit."
+    },
+    {
+      "key": "SHOP_HOME_APPEAL_CONFIRM_DESC",
+      "value": "You can find this item in the Special Shop.<br>Close the product information window?"
     },
     {
       "key": "EXCHANGE_UPPER",
@@ -2645,6 +2773,30 @@
       "value": "Turns on device vibration at the end of battles."
     },
     {
+      "key": "MENU_OPTION_VIBRATE_PROCEDURE",
+      "value": "Procedure"
+    },
+    {
+      "key": "MENU_OPTION_VIBRATE_END",
+      "value": "End Time"
+    },
+    {
+      "key": "MENU_OPTION_VIBRATE_TITLE_QUEST",
+      "value": "Quests<size=20> *Including Porcelain Tower"
+    },
+    {
+      "key": "MENU_OPTION_VIBRATE_TITLE_MULTI",
+      "value": "Multi/Raid"
+    },
+    {
+      "key": "MENU_OPTION_VIBRATE_TITLE_DUEL",
+      "value": "Duels<size=20> *Matches only"
+    },
+    {
+      "key": "MENU_OPTION_VIBRATE_TITLE_GUILDBATTLE",
+      "value": "Guild Battle"
+    },
+    {
       "key": "MENU_OPTION_NOTIFICATION_TITLE",
       "value": "Push Notifications"
     },
@@ -2714,6 +2866,10 @@
     },
     {
       "key": "MENU_PLAYER_ID",
+      "value": "Player ID"
+    },
+    {
+      "key": "MENU_PLAYER_SPACE_ID",
       "value": "Player ID"
     },
     {
@@ -2962,7 +3118,7 @@
     },
     {
       "key": "FRIEND_TOP_BTN_LAST_PLAY",
-      "value": "Last Played"
+      "value": "Latest login"
     },
     {
       "key": "FRIEND_TOP_TITLE_BY_TIME",
@@ -3202,7 +3358,7 @@
     },
     {
       "key": "FRIEND_SORT_TYPE_LOGIN_DATE",
-      "value": "Last Played"
+      "value": "Latest login"
     },
     {
       "key": "FRIEND_SORT_TYPE_PLAYER_RANK",
@@ -3291,6 +3447,18 @@
     {
       "key": "EXPEDITION_NOT_ACQUIRED_ITEM",
       "value": "Cannot acquire any more items."
+    },
+    {
+      "key": "EXPEDITION_AREA_CLOSED_TITLE",
+      "value": "This area is outside of the event period."
+    },
+    {
+      "key": "EXPEDITION_AREA_CLOSED",
+      "value": "The area is outside of the event period. Select a different area."
+    },
+    {
+      "key": "EXPEDITION_CONFIRM",
+      "value": "Confirm"
     },
     {
       "key": "EXPEDITION_BONUS_GIL",
@@ -3757,6 +3925,10 @@
       "value": "Room Leader"
     },
     {
+      "key": "MULTI_ROOM_RESET",
+      "value": "Disband Room <br>(Resettable)"
+    },
+    {
       "key": "MULTI_ROOM_DISSOLVE_CHECK_TITLE",
       "value": "Disband Room"
     },
@@ -3977,6 +4149,10 @@
       "value": "Could not sell as it would exceed your gil carrying capacity."
     },
     {
+      "key": "；武具装備リスト確認ダイアログ",
+      "value": ""
+    },
+    {
       "key": "ARTIFACT_EQUIPLIST_TITLE",
       "value": "An item that is currently equipped has been selected."
     },
@@ -4115,6 +4291,10 @@
     {
       "key": "MISSION_RECORD_GROWTH",
       "value": "Training"
+    },
+    {
+      "key": "MISSION_RECORD_OTHER",
+      "value": "Other"
     },
     {
       "key": "MISSION_RECORD_COMEBACK",
@@ -4377,6 +4557,10 @@
       "value": "Select Ticket"
     },
     {
+      "key": "GACHA_TICKET_OVER_DETAIL",
+      "value": "(Tap magnifying glass to view details)"
+    },
+    {
       "key": "GACHA_TICKET_TITLE",
       "value": "Ticket Summon"
     },
@@ -4421,6 +4605,10 @@
       "value": "Those already obtained will be converted into Limit Break and Awakening Materials."
     },
     {
+      "key": "GACHA_RESULT_REDRAW_DESC",
+      "value": "<line-height=1.2em>You cannot get your previous results back if you cancel or retry while summoning.<br>You cannot undo your final summon results."
+    },
+    {
       "key": "GACHA_RESULT_TAP_DESC",
       "value": "Tap the icon to view details"
     },
@@ -4455,6 +4643,18 @@
     {
       "key": "GACHA_RESULT_NEW_BONUS",
       "value": "First-Time Bonus"
+    },
+    {
+      "key": "GACHA_RESULT_REDRAW_CHECK_TITLE",
+      "value": "Retry Summon"
+    },
+    {
+      "key": "GACHA_RESULT_REDRAW_CHECK_DESC",
+      "value": "The summon will be redone.<br>Proceed?"
+    },
+    {
+      "key": "GACHA_RESULT_REDRAW_DECIDE_DESC",
+      "value": "Confirm the Retry Summon?"
     },
     {
       "key": "GACHA_BONUS_TITLE",
@@ -4565,6 +4765,10 @@
       "value": "Rewards"
     },
     {
+      "key": "RAID_PASS",
+      "value": "Password Entry"
+    },
+    {
       "key": "RAID_REWARD",
       "value": "Claim Rewards"
     },
@@ -4607,6 +4811,14 @@
     {
       "key": "RAID_BP_NOT_ZERO_DESC",
       "value": "Raid orbs can only be restored when you have 0 remaining."
+    },
+    {
+      "key": "RAID_STOCK",
+      "value": "Encounter"
+    },
+    {
+      "key": "RAID_STOCK_SHORT",
+      "value": "Encounter"
     },
     {
       "key": "RAID_VALUE_RANK",
@@ -5117,6 +5329,14 @@
       "value": "Duration"
     },
     {
+      "key": "LOGIN_BONUS_TODAY_REWARD",
+      "value": "Today's Reward"
+    },
+    {
+      "key": "LOGIN_BONUS_NEXT_REWARD",
+      "value": "Tomorrow's Reward"
+    },
+    {
       "key": "LOGIN_CONTINUOUS_DAYS",
       "value": "Day #{0}"
     },
@@ -5445,6 +5665,10 @@
       "value": "Matching could not be completed."
     },
     {
+      "key": "；マッチ - フレンドマッチ",
+      "value": ""
+    },
+    {
       "key": "MATCH_MAKEROOM_WATCHING",
       "value": "Spectate"
     },
@@ -5637,6 +5861,10 @@
       "value": "Rank {0} and up"
     },
     {
+      "key": "CLASSMATCH_RANKING_TEXT3",
+      "value": "Rank {0}"
+    },
+    {
       "key": "CLASSMATCH_SEASON_NOT_JOINING_TITLE",
       "value": "No Ranking Data"
     },
@@ -5774,7 +6002,7 @@
     },
     {
       "key": "CLASS_EFFECT_PROMBATTLE",
-      "value": "Promotion Match Inrush"
+      "value": "Promotion Match Incoming"
     },
     {
       "key": "CLASS_EFFECT_CLASSUP",
@@ -5795,6 +6023,22 @@
     {
       "key": "CLASS_EFFECT_RANKING",
       "value": "Ranking"
+    },
+    {
+      "key": "CLASSMATCH_SCHEDULE_TITLE",
+      "value": "Schedule"
+    },
+    {
+      "key": "CLASSMATCH_SCHEDULE_SEASON",
+      "value": "Season Duration"
+    },
+    {
+      "key": "CLASSMATCH_SCHEDULE_BATTLE_TITLE",
+      "value": "Battle Period"
+    },
+    {
+      "key": "CLASSMATCH_SCHEDULE_TIMES_TITLE",
+      "value": "Time Slot"
     },
     {
       "key": "PVP_TOP_ARENA",
@@ -6470,7 +6714,7 @@
     },
     {
       "key": "GUILD_MEMBER_MANAGE_SORT_LASTPLAY",
-      "value": "Last Played"
+      "value": "Latest login"
     },
     {
       "key": "GUILD_MEMBER_MANAGE_SORT_RANK",
@@ -7113,12 +7357,20 @@
       "value": "MM/dd, HH:mm"
     },
     {
+      "key": "GUILD_BATTLE_EXERCISE",
+      "value": "Mock Battle"
+    },
+    {
+      "key": "GUILD_BATTLE_EXERCISE_DESC",
+      "value": "Commence Mock Battle with Defense Party set by Guild members.<br>No NRG will be consumed, nor will your stats change during a Mock Battle."
+    },
+    {
       "key": "GUILD_BATTLE_DEFFENCE_SETTING",
       "value": "Defense Member Settings"
     },
     {
       "key": "GUILD_BATTLE_DEFFENCE_DESC",
-      "value": "<line-height=28>Can only be controlled by a Leader/Sub Leader. <br>Defensive guild members will be decided according to your priority settings."
+      "value": "Can only be controlled by a Leader/Sub Leader. <br>Defensive guild members will be decided according to your priority settings."
     },
     {
       "key": "GUILD_BATTLE_ENTRY_TITLE",
@@ -7185,6 +7437,38 @@
       "value": "Attack limit reached<br>for this Guild Battle."
     },
     {
+      "key": "GUILD_BATTLE_NOATTACK2_DIALOG_TITLE",
+      "value": "Cannot Attempt"
+    },
+    {
+      "key": "GUILD_BATTLE_NOATTACK2_DIALOG_DESC",
+      "value": "You have already fought this opponent."
+    },
+    {
+      "key": "GUILD_BATTLE_NOATTACK3_DIALOG_TITLE",
+      "value": "Cannot Attempt"
+    },
+    {
+      "key": "GUILD_BATTLE_NOATTACK3_DIALOG_DESC",
+      "value": "The enemy does not have any HP."
+    },
+    {
+      "key": "GUILD_BATTLE_NOATTACK4_DIALOG_TITLE",
+      "value": "Cannot Attempt"
+    },
+    {
+      "key": "GUILD_BATTLE_NOATTACK4_DIALOG_DESC",
+      "value": "Your party does not have any HP."
+    },
+    {
+      "key": "GUILD_BATTLE_NOATTACK5_DIALOG_TITLE",
+      "value": "Cannot Attempt"
+    },
+    {
+      "key": "GUILD_BATTLE_NOATTACK5_DIALOG_DESC",
+      "value": "Your party was not found."
+    },
+    {
       "key": "GUILD_BATTLE_NOACTION_DIALOG_TITLE",
       "value": "No Actions Remaining"
     },
@@ -7194,7 +7478,7 @@
     },
     {
       "key": "GUILD_BATTLE_ABSTENTION_DESC",
-      "value": "<line-height=32>Could not enter because the <br>following participation conditions <br>have not been met."
+      "value": "Could not enter because the <br>following participation conditions <br>have not been met."
     },
     {
       "key": "GUILD_BATTLE_ABSTENTION_LEAGUE_TITLE",
@@ -7219,6 +7503,34 @@
     {
       "key": "GUILD_BATTLE_ABSTENTION_LEADER_CONDITION",
       "value": "No login within {0} day(s)"
+    },
+    {
+      "key": "GUILD_BATTLE_EXERCISE_TITLE",
+      "value": "Mock Battle"
+    },
+    {
+      "key": "GUILD_BATTLE_EXERCISE_RESET_DESC",
+      "value": "If you reset, both the Attack Party and Defense Party will be returned to their initial state"
+    },
+    {
+      "key": "GUILD_BATTLE_EXERCISE_RESET_OFFENSE",
+      "value": "Attack Reset"
+    },
+    {
+      "key": "GUILD_BATTLE_EXERCISE_RESET_DEFENSE",
+      "value": "Defense Reset"
+    },
+    {
+      "key": "GUILD_BATTLE_EXERCISE_END",
+      "value": "End Mock Battle"
+    },
+    {
+      "key": "GUILD_BATTLE_EXERCISE_END_TITLE",
+      "value": "End Mock Battle"
+    },
+    {
+      "key": "GUILD_BATTLE_EXERCISE_END_DESC",
+      "value": "Preparation time has ended.<br>The Mock Battle is over."
     },
     {
       "key": "GUILD_BATTLE_PLAYER_DETAIL_ABILITY",
@@ -7478,7 +7790,7 @@
     },
     {
       "key": "GUILD_BATTLE_LIMITED_REWARD_CAUTION",
-      "value": "Rewards are sent to your Present Box."
+      "value": "Rewards have been sent to your Present Box."
     },
     {
       "key": "GUILD_BATTLE_LIMITED_REWARD_DESC",
@@ -7577,12 +7889,12 @@
       "value": "Unclaimed Arena Rewards"
     },
     {
-      "key": "GM_CLASSMATCH_SEASON_REWARD",
-      "value": "${season} Class Match ${class} Rewards"
-    },
-    {
       "key": "GM_CLASSMATCH_RANKING_REWARD",
       "value": "Class Match Diamond Master Rank ${ranking} Rewards for ${season}"
+    },
+    {
+      "key": "GM_CLASSMATCH_SEASON_REWARD",
+      "value": "${season} Class Match ${class} Rewards"
     },
     {
       "key": "GM_CONTINUATION_PACK_REWARD",
@@ -7690,7 +8002,7 @@
     },
     {
       "key": "QUEST_APPEAL_AP",
-      "value": "AP Cost DOWN!"
+      "value": "NRG Cost DOWN!"
     },
     {
       "key": "QUEST_APPEAL_DROP_RATE",
@@ -7706,7 +8018,7 @@
     },
     {
       "key": "QUEST_APPEAL_UNIT_EXP",
-      "value": "Unit EXP UP"
+      "value": "Unit EXP<br>UP"
     },
     {
       "key": "QUEST_APPEAL_UNIT_JP",
@@ -7759,6 +8071,50 @@
     {
       "key": "QUEST_CAMPAIGN_COND_AND",
       "value": "or"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_AP",
+      "value": "NRG Cost DOWN!"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_DROP_RATE",
+      "value": "Drop Rate UP"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_DROP_AMOUNT",
+      "value": "Item Drops UP"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_DROP_AMOUNT_PIECE",
+      "value": "Shards Acquired x{0}"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_DROP_RATE_PIECE",
+      "value": "Shard Acquisition Rate x{0}"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_PLAYER_EXP",
+      "value": "Player EXP UP"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_UNIT_EXP",
+      "value": "Unit EXP UP"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_UNIT_JP",
+      "value": "Unit JP UP"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_ARTI_PROFICIENCY",
+      "value": "Equipment Proficiency UP"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_CHALLENGE_LIMIT_UP",
+      "value": "Attempts UP"
+    },
+    {
+      "key": "WORLDQUEST_APPEAL_DROP_GIL_UP",
+      "value": "Gil Drops UP"
     },
     {
       "key": "TOWER_QUEST_TITLE",
@@ -8102,7 +8458,7 @@
     },
     {
       "key": "POINTQUEST_RANKING_SELF",
-      "value": "Personal"
+      "value": "Individual"
     },
     {
       "key": "POINTQUEST_RANKING_GUILD",
@@ -8110,11 +8466,11 @@
     },
     {
       "key": "POINTQUEST_RANKING_TOTAL",
-      "value": "Accumulated Score"
+      "value": "Total Score"
     },
     {
       "key": "POINTQUEST_RANKING_HIGH_SCORE",
-      "value": "Total High Scores"
+      "value": "Total High Score"
     },
     {
       "key": "POINTQUEST_RANKING_HIGH_SCORE_TITLE",
@@ -8125,12 +8481,16 @@
       "value": "Event Details"
     },
     {
+      "key": "POINTQUEST_SCORE_REWARD",
+      "value": "Score Rewards"
+    },
+    {
       "key": "POINTQUEST_BANNER_QUEST",
       "value": "Quests"
     },
     {
       "key": "POINTQUEST_BANNER_BOSS",
-      "value": "Boss Battles"
+      "value": "Boss Battle"
     },
     {
       "key": "POINTQUEST_EVENTGACHA",
@@ -8163,6 +8523,10 @@
     {
       "key": "POINTQUEST_TOP_APPEAL",
       "value": "Complete the quests and<br>get a boss battle ticket!"
+    },
+    {
+      "key": "POINTQUEST_TOP_APPEAL_CHANGE",
+      "value": "Complete the Quest and<br>get a Boss Battle Ticket!"
     },
     {
       "key": "POINTQUEST_ENTRY_BADGE_OPEN",
@@ -8206,15 +8570,15 @@
     },
     {
       "key": "POINTQUEST_RANKING_GUILDSCORE",
-      "value": "Guild Total High Scores"
+      "value": "Guild Total High Score"
     },
     {
       "key": "POINTQUEST_RANKING_PLAYERTOTAL",
-      "value": "Personal Total"
+      "value": "Individual Total"
     },
     {
       "key": "POINTQUEST_RANKING_PLAYERSCORE",
-      "value": "Personal Total High Scores"
+      "value": "Individual Total High Score"
     },
     {
       "key": "POINTQUEST_RANKING_GUILDMEMBER",
@@ -8234,11 +8598,11 @@
     },
     {
       "key": "POINTQUEST_RANKING_TOTALPOINT",
-      "value": "Accumulated Score"
+      "value": "Total Score"
     },
     {
       "key": "POINTQUEST_RANKING_SCOREPOINT",
-      "value": "Total High Scores"
+      "value": "Total High Score"
     },
     {
       "key": "POINTQUEST_RANKING_AGGREGATE",
@@ -8305,6 +8669,10 @@
       "value": "From Tier {0}"
     },
     {
+      "key": "POINTQUEST_GACHA_NUM_CHANGE",
+      "value": "Switch Amount"
+    },
+    {
       "key": "POINTQUEST_GACHA_MEDAL_LACK_TITLE",
       "value": "Insufficient Medals"
     },
@@ -8333,6 +8701,118 @@
       "value": "The lineup has been reset."
     },
     {
+      "key": "POINTQUEST_REWARD_CHECK_TITLE",
+      "value": "Score Rewards"
+    },
+    {
+      "key": "POINTQUEST_REWARD_CHECK_SCORE",
+      "value": "Total Score"
+    },
+    {
+      "key": "POINTQUEST_REWARD_CHECK_SCORE_RANKING",
+      "value": "Total Score Ranking"
+    },
+    {
+      "key": "POINTQUEST_REWARD_CHECK_HIGH_SCORE_RANKING",
+      "value": "Total High Score Ranking"
+    },
+    {
+      "key": "POINTQUEST_REWARD_CHECK_SCORE_VALUE",
+      "value": "{0:#,0}<space=0.3em>Complete"
+    },
+    {
+      "key": "POINTQUEST_REWARD_CHECK_SCORE_STAMP",
+      "value": "Complete!"
+    },
+    {
+      "key": "POINTQUEST_HISCORE_CHECK_TITLE",
+      "value": "High Score Rewards"
+    },
+    {
+      "key": "POINTQUEST_HISCORE_CHECK_SCORE_TITLE",
+      "value": "High Score"
+    },
+    {
+      "key": "POINTQUEST_HISCORE_CHECK_SCORE_VALUE",
+      "value": "Reached {0} points"
+    },
+    {
+      "key": "JPBOOST_TITLE",
+      "value": "Select Unit(s) to Use JP Acquisition UP Item"
+    },
+    {
+      "key": "JPBOOST_USE",
+      "value": "Uses Today"
+    },
+    {
+      "key": "JPBOOST_SORTIE",
+      "value": "Confirm and Embark"
+    },
+    {
+      "key": "JPBOOST_UPPER_LIMIT_TITLE",
+      "value": "Max Uses"
+    },
+    {
+      "key": "JPBOOST_UPPER_LIMIT_DESC",
+      "value": "Limit reached on the number of uses for today.<br>You cannot use this item.<br><br>The counter will be reset at 00:00, World Time (PST)."
+    },
+    {
+      "key": "JPBOOST_UPPER_LIMIT_YES",
+      "value": "Embark"
+    },
+    {
+      "key": "JPBOOST_UPPER_LIMIT_NO",
+      "value": "Cancel"
+    },
+    {
+      "key": "JPBOOST_OVER_LIMIT_TITLE",
+      "value": "Max Uses"
+    },
+    {
+      "key": "JPBOOST_OVER_LIMIT_DESC",
+      "value": "Limit reached on the number of uses for today.<br>You cannot use items that have reached their limit."
+    },
+    {
+      "key": "JPBOOST_OVER_LIMIT_YES",
+      "value": "Embark"
+    },
+    {
+      "key": "JPBOOST_OVER_LIMIT_NO",
+      "value": "Cancel"
+    },
+    {
+      "key": "JPBOOST_RESETLAPIS_TITLE",
+      "value": "Reset Uses"
+    },
+    {
+      "key": "JPBOOST_RESETLAPIS_DESC",
+      "value": "Consume <color=#FFF080>{0} Visiore</color> and<color=#FFF080>use"
+    },
+    {
+      "key": "JPBOOST_RESETLAPIS_RANK",
+      "value": "At Royal Rank {0}, you can reset {1} more time(s)."
+    },
+    {
+      "key": "JPBOOST_RESET_DESC",
+      "value": "Limit reached on the number of resets for today."
+    },
+    {
+      "key": "JPBOOST_RESET_COMPLETE",
+      "value": "The number of uses has been reset."
+    },
+    {
+      "key": "JPBOOST_AUTOITEM_VALUE_ADD",
+      "value": "{0}"
+    },
+    {
+      "key": "JPBOOST_AUTOITEM_VALUE_MUL",
+      "value": "{0}%"
+    },
+    {
+      "key": "JPBOOST_AUTOITEM_AMOUNT",
+      "value": " UP"
+    },
+    {
       "key": "POINTQUEST_MODE_NORMAL",
       "value": "Normal "
     },
@@ -8354,7 +8834,7 @@
     },
     {
       "key": "POINTQUEST_WARN_EXPOSED",
-      "value": "{0}<br>{1} unlocked."
+      "value": "{0}<br>{1}unlocked."
     },
     {
       "key": "POINTQUEST_WARN_CAN_CHALLENGE",
@@ -8369,12 +8849,56 @@
       "value": "Summon Bonus"
     },
     {
-      "key": "MULTI_ROOM_RESET",
-      "value": "Disband Room <br>(Resettable)"
-    },
-    {
       "key": "GL_GLOBAL_MAIN_GUILDBATTLE_TIME",
       "value": "To Guild Battle: Until"
+    },
+    {
+      "key": "AWARD_TITLE",
+      "value": "Set Title"
+    },
+    {
+      "key": "AWARD_REMOVE",
+      "value": "Remove"
+    },
+    {
+      "key": "AWARD_UNKNOWN",
+      "value": "????"
+    },
+    {
+      "key": "AWARD_NORMAL",
+      "value": "Normal"
+    },
+    {
+      "key": "AWARD_LIMITED",
+      "value": "Limited"
+    },
+    {
+      "key": "AWARD_DETAIL_TITLE",
+      "value": "Title Details"
+    },
+    {
+      "key": "AWARD_DETAIL_DESC",
+      "value": "Set this Title?"
+    },
+    {
+      "key": "AWARD_DETAIL_CAUTION",
+      "value": "Can only be set by Leader/Sub Leader"
+    },
+    {
+      "key": "AWARD_DEFAULT",
+      "value": "Title"
+    },
+    {
+      "key": "AWARD_NOTSET",
+      "value": "Title Not Set"
+    },
+    {
+      "key": "AWARD_CHANGE",
+      "value": "Change Title"
+    },
+    {
+      "key": "AWARD_REMOVE_DESC",
+      "value": "Remove Title?"
     },
     {
       "key": "GUILD_BATTLE_TARGET_SELECT_TITLE_SUPPORT",

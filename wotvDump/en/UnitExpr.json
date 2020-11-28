@@ -309,6 +309,42 @@
       "value": "The new chieftainess of Gouga. She was appointed by the previous chieftain out of concern for the future of the village following its descent into a self-serving band of murderers. In a twist of fate, she fell in love with the new leader of Saiga and has come to believe that the two villages should unite."
     },
     {
+      "key": "UN_LW_P_RYER_01",
+      "value": "Only tricks and no treats if you can't say my name right! Hey, what are you laughing at? I'm serious! \"What happens if you can't say my name right?\" Why don't you try it and see? I get a feeling you'll regret it, though!"
+    },
+    {
+      "key": "UN_LW_P_RIRY_01",
+      "value": "So this is the venue for the Halloween party, huh? Oh, would you just look at how many attendees there are. Well then, how about I give them a little surprise? No worries. No, I won't be going easy on anyone. I'll give them a taste of true fear."
+    },
+    {
+      "key": "UN_LW_P_HWLT",
+      "value": "The eldest child of the Groms family and a dashingly handsome rune knight. He refers to all women as princesses and cherishes his time with them more than anything—which led him to skip out on training more than a few times. As a result, he was disowned by his father and master and subsequently set out on a journey with his younger brother, Tyytas, and little sister, Chel."
+    },
+    {
+      "key": "UN_LW_P_SCAL",
+      "value": "The young new leader of Saiga. Though there have been hostile relations with Gouga, the other shinobi village, he is working towards uniting the two into a unified country. As his lover is the new chieftainess of Gouga, Loreila, he thought that the villages were soon to be united. However..."
+    },
+    {
+      "key": "UN_LW_P_MRAL",
+      "value": "A female spellblade from Gouga. Though she was aiming to become the next chief, the title was taken from her by Loreila, causing her to harbor a murderous grudge. By having one of her subordinates observe Loreila, she has come to know about her repeated rendezvous with the chief of Saiga."
+    },
+    {
+      "key": "UN_LW_P_CHEL",
+      "value": "The youngest child of the Groms family and a green mage. After their father and master disowned her older brother, Howlet, she decided to accompany him on his journeys. She hates difficult things and is always smiling. Currently, she simply cannot help how much fun she's having visiting various countries with her beloved older brother."
+    },
+    {
+      "key": "UN_FF4_P_CECL",
+      "value": "A knight from a distant world with two moons. Once a dark knight who served as captain of an airship fleet of the Kingdom of Baron known as the Red Wings, he turned his back on his king after witnessing his cruel actions. In his journey to protect the Crystals, he decided to overcome his doubts and was reborn as a sacred paladin."
+    },
+    {
+      "key": "UN_FF4_P_ROSA",
+      "value": "A woman from a distant world with two moons. A white mage of the Kingdom of Baron who excels at using bows as well, she is also known as the most beautiful woman in the kingdom. While she harbors deep feelings for her childhood friend Cecil, she has yet to notice the affections of Kain, whom she was raised alongside."
+    },
+    {
+      "key": "UN_FF4_P_KAIN",
+      "value": "A dragoon of a distant world with two moons. He is the commander of the dragoons of the Kingdom of Baron in addition to being the close friend and rival of Cecil. While he is dignified and compassionate, he is poor at revealing his own feelings. He hides his love for his childhood friend, Rosa, at all costs."
+    },
+    {
       "key": "UN_LW_E_IRDL",
       "value": ""
     },
@@ -413,6 +449,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_STRN_01_TO",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_DRND",
       "value": ""
     },
@@ -498,6 +538,34 @@
     },
     {
       "key": "UN_LW_E_RRIR",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_VKTR",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GLMS",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_BYLO",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RYER",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MURM",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MRND",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_DRIO",
       "value": ""
     },
     {
@@ -857,6 +925,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_00_NIN_HUN",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_00_NIN",
       "value": ""
     },
@@ -1045,6 +1117,26 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_PR_02_TIM_EX",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_TH_00_HUN_EX",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_00_NIN_EX",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SO_00_PLD_EX",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_KTON_EX",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_OGRE",
       "value": "Assign Stats Equivalent to R Warrior"
     },
@@ -1166,6 +1258,10 @@
     },
     {
       "key": "UN_LW_E_ELEM_06",
+      "value": "Assign Stats Equivalent to R Green Mage"
+    },
+    {
+      "key": "UN_LW_E_ELEM_06_RA",
       "value": "Assign Stats Equivalent to R Green Mage"
     },
     {
@@ -1337,6 +1433,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_SLIM_RA",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_CSLI",
       "value": ""
     },
@@ -1361,6 +1461,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_CACT_03_B",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_IFRT_RAID",
       "value": ""
     },
@@ -1381,6 +1485,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_THDG_RAID",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_THDG_QE",
       "value": ""
     },
@@ -1391,6 +1499,30 @@
     {
       "key": "UN_LW_E_THDG_PT_HA",
       "value": ""
+    },
+    {
+      "key": "UN_FF4_E_GLBZ_PT_NO",
+      "value": ""
+    },
+    {
+      "key": "UN_FF4_E_GLBZ_PT_HA",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SO_03_GUN_RA",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_TH_00_HUN_RA",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_TH_00_WGN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_ELEM_03_RA",
+      "value": "Assign Stats Equivalent to R Green Mage"
     },
     {
       "key": "UN_LW_E_DABL",
@@ -1485,11 +1617,35 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_FNRR_QE",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_TITN",
       "value": ""
     },
     {
       "key": "UN_LW_E_TITN_SIREN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_BLMN_SIREN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_AGON",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_AGON_SIREN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_CHCB1_SIREN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_CHCB1",
       "value": ""
     },
     {
@@ -1575,6 +1731,46 @@
     {
       "key": "UN_LW_E_LSWL_MOGI",
       "value": ""
+    },
+    {
+      "key": "UN_LW_E_HLNA_MOGI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MDNA_MOGI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RYER_01_MOGI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_MRND_MOGI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RRIR_MOGI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_HWLT_MOGI",
+      "value": ""
+    },
+    {
+      "key": "UN_FF4_E_DMNW",
+      "value": ""
+    },
+    {
+      "key": "UN_FF4_E_GLBZ",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GLMS_WAVE",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_BHMT_01_WAVE",
+      "value": "Assign Stats Equivalent to MR Paladin"
     },
     {
       "key": "UN_LW_TU_MONT",
@@ -2057,6 +2253,54 @@
       "value": ""
     },
     {
+      "key": "UN_LW_S_BLMN",
+      "value": "A monster resembling a crimson full moon, long feared as an omen of calamity. While its rocky outer surface does not allow for physical attacks, the catastrophic damage caused by its masterful command of advanced magic could truly be considered a calamity."
+    },
+    {
+      "key": "UN_LW_S_BLMN_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_BLMN_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_AGON",
+      "value": "Something of a colossal humanoid, it is covered in hard, smooth armor of striking coloration. The circumstances of its origins are shrouded in mystery. However, it is understood that upon detecting any form of life in close proximity, it will set in motion to wreak utter destruction until no signs of life remain."
+    },
+    {
+      "key": "UN_LW_S_AGON_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_AGON_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_CHCB1",
+      "value": "Spread widely over the continent, there are said to be many different types of chocobos that have adapted to specific environments. Though chocobos originally formed flocks together, many see humans as flock members. That said, getting along well together will require a certain extent of mutual understanding."
+    },
+    {
+      "key": "UN_LW_S_CHCB1_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_CHCB1_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_FF4_S_DMNW",
+      "value": "A monster that appears as a colossal wall from which protrudes the form of the demon that possessed it. One among many traps set to protect Dark Crystals deep underground in a distant world, it gradually closes in on opponents, crushing them."
+    },
+    {
+      "key": "UN_FF4_S_DMNW_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF4_S_DMNW_AW2",
+      "value": ""
+    },
+    {
       "key": "UN_GM_TREASURE",
       "value": ""
     },
@@ -2067,6 +2311,18 @@
     {
       "key": "UN_GM_CRYSTAL_01",
       "value": "Restores HP/TP (S) & Boosts Bravery & Acquires JP"
+    },
+    {
+      "key": "UN_GM_CRYSTAL_02",
+      "value": ""
+    },
+    {
+      "key": "UN_GM_CRYSTAL_03",
+      "value": ""
+    },
+    {
+      "key": "UN_GM_CRYSTAL_04",
+      "value": "Restores HP/AP (S) & Boosts Bravery"
     },
     {
       "key": "UN_GM_SWITCH",
@@ -2105,6 +2361,10 @@
       "value": "Deals Missile Dmg to targets in a straight line of sight"
     },
     {
+      "key": "UN_GM_PLACED_FENC",
+      "value": ""
+    },
+    {
       "key": "UN_GM_PLACED_BASH",
       "value": ""
     },
@@ -2126,6 +2386,14 @@
     },
     {
       "key": "UN_GM_FIRE_01",
+      "value": ""
+    },
+    {
+      "key": "UN_GM_KENZAN_01",
+      "value": "Deals Dmg to target after stepping into zone"
+    },
+    {
+      "key": "UN_GM_CANN",
       "value": ""
     }
   ]

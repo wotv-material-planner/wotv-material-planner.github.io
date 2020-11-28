@@ -1221,6 +1221,86 @@
       "value": "UR Soul Medal Exchange Shop"
     },
     {
+      "key": "IT_JB_MM_MKN",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_MKN_2",
+      "value": "R Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_MKN_3",
+      "value": "SR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_MKN_4",
+      "value": "MR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_MKN_5",
+      "value": "UR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_FF4_CECL",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_CECL_2",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_CECL_3",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_CECL_4",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_CECL_5",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_ROSA",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_ROSA_2",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_ROSA_3",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_ROSA_4",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_ROSA_5",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_KAIN",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_KAIN_2",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_KAIN_3",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_KAIN_4",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FF4_KAIN_5",
+      "value": ""
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "General Shop / Whimsy Shop"
     },
@@ -1973,6 +2053,42 @@
       "value": "General Shop / Whimsy Shop / Chocobo Expedition"
     },
     {
+      "key": "IT_PI_LW_RYER_01",
+      "value": ""
+    },
+    {
+      "key": "IT_PI_LW_RIRY_01",
+      "value": ""
+    },
+    {
+      "key": "IT_PI_LW_HWLT",
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition"
+    },
+    {
+      "key": "IT_PI_LW_SCAL",
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition"
+    },
+    {
+      "key": "IT_PI_LW_MRAL",
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition"
+    },
+    {
+      "key": "IT_PI_LW_CHEL",
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition"
+    },
+    {
+      "key": "IT_PI_FF4_CECL",
+      "value": ""
+    },
+    {
+      "key": "IT_PI_FF4_ROSA",
+      "value": ""
+    },
+    {
+      "key": "IT_PI_FF4_KAIN",
+      "value": ""
+    },
+    {
       "key": "IT_SB_EXP_FIRE_01",
       "value": "Chocobo Expedition"
     },
@@ -2269,6 +2385,30 @@
       "value": ""
     },
     {
+      "key": "IT_SB_AW_BLMN_R2",
+      "value": "Beast's Den Bloody Moon Battle"
+    },
+    {
+      "key": "IT_SB_AW_BLMN_R3",
+      "value": ""
+    },
+    {
+      "key": "IT_SB_AW_AGON_R2",
+      "value": "Beast's Den Aigaion Battle"
+    },
+    {
+      "key": "IT_SB_AW_AGON_R3",
+      "value": ""
+    },
+    {
+      "key": "IT_SB_AW_CHCB1_R2",
+      "value": "Beast's Den Chocobo Battle"
+    },
+    {
+      "key": "IT_SB_AW_CHCB1_R3",
+      "value": ""
+    },
+    {
       "key": "IT_TICKET_STORY",
       "value": ""
     },
@@ -2425,6 +2565,10 @@
       "value": "Chocobo Expedition / Arena Medal Exchange Shop"
     },
     {
+      "key": "IT_AF_MAT_WATER_03",
+      "value": ""
+    },
+    {
       "key": "IT_AF_MAT_HEART_01",
       "value": "General Shop / Chocobo Expedition"
     },
@@ -2542,7 +2686,11 @@
     },
     {
       "key": "IT_AF_LW_SWO_006",
-      "value": ""
+      "value": "General Shop"
+    },
+    {
+      "key": "IT_AF_LW_SWO_023",
+      "value": "General Shop"
     },
     {
       "key": "IT_AF_LW_BSW_001",
@@ -2793,6 +2941,34 @@
       "value": ""
     },
     {
+      "key": "IT_AF_LW_HLM_005",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_LW_ACC_001",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_LW_KAT_008",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_LW_HAT_005",
+      "value": "General Shop"
+    },
+    {
+      "key": "IT_AF_FF4_ARM_001",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_FF4_SPE_000",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_FF4_BOW_000",
+      "value": ""
+    },
+    {
       "key": "IT_AF_SUP_HP",
       "value": "Arena Medal Exchange Shop / PVP Medal Exchange Shop"
     },
@@ -2937,10 +3113,6 @@
       "value": ""
     },
     {
-      "key": "IT_EC_SUMMON_11_A",
-      "value": ""
-    },
-    {
       "key": "IT_EC_SUMMON_12_A",
       "value": ""
     },
@@ -2978,6 +3150,10 @@
     },
     {
       "key": "IT_EC_FRIEND",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_MEDAL_BF",
       "value": ""
     },
     {
@@ -3049,6 +3225,18 @@
       "value": ""
     },
     {
+      "key": "IT_EC_SUMMON_10_B",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_11_A",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_11_B",
+      "value": ""
+    },
+    {
       "key": "IT_EC_FFT_1",
       "value": ""
     },
@@ -3085,6 +3273,10 @@
       "value": ""
     },
     {
+      "key": "IT_EC_TOWER_002",
+      "value": ""
+    },
+    {
       "key": "IT_EC_EV02_1",
       "value": ""
     },
@@ -3101,11 +3293,31 @@
       "value": ""
     },
     {
+      "key": "IT_EC_EV06_1",
+      "value": ""
+    },
+    {
       "key": "IT_EC_FF1_1",
       "value": ""
     },
     {
       "key": "IT_EC_FF1_2",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_FF4_1",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_FF4_2_A",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_FF4_2_B",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_FF4_3",
       "value": ""
     },
     {
@@ -3161,6 +3373,10 @@
       "value": ""
     },
     {
+      "key": "IT_US_GL_SE_PI_COM_3",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_PI_COM_02",
       "value": ""
     },
@@ -3174,6 +3390,30 @@
     },
     {
       "key": "IT_US_GL_SE_AW-ITEM_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_AW-ITEM_02",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_AW-ITEM_03",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_AW-ITEM_04",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_AW-ITEM_05",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_AW-ITEM_06",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_AW-ITEM_07",
       "value": ""
     },
     {
@@ -3218,6 +3458,10 @@
     },
     {
       "key": "IT_US_SE_SB_EXP_03",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_SB_EXP_04",
       "value": ""
     },
     {
@@ -3285,11 +3529,39 @@
       "value": ""
     },
     {
+      "key": "IT_US_SE_JB_05_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_04_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_03_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_02_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_01_01",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_UR_U_01",
       "value": ""
     },
     {
       "key": "IT_US_SE_R_UR_U_03",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_R_UR_U_04",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_R_UR_U_05",
       "value": ""
     },
     {
@@ -3317,11 +3589,35 @@
       "value": ""
     },
     {
+      "key": "IT_US_G_U_SSR_UR_07",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_U_SSR_UR_08",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_U_SSR_UR_09",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_U_SSR_UR_10",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_UR_V_01",
       "value": ""
     },
     {
       "key": "IT_US_SE_R_UR_V_GL01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_R_UR_V_GL02",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_R_UR_V_GL03",
       "value": ""
     },
     {
@@ -3633,6 +3929,34 @@
       "value": "General Shop / MR Vision Medal Exchange Shop"
     },
     {
+      "key": "IT_VPI_LW_VKTR",
+      "value": "General Shop / UR Vision Medal Exchange Shop"
+    },
+    {
+      "key": "IT_VPI_LW_BLMN",
+      "value": "General Shop / MR Vision Medal Exchange Shop"
+    },
+    {
+      "key": "IT_VPI_LW_HALL",
+      "value": ""
+    },
+    {
+      "key": "IT_VPI_LW_AGON",
+      "value": "General Shop"
+    },
+    {
+      "key": "IT_VPI_LW_GUREN",
+      "value": "General Shop"
+    },
+    {
+      "key": "IT_VPI_LW_CHCB",
+      "value": "General Shop / MR Vision Medal Exchange Shop"
+    },
+    {
+      "key": "IT_VPI_FF4_DMNW",
+      "value": ""
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "General Shop / Whimsy Shop / Chocobo Expedition"
     },
@@ -3765,6 +4089,10 @@
       "value": ""
     },
     {
+      "key": "IT_US_GL_SE_SB_EXP_8",
+      "value": ""
+    },
+    {
       "key": "IT_US_GL_SE_VPI_01",
       "value": ""
     },
@@ -3805,6 +4133,22 @@
       "value": ""
     },
     {
+      "key": "IT_US_GL_SE_VPI_11",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_12",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_13",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_14",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_UR_U_02",
       "value": ""
     },
@@ -3841,11 +4185,23 @@
       "value": ""
     },
     {
+      "key": "IT_US_SE_PI_GL05",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL06",
+      "value": ""
+    },
+    {
       "key": "IT_US_N_GACHA_10",
       "value": ""
     },
     {
       "key": "IT_US_SE_AF_AW_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_AF_AW_02",
       "value": ""
     },
     {
@@ -3869,15 +4225,31 @@
       "value": ""
     },
     {
-      "key": "IT_AF_LW_HLM_005",
+      "key": "IT_PT_SKIP_FF4_1",
       "value": ""
     },
     {
-      "key": "IT_AF_LW_ACC_001",
+      "key": "IT_PT_BSSKIP_FF4_1",
       "value": ""
     },
     {
-      "key": "IT_AF_LW_KAT_008",
+      "key": "IT_PT_BOSS_FF4_1",
+      "value": ""
+    },
+    {
+      "key": "IT_JP_UP_01",
+      "value": ""
+    },
+    {
+      "key": "IT_JP_UP_02",
+      "value": ""
+    },
+    {
+      "key": "IT_JP_UP_03",
+      "value": ""
+    },
+    {
+      "key": "IT_JP_UP_04",
       "value": ""
     }
   ]

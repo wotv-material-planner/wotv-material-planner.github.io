@@ -265,6 +265,22 @@
       "value": "Unit [Loreila] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_LW_SCAL",
+      "value": "Unit [Skahal] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_MRAL",
+      "value": "Unit [Mariale] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_HWLT",
+      "value": "Unit [Howlet] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_CHEL",
+      "value": "Unit [Chel] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -571,6 +587,42 @@
     {
       "key": "COND_CH_LW_RRIR",
       "value": "Unit [Loreila] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_RY_01",
+      "value": "Unit [Little Leela (Halloween)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_RI_01",
+      "value": "Unit [Rairyuu (Halloween)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_SCAL",
+      "value": "Unit [Skahal] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_MRAL",
+      "value": "Unit [Mariale] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_HWLT",
+      "value": "Unit [Howlet] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_CHEL",
+      "value": "Unit [Chel] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF4_CECL",
+      "value": "Unit [Cecil] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF4_KAIN",
+      "value": "Unit [Kain] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF4_ROSA",
+      "value": "Unit [Rosa] is at least Lv. 40"
     }
   ]
 }

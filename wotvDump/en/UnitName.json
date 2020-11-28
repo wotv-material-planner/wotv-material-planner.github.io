@@ -309,6 +309,42 @@
       "value": "Loreila"
     },
     {
+      "key": "UN_LW_P_RYER_01",
+      "value": "Little Leela (Halloween)"
+    },
+    {
+      "key": "UN_LW_P_RIRY_01",
+      "value": "Rairyuu (Halloween)"
+    },
+    {
+      "key": "UN_LW_P_HWLT",
+      "value": "Howlet"
+    },
+    {
+      "key": "UN_LW_P_SCAL",
+      "value": "Skahal"
+    },
+    {
+      "key": "UN_LW_P_MRAL",
+      "value": "Mariale"
+    },
+    {
+      "key": "UN_LW_P_CHEL",
+      "value": "Chel"
+    },
+    {
+      "key": "UN_FF4_P_CECL",
+      "value": "Cecil"
+    },
+    {
+      "key": "UN_FF4_P_ROSA",
+      "value": "Rosa"
+    },
+    {
+      "key": "UN_FF4_P_KAIN",
+      "value": "Kain"
+    },
+    {
       "key": "UN_LW_E_IRDL",
       "value": "Ildyra"
     },
@@ -413,6 +449,10 @@
       "value": "Sterne (Knight of Ruin)"
     },
     {
+      "key": "UN_LW_E_STRN_01_TO",
+      "value": "Sterne (Knight of Ruin)"
+    },
+    {
       "key": "UN_LW_E_DRND",
       "value": "Dorando"
     },
@@ -499,6 +539,34 @@
     {
       "key": "UN_LW_E_RRIR",
       "value": "Loreila"
+    },
+    {
+      "key": "UN_LW_E_VKTR",
+      "value": "Viktora"
+    },
+    {
+      "key": "UN_LW_E_GLMS",
+      "value": "Gilgamesh"
+    },
+    {
+      "key": "UN_LW_E_BYLO",
+      "value": "Baelo"
+    },
+    {
+      "key": "UN_LW_E_RYER",
+      "value": "Little Leela"
+    },
+    {
+      "key": "UN_LW_E_MURM",
+      "value": "\"Murmur\""
+    },
+    {
+      "key": "UN_LW_E_MRND",
+      "value": "Miranda"
+    },
+    {
+      "key": "UN_LW_E_DRIO",
+      "value": "Dario Hourne"
     },
     {
       "key": "UN_FF01_E_WRMC",
@@ -857,6 +925,10 @@
       "value": "White Mage"
     },
     {
+      "key": "UN_LW_E_00_NIN_HUN",
+      "value": "Fennes Shinobi"
+    },
+    {
       "key": "UN_LW_E_00_NIN",
       "value": "Shinobi"
     },
@@ -1045,6 +1117,26 @@
       "value": "«Rubeus» Soldier"
     },
     {
+      "key": "UN_LW_E_PR_02_TIM_EX",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_TH_00_HUN_EX",
+      "value": "Bandit"
+    },
+    {
+      "key": "UN_LW_E_00_NIN_EX",
+      "value": "Shinobi"
+    },
+    {
+      "key": "UN_LW_E_SO_00_PLD_EX",
+      "value": "Leonis Soldier"
+    },
+    {
+      "key": "UN_LW_E_KTON_EX",
+      "value": "Kitone"
+    },
+    {
       "key": "UN_LW_E_OGRE",
       "value": "Ogre"
     },
@@ -1166,6 +1258,10 @@
     },
     {
       "key": "UN_LW_E_ELEM_06",
+      "value": "Light Elemental"
+    },
+    {
+      "key": "UN_LW_E_ELEM_06_RA",
       "value": "Light Elemental"
     },
     {
@@ -1337,6 +1433,10 @@
       "value": "Green Slime"
     },
     {
+      "key": "UN_LW_E_SLIM_RA",
+      "value": "Green Slime"
+    },
+    {
       "key": "UN_LW_E_CSLI",
       "value": "Chocolate Flan"
     },
@@ -1361,6 +1461,10 @@
       "value": "Metal Cactuar"
     },
     {
+      "key": "UN_LW_E_CACT_03_B",
+      "value": "Gold Cactuar"
+    },
+    {
       "key": "UN_LW_E_IFRT_RAID",
       "value": "Ifrit"
     },
@@ -1381,6 +1485,10 @@
       "value": "Two-Headed Dragon"
     },
     {
+      "key": "UN_LW_E_THDG_RAID",
+      "value": "Two-Headed Dragon"
+    },
+    {
       "key": "UN_LW_E_THDG_QE",
       "value": "Two-Headed Dragon"
     },
@@ -1391,6 +1499,30 @@
     {
       "key": "UN_LW_E_THDG_PT_HA",
       "value": "Two-Headed Dragon"
+    },
+    {
+      "key": "UN_FF4_E_GLBZ_PT_NO",
+      "value": "Golbez"
+    },
+    {
+      "key": "UN_FF4_E_GLBZ_PT_HA",
+      "value": "Golbez"
+    },
+    {
+      "key": "UN_LW_E_SO_03_GUN_RA",
+      "value": "Fennes Soldier"
+    },
+    {
+      "key": "UN_LW_E_TH_00_HUN_RA",
+      "value": "Bandit"
+    },
+    {
+      "key": "UN_LW_E_TH_00_WGN",
+      "value": "Bandit"
+    },
+    {
+      "key": "UN_LW_E_ELEM_03_RA",
+      "value": "Lightning Elemental"
     },
     {
       "key": "UN_LW_E_DABL",
@@ -1485,12 +1617,36 @@
       "value": "Fenrir"
     },
     {
+      "key": "UN_LW_E_FNRR_QE",
+      "value": "Fenrir"
+    },
+    {
       "key": "UN_LW_E_TITN",
       "value": "Titan"
     },
     {
       "key": "UN_LW_E_TITN_SIREN",
       "value": "Titan"
+    },
+    {
+      "key": "UN_LW_E_BLMN_SIREN",
+      "value": "Bloody Moon"
+    },
+    {
+      "key": "UN_LW_E_AGON",
+      "value": "Aigaion"
+    },
+    {
+      "key": "UN_LW_E_AGON_SIREN",
+      "value": "Aigaion"
+    },
+    {
+      "key": "UN_LW_E_CHCB1_SIREN",
+      "value": "Chocobo"
+    },
+    {
+      "key": "UN_LW_E_CHCB1",
+      "value": "Chocobo"
     },
     {
       "key": "UN_LW_E_GLMS_ARENA",
@@ -1575,6 +1731,46 @@
     {
       "key": "UN_LW_E_LSWL_MOGI",
       "value": "Lasswell"
+    },
+    {
+      "key": "UN_LW_E_HLNA_MOGI",
+      "value": "Helena Leonis"
+    },
+    {
+      "key": "UN_LW_E_MDNA_MOGI",
+      "value": "Mediena"
+    },
+    {
+      "key": "UN_LW_E_RYER_01_MOGI",
+      "value": "Little Leela (Halloween)"
+    },
+    {
+      "key": "UN_LW_E_MRND_MOGI",
+      "value": "Miranda"
+    },
+    {
+      "key": "UN_LW_E_RRIR_MOGI",
+      "value": "Loreila"
+    },
+    {
+      "key": "UN_LW_E_HWLT_MOGI",
+      "value": "Howlet"
+    },
+    {
+      "key": "UN_FF4_E_DMNW",
+      "value": "Demon Wall"
+    },
+    {
+      "key": "UN_FF4_E_GLBZ",
+      "value": "Golbez"
+    },
+    {
+      "key": "UN_LW_E_GLMS_WAVE",
+      "value": "Gilgamesh"
+    },
+    {
+      "key": "UN_LW_E_BHMT_01_WAVE",
+      "value": "Behemoth King"
     },
     {
       "key": "UN_LW_TU_MONT",
@@ -2057,6 +2253,54 @@
       "value": "Titan"
     },
     {
+      "key": "UN_LW_S_BLMN",
+      "value": "Bloody Moon"
+    },
+    {
+      "key": "UN_LW_S_BLMN_AW1",
+      "value": "Bloody Moon"
+    },
+    {
+      "key": "UN_LW_S_BLMN_AW2",
+      "value": "Bloody Moon"
+    },
+    {
+      "key": "UN_LW_S_AGON",
+      "value": "Aigaion"
+    },
+    {
+      "key": "UN_LW_S_AGON_AW1",
+      "value": "Aigaion"
+    },
+    {
+      "key": "UN_LW_S_AGON_AW2",
+      "value": "Aigaion"
+    },
+    {
+      "key": "UN_LW_S_CHCB1",
+      "value": "Chocobo"
+    },
+    {
+      "key": "UN_LW_S_CHCB1_AW1",
+      "value": "Chocobo"
+    },
+    {
+      "key": "UN_LW_S_CHCB1_AW2",
+      "value": "Chocobo"
+    },
+    {
+      "key": "UN_FF4_S_DMNW",
+      "value": "Demon Wall"
+    },
+    {
+      "key": "UN_FF4_S_DMNW_AW1",
+      "value": "Demon Wall"
+    },
+    {
+      "key": "UN_FF4_S_DMNW_AW2",
+      "value": "Demon Wall"
+    },
+    {
       "key": "UN_GM_TREASURE",
       "value": "Treasure Chest"
     },
@@ -2066,6 +2310,18 @@
     },
     {
       "key": "UN_GM_CRYSTAL_01",
+      "value": "Crystal"
+    },
+    {
+      "key": "UN_GM_CRYSTAL_02",
+      "value": "Crystal"
+    },
+    {
+      "key": "UN_GM_CRYSTAL_03",
+      "value": "Crystal"
+    },
+    {
+      "key": "UN_GM_CRYSTAL_04",
       "value": "Crystal"
     },
     {
@@ -2105,6 +2361,10 @@
       "value": "Pillar Trap (Arrows)"
     },
     {
+      "key": "UN_GM_PLACED_FENC",
+      "value": "Snow Fence"
+    },
+    {
       "key": "UN_GM_PLACED_BASH",
       "value": "Carriage"
     },
@@ -2127,6 +2387,14 @@
     {
       "key": "UN_GM_FIRE_01",
       "value": "Torch"
+    },
+    {
+      "key": "UN_GM_KENZAN_01",
+      "value": "Damage Zone"
+    },
+    {
+      "key": "UN_GM_CANN",
+      "value": "Rundall Cannon"
     }
   ]
 }

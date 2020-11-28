@@ -331,7 +331,6 @@
         2
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_SWORD",
       "status": [
@@ -360,7 +359,7 @@
         2
       ],
       "rare": 2,
-      "cap": 99,
+      "cap": 1,
       "sell": 0,
       "equip": "AEC_SWORD",
       "status": [
@@ -406,7 +405,6 @@
         2
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -460,7 +458,6 @@
         2
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -529,7 +526,6 @@
         2
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -598,7 +594,6 @@
         2
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -667,7 +662,6 @@
         2
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -736,7 +730,6 @@
         2
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -805,7 +798,6 @@
         2
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -859,7 +851,6 @@
         2
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -928,7 +919,6 @@
         2
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -997,7 +987,6 @@
         2
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1066,7 +1055,6 @@
         2
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1135,7 +1123,6 @@
         2
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1204,7 +1191,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1273,7 +1259,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1347,7 +1332,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1421,7 +1405,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1495,7 +1478,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1569,7 +1551,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1643,7 +1624,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1712,7 +1692,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1786,7 +1765,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1860,7 +1838,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -1934,7 +1911,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2008,7 +1984,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2082,7 +2057,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2145,7 +2119,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2211,7 +2184,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2282,7 +2254,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2353,7 +2324,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2424,7 +2394,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2495,7 +2464,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -2566,7 +2534,7 @@
         2
       ],
       "rare": 4,
-      "cap": 99,
+      "cap": 1,
       "sell": 0,
       "hnum": 0,
       "equip": "AEC_SWORD",
@@ -2597,7 +2565,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUNBLADE",
@@ -2655,7 +2622,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUNBLADE",
@@ -2728,7 +2694,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUNBLADE",
@@ -2801,7 +2766,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUNBLADE",
@@ -2874,7 +2838,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUNBLADE",
@@ -2947,7 +2910,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUNBLADE",
@@ -3020,7 +2982,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -3075,7 +3036,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -3145,7 +3105,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -3215,7 +3174,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -3285,7 +3243,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -3355,7 +3312,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -3425,7 +3381,7 @@
       ],
       "rare": 4,
       "collaboType": 1,
-      "cap": 99,
+      "cap": 1,
       "sell": 0,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -3488,7 +3444,6 @@
         3
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_BSWORD",
       "status": [
@@ -3517,7 +3472,6 @@
         3
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -3571,7 +3525,6 @@
         3
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -3640,7 +3593,6 @@
         3
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -3709,7 +3661,6 @@
         3
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -3778,7 +3729,6 @@
         3
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -3847,7 +3797,6 @@
         3
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -3916,7 +3865,6 @@
         3
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -3970,7 +3918,6 @@
         3
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4039,7 +3986,6 @@
         3
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4108,7 +4054,6 @@
         3
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4177,7 +4122,6 @@
         3
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4246,7 +4190,6 @@
         3
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4315,7 +4258,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4369,7 +4311,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4438,7 +4379,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4507,7 +4447,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4576,7 +4515,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4645,7 +4583,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4714,7 +4651,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4770,7 +4706,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4841,7 +4776,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4912,7 +4846,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -4983,7 +4916,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -5054,7 +4986,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -5125,7 +5056,6 @@
         4
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_KATANA",
       "status": [
@@ -5156,7 +5086,6 @@
         4
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5214,7 +5143,6 @@
         4
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5287,7 +5215,6 @@
         4
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5360,7 +5287,6 @@
         4
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5433,7 +5359,6 @@
         4
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5506,7 +5431,6 @@
         4
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5579,7 +5503,6 @@
         4
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5639,7 +5562,6 @@
         4
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5714,7 +5636,6 @@
         4
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5789,7 +5710,6 @@
         4
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5864,7 +5784,6 @@
         4
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -5939,7 +5858,6 @@
         4
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -6014,7 +5932,6 @@
         4
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -6072,7 +5989,6 @@
         4
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -6145,7 +6061,6 @@
         4
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -6218,7 +6133,6 @@
         4
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -6291,7 +6205,6 @@
         4
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -6364,7 +6277,6 @@
         4
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -6437,7 +6349,6 @@
         16
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_HAND",
       "status": [
@@ -6466,7 +6377,6 @@
         16
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -6520,7 +6430,6 @@
         16
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -6589,7 +6498,6 @@
         16
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -6658,7 +6566,6 @@
         16
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -6727,7 +6634,6 @@
         16
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -6796,7 +6702,6 @@
         16
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -6865,7 +6770,6 @@
         16
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -6923,7 +6827,6 @@
         16
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -6996,7 +6899,6 @@
         16
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7069,7 +6971,6 @@
         16
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7142,7 +7043,6 @@
         16
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7215,7 +7115,6 @@
         16
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7288,7 +7187,6 @@
         16
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7348,7 +7246,6 @@
         16
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7423,7 +7320,6 @@
         16
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7498,7 +7394,6 @@
         16
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7573,7 +7468,6 @@
         16
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7648,7 +7542,6 @@
         16
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -7723,7 +7616,6 @@
         10
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_LANCE",
       "status": [
@@ -7752,7 +7644,6 @@
         10
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -7806,7 +7697,6 @@
         10
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -7875,7 +7765,6 @@
         10
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -7944,7 +7833,6 @@
         10
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8013,7 +7901,6 @@
         10
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8082,7 +7969,6 @@
         10
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8151,7 +8037,6 @@
         10
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8205,7 +8090,6 @@
         10
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8274,7 +8158,6 @@
         10
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8343,7 +8226,6 @@
         10
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8412,7 +8294,6 @@
         10
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8481,7 +8362,6 @@
         10
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8550,7 +8430,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8604,7 +8483,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8673,7 +8551,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8742,7 +8619,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8811,7 +8687,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8880,7 +8755,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -8949,7 +8823,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9018,7 +8891,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9092,7 +8964,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9166,7 +9037,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9240,7 +9110,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9314,7 +9183,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9388,7 +9256,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9457,7 +9324,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9531,7 +9397,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9605,7 +9470,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9679,7 +9543,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9753,7 +9616,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -9827,7 +9689,6 @@
         1
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_DAGGER",
       "status": [
@@ -9856,7 +9717,6 @@
         1
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -9910,7 +9770,6 @@
         1
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -9979,7 +9838,6 @@
         1
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10048,7 +9906,6 @@
         1
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10117,7 +9974,6 @@
         1
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10186,7 +10042,6 @@
         1
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10255,7 +10110,6 @@
         1
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10309,7 +10163,6 @@
         1
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10378,7 +10231,6 @@
         1
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10447,7 +10299,6 @@
         1
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10516,7 +10367,6 @@
         1
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10585,7 +10435,6 @@
         1
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10654,7 +10503,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10710,7 +10558,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10781,7 +10628,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10852,7 +10698,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10923,7 +10768,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -10994,7 +10838,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -11065,7 +10908,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -11119,7 +10961,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -11188,7 +11029,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -11257,7 +11097,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -11326,7 +11165,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -11395,7 +11233,6 @@
         1
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -11464,7 +11301,6 @@
         6
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_NINJA",
       "status": [
@@ -11493,7 +11329,6 @@
         6
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -11547,7 +11382,6 @@
         6
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -11616,7 +11450,6 @@
         6
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -11685,7 +11518,6 @@
         6
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -11754,7 +11586,6 @@
         6
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -11823,7 +11654,6 @@
         6
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -11892,7 +11722,6 @@
         6
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -11946,7 +11775,6 @@
         6
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12015,7 +11843,6 @@
         6
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12084,7 +11911,6 @@
         6
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12153,7 +11979,6 @@
         6
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12222,7 +12047,6 @@
         6
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12291,7 +12115,6 @@
         6
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12345,7 +12168,6 @@
         6
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12414,7 +12236,6 @@
         6
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12483,7 +12304,6 @@
         6
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12552,7 +12372,6 @@
         6
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12621,7 +12440,6 @@
         6
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -12690,7 +12508,6 @@
         7
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_BOW",
       "status": [
@@ -12721,7 +12538,6 @@
         7
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -12777,7 +12593,6 @@
         7
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -12848,7 +12663,6 @@
         7
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -12919,7 +12733,6 @@
         7
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -12990,7 +12803,6 @@
         7
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13061,7 +12873,6 @@
         7
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13132,7 +12943,6 @@
         7
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13188,7 +12998,6 @@
         7
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13259,7 +13068,6 @@
         7
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13330,7 +13138,6 @@
         7
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13401,7 +13208,6 @@
         7
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13472,7 +13278,6 @@
         7
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13543,7 +13348,6 @@
         7
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13599,7 +13403,6 @@
         7
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13670,7 +13473,6 @@
         7
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13741,7 +13543,6 @@
         7
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13812,7 +13613,6 @@
         7
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13883,7 +13683,6 @@
         7
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BOW",
@@ -13954,7 +13753,6 @@
         14
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_GUN",
       "status": [
@@ -13985,7 +13783,6 @@
         14
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14039,7 +13836,6 @@
         14
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14108,7 +13904,6 @@
         14
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14177,7 +13972,6 @@
         14
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14246,7 +14040,6 @@
         14
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14315,7 +14108,6 @@
         14
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14384,7 +14176,6 @@
         14
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14438,7 +14229,6 @@
         14
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14507,7 +14297,6 @@
         14
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14576,7 +14365,6 @@
         14
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14645,7 +14433,6 @@
         14
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14714,7 +14501,6 @@
         14
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14783,7 +14569,6 @@
         14
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14841,7 +14626,6 @@
         14
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14917,7 +14701,6 @@
         14
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -14993,7 +14776,6 @@
         14
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -15069,7 +14851,6 @@
         14
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -15145,7 +14926,6 @@
         14
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -15221,7 +15001,6 @@
         5
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_ROD",
       "status": [
@@ -15250,7 +15029,6 @@
         5
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_ROD",
       "status": [
@@ -15279,7 +15057,6 @@
         5
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15333,7 +15110,6 @@
         5
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15402,7 +15178,6 @@
         5
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15471,7 +15246,6 @@
         5
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15540,7 +15314,6 @@
         5
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15609,7 +15382,6 @@
         5
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15678,7 +15450,6 @@
         5
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15741,7 +15512,6 @@
         5
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15813,7 +15583,6 @@
         5
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15885,7 +15654,6 @@
         5
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -15957,7 +15725,6 @@
         5
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16029,7 +15796,6 @@
         5
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16101,7 +15867,6 @@
         5
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16157,7 +15922,6 @@
         5
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16228,7 +15992,6 @@
         5
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16299,7 +16062,6 @@
         5
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16370,7 +16132,6 @@
         5
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16441,7 +16202,6 @@
         5
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16512,7 +16272,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16566,7 +16325,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16635,7 +16393,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16704,7 +16461,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16773,7 +16529,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16842,7 +16597,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -16911,7 +16665,6 @@
         15
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_MACE",
       "status": [
@@ -16940,7 +16693,6 @@
         15
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -16994,7 +16746,6 @@
         15
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17063,7 +16814,6 @@
         15
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17132,7 +16882,6 @@
         15
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17201,7 +16950,6 @@
         15
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17270,7 +17018,6 @@
         15
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17339,7 +17086,6 @@
         15
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17395,7 +17141,6 @@
         15
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17466,7 +17211,6 @@
         15
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17537,7 +17281,6 @@
         15
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17608,7 +17351,6 @@
         15
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17679,7 +17421,6 @@
         15
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17750,7 +17491,6 @@
         15
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17806,7 +17546,6 @@
         15
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17877,7 +17616,6 @@
         15
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -17948,7 +17686,6 @@
         15
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -18019,7 +17756,6 @@
         15
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -18090,7 +17826,6 @@
         15
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -18161,7 +17896,6 @@
         8
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_AXE",
       "status": [
@@ -18196,7 +17930,6 @@
         8
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18254,7 +17987,6 @@
         8
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18327,7 +18059,6 @@
         8
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18400,7 +18131,6 @@
         8
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18473,7 +18203,6 @@
         8
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18546,7 +18275,6 @@
         8
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18619,7 +18347,6 @@
         8
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18677,7 +18404,6 @@
         8
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18750,7 +18476,6 @@
         8
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18823,7 +18548,6 @@
         8
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18896,7 +18620,6 @@
         8
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -18969,7 +18692,6 @@
         8
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -19042,7 +18764,6 @@
         8
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -19100,7 +18821,6 @@
         8
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -19173,7 +18893,6 @@
         8
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -19246,7 +18965,6 @@
         8
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -19319,7 +19037,6 @@
         8
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -19392,7 +19109,6 @@
         8
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -19465,7 +19181,6 @@
         17
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "hnum": 10,
       "equip": "AEC_SIELD",
@@ -19487,7 +19202,6 @@
         18
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -19515,7 +19229,6 @@
         18
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -19567,7 +19280,6 @@
         18
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -19634,7 +19346,6 @@
         18
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -19701,7 +19412,6 @@
         18
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -19768,7 +19478,6 @@
         18
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -19835,7 +19544,6 @@
         18
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -19902,7 +19610,6 @@
         18
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -19952,7 +19659,6 @@
         18
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20017,7 +19723,6 @@
         18
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20082,7 +19787,6 @@
         18
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20147,7 +19851,6 @@
         18
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20212,7 +19915,6 @@
         18
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20277,7 +19979,6 @@
         18
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20335,7 +20036,6 @@
         18
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20408,7 +20108,6 @@
         18
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20481,7 +20180,6 @@
         18
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20554,7 +20252,6 @@
         18
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20627,7 +20324,6 @@
         18
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20700,7 +20396,6 @@
         18
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20754,7 +20449,6 @@
         18
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20823,7 +20517,6 @@
         18
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20892,7 +20585,6 @@
         18
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -20961,7 +20653,6 @@
         18
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -21030,7 +20721,6 @@
         18
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -21100,7 +20790,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -21155,7 +20844,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -21225,7 +20913,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -21295,7 +20982,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -21365,7 +21051,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -21435,7 +21120,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ARM",
@@ -21504,7 +21188,6 @@
         20
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_HELM",
       "status": [
@@ -21531,7 +21214,6 @@
         20
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -21581,7 +21263,6 @@
         20
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -21646,7 +21327,6 @@
         20
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -21711,7 +21391,6 @@
         20
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -21776,7 +21455,6 @@
         20
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -21841,7 +21519,6 @@
         20
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -21906,7 +21583,6 @@
         20
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -21956,7 +21632,6 @@
         20
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22021,7 +21696,6 @@
         20
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22086,7 +21760,6 @@
         20
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22151,7 +21824,6 @@
         20
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22216,7 +21888,6 @@
         20
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22281,7 +21952,6 @@
         20
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22333,7 +22003,6 @@
         20
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22400,7 +22069,6 @@
         20
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22467,7 +22135,6 @@
         20
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22534,7 +22201,6 @@
         20
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22601,7 +22267,6 @@
         20
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -22668,7 +22333,6 @@
         19
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_HAT",
       "status": [
@@ -22695,7 +22359,6 @@
         19
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -22749,7 +22412,6 @@
         19
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -22818,7 +22480,6 @@
         19
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -22887,7 +22548,6 @@
         19
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -22956,7 +22616,6 @@
         19
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23025,7 +22684,6 @@
         19
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23094,7 +22752,6 @@
         19
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23148,7 +22805,6 @@
         19
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23217,7 +22873,6 @@
         19
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23286,7 +22941,6 @@
         19
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23355,7 +23009,6 @@
         19
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23424,7 +23077,6 @@
         19
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23493,7 +23145,6 @@
         19
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23547,7 +23198,6 @@
         19
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23616,7 +23266,6 @@
         19
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23685,7 +23334,6 @@
         19
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23754,7 +23402,6 @@
         19
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23823,7 +23470,6 @@
         19
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_HAT",
@@ -23892,7 +23538,6 @@
         21
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_CLOTH",
       "status": [
@@ -23919,7 +23564,6 @@
         21
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -23971,7 +23615,6 @@
         21
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24038,7 +23681,6 @@
         21
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24105,7 +23747,6 @@
         21
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24172,7 +23813,6 @@
         21
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24239,7 +23879,6 @@
         21
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24306,7 +23945,6 @@
         21
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24358,7 +23996,6 @@
         21
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24425,7 +24062,6 @@
         21
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24492,7 +24128,6 @@
         21
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24559,7 +24194,6 @@
         21
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24626,7 +24260,6 @@
         21
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24693,7 +24326,6 @@
         21
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24745,7 +24377,6 @@
         21
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24812,7 +24443,6 @@
         21
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24879,7 +24509,6 @@
         21
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -24946,7 +24575,6 @@
         21
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -25013,7 +24641,6 @@
         21
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -25080,7 +24707,6 @@
         21
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -25134,7 +24760,6 @@
         21
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -25203,7 +24828,6 @@
         21
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -25272,7 +24896,6 @@
         21
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -25341,7 +24964,6 @@
         21
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -25410,7 +25032,6 @@
         21
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_CLOTH",
@@ -25479,7 +25100,6 @@
         22
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 200,
       "equip": "AEC_ACCE",
       "status": [
@@ -25525,7 +25145,6 @@
         22
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -25596,7 +25215,6 @@
         22
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -25672,7 +25290,6 @@
         22
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -25748,7 +25365,6 @@
         22
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -25824,7 +25440,6 @@
         22
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -25900,7 +25515,6 @@
         22
       ],
       "rare": 1,
-      "cap": 99,
       "sell": 5000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -25976,7 +25590,6 @@
         22
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26047,7 +25660,6 @@
         22
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26123,7 +25735,6 @@
         22
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26199,7 +25810,6 @@
         22
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26275,7 +25885,6 @@
         22
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26351,7 +25960,6 @@
         22
       ],
       "rare": 2,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26427,7 +26035,6 @@
         22
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26498,7 +26105,6 @@
         22
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26574,7 +26180,6 @@
         22
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26650,7 +26255,6 @@
         22
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26726,7 +26330,6 @@
         22
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26802,7 +26405,6 @@
         22
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26878,7 +26480,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -26951,7 +26552,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27029,7 +26629,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27107,7 +26706,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27185,7 +26783,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27263,7 +26860,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27341,7 +26937,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27377,7 +26972,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27413,7 +27007,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27449,7 +27042,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27485,7 +27077,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27552,7 +27143,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27624,7 +27214,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27696,7 +27285,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27768,7 +27356,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27840,7 +27427,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -27905,481 +27491,6 @@
       ]
     },
     {
-      "iname": "AF_LW_ACC_002",
-      "asset": "LAPSwpn_acc_002",
-      "type": 2,
-      "cat": [
-        22
-      ],
-      "rare": 4,
-      "cap": 99,
-      "sell": 50000,
-      "hnum": 10,
-      "equip": "AEC_ACCE",
-      "status": [
-        {
-          "hp": 10,
-          "mp": 2,
-          "ap": 1,
-          "def": 1,
-          "mnd": 1,
-          "hit": 1,
-          "avd": 1,
-          "crt": 1
-        },
-        {
-          "hp": 196,
-          "mp": 21,
-          "ap": 20,
-          "def": 6,
-          "mnd": 6,
-          "hit": 12,
-          "avd": 9,
-          "crt": 12
-        }
-      ],
-      "rtype": "AF_LOT_50"
-    },
-    {
-      "iname": "AF_LW_KAT_008",
-      "asset": "LAPSwpn_kat_008",
-      "type": 0,
-      "cat": [
-        4
-      ],
-      "rare": 4,
-      "cap": 99,
-      "sell": 50000,
-      "hnum": 10,
-      "equip": "AEC_KATANA",
-      "status": [
-        {
-          "hp": 4,
-          "atk": 8,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        },
-        {
-          "hp": 74,
-          "atk": 159,
-          "mag": 9,
-          "hit": 12,
-          "crt": 13
-        }
-      ],
-      "randr": [
-        {
-          "hp": 30,
-          "atk": 32,
-          "mag": 16,
-          "hit": 12,
-          "crt": 14
-        }
-      ],
-      "randa": [
-        {
-          "hp": 2,
-          "atk": 4,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        }
-      ],
-      "rtype": "AF_LOT_LW_KAT_008",
-      "skl1": [
-        "SK_LW_KAT_008_1"
-      ],
-      "skl2": [
-        "SK_LW_KAT_008_1"
-      ],
-      "skl3": [
-        "SK_LW_KAT_008_1"
-      ],
-      "skl4": [
-        "SK_LW_KAT_008_1"
-      ],
-      "skl5": [
-        "SK_LW_KAT_008_5"
-      ]
-    },
-    {
-      "iname": "AF_LW_KAT_008_1",
-      "asset": "LAPSwpn_kat_008",
-      "type": 0,
-      "cat": [
-        4
-      ],
-      "rare": 4,
-      "cap": 99,
-      "sell": 50000,
-      "hnum": 10,
-      "equip": "AEC_KATANA",
-      "status": [
-        {
-          "hp": 4,
-          "atk": 8,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        },
-        {
-          "hp": 74,
-          "atk": 159,
-          "mag": 9,
-          "hit": 12,
-          "crt": 13
-        }
-      ],
-      "randr": [
-        {
-          "hp": 32,
-          "atk": 34,
-          "mag": 17,
-          "hit": 13,
-          "crt": 15
-        }
-      ],
-      "randa": [
-        {
-          "hp": 2,
-          "atk": 4,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        }
-      ],
-      "rtype": "AF_LOT_LW_KAT_008",
-      "skl1": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_1"
-      ],
-      "skl2": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_1"
-      ],
-      "skl3": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_1"
-      ],
-      "skl4": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_1"
-      ],
-      "skl5": [
-        "SK_LW_KAT_008_5",
-        "SK_LW_SLASH_1"
-      ]
-    },
-    {
-      "iname": "AF_LW_KAT_008_2",
-      "asset": "LAPSwpn_kat_008",
-      "type": 0,
-      "cat": [
-        4
-      ],
-      "rare": 4,
-      "cap": 99,
-      "sell": 50000,
-      "hnum": 10,
-      "equip": "AEC_KATANA",
-      "status": [
-        {
-          "hp": 4,
-          "atk": 8,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        },
-        {
-          "hp": 74,
-          "atk": 159,
-          "mag": 9,
-          "hit": 12,
-          "crt": 13
-        }
-      ],
-      "randr": [
-        {
-          "hp": 34,
-          "atk": 36,
-          "mag": 18,
-          "hit": 14,
-          "crt": 16
-        }
-      ],
-      "randa": [
-        {
-          "hp": 2,
-          "atk": 4,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        }
-      ],
-      "rtype": "AF_LOT_LW_KAT_008",
-      "skl1": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_2"
-      ],
-      "skl2": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_2"
-      ],
-      "skl3": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_2"
-      ],
-      "skl4": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_2"
-      ],
-      "skl5": [
-        "SK_LW_KAT_008_5",
-        "SK_LW_SLASH_2"
-      ]
-    },
-    {
-      "iname": "AF_LW_KAT_008_3",
-      "asset": "LAPSwpn_kat_008",
-      "type": 0,
-      "cat": [
-        4
-      ],
-      "rare": 4,
-      "cap": 99,
-      "sell": 50000,
-      "hnum": 10,
-      "equip": "AEC_KATANA",
-      "status": [
-        {
-          "hp": 4,
-          "atk": 8,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        },
-        {
-          "hp": 74,
-          "atk": 159,
-          "mag": 9,
-          "hit": 12,
-          "crt": 13
-        }
-      ],
-      "randr": [
-        {
-          "hp": 36,
-          "atk": 38,
-          "mag": 19,
-          "hit": 15,
-          "crt": 17
-        }
-      ],
-      "randa": [
-        {
-          "hp": 2,
-          "atk": 4,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        }
-      ],
-      "rtype": "AF_LOT_LW_KAT_008",
-      "skl1": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_3"
-      ],
-      "skl2": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_3"
-      ],
-      "skl3": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_3"
-      ],
-      "skl4": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_3"
-      ],
-      "skl5": [
-        "SK_LW_KAT_008_5",
-        "SK_LW_SLASH_3"
-      ]
-    },
-    {
-      "iname": "AF_LW_KAT_008_4",
-      "asset": "LAPSwpn_kat_008",
-      "type": 0,
-      "cat": [
-        4
-      ],
-      "rare": 4,
-      "cap": 99,
-      "sell": 50000,
-      "hnum": 10,
-      "equip": "AEC_KATANA",
-      "status": [
-        {
-          "hp": 4,
-          "atk": 8,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        },
-        {
-          "hp": 74,
-          "atk": 159,
-          "mag": 9,
-          "hit": 12,
-          "crt": 13
-        }
-      ],
-      "randr": [
-        {
-          "hp": 38,
-          "atk": 40,
-          "mag": 20,
-          "hit": 16,
-          "crt": 18
-        }
-      ],
-      "randa": [
-        {
-          "hp": 2,
-          "atk": 4,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        }
-      ],
-      "rtype": "AF_LOT_LW_KAT_008",
-      "skl1": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_4_UR"
-      ],
-      "skl2": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_4_UR"
-      ],
-      "skl3": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_4_UR"
-      ],
-      "skl4": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_4_UR"
-      ],
-      "skl5": [
-        "SK_LW_KAT_008_5",
-        "SK_LW_SLASH_4_UR"
-      ]
-    },
-    {
-      "iname": "AF_LW_KAT_008_5",
-      "asset": "LAPSwpn_kat_008",
-      "type": 0,
-      "cat": [
-        4
-      ],
-      "rare": 4,
-      "cap": 99,
-      "sell": 50000,
-      "hnum": 10,
-      "equip": "AEC_KATANA",
-      "status": [
-        {
-          "hp": 4,
-          "atk": 8,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        },
-        {
-          "hp": 74,
-          "atk": 159,
-          "mag": 9,
-          "hit": 12,
-          "crt": 13
-        }
-      ],
-      "randr": [
-        {
-          "hp": 40,
-          "atk": 42,
-          "mag": 21,
-          "hit": 17,
-          "crt": 19
-        }
-      ],
-      "randa": [
-        {
-          "hp": 2,
-          "atk": 4,
-          "def": 0,
-          "mag": 1,
-          "mnd": 0,
-          "hit": 1,
-          "avd": 0,
-          "crt": 1
-        }
-      ],
-      "rtype": "AF_LOT_LW_KAT_008",
-      "skl1": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_5_UR"
-      ],
-      "skl2": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_5_UR"
-      ],
-      "skl3": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_5_UR"
-      ],
-      "skl4": [
-        "SK_LW_KAT_008_1",
-        "SK_LW_SLASH_5_UR"
-      ],
-      "skl5": [
-        "SK_LW_KAT_008_5",
-        "SK_LW_SLASH_5_UR"
-      ]
-    },
-    {
       "iname": "AF_SWO_LW_LILS_1",
       "asset": "LAPSwpn_swo_012",
       "type": 0,
@@ -28388,7 +27499,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_SWORD",
       "status": [
@@ -28429,7 +27539,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_BSWORD",
       "status": [
@@ -28470,7 +27579,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_KATANA",
       "status": [
@@ -28513,7 +27621,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HAND",
       "status": [
@@ -28554,7 +27661,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_LANCE",
       "status": [
@@ -28595,7 +27701,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_LANCE",
       "status": [
@@ -28636,7 +27741,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_DAGGER",
       "status": [
@@ -28677,7 +27781,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_BOW",
       "status": [
@@ -28718,7 +27821,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_GUN",
       "status": [
@@ -28759,7 +27861,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ROD",
       "status": [
@@ -28800,7 +27901,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ROD",
       "status": [
@@ -28841,7 +27941,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ROD",
       "status": [
@@ -28882,7 +27981,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_MACE",
       "status": [
@@ -28923,7 +28021,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_BOW",
       "status": [
@@ -28966,7 +28063,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_NINJA",
       "status": [
@@ -29009,7 +28105,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_SIELD",
       "status": [
@@ -29048,7 +28143,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ARM",
       "status": [
@@ -29089,7 +28183,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ARM",
       "status": [
@@ -29128,7 +28221,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ARM",
       "status": [
@@ -29167,7 +28259,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -29208,7 +28299,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -29247,7 +28337,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -29286,7 +28375,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -29325,7 +28413,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HAT",
       "status": [
@@ -29366,7 +28453,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HAT",
       "status": [
@@ -29407,7 +28493,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HAT",
       "status": [
@@ -29448,7 +28533,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HAT",
       "status": [
@@ -29489,7 +28573,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HAT",
       "status": [
@@ -29530,7 +28613,6 @@
       ],
       "rare": 1,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HAT",
       "status": [
@@ -29556,7 +28638,6 @@
       ],
       "rare": 1,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HAT",
       "status": [
@@ -29582,7 +28663,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29625,7 +28705,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29668,7 +28747,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29707,7 +28785,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29750,7 +28827,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29791,7 +28867,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29832,7 +28907,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29873,7 +28947,6 @@
       ],
       "rare": 2,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29914,7 +28987,6 @@
       ],
       "rare": 1,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29940,7 +29012,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -29981,7 +29052,6 @@
       ],
       "rare": 0,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -30007,7 +29077,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HELM",
       "status": [
@@ -30049,7 +29118,6 @@
       "rare": 4,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -30091,7 +29159,6 @@
       "rare": 3,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ROD",
       "status": [
@@ -30130,7 +29197,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -30171,7 +29237,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_SWORD",
       "status": [
@@ -30212,7 +29277,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_HELM",
       "status": [
@@ -30253,7 +29317,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -30283,7 +29346,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -30331,7 +29393,6 @@
       "rare": 4,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -30373,7 +29434,6 @@
       "rare": 3,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_SWORD",
       "status": [
@@ -30415,7 +29475,6 @@
       "rare": 4,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_FFT_ORND",
       "status": [
@@ -30456,7 +29515,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -30499,7 +29557,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -30543,7 +29600,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -30584,7 +29640,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_AXE",
       "status": [
@@ -30625,7 +29680,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE_WOMAN",
       "status": [
@@ -30668,7 +29722,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_SWORD",
       "status": [
@@ -30709,7 +29762,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ARM",
       "status": [
@@ -30750,7 +29802,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -30789,7 +29840,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -30829,7 +29879,6 @@
       "rare": 4,
       "trust": 1,
       "collaboType": 2,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -30872,7 +29921,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE_WOMAN",
       "status": [
@@ -30915,7 +29963,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_SWORD",
       "status": [
@@ -30956,7 +30003,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -30985,7 +30031,6 @@
       "rare": 4,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -31028,7 +30073,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE",
       "status": [
@@ -31069,7 +30113,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_KATANA",
       "status": [
@@ -31112,7 +30155,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ACCE_1",
       "status": [
@@ -31153,7 +30195,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_SWORD",
       "status": [
@@ -31195,7 +30236,6 @@
       "rare": 4,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ARM",
       "status": [
@@ -31237,7 +30277,6 @@
       "rare": 4,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ARM",
       "status": [
@@ -31279,7 +30318,6 @@
       "rare": 3,
       "trust": 1,
       "collaboType": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_GUN",
       "status": [
@@ -31322,7 +30360,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH_MAG",
       "status": [
@@ -31363,7 +30400,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ARM",
       "status": [
@@ -31404,7 +30440,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_ARM",
       "status": [
@@ -31447,7 +30482,6 @@
       ],
       "rare": 3,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_BOW",
       "status": [
@@ -31490,7 +30524,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 0,
       "equip": "AEC_CLOTH",
       "status": [
@@ -31523,124 +30556,373 @@
       ]
     },
     {
-      "iname": "AF_SPE_LW_GRSR_2",
-      "asset": "LAPSwpn_spe_014",
-      "type": 0,
+      "iname": "AF_ACC_LW_RYER_01_1",
+      "asset": "LAPSwpn_acc_026",
+      "type": 2,
       "cat": [
-        10
+        22
       ],
       "rare": 4,
-      "cap": 99,
-      "sell": 25000,
-      "hnum": 10,
-      "equip": "AEC_BSWORD",
+      "trust": 1,
+      "sell": 0,
+      "equip": "AEC_ACCE",
       "status": [
         {
-          "hp": 4,
-          "atk": 10,
-          "mag": 2,
-          "hit": 1,
-          "crt": 1
+          "hp": 206,
+          "spd": 5,
+          "avd": 8
         },
         {
-          "hp": 69,
-          "atk": 189,
-          "mag": 21,
-          "hit": 17,
-          "crt": 15
+          "hp": 206,
+          "spd": 5,
+          "avd": 8
         }
       ],
-      "rtype": "AF_LOT_50"
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_ACC_LW_RYER_01_1_1"
+      ],
+      "skl2": [
+        "SK_ACC_LW_RYER_01_1_1"
+      ],
+      "skl3": [
+        "SK_ACC_LW_RYER_01_1_1"
+      ],
+      "skl4": [
+        "SK_ACC_LW_RYER_01_1_1"
+      ],
+      "skl5": [
+        "SK_ACC_LW_RYER_01_1_1"
+      ]
     },
     {
-      "iname": "AF_BSW_LW_STRN_01_2",
-      "asset": "LAPSwpn_bsw_008",
-      "type": 0,
+      "iname": "AF_ACC_LW_RIRY_01_1",
+      "asset": "LAPSwpn_acc_025",
+      "type": 2,
       "cat": [
-        3
+        22
       ],
       "rare": 4,
-      "cap": 99,
-      "sell": 25000,
-      "hnum": 10,
-      "equip": "AEC_BSWORD",
+      "trust": 1,
+      "sell": 0,
+      "equip": "AEC_ACCE_2",
       "status": [
         {
-          "hp": 4,
-          "atk": 10,
-          "mag": 2,
-          "hit": 1,
-          "crt": 1
+          "hp": 288,
+          "mag": 42,
+          "hit": 8,
+          "crt": 8
         },
         {
-          "hp": 69,
-          "atk": 189,
-          "mag": 21,
-          "hit": 17,
-          "crt": 15
+          "hp": 288,
+          "mag": 42,
+          "hit": 8,
+          "crt": 8
         }
       ],
-      "rtype": "AF_LOT_50"
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_ACC_LW_RIRY_01_1_1"
+      ],
+      "skl2": [
+        "SK_ACC_LW_RIRY_01_1_1"
+      ],
+      "skl3": [
+        "SK_ACC_LW_RIRY_01_1_1"
+      ],
+      "skl4": [
+        "SK_ACC_LW_RIRY_01_1_1"
+      ],
+      "skl5": [
+        "SK_ACC_LW_RIRY_01_1_1"
+      ]
     },
     {
-      "iname": "AF_MAC_LW_IRDL_2",
-      "asset": "LAPSwpn_mac_007",
+      "iname": "AF_CLT_LW_HWLT_1",
+      "asset": "LAPSwpn_clt_013",
+      "type": 1,
+      "cat": [
+        21
+      ],
+      "rare": 4,
+      "trust": 1,
+      "sell": 0,
+      "equip": "AEC_CLOTH_MAG",
+      "status": [
+        {
+          "hp": 320,
+          "def": 8,
+          "mnd": 8
+        },
+        {
+          "hp": 320,
+          "def": 8,
+          "mnd": 8
+        }
+      ],
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_CLT_LW_HWLT_1_1"
+      ],
+      "skl2": [
+        "SK_CLT_LW_HWLT_1_1"
+      ],
+      "skl3": [
+        "SK_CLT_LW_HWLT_1_1"
+      ],
+      "skl4": [
+        "SK_CLT_LW_HWLT_1_1"
+      ],
+      "skl5": [
+        "SK_CLT_LW_HWLT_1_1"
+      ]
+    },
+    {
+      "iname": "AF_ACC_LW_SCAL_1",
+      "asset": "LAPSwpn_acc_022",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "trust": 1,
+      "sell": 0,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 250,
+          "mnd": 8,
+          "hit": 8,
+          "crt": 10
+        },
+        {
+          "hp": 250,
+          "mnd": 8,
+          "hit": 8,
+          "crt": 10
+        }
+      ],
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_ACC_LW_SCAL_1_1"
+      ],
+      "skl2": [
+        "SK_ACC_LW_SCAL_1_1"
+      ],
+      "skl3": [
+        "SK_ACC_LW_SCAL_1_1"
+      ],
+      "skl4": [
+        "SK_ACC_LW_SCAL_1_1"
+      ],
+      "skl5": [
+        "SK_ACC_LW_SCAL_1_1"
+      ]
+    },
+    {
+      "iname": "AF_SWO_LW_MRAL_1",
+      "asset": "LAPSwpn_swo_019",
       "type": 0,
       "cat": [
-        3
+        2
       ],
       "rare": 3,
-      "cap": 99,
-      "sell": 25000,
-      "hnum": 10,
-      "equip": "AEC_BSWORD",
+      "trust": 1,
+      "sell": 0,
+      "equip": "AEC_SWORD",
       "status": [
         {
-          "hp": 4,
-          "atk": 10,
-          "mag": 2,
-          "hit": 1,
-          "crt": 1
+          "hp": 62,
+          "atk": 64,
+          "mag": 108
         },
         {
-          "hp": 69,
-          "atk": 189,
-          "mag": 21,
-          "hit": 17,
-          "crt": 15
+          "hp": 62,
+          "atk": 64,
+          "mag": 108
         }
       ],
-      "rtype": "AF_LOT_50"
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_SWO_LW_MRAL_1_1"
+      ],
+      "skl2": [
+        "SK_SWO_LW_MRAL_1_1"
+      ],
+      "skl3": [
+        "SK_SWO_LW_MRAL_1_1"
+      ],
+      "skl4": [
+        "SK_SWO_LW_MRAL_1_1"
+      ],
+      "skl5": [
+        "SK_SWO_LW_MRAL_1_1"
+      ]
     },
     {
-      "iname": "AF_KAT_LW_LSWL_2",
-      "asset": "LAPSwpn_kat_008",
+      "iname": "AF_ROD_LW_CHEL_1",
+      "asset": "LAPSwpn_rod_015",
       "type": 0,
       "cat": [
-        4
+        5
       ],
-      "rare": 4,
-      "cap": 99,
-      "sell": 25000,
-      "hnum": 10,
-      "equip": "AEC_KATANA",
+      "rare": 3,
+      "trust": 1,
+      "sell": 0,
+      "equip": "AEC_ROD",
       "status": [
         {
-          "hp": 4,
-          "atk": 10,
-          "mag": 2,
-          "hit": 1,
-          "crt": 1
+          "hp": 102,
+          "mag": 108,
+          "hit": 10
         },
         {
-          "hp": 69,
-          "atk": 189,
-          "mag": 21,
-          "hit": 17,
-          "crt": 15
+          "hp": 102,
+          "mag": 108,
+          "hit": 10
         }
       ],
-      "rtype": "AF_LOT_50"
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_ROD_LW_CHEL_1_1"
+      ],
+      "skl2": [
+        "SK_ROD_LW_CHEL_1_1"
+      ],
+      "skl3": [
+        "SK_ROD_LW_CHEL_1_1"
+      ],
+      "skl4": [
+        "SK_ROD_LW_CHEL_1_1"
+      ],
+      "skl5": [
+        "SK_ROD_LW_CHEL_1_1"
+      ]
+    },
+    {
+      "iname": "AF_ACC_FF4_CECL_1",
+      "asset": "FF04wpn_acc_001",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "trust": 1,
+      "collaboType": 1,
+      "sell": 0,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 362,
+          "atk": 42,
+          "def": 6,
+          "crt": 12
+        },
+        {
+          "hp": 362,
+          "atk": 42,
+          "def": 6,
+          "crt": 12
+        }
+      ],
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_ACC_FF4_CECL_1_1"
+      ],
+      "skl2": [
+        "SK_ACC_FF4_CECL_1_1"
+      ],
+      "skl3": [
+        "SK_ACC_FF4_CECL_1_1"
+      ],
+      "skl4": [
+        "SK_ACC_FF4_CECL_1_1"
+      ],
+      "skl5": [
+        "SK_ACC_FF4_CECL_1_1"
+      ]
+    },
+    {
+      "iname": "AF_ACC_FF4_ROSA_1",
+      "asset": "FF04wpn_acc_002",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "trust": 1,
+      "collaboType": 1,
+      "sell": 0,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 282,
+          "mnd": 10,
+          "crta": 10
+        },
+        {
+          "hp": 282,
+          "mnd": 10,
+          "crta": 10
+        }
+      ],
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_ACC_FF4_ROSA_1_1"
+      ],
+      "skl2": [
+        "SK_ACC_FF4_ROSA_1_1"
+      ],
+      "skl3": [
+        "SK_ACC_FF4_ROSA_1_1"
+      ],
+      "skl4": [
+        "SK_ACC_FF4_ROSA_1_1"
+      ],
+      "skl5": [
+        "SK_ACC_FF4_ROSA_1_1"
+      ]
+    },
+    {
+      "iname": "AF_HLM_FF4_KAIN_1",
+      "asset": "FF04wpn_hlm_001",
+      "type": 1,
+      "cat": [
+        20
+      ],
+      "rare": 4,
+      "trust": 1,
+      "collaboType": 1,
+      "sell": 0,
+      "equip": "AEC_HELM",
+      "status": [
+        {
+          "hp": 384,
+          "def": 10,
+          "crt": 8
+        },
+        {
+          "hp": 384,
+          "def": 10,
+          "crt": 8
+        }
+      ],
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_HLM_FF4_KAIN_1_1"
+      ],
+      "skl2": [
+        "SK_HLM_FF4_KAIN_1_1"
+      ],
+      "skl3": [
+        "SK_HLM_FF4_KAIN_1_1"
+      ],
+      "skl4": [
+        "SK_HLM_FF4_KAIN_1_1"
+      ],
+      "skl5": [
+        "SK_HLM_FF4_KAIN_1_1"
+      ]
     },
     {
       "iname": "AF_SWO_LW_MONT_2",
@@ -31650,7 +30932,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -31680,7 +30961,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -31710,7 +30990,6 @@
         2
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -31740,7 +31019,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -31770,7 +31048,6 @@
         4
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_KATANA",
@@ -31800,7 +31077,6 @@
         16
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_HAND",
@@ -31830,7 +31106,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -31860,7 +31135,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -31890,7 +31164,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -31920,7 +31193,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -31950,7 +31222,6 @@
         15
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_MACE",
@@ -31980,7 +31251,6 @@
         17
       ],
       "rare": 0,
-      "cap": 99,
       "sell": 0,
       "hnum": 10,
       "equip": "AEC_SIELD",
@@ -32006,7 +31276,6 @@
         14
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -32032,7 +31301,6 @@
         3
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -32058,7 +31326,6 @@
         8
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_AXE",
@@ -32084,7 +31351,6 @@
         17
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 0,
       "hnum": 10,
       "equip": "AEC_SIELD",
@@ -32110,7 +31376,6 @@
         17
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 0,
       "hnum": 10,
       "equip": "AEC_SIELD",
@@ -32136,7 +31401,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -32167,7 +31431,6 @@
       ],
       "rare": 4,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -32198,7 +31461,6 @@
       ],
       "rare": 4,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -32228,7 +31490,6 @@
         2
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 10000,
       "hnum": 10,
       "status": [
@@ -32257,7 +31518,6 @@
         6
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_NINJA",
@@ -32287,7 +31547,6 @@
         2
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -32317,7 +31576,6 @@
         14
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_GUN",
@@ -32347,7 +31605,6 @@
         10
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_LANCE",
@@ -32377,7 +31634,6 @@
         3
       ],
       "rare": 3,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -32408,7 +31664,6 @@
       ],
       "rare": 4,
       "collaboType": 2,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -32438,7 +31693,6 @@
         1
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_DAGGER",
@@ -32469,7 +31723,6 @@
       ],
       "rare": 4,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -32499,7 +31752,6 @@
         5
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ROD",
@@ -32530,7 +31782,6 @@
       ],
       "rare": 4,
       "trust": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -32561,7 +31812,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -32592,7 +31842,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_SWORD",
@@ -32615,6 +31864,358 @@
       "rtype": "AF_LOT_50"
     },
     {
+      "iname": "AF_MAC_LW_IRDL_2",
+      "asset": "LAPSwpn_mac_007",
+      "type": 0,
+      "cat": [
+        3
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_BSWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 10,
+          "mag": 2,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 189,
+          "mag": 21,
+          "hit": 17,
+          "crt": 15
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_BSW_LW_STRN_01_2",
+      "asset": "LAPSwpn_bsw_008",
+      "type": 0,
+      "cat": [
+        3
+      ],
+      "rare": 4,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_BSWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 10,
+          "mag": 2,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 189,
+          "mag": 21,
+          "hit": 17,
+          "crt": 15
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_KAT_LW_LSWL_2",
+      "asset": "LAPSwpn_kat_008",
+      "type": 0,
+      "cat": [
+        4
+      ],
+      "rare": 4,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_KATANA",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 10,
+          "mag": 2,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 189,
+          "mag": 21,
+          "hit": 17,
+          "crt": 15
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_SPE_LW_GRSR_2",
+      "asset": "LAPSwpn_spe_014",
+      "type": 0,
+      "cat": [
+        10
+      ],
+      "rare": 4,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_BSWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 10,
+          "mag": 2,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 189,
+          "mag": 21,
+          "hit": 17,
+          "crt": 15
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_MAC_LW_RYER_01_2",
+      "asset": "LAPSwpn_mac_010",
+      "type": 0,
+      "cat": [
+        15
+      ],
+      "rare": 4,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_MACE",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 10,
+          "mag": 2,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 189,
+          "mag": 21,
+          "hit": 17,
+          "crt": 15
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_SWO_LW_RIRY_01_2",
+      "asset": "LAPSwpn_swo_026",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 4,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 9,
+          "mag": 7,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 168,
+          "mag": 126,
+          "hit": 17,
+          "crt": 13
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_SWO_LW_HWLT_2",
+      "asset": "LAPSwpn_swo_021",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 4,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 9,
+          "mag": 7,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 168,
+          "mag": 126,
+          "hit": 17,
+          "crt": 13
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_ROD_LW_SCAL_2",
+      "asset": "LAPSwpn_rod_017",
+      "type": 0,
+      "cat": [
+        5
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_ROD",
+      "status": [
+        {
+          "hp": 15,
+          "atk": 2,
+          "mag": 14,
+          "hit": 2,
+          "crt": 1
+        },
+        {
+          "hp": 293,
+          "atk": 30,
+          "mag": 270,
+          "hit": 27,
+          "crt": 9
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_SWO_FF4_CECL_2",
+      "asset": "FF04wpn_swo_000",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 9,
+          "mag": 7,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 168,
+          "mag": 126,
+          "hit": 17,
+          "crt": 13
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_BOW_FF4_ROSA_2",
+      "asset": "FF04wpn_bow_000",
+      "type": 0,
+      "cat": [
+        7
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_BOW",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 9,
+          "mag": 2,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 168,
+          "mag": 21,
+          "hit": 17,
+          "crt": 17
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_SPE_FF4_KAIN_2",
+      "asset": "FF04wpn_spe_000",
+      "type": 0,
+      "cat": [
+        10
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_LANCE",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 10,
+          "mag": 2,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 189,
+          "mag": 21,
+          "hit": 17,
+          "crt": 15
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_ROD_FF4_GLBZ_2",
+      "asset": "FF04wpn_rod_000",
+      "type": 0,
+      "cat": [
+        5
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_ROD",
+      "status": [
+        {
+          "hp": 15,
+          "atk": 2,
+          "mag": 14,
+          "hit": 2,
+          "crt": 1
+        },
+        {
+          "hp": 293,
+          "atk": 30,
+          "mag": 270,
+          "hit": 27,
+          "crt": 9
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
       "iname": "AF_LW_RNG_005",
       "asset": "LAPSwpn_rng_005",
       "type": 2,
@@ -32622,7 +32223,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -32692,7 +32292,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -32767,7 +32366,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -32842,7 +32440,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -32917,7 +32514,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -32992,7 +32588,6 @@
         22
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -33060,6 +32655,69 @@
       ]
     },
     {
+      "iname": "AF_LW_RNG_007",
+      "asset": "LAPSwpn_rng_007",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "cap": 1,
+      "sell": 0,
+      "hnum": 10,
+      "equip": "AEC_RNG_007",
+      "status": [
+        {
+          "hp": 17,
+          "atk": 5,
+          "def": 1,
+          "mag": 5,
+          "mnd": 1
+        },
+        {
+          "hp": 346,
+          "atk": 100,
+          "def": 24,
+          "mag": 100,
+          "mnd": 24
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "atk": 32,
+          "def": 12,
+          "mag": 32,
+          "mnd": 12
+        }
+      ],
+      "randa": [
+        {
+          "hp": 7,
+          "atk": 3,
+          "def": 2,
+          "mag": 3,
+          "mnd": 2
+        }
+      ],
+      "rtype": "AF_LOT_LW_RNG_007",
+      "skl1": [
+        "SK_LW_RNG_007_1"
+      ],
+      "skl2": [
+        "SK_LW_RNG_007_1"
+      ],
+      "skl3": [
+        "SK_LW_RNG_007_1"
+      ],
+      "skl4": [
+        "SK_LW_RNG_007_1"
+      ],
+      "skl5": [
+        "SK_LW_RNG_007_5"
+      ]
+    },
+    {
       "iname": "AF_LW_BSW_011",
       "asset": "LAPSwpn_bsw_011",
       "type": 0,
@@ -33067,7 +32725,7 @@
         3
       ],
       "rare": 4,
-      "cap": 99,
+      "cap": 1,
       "sell": 0,
       "hnum": 10,
       "equip": "AEC_BSWORD",
@@ -33143,7 +32801,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -33215,7 +32872,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -33292,7 +32948,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -33369,7 +33024,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -33446,7 +33100,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -33523,7 +33176,6 @@
       ],
       "rare": 3,
       "collaboType": 1,
-      "cap": 99,
       "sell": 25000,
       "hnum": 10,
       "equip": "AEC_ACCE",
@@ -33599,7 +33251,6 @@
         20
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -33655,7 +33306,6 @@
         20
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -33726,7 +33376,6 @@
         20
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -33797,7 +33446,6 @@
         20
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -33868,7 +33516,6 @@
         20
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -33939,7 +33586,6 @@
         20
       ],
       "rare": 4,
-      "cap": 99,
       "sell": 50000,
       "hnum": 10,
       "equip": "AEC_HELM",
@@ -34000,6 +33646,2410 @@
       ],
       "skl5": [
         "SK_LW_DF_SLASH_5_UR"
+      ]
+    },
+    {
+      "iname": "AF_LW_KAT_008",
+      "asset": "LAPSwpn_kat_008",
+      "type": 0,
+      "cat": [
+        4
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_KATANA",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 8,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 74,
+          "atk": 159,
+          "mag": 9,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 30,
+          "atk": 32,
+          "mag": 16,
+          "hit": 12,
+          "crt": 14
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_KAT_008",
+      "skl1": [
+        "SK_LW_KAT_008_1"
+      ],
+      "skl2": [
+        "SK_LW_KAT_008_1"
+      ],
+      "skl3": [
+        "SK_LW_KAT_008_1"
+      ],
+      "skl4": [
+        "SK_LW_KAT_008_1"
+      ],
+      "skl5": [
+        "SK_LW_KAT_008_5"
+      ]
+    },
+    {
+      "iname": "AF_LW_KAT_008_1",
+      "asset": "LAPSwpn_kat_008",
+      "type": 0,
+      "cat": [
+        4
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_KATANA",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 8,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 74,
+          "atk": 159,
+          "mag": 9,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 32,
+          "atk": 34,
+          "mag": 17,
+          "hit": 13,
+          "crt": 15
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_KAT_008",
+      "skl1": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_1"
+      ],
+      "skl2": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_1"
+      ],
+      "skl3": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_1"
+      ],
+      "skl4": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_1"
+      ],
+      "skl5": [
+        "SK_LW_KAT_008_5",
+        "SK_LW_SLASH_1"
+      ]
+    },
+    {
+      "iname": "AF_LW_KAT_008_2",
+      "asset": "LAPSwpn_kat_008",
+      "type": 0,
+      "cat": [
+        4
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_KATANA",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 8,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 74,
+          "atk": 159,
+          "mag": 9,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 34,
+          "atk": 36,
+          "mag": 18,
+          "hit": 14,
+          "crt": 16
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_KAT_008",
+      "skl1": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_2"
+      ],
+      "skl2": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_2"
+      ],
+      "skl3": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_2"
+      ],
+      "skl4": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_2"
+      ],
+      "skl5": [
+        "SK_LW_KAT_008_5",
+        "SK_LW_SLASH_2"
+      ]
+    },
+    {
+      "iname": "AF_LW_KAT_008_3",
+      "asset": "LAPSwpn_kat_008",
+      "type": 0,
+      "cat": [
+        4
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_KATANA",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 8,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 74,
+          "atk": 159,
+          "mag": 9,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "atk": 38,
+          "mag": 19,
+          "hit": 15,
+          "crt": 17
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_KAT_008",
+      "skl1": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_3"
+      ],
+      "skl2": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_3"
+      ],
+      "skl3": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_3"
+      ],
+      "skl4": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_3"
+      ],
+      "skl5": [
+        "SK_LW_KAT_008_5",
+        "SK_LW_SLASH_3"
+      ]
+    },
+    {
+      "iname": "AF_LW_KAT_008_4",
+      "asset": "LAPSwpn_kat_008",
+      "type": 0,
+      "cat": [
+        4
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_KATANA",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 8,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 74,
+          "atk": 159,
+          "mag": 9,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 38,
+          "atk": 40,
+          "mag": 20,
+          "hit": 16,
+          "crt": 18
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_KAT_008",
+      "skl1": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_4_UR"
+      ],
+      "skl2": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_4_UR"
+      ],
+      "skl3": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_4_UR"
+      ],
+      "skl4": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_4_UR"
+      ],
+      "skl5": [
+        "SK_LW_KAT_008_5",
+        "SK_LW_SLASH_4_UR"
+      ]
+    },
+    {
+      "iname": "AF_LW_KAT_008_5",
+      "asset": "LAPSwpn_kat_008",
+      "type": 0,
+      "cat": [
+        4
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_KATANA",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 8,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 74,
+          "atk": 159,
+          "mag": 9,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 40,
+          "atk": 42,
+          "mag": 21,
+          "hit": 17,
+          "crt": 19
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_KAT_008",
+      "skl1": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_5_UR"
+      ],
+      "skl2": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_5_UR"
+      ],
+      "skl3": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_5_UR"
+      ],
+      "skl4": [
+        "SK_LW_KAT_008_1",
+        "SK_LW_SLASH_5_UR"
+      ],
+      "skl5": [
+        "SK_LW_KAT_008_5",
+        "SK_LW_SLASH_5_UR"
+      ]
+    },
+    {
+      "iname": "AF_LW_SWO_023",
+      "asset": "LAPSwpn_swo_023",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 2,
+          "mag": 8,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 73,
+          "atk": 47,
+          "mag": 162,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 30,
+          "atk": 28,
+          "mag": 36,
+          "hit": 12,
+          "crt": 12
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 0,
+          "mag": 4,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_SWO_023"
+    },
+    {
+      "iname": "AF_LW_SWO_023_1",
+      "asset": "LAPSwpn_swo_023",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 2,
+          "mag": 8,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 73,
+          "atk": 47,
+          "mag": 162,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 32,
+          "atk": 30,
+          "mag": 38,
+          "hit": 13,
+          "crt": 13
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 0,
+          "mag": 4,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_SWO_023",
+      "skl1": [
+        "SK_LW_SLASH_1"
+      ],
+      "skl2": [
+        "SK_LW_SLASH_1"
+      ],
+      "skl3": [
+        "SK_LW_SLASH_1"
+      ],
+      "skl4": [
+        "SK_LW_SLASH_1"
+      ],
+      "skl5": [
+        "SK_LW_SLASH_1"
+      ]
+    },
+    {
+      "iname": "AF_LW_SWO_023_2",
+      "asset": "LAPSwpn_swo_023",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 2,
+          "mag": 8,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 73,
+          "atk": 47,
+          "mag": 162,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 34,
+          "atk": 32,
+          "mag": 40,
+          "hit": 14,
+          "crt": 14
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 0,
+          "mag": 4,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_SWO_023",
+      "skl1": [
+        "SK_LW_SLASH_2"
+      ],
+      "skl2": [
+        "SK_LW_SLASH_2"
+      ],
+      "skl3": [
+        "SK_LW_SLASH_2"
+      ],
+      "skl4": [
+        "SK_LW_SLASH_2"
+      ],
+      "skl5": [
+        "SK_LW_SLASH_2"
+      ]
+    },
+    {
+      "iname": "AF_LW_SWO_023_3",
+      "asset": "LAPSwpn_swo_023",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 2,
+          "mag": 8,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 73,
+          "atk": 47,
+          "mag": 162,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "atk": 34,
+          "mag": 42,
+          "hit": 15,
+          "crt": 15
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 0,
+          "mag": 4,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_SWO_023",
+      "skl1": [
+        "SK_LW_SLASH_3"
+      ],
+      "skl2": [
+        "SK_LW_SLASH_3"
+      ],
+      "skl3": [
+        "SK_LW_SLASH_3"
+      ],
+      "skl4": [
+        "SK_LW_SLASH_3"
+      ],
+      "skl5": [
+        "SK_LW_SLASH_3"
+      ]
+    },
+    {
+      "iname": "AF_LW_SWO_023_4",
+      "asset": "LAPSwpn_swo_023",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 2,
+          "mag": 8,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 73,
+          "atk": 47,
+          "mag": 162,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 38,
+          "atk": 36,
+          "mag": 44,
+          "hit": 16,
+          "crt": 16
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 0,
+          "mag": 4,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_SWO_023",
+      "skl1": [
+        "SK_LW_SLASH_4_SSR"
+      ],
+      "skl2": [
+        "SK_LW_SLASH_4_SSR"
+      ],
+      "skl3": [
+        "SK_LW_SLASH_4_SSR"
+      ],
+      "skl4": [
+        "SK_LW_SLASH_4_SSR"
+      ],
+      "skl5": [
+        "SK_LW_SLASH_4_SSR"
+      ]
+    },
+    {
+      "iname": "AF_LW_SWO_023_5",
+      "asset": "LAPSwpn_swo_023",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 2,
+          "mag": 8,
+          "hit": 1,
+          "crt": 1
+        },
+        {
+          "hp": 73,
+          "atk": 47,
+          "mag": 162,
+          "hit": 12,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 40,
+          "atk": 38,
+          "mag": 46,
+          "hit": 17,
+          "crt": 17
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 0,
+          "mag": 4,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_SWO_023",
+      "skl1": [
+        "SK_LW_SLASH_5_SSR"
+      ],
+      "skl2": [
+        "SK_LW_SLASH_5_SSR"
+      ],
+      "skl3": [
+        "SK_LW_SLASH_5_SSR"
+      ],
+      "skl4": [
+        "SK_LW_SLASH_5_SSR"
+      ],
+      "skl5": [
+        "SK_LW_SLASH_5_SSR"
+      ]
+    },
+    {
+      "iname": "AF_LW_HAT_005",
+      "asset": "LAPSwpn_hat_005",
+      "type": 1,
+      "cat": [
+        19
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_HAT",
+      "status": [
+        {
+          "hp": 11,
+          "atk": 1,
+          "def": 1,
+          "dex": 1,
+          "hit": 1
+        },
+        {
+          "hp": 217,
+          "atk": 20,
+          "def": 14,
+          "dex": 20,
+          "hit": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 30,
+          "atk": 15,
+          "def": 12,
+          "hit": 13,
+          "dex": 24
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 1,
+          "mag": 0,
+          "mnd": 0,
+          "hit": 1,
+          "dex": 1,
+          "avd": 0,
+          "crt": 0
+        }
+      ],
+      "rtype": "AF_LOT_LW_HAT_005"
+    },
+    {
+      "iname": "AF_LW_HAT_005_1",
+      "asset": "LAPSwpn_hat_005",
+      "type": 1,
+      "cat": [
+        19
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_HAT",
+      "status": [
+        {
+          "hp": 11,
+          "atk": 1,
+          "def": 1,
+          "dex": 1,
+          "hit": 1
+        },
+        {
+          "hp": 217,
+          "atk": 20,
+          "def": 14,
+          "dex": 20,
+          "hit": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 32,
+          "atk": 16,
+          "def": 13,
+          "hit": 14,
+          "dex": 26
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 1,
+          "mag": 0,
+          "mnd": 0,
+          "hit": 1,
+          "dex": 1,
+          "avd": 0,
+          "crt": 0
+        }
+      ],
+      "rtype": "AF_LOT_LW_HAT_005",
+      "skl1": [
+        "SK_LW_HIT_1"
+      ],
+      "skl2": [
+        "SK_LW_HIT_1"
+      ],
+      "skl3": [
+        "SK_LW_HIT_1"
+      ],
+      "skl4": [
+        "SK_LW_HIT_1"
+      ],
+      "skl5": [
+        "SK_LW_HIT_1"
+      ]
+    },
+    {
+      "iname": "AF_LW_HAT_005_2",
+      "asset": "LAPSwpn_hat_005",
+      "type": 1,
+      "cat": [
+        19
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_HAT",
+      "status": [
+        {
+          "hp": 11,
+          "atk": 1,
+          "def": 1,
+          "dex": 1,
+          "hit": 1
+        },
+        {
+          "hp": 217,
+          "atk": 20,
+          "def": 14,
+          "dex": 20,
+          "hit": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 34,
+          "atk": 17,
+          "def": 14,
+          "hit": 15,
+          "dex": 28
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 1,
+          "mag": 0,
+          "mnd": 0,
+          "hit": 1,
+          "dex": 1,
+          "avd": 0,
+          "crt": 0
+        }
+      ],
+      "rtype": "AF_LOT_LW_HAT_005",
+      "skl1": [
+        "SK_LW_HIT_2"
+      ],
+      "skl2": [
+        "SK_LW_HIT_2"
+      ],
+      "skl3": [
+        "SK_LW_HIT_2"
+      ],
+      "skl4": [
+        "SK_LW_HIT_2"
+      ],
+      "skl5": [
+        "SK_LW_HIT_2"
+      ]
+    },
+    {
+      "iname": "AF_LW_HAT_005_3",
+      "asset": "LAPSwpn_hat_005",
+      "type": 1,
+      "cat": [
+        19
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_HAT",
+      "status": [
+        {
+          "hp": 11,
+          "atk": 1,
+          "def": 1,
+          "dex": 1,
+          "hit": 1
+        },
+        {
+          "hp": 217,
+          "atk": 20,
+          "def": 14,
+          "dex": 20,
+          "hit": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "atk": 18,
+          "def": 15,
+          "hit": 16,
+          "dex": 30
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 1,
+          "mag": 0,
+          "mnd": 0,
+          "hit": 1,
+          "dex": 1,
+          "avd": 0,
+          "crt": 0
+        }
+      ],
+      "rtype": "AF_LOT_LW_HAT_005",
+      "skl1": [
+        "SK_LW_HIT_3"
+      ],
+      "skl2": [
+        "SK_LW_HIT_3"
+      ],
+      "skl3": [
+        "SK_LW_HIT_3"
+      ],
+      "skl4": [
+        "SK_LW_HIT_3"
+      ],
+      "skl5": [
+        "SK_LW_HIT_3"
+      ]
+    },
+    {
+      "iname": "AF_LW_HAT_005_4",
+      "asset": "LAPSwpn_hat_005",
+      "type": 1,
+      "cat": [
+        19
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_HAT",
+      "status": [
+        {
+          "hp": 11,
+          "atk": 1,
+          "def": 1,
+          "dex": 1,
+          "hit": 1
+        },
+        {
+          "hp": 217,
+          "atk": 20,
+          "def": 14,
+          "dex": 20,
+          "hit": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 38,
+          "atk": 19,
+          "def": 16,
+          "hit": 17,
+          "dex": 32
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 1,
+          "mag": 0,
+          "mnd": 0,
+          "hit": 1,
+          "dex": 1,
+          "avd": 0,
+          "crt": 0
+        }
+      ],
+      "rtype": "AF_LOT_LW_HAT_005",
+      "skl1": [
+        "SK_LW_HIT_4_N_SSR"
+      ],
+      "skl2": [
+        "SK_LW_HIT_4_N_SSR"
+      ],
+      "skl3": [
+        "SK_LW_HIT_4_N_SSR"
+      ],
+      "skl4": [
+        "SK_LW_HIT_4_N_SSR"
+      ],
+      "skl5": [
+        "SK_LW_HIT_4_N_SSR"
+      ]
+    },
+    {
+      "iname": "AF_LW_HAT_005_5",
+      "asset": "LAPSwpn_hat_005",
+      "type": 1,
+      "cat": [
+        19
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_HAT",
+      "status": [
+        {
+          "hp": 11,
+          "atk": 1,
+          "def": 1,
+          "dex": 1,
+          "hit": 1
+        },
+        {
+          "hp": 217,
+          "atk": 20,
+          "def": 14,
+          "dex": 20,
+          "hit": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 40,
+          "atk": 20,
+          "def": 17,
+          "hit": 18,
+          "dex": 34
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 1,
+          "def": 1,
+          "mag": 0,
+          "mnd": 0,
+          "hit": 1,
+          "dex": 1,
+          "avd": 0,
+          "crt": 0
+        }
+      ],
+      "rtype": "AF_LOT_LW_HAT_005",
+      "skl1": [
+        "SK_LW_HIT_5_SSR"
+      ],
+      "skl2": [
+        "SK_LW_HIT_5_SSR"
+      ],
+      "skl3": [
+        "SK_LW_HIT_5_SSR"
+      ],
+      "skl4": [
+        "SK_LW_HIT_5_SSR"
+      ],
+      "skl5": [
+        "SK_LW_HIT_5_SSR"
+      ]
+    },
+    {
+      "iname": "AF_FF4_ARM_001",
+      "asset": "FF04wpn_arm_001",
+      "type": 1,
+      "cat": [
+        18
+      ],
+      "rare": 3,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ARM",
+      "status": [
+        {
+          "hp": 39,
+          "def": 1,
+          "mnd": 1,
+          "avd": -10,
+          "crt": -8
+        },
+        {
+          "hp": 785,
+          "def": 12,
+          "mnd": 12,
+          "avd": -20,
+          "crt": 0
+        }
+      ],
+      "randr": [
+        {
+          "hp": 30,
+          "def": 11,
+          "mnd": 11,
+          "avd": 11,
+          "crt": 11
+        }
+      ],
+      "randa": [
+        {
+          "hp": 21,
+          "atk": 0,
+          "def": 1,
+          "mag": 0,
+          "mnd": 1,
+          "hit": 0,
+          "avd": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_ARM_001"
+    },
+    {
+      "iname": "AF_FF4_ARM_001_1",
+      "asset": "FF04wpn_arm_001",
+      "type": 1,
+      "cat": [
+        18
+      ],
+      "rare": 3,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ARM",
+      "status": [
+        {
+          "hp": 39,
+          "def": 1,
+          "mnd": 1,
+          "avd": -10,
+          "crt": -8
+        },
+        {
+          "hp": 785,
+          "def": 12,
+          "mnd": 12,
+          "avd": -20,
+          "crt": 0
+        }
+      ],
+      "randr": [
+        {
+          "hp": 32,
+          "def": 12,
+          "mnd": 12,
+          "avd": 12,
+          "crt": 12
+        }
+      ],
+      "randa": [
+        {
+          "hp": 21,
+          "atk": 0,
+          "def": 1,
+          "mag": 0,
+          "mnd": 1,
+          "hit": 0,
+          "avd": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_ARM_001",
+      "skl1": [
+        "SK_LW_DF_SHOOT_1"
+      ],
+      "skl2": [
+        "SK_LW_DF_SHOOT_1"
+      ],
+      "skl3": [
+        "SK_LW_DF_SHOOT_1"
+      ],
+      "skl4": [
+        "SK_LW_DF_SHOOT_1"
+      ],
+      "skl5": [
+        "SK_LW_DF_SHOOT_1"
+      ]
+    },
+    {
+      "iname": "AF_FF4_ARM_001_2",
+      "asset": "FF04wpn_arm_001",
+      "type": 1,
+      "cat": [
+        18
+      ],
+      "rare": 3,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ARM",
+      "status": [
+        {
+          "hp": 39,
+          "def": 1,
+          "mnd": 1,
+          "avd": -10,
+          "crt": -8
+        },
+        {
+          "hp": 785,
+          "def": 12,
+          "mnd": 12,
+          "avd": -20,
+          "crt": 0
+        }
+      ],
+      "randr": [
+        {
+          "hp": 34,
+          "def": 13,
+          "mnd": 13,
+          "avd": 13,
+          "crt": 13
+        }
+      ],
+      "randa": [
+        {
+          "hp": 21,
+          "atk": 0,
+          "def": 1,
+          "mag": 0,
+          "mnd": 1,
+          "hit": 0,
+          "avd": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_ARM_001",
+      "skl1": [
+        "SK_LW_DF_SHOOT_2"
+      ],
+      "skl2": [
+        "SK_LW_DF_SHOOT_2"
+      ],
+      "skl3": [
+        "SK_LW_DF_SHOOT_2"
+      ],
+      "skl4": [
+        "SK_LW_DF_SHOOT_2"
+      ],
+      "skl5": [
+        "SK_LW_DF_SHOOT_2"
+      ]
+    },
+    {
+      "iname": "AF_FF4_ARM_001_3",
+      "asset": "FF04wpn_arm_001",
+      "type": 1,
+      "cat": [
+        18
+      ],
+      "rare": 3,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ARM",
+      "status": [
+        {
+          "hp": 39,
+          "def": 1,
+          "mnd": 1,
+          "avd": -10,
+          "crt": -8
+        },
+        {
+          "hp": 785,
+          "def": 12,
+          "mnd": 12,
+          "avd": -20,
+          "crt": 0
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "def": 14,
+          "mnd": 14,
+          "avd": 14,
+          "crt": 14
+        }
+      ],
+      "randa": [
+        {
+          "hp": 21,
+          "atk": 0,
+          "def": 1,
+          "mag": 0,
+          "mnd": 1,
+          "hit": 0,
+          "avd": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_ARM_001",
+      "skl1": [
+        "SK_LW_DF_SHOOT_3"
+      ],
+      "skl2": [
+        "SK_LW_DF_SHOOT_3"
+      ],
+      "skl3": [
+        "SK_LW_DF_SHOOT_3"
+      ],
+      "skl4": [
+        "SK_LW_DF_SHOOT_3"
+      ],
+      "skl5": [
+        "SK_LW_DF_SHOOT_3"
+      ]
+    },
+    {
+      "iname": "AF_FF4_ARM_001_4",
+      "asset": "FF04wpn_arm_001",
+      "type": 1,
+      "cat": [
+        18
+      ],
+      "rare": 3,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ARM",
+      "status": [
+        {
+          "hp": 39,
+          "def": 1,
+          "mnd": 1,
+          "avd": -10,
+          "crt": -8
+        },
+        {
+          "hp": 785,
+          "def": 12,
+          "mnd": 12,
+          "avd": -20,
+          "crt": 0
+        }
+      ],
+      "randr": [
+        {
+          "hp": 38,
+          "def": 15,
+          "mnd": 15,
+          "avd": 15,
+          "crt": 15
+        }
+      ],
+      "randa": [
+        {
+          "hp": 21,
+          "atk": 0,
+          "def": 1,
+          "mag": 0,
+          "mnd": 1,
+          "hit": 0,
+          "avd": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_ARM_001",
+      "skl1": [
+        "SK_LW_DF_SHOOT_4_N_SSR"
+      ],
+      "skl2": [
+        "SK_LW_DF_SHOOT_4_N_SSR"
+      ],
+      "skl3": [
+        "SK_LW_DF_SHOOT_4_N_SSR"
+      ],
+      "skl4": [
+        "SK_LW_DF_SHOOT_4_N_SSR"
+      ],
+      "skl5": [
+        "SK_LW_DF_SHOOT_4_N_SSR"
+      ]
+    },
+    {
+      "iname": "AF_FF4_ARM_001_5",
+      "asset": "FF04wpn_arm_001",
+      "type": 1,
+      "cat": [
+        18
+      ],
+      "rare": 3,
+      "collaboType": 1,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ARM",
+      "status": [
+        {
+          "hp": 39,
+          "def": 1,
+          "mnd": 1,
+          "avd": -10,
+          "crt": -8
+        },
+        {
+          "hp": 785,
+          "def": 12,
+          "mnd": 12,
+          "avd": -20,
+          "crt": 0
+        }
+      ],
+      "randr": [
+        {
+          "hp": 40,
+          "def": 16,
+          "mnd": 16,
+          "avd": 16,
+          "crt": 16
+        }
+      ],
+      "randa": [
+        {
+          "hp": 21,
+          "atk": 0,
+          "def": 1,
+          "mag": 0,
+          "mnd": 1,
+          "hit": 0,
+          "avd": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_ARM_001",
+      "skl1": [
+        "SK_LW_DF_SHOOT_5_SSR"
+      ],
+      "skl2": [
+        "SK_LW_DF_SHOOT_5_SSR"
+      ],
+      "skl3": [
+        "SK_LW_DF_SHOOT_5_SSR"
+      ],
+      "skl4": [
+        "SK_LW_DF_SHOOT_5_SSR"
+      ],
+      "skl5": [
+        "SK_LW_DF_SHOOT_5_SSR"
+      ]
+    },
+    {
+      "iname": "AF_FF4_SPE_000",
+      "asset": "FF04wpn_spe_000",
+      "type": 0,
+      "cat": [
+        10
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_LANCE",
+      "status": [
+        {
+          "hp": 3,
+          "atk": 9,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "spd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 176,
+          "mag": 20,
+          "spd": 5,
+          "hit": 36,
+          "crt": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 30,
+          "atk": 32,
+          "mag": 16,
+          "hit": 14,
+          "spd": 16,
+          "crt": 11
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 6,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 2,
+          "spd": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_SPE_000"
+    },
+    {
+      "iname": "AF_FF4_SPE_000_1",
+      "asset": "FF04wpn_spe_000",
+      "type": 0,
+      "cat": [
+        10
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_LANCE",
+      "status": [
+        {
+          "hp": 3,
+          "atk": 9,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "spd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 176,
+          "mag": 20,
+          "spd": 5,
+          "hit": 36,
+          "crt": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 32,
+          "atk": 34,
+          "mag": 17,
+          "hit": 15,
+          "spd": 17,
+          "crt": 12
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 6,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 2,
+          "spd": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_SPE_000",
+      "skl1": [
+        "SK_LW_SPEAR_1"
+      ],
+      "skl2": [
+        "SK_LW_SPEAR_1"
+      ],
+      "skl3": [
+        "SK_LW_SPEAR_1"
+      ],
+      "skl4": [
+        "SK_LW_SPEAR_1"
+      ],
+      "skl5": [
+        "SK_LW_SPEAR_1"
+      ]
+    },
+    {
+      "iname": "AF_FF4_SPE_000_2",
+      "asset": "FF04wpn_spe_000",
+      "type": 0,
+      "cat": [
+        10
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_LANCE",
+      "status": [
+        {
+          "hp": 3,
+          "atk": 9,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "spd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 176,
+          "mag": 20,
+          "spd": 5,
+          "hit": 36,
+          "crt": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 34,
+          "atk": 36,
+          "mag": 18,
+          "hit": 16,
+          "spd": 18,
+          "crt": 13
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 6,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 2,
+          "spd": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_SPE_000",
+      "skl1": [
+        "SK_LW_SPEAR_2"
+      ],
+      "skl2": [
+        "SK_LW_SPEAR_2"
+      ],
+      "skl3": [
+        "SK_LW_SPEAR_2"
+      ],
+      "skl4": [
+        "SK_LW_SPEAR_2"
+      ],
+      "skl5": [
+        "SK_LW_SPEAR_2"
+      ]
+    },
+    {
+      "iname": "AF_FF4_SPE_000_3",
+      "asset": "FF04wpn_spe_000",
+      "type": 0,
+      "cat": [
+        10
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_LANCE",
+      "status": [
+        {
+          "hp": 3,
+          "atk": 9,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "spd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 176,
+          "mag": 20,
+          "spd": 5,
+          "hit": 36,
+          "crt": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "atk": 38,
+          "mag": 19,
+          "hit": 17,
+          "spd": 19,
+          "crt": 14
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 6,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 2,
+          "spd": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_SPE_000",
+      "skl1": [
+        "SK_LW_SPEAR_3"
+      ],
+      "skl2": [
+        "SK_LW_SPEAR_3"
+      ],
+      "skl3": [
+        "SK_LW_SPEAR_3"
+      ],
+      "skl4": [
+        "SK_LW_SPEAR_3"
+      ],
+      "skl5": [
+        "SK_LW_SPEAR_3"
+      ]
+    },
+    {
+      "iname": "AF_FF4_SPE_000_4",
+      "asset": "FF04wpn_spe_000",
+      "type": 0,
+      "cat": [
+        10
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_LANCE",
+      "status": [
+        {
+          "hp": 3,
+          "atk": 9,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "spd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 176,
+          "mag": 20,
+          "spd": 5,
+          "hit": 36,
+          "crt": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 38,
+          "atk": 40,
+          "mag": 20,
+          "hit": 18,
+          "spd": 20,
+          "crt": 15
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 6,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 2,
+          "spd": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_SPE_000",
+      "skl1": [
+        "SK_LW_SPEAR_4_UR"
+      ],
+      "skl2": [
+        "SK_LW_SPEAR_4_UR"
+      ],
+      "skl3": [
+        "SK_LW_SPEAR_4_UR"
+      ],
+      "skl4": [
+        "SK_LW_SPEAR_4_UR"
+      ],
+      "skl5": [
+        "SK_LW_SPEAR_4_UR"
+      ]
+    },
+    {
+      "iname": "AF_FF4_SPE_000_5",
+      "asset": "FF04wpn_spe_000",
+      "type": 0,
+      "cat": [
+        10
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_LANCE",
+      "status": [
+        {
+          "hp": 3,
+          "atk": 9,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "spd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 69,
+          "atk": 176,
+          "mag": 20,
+          "spd": 5,
+          "hit": 36,
+          "crt": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 40,
+          "atk": 42,
+          "mag": 21,
+          "hit": 19,
+          "spd": 21,
+          "crt": 16
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 6,
+          "def": 0,
+          "mag": 1,
+          "mnd": 0,
+          "hit": 2,
+          "spd": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_FF4_SPE_000",
+      "skl1": [
+        "SK_LW_SPEAR_5_UR"
+      ],
+      "skl2": [
+        "SK_LW_SPEAR_5_UR"
+      ],
+      "skl3": [
+        "SK_LW_SPEAR_5_UR"
+      ],
+      "skl4": [
+        "SK_LW_SPEAR_5_UR"
+      ],
+      "skl5": [
+        "SK_LW_SPEAR_5_UR"
+      ]
+    },
+    {
+      "iname": "AF_FF4_BOW_000",
+      "asset": "FF04wpn_bow_000",
+      "type": 0,
+      "cat": [
+        7
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_BOW",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 7,
+          "def": 0,
+          "mag": 10,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 90,
+          "atk": 130,
+          "mag": 204,
+          "mnd": 0,
+          "hit": 25,
+          "avd": 0,
+          "crt": 20
+        }
+      ],
+      "randr": [
+        {
+          "hp": 26,
+          "atk": 28,
+          "mag": 36,
+          "hit": 11,
+          "crt": 11
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 5,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 2
+        }
+      ],
+      "rtype": "AF_LOT_FF4_BOW_000"
+    },
+    {
+      "iname": "AF_FF4_BOW_000_1",
+      "asset": "FF04wpn_bow_000",
+      "type": 0,
+      "cat": [
+        7
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_BOW",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 7,
+          "def": 0,
+          "mag": 10,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 90,
+          "atk": 130,
+          "mag": 204,
+          "mnd": 0,
+          "hit": 25,
+          "avd": 0,
+          "crt": 20
+        }
+      ],
+      "randr": [
+        {
+          "hp": 28,
+          "atk": 30,
+          "mag": 38,
+          "hit": 12,
+          "crt": 12
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 5,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 2
+        }
+      ],
+      "rtype": "AF_LOT_FF4_BOW_000",
+      "skl1": [
+        "SK_LW_MAGIC_1"
+      ],
+      "skl2": [
+        "SK_LW_MAGIC_1"
+      ],
+      "skl3": [
+        "SK_LW_MAGIC_1"
+      ],
+      "skl4": [
+        "SK_LW_MAGIC_1"
+      ],
+      "skl5": [
+        "SK_LW_MAGIC_1"
+      ]
+    },
+    {
+      "iname": "AF_FF4_BOW_000_2",
+      "asset": "FF04wpn_bow_000",
+      "type": 0,
+      "cat": [
+        7
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_BOW",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 7,
+          "def": 0,
+          "mag": 10,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 90,
+          "atk": 130,
+          "mag": 204,
+          "mnd": 0,
+          "hit": 25,
+          "avd": 0,
+          "crt": 20
+        }
+      ],
+      "randr": [
+        {
+          "hp": 30,
+          "atk": 32,
+          "mag": 40,
+          "hit": 13,
+          "crt": 13
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 5,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 2
+        }
+      ],
+      "rtype": "AF_LOT_FF4_BOW_000",
+      "skl1": [
+        "SK_LW_MAGIC_2"
+      ],
+      "skl2": [
+        "SK_LW_MAGIC_2"
+      ],
+      "skl3": [
+        "SK_LW_MAGIC_2"
+      ],
+      "skl4": [
+        "SK_LW_MAGIC_2"
+      ],
+      "skl5": [
+        "SK_LW_MAGIC_2"
+      ]
+    },
+    {
+      "iname": "AF_FF4_BOW_000_3",
+      "asset": "FF04wpn_bow_000",
+      "type": 0,
+      "cat": [
+        7
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_BOW",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 7,
+          "def": 0,
+          "mag": 10,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 90,
+          "atk": 130,
+          "mag": 204,
+          "mnd": 0,
+          "hit": 25,
+          "avd": 0,
+          "crt": 20
+        }
+      ],
+      "randr": [
+        {
+          "hp": 32,
+          "atk": 34,
+          "mag": 42,
+          "hit": 14,
+          "crt": 14
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 5,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 2
+        }
+      ],
+      "rtype": "AF_LOT_FF4_BOW_000",
+      "skl1": [
+        "SK_LW_MAGIC_3"
+      ],
+      "skl2": [
+        "SK_LW_MAGIC_3"
+      ],
+      "skl3": [
+        "SK_LW_MAGIC_3"
+      ],
+      "skl4": [
+        "SK_LW_MAGIC_3"
+      ],
+      "skl5": [
+        "SK_LW_MAGIC_3"
+      ]
+    },
+    {
+      "iname": "AF_FF4_BOW_000_4",
+      "asset": "FF04wpn_bow_000",
+      "type": 0,
+      "cat": [
+        7
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_BOW",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 7,
+          "def": 0,
+          "mag": 10,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 90,
+          "atk": 130,
+          "mag": 204,
+          "mnd": 0,
+          "hit": 25,
+          "avd": 0,
+          "crt": 20
+        }
+      ],
+      "randr": [
+        {
+          "hp": 34,
+          "atk": 36,
+          "mag": 44,
+          "hit": 15,
+          "crt": 15
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 5,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 2
+        }
+      ],
+      "rtype": "AF_LOT_FF4_BOW_000",
+      "skl1": [
+        "SK_LW_MAGIC_4_UR"
+      ],
+      "skl2": [
+        "SK_LW_MAGIC_4_UR"
+      ],
+      "skl3": [
+        "SK_LW_MAGIC_4_UR"
+      ],
+      "skl4": [
+        "SK_LW_MAGIC_4_UR"
+      ],
+      "skl5": [
+        "SK_LW_MAGIC_4_UR"
+      ]
+    },
+    {
+      "iname": "AF_FF4_BOW_000_5",
+      "asset": "FF04wpn_bow_000",
+      "type": 0,
+      "cat": [
+        7
+      ],
+      "rare": 4,
+      "collaboType": 1,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_BOW",
+      "status": [
+        {
+          "hp": 4,
+          "atk": 7,
+          "def": 0,
+          "mag": 10,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 90,
+          "atk": 130,
+          "mag": 204,
+          "mnd": 0,
+          "hit": 25,
+          "avd": 0,
+          "crt": 20
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "atk": 38,
+          "mag": 46,
+          "hit": 16,
+          "crt": 16
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 4,
+          "def": 0,
+          "mag": 5,
+          "mnd": 0,
+          "hit": 2,
+          "avd": 0,
+          "crt": 2
+        }
+      ],
+      "rtype": "AF_LOT_FF4_BOW_000",
+      "skl1": [
+        "SK_LW_MAGIC_5_UR"
+      ],
+      "skl2": [
+        "SK_LW_MAGIC_5_UR"
+      ],
+      "skl3": [
+        "SK_LW_MAGIC_5_UR"
+      ],
+      "skl4": [
+        "SK_LW_MAGIC_5_UR"
+      ],
+      "skl5": [
+        "SK_LW_MAGIC_5_UR"
       ]
     }
   ]

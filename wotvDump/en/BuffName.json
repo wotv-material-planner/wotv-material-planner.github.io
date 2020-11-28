@@ -1,6 +1,10 @@
 {
   "infos": [
     {
+      "key": "BUFF_CRYSTAL_04",
+      "value": ""
+    },
+    {
       "key": "BUFF_CRYSTAL",
       "value": ""
     },
@@ -166,6 +170,10 @@
     },
     {
       "key": "BUFF_LW_MNK_M_2_T",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_MNK_M_2_T_2",
       "value": ""
     },
     {
@@ -1261,6 +1269,118 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_MKN_S_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_MKN_S_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_MKN_WIND_S_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_MKN_SOIL_S_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_MKN_R_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_MKN_WIND_P_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_MKN_SOIL_P_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_MKN_P_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_CECL_M_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_CECL_M_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_CECL_S_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_CECL_S_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_CECL_S_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_CECL_P_1_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_ROSA_M_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_ROSA_S_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_ROSA_S_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_ROSA_S_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_ROSA_S_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_ROSA_R_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_ROSA_P_1_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_ROSA_P_2_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_KAIN_M_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_KAIN_M_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_KAIN_S_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_KAIN_S_2_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_KAIN_S_2_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_FF4_KAIN_P_1_S",
+      "value": ""
+    },
+    {
       "key": "BUFF_BTL_GETSP_1-999_U",
       "value": ""
     },
@@ -1405,6 +1525,14 @@
       "value": ""
     },
     {
+      "key": "BUFF_GLSP_M_02_TOW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GLSP_R_01_TOW",
+      "value": ""
+    },
+    {
       "key": "BUFF_CHCB_M_01",
       "value": ""
     },
@@ -1457,6 +1585,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_CSLI_02_M_03",
+      "value": ""
+    },
+    {
       "key": "BUFF_LAMA_M_01",
       "value": ""
     },
@@ -1502,6 +1634,10 @@
     },
     {
       "key": "BUFF_THDG_M_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_THDG_M_01_1",
       "value": ""
     },
     {
@@ -1565,6 +1701,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_FNRR_M_04_2",
+      "value": ""
+    },
+    {
       "key": "BUFF_TITN_M_01",
       "value": ""
     },
@@ -1581,23 +1721,79 @@
       "value": ""
     },
     {
-      "key": "BUFF_VC_LW_KING_GS",
+      "key": "BUFF_AGON_M_03",
       "value": ""
     },
     {
-      "key": "BUFF_VC_LW_KING_GSAW",
+      "key": "BUFF_AGON_M_04_1",
       "value": ""
     },
     {
-      "key": "BUFF_VC_LW_KING_P",
+      "key": "BUFF_AGON_M_04_2",
       "value": ""
     },
     {
-      "key": "BUFF_VC_LW_KING_PAW",
+      "key": "BUFF_AGON_M_05",
+      "value": ""
+    },
+    {
+      "key": "BUFF_AGON_M_06_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_AGON_M_06_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_AGON_M_06_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_AGON_R_01",
       "value": ""
     },
     {
       "key": "BUFF_TNBR_M_03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BLMN_M_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_CHCB2_M_02_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_CHCB2_M_02_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_CHCB2_M_02_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_CHCB2_M_03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_DMNW_M_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_DMNW_M_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_DMNW_M_5",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GLBZ_M_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GLBZ_M_4",
       "value": ""
     },
     {
@@ -1793,6 +1989,38 @@
       "value": ""
     },
     {
+      "key": "BUFF_LB_LW_RYER_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_RIRY_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_HWLT",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_SCAL",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_FF04_CECL",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_FF04_ROSA_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_FF04_ROSA_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_FF04_KAIN",
+      "value": ""
+    },
+    {
       "key": "BUFF_SMN_MABR",
       "value": ""
     },
@@ -1830,6 +2058,26 @@
     },
     {
       "key": "BUFF_SMN_TITN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SMN_BLMN",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SMN_AGON",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SMN_CHCB2_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SMN_CHCB2_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SMN_CHCB2_03",
       "value": ""
     },
     {
@@ -2258,6 +2506,50 @@
     },
     {
       "key": "BUFF_MA_LW_RRIR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_RYER_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_RYER_01_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_RIRY_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_RIRY_01_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_HWLT",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_SCAL",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_MRAL",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_CHEL",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_FF4_CECL",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_FF4_ROSA",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_FF4_KAIN",
       "value": ""
     },
     {
@@ -2770,6 +3062,86 @@
     },
     {
       "key": "BUFF_VC_LW_TITN_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_KING_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_KING_GSAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_VKTR_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_VKTR_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_VKTR_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_BLMN_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_BLMN_GSAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_AGON_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_AGON_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_AGON_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GUREN_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GUREN_GSAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_HALL_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_HALL_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_HALL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_CHCB_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_CHCB_GSAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_FF4_DMNW_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_FF4_DMNW_GSAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_FF4_DMNW_GSMAX",
       "value": ""
     },
     {
@@ -3393,6 +3765,170 @@
       "value": ""
     },
     {
+      "key": "BUFF_VC_LW_HALL_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_HALL_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_HALL_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_HALL_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_HALL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_HALL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_HALL_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_HALL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_HALL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_KING_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_KING_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_VKTR_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_VKTR_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_VKTR_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_VKTR_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_VKTR_P2AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_VKTR_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_VKTR_P3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_VKTR_P3AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_VKTR_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_BLMN_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_BLMN_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_AGON_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_AGON_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_AGON_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_AGON_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_AGON_P2AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_AGON_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GUREN_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_GUREN_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_CHCB_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_CHCB_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_FF4_DMNW_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_FF4_DMNW_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_FF4_DMNW_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_FF4_DMNW_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_FF4_DMNW_P2AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_FF4_DMNW_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_FF4_DMNW_P3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_FF4_DMNW_P3AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_FF4_DMNW_P3MAX",
+      "value": ""
+    },
+    {
       "key": "BUFF_VC_LW_CACT_P",
       "value": ""
     },
@@ -3570,6 +4106,10 @@
     },
     {
       "key": "BUFF_LW_SWO_005_5_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_SWO_006_1_S",
       "value": ""
     },
     {
@@ -4129,6 +4669,26 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_PIERCEMAGIC_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_PIERCEMAGIC_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_PIERCEMAGIC_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_PIERCEMAGIC_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_PIERCEMAGIC_5",
+      "value": ""
+    },
+    {
       "key": "BUFF_ACC_LW_MONT_1_1",
       "value": ""
     },
@@ -4517,6 +5077,54 @@
       "value": "Normal Attack (Doom)"
     },
     {
+      "key": "BUFF_ACC_LW_RIRY_01_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_RYER_01_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_RYER_01_1_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_CLT_LW_HWLT_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_SCAL_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SWO_LW_MRAL_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SWO_LW_MRAL_1_1_EN",
+      "value": "Normal Attack (SPR Down)"
+    },
+    {
+      "key": "BUFF_ROD_LW_CHEL_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_FF4_CECL_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_FF4_ROSA_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_HLM_FF4_KAIN_1_1_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_HLM_FF4_KAIN_1_1_2",
+      "value": ""
+    },
+    {
       "key": "BUFF_FFT_SWO_002_2",
       "value": ""
     },
@@ -4570,6 +5178,14 @@
     },
     {
       "key": "BUFF_LW_KAT_008_5",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_RNG_007_1_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_RNG_007_5_S",
       "value": ""
     },
     {
@@ -4658,6 +5274,14 @@
     },
     {
       "key": "BUFF_WTH_DARK02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_WTH_DARK03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_WTH_DARK04",
       "value": ""
     },
     {
@@ -5449,6 +6073,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_BTL_PKILLER_MAN_1-100_U",
+      "value": ""
+    },
+    {
       "key": "BUFF_BTL_MKILLER_MAN_1-100_U",
       "value": ""
     },
@@ -5489,6 +6117,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_BTL_SILENCE_1-100_U",
+      "value": ""
+    },
+    {
       "key": "BUFF_BTL_POIS_1-100_U",
       "value": ""
     },
@@ -5501,11 +6133,71 @@
       "value": ""
     },
     {
+      "key": "BUFF_BTL_DONMV_1-100_U",
+      "value": ""
+    },
+    {
       "key": "BUFF_BTL_DONMV_1-100_D",
       "value": ""
     },
     {
+      "key": "BUFF_BTL_STUN_1-100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STUN_1-100_D",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_MDFPIERCE_1-100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_FIRE_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_ICE_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_WIND_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_SOIL_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_THUNDER_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_WATER_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_SHINE_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_DARK_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_STR_ELEMALL_1_100_U",
+      "value": ""
+    },
+    {
       "key": "BUFF_BTL_DEFPIERCE_1-100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_RESDB_DF_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "BUFF_BTL_RESDB_ATK_1_100_U",
       "value": ""
     },
     {
@@ -8365,6 +9057,534 @@
       "value": "SPR Up +5%"
     },
     {
+      "key": "BUFF_BLMN_01",
+      "value": "Accuracy Rate +3"
+    },
+    {
+      "key": "BUFF_BLMN_02",
+      "value": "Fairy Killer +2%"
+    },
+    {
+      "key": "BUFF_BLMN_03",
+      "value": "Evasion Rate +3"
+    },
+    {
+      "key": "BUFF_BLMN_04",
+      "value": "MAG Up +4%"
+    },
+    {
+      "key": "BUFF_BLMN_05",
+      "value": "MAG Up +3%"
+    },
+    {
+      "key": "BUFF_BLMN_06",
+      "value": "Evocation Magic Lv. 2"
+    },
+    {
+      "key": "BUFF_BLMN_07",
+      "value": "Evocation Magic Lv. 3"
+    },
+    {
+      "key": "BUFF_BLMN_08",
+      "value": "Accuracy Rate +4"
+    },
+    {
+      "key": "BUFF_BLMN_09",
+      "value": "Missile Res +3%"
+    },
+    {
+      "key": "BUFF_BLMN_10",
+      "value": "Missile Res +3%"
+    },
+    {
+      "key": "BUFF_BLMN_11",
+      "value": "Fairy Killer +2%"
+    },
+    {
+      "key": "BUFF_BLMN_12",
+      "value": "Evasion Rate +4"
+    },
+    {
+      "key": "BUFF_BLMN_13",
+      "value": "Magic Attack Up +2%"
+    },
+    {
+      "key": "BUFF_BLMN_14",
+      "value": "Magic Attack Up +2%"
+    },
+    {
+      "key": "BUFF_BLMN_15",
+      "value": "Charm Res +4%"
+    },
+    {
+      "key": "BUFF_BLMN_16",
+      "value": "MAG Up +8%"
+    },
+    {
+      "key": "BUFF_BLMN_17",
+      "value": "Dark Res +3%"
+    },
+    {
+      "key": "BUFF_BLMN_18",
+      "value": "Dark Res +3%"
+    },
+    {
+      "key": "BUFF_BLMN_19",
+      "value": "Evocation Magic Lv. 4"
+    },
+    {
+      "key": "BUFF_BLMN_20",
+      "value": "Missile Res +5%"
+    },
+    {
+      "key": "BUFF_BLMN_21",
+      "value": "Missile Res +4%"
+    },
+    {
+      "key": "BUFF_BLMN_22",
+      "value": "Fairy Killer +3%"
+    },
+    {
+      "key": "BUFF_BLMN_23",
+      "value": "Fairy Killer +3%"
+    },
+    {
+      "key": "BUFF_BLMN_24",
+      "value": "Magic Attack Up +4%"
+    },
+    {
+      "key": "BUFF_BLMN_25",
+      "value": "Magic Attack Up +2%"
+    },
+    {
+      "key": "BUFF_BLMN_26",
+      "value": "Charm Res +6%"
+    },
+    {
+      "key": "BUFF_BLMN_27",
+      "value": "Charm Res +5%"
+    },
+    {
+      "key": "BUFF_BLMN_28",
+      "value": "Dark Res +5%"
+    },
+    {
+      "key": "BUFF_BLMN_29",
+      "value": "Dark Res +4%"
+    },
+    {
+      "key": "BUFF_BLMN_30",
+      "value": "Evocation Magic Lv. 6"
+    },
+    {
+      "key": "BUFF_BLMN_31",
+      "value": "Evocation Magic Lv. 10"
+    },
+    {
+      "key": "BUFF_BLMN_32",
+      "value": "Fairy Killer +5%"
+    },
+    {
+      "key": "BUFF_BLMN_33",
+      "value": "Charm Res +10%"
+    },
+    {
+      "key": "BUFF_AGON_01",
+      "value": "Accuracy Rate +3"
+    },
+    {
+      "key": "BUFF_AGON_02",
+      "value": "Avian Killer +2%"
+    },
+    {
+      "key": "BUFF_AGON_03",
+      "value": "Critical Hit Rate +3"
+    },
+    {
+      "key": "BUFF_AGON_04",
+      "value": "Water Eater +2%"
+    },
+    {
+      "key": "BUFF_AGON_05",
+      "value": "MAG Up +2%"
+    },
+    {
+      "key": "BUFF_AGON_06",
+      "value": "Evocation Magic Lv. 2"
+    },
+    {
+      "key": "BUFF_AGON_07",
+      "value": "Evocation Magic Lv. 3"
+    },
+    {
+      "key": "BUFF_AGON_08",
+      "value": "Accuracy Rate +4"
+    },
+    {
+      "key": "BUFF_AGON_09",
+      "value": "Magic Res +3%"
+    },
+    {
+      "key": "BUFF_AGON_10",
+      "value": "Magic Res +3%"
+    },
+    {
+      "key": "BUFF_AGON_11",
+      "value": "Avian Killer +3%"
+    },
+    {
+      "key": "BUFF_AGON_12",
+      "value": "Critical Hit Rate +4"
+    },
+    {
+      "key": "BUFF_AGON_13",
+      "value": "Slash Attack Up +3%"
+    },
+    {
+      "key": "BUFF_AGON_14",
+      "value": "Slash Attack Up +3%"
+    },
+    {
+      "key": "BUFF_AGON_15",
+      "value": "Water Eater +3%"
+    },
+    {
+      "key": "BUFF_AGON_16",
+      "value": "MAG Up +5%"
+    },
+    {
+      "key": "BUFF_AGON_17",
+      "value": "Pierce Res +3%"
+    },
+    {
+      "key": "BUFF_AGON_18",
+      "value": "Pierce Res +3%"
+    },
+    {
+      "key": "BUFF_AGON_19",
+      "value": "Evocation Magic Lv. 4"
+    },
+    {
+      "key": "BUFF_AGON_20",
+      "value": "Magic Res +5%"
+    },
+    {
+      "key": "BUFF_AGON_21",
+      "value": "Magic Res +4%"
+    },
+    {
+      "key": "BUFF_AGON_22",
+      "value": "Avian Killer +4%"
+    },
+    {
+      "key": "BUFF_AGON_23",
+      "value": "Avian Killer +6%"
+    },
+    {
+      "key": "BUFF_AGON_24",
+      "value": "Slash Attack Up +5%"
+    },
+    {
+      "key": "BUFF_AGON_25",
+      "value": "Slash Attack Up +4%"
+    },
+    {
+      "key": "BUFF_AGON_26",
+      "value": "Water Eater +6%"
+    },
+    {
+      "key": "BUFF_AGON_27",
+      "value": "Water Eater +4%"
+    },
+    {
+      "key": "BUFF_AGON_28",
+      "value": "Pierce Res +5%"
+    },
+    {
+      "key": "BUFF_AGON_29",
+      "value": "Pierce Res +4%"
+    },
+    {
+      "key": "BUFF_AGON_30",
+      "value": "Evocation Magic Lv. 6"
+    },
+    {
+      "key": "BUFF_AGON_31",
+      "value": "Evocation Magic Lv. 10"
+    },
+    {
+      "key": "BUFF_AGON_32",
+      "value": "Avian Killer +10%"
+    },
+    {
+      "key": "BUFF_AGON_33",
+      "value": "Water Eater +10%"
+    },
+    {
+      "key": "BUFF_CHCB_02_01",
+      "value": "Accuracy Rate +3"
+    },
+    {
+      "key": "BUFF_CHCB_02_02",
+      "value": "Stone Killer +2%"
+    },
+    {
+      "key": "BUFF_CHCB_02_03",
+      "value": "Evasion Rate +3"
+    },
+    {
+      "key": "BUFF_CHCB_02_04",
+      "value": "ATK Up +4%"
+    },
+    {
+      "key": "BUFF_CHCB_02_05",
+      "value": "ATK Up +3%"
+    },
+    {
+      "key": "BUFF_CHCB_02_06",
+      "value": "Evocation Magic Lv. 2"
+    },
+    {
+      "key": "BUFF_CHCB_02_07",
+      "value": "Evocation Magic Lv. 3"
+    },
+    {
+      "key": "BUFF_CHCB_02_08",
+      "value": "Accuracy Rate +4"
+    },
+    {
+      "key": "BUFF_CHCB_02_09",
+      "value": "Slash Res +3%"
+    },
+    {
+      "key": "BUFF_CHCB_02_10",
+      "value": "Slash Res +3%"
+    },
+    {
+      "key": "BUFF_CHCB_02_11",
+      "value": "Stone Killer +2%"
+    },
+    {
+      "key": "BUFF_CHCB_02_12",
+      "value": "Evasion Rate +4"
+    },
+    {
+      "key": "BUFF_CHCB_02_13",
+      "value": "Missile Attack Up +2%"
+    },
+    {
+      "key": "BUFF_CHCB_02_14",
+      "value": "Missile Attack Up +2%"
+    },
+    {
+      "key": "BUFF_CHCB_02_15",
+      "value": "Earth Eater +3%"
+    },
+    {
+      "key": "BUFF_CHCB_02_16",
+      "value": "ATK Up +8%"
+    },
+    {
+      "key": "BUFF_CHCB_02_17",
+      "value": "Ice Res +2%"
+    },
+    {
+      "key": "BUFF_CHCB_02_18",
+      "value": "Ice Res +2%"
+    },
+    {
+      "key": "BUFF_CHCB_02_19",
+      "value": "Evocation Magic Lv. 4"
+    },
+    {
+      "key": "BUFF_CHCB_02_20",
+      "value": "Slash Res +5%"
+    },
+    {
+      "key": "BUFF_CHCB_02_21",
+      "value": "Slash Res +4%"
+    },
+    {
+      "key": "BUFF_CHCB_02_22",
+      "value": "Stone Killer +3%"
+    },
+    {
+      "key": "BUFF_CHCB_02_23",
+      "value": "Stone Killer +3%"
+    },
+    {
+      "key": "BUFF_CHCB_02_24",
+      "value": "Missile Attack Up +4%"
+    },
+    {
+      "key": "BUFF_CHCB_02_25",
+      "value": "Missile Attack Up +2%"
+    },
+    {
+      "key": "BUFF_CHCB_02_26",
+      "value": "Earth Eater +4%"
+    },
+    {
+      "key": "BUFF_CHCB_02_27",
+      "value": "Earth Eater +3%"
+    },
+    {
+      "key": "BUFF_CHCB_02_28",
+      "value": "Ice Res +4%"
+    },
+    {
+      "key": "BUFF_CHCB_02_29",
+      "value": "Ice Res +2%"
+    },
+    {
+      "key": "BUFF_CHCB_02_30",
+      "value": "Evocation Magic Lv. 6"
+    },
+    {
+      "key": "BUFF_CHCB_02_31",
+      "value": "Evocation Magic Lv. 10"
+    },
+    {
+      "key": "BUFF_CHCB_02_32",
+      "value": "Stone Killer +5%"
+    },
+    {
+      "key": "BUFF_CHCB_02_33",
+      "value": "Earth Eater +5%"
+    },
+    {
+      "key": "BUFF_DMNW_01",
+      "value": "Critical Evasion Rate +3"
+    },
+    {
+      "key": "BUFF_DMNW_02",
+      "value": "Light Res +3%"
+    },
+    {
+      "key": "BUFF_DMNW_03",
+      "value": "Evasion Rate +3"
+    },
+    {
+      "key": "BUFF_DMNW_04",
+      "value": "Slash Res +4%"
+    },
+    {
+      "key": "BUFF_DMNW_05",
+      "value": "Stop Res +2%"
+    },
+    {
+      "key": "BUFF_DMNW_06",
+      "value": "Evocation Magic Lv. 2"
+    },
+    {
+      "key": "BUFF_DMNW_07",
+      "value": "Evocation Magic Lv. 3"
+    },
+    {
+      "key": "BUFF_DMNW_08",
+      "value": "Critical Evasion Rate +4"
+    },
+    {
+      "key": "BUFF_DMNW_09",
+      "value": "Stone Killer +3%"
+    },
+    {
+      "key": "BUFF_DMNW_10",
+      "value": "Stone Killer +3%"
+    },
+    {
+      "key": "BUFF_DMNW_11",
+      "value": "Light Res +4%"
+    },
+    {
+      "key": "BUFF_DMNW_12",
+      "value": "Evasion Rate +4"
+    },
+    {
+      "key": "BUFF_DMNW_13",
+      "value": "Light Eater +3%"
+    },
+    {
+      "key": "BUFF_DMNW_14",
+      "value": "Light Eater +3%"
+    },
+    {
+      "key": "BUFF_DMNW_15",
+      "value": "Slash Res +3%"
+    },
+    {
+      "key": "BUFF_DMNW_16",
+      "value": "Stop Res +5%"
+    },
+    {
+      "key": "BUFF_DMNW_17",
+      "value": "Dark Res +3%"
+    },
+    {
+      "key": "BUFF_DMNW_18",
+      "value": "Dark Res +3%"
+    },
+    {
+      "key": "BUFF_DMNW_19",
+      "value": "Evocation Magic Lv. 4"
+    },
+    {
+      "key": "BUFF_DMNW_20",
+      "value": "Stone Killer +5%"
+    },
+    {
+      "key": "BUFF_DMNW_21",
+      "value": "Stone Killer +4%"
+    },
+    {
+      "key": "BUFF_DMNW_22",
+      "value": "Light Res +5%"
+    },
+    {
+      "key": "BUFF_DMNW_23",
+      "value": "Light Res +6%"
+    },
+    {
+      "key": "BUFF_DMNW_24",
+      "value": "Light Eater +5%"
+    },
+    {
+      "key": "BUFF_DMNW_25",
+      "value": "Light Eater +4%"
+    },
+    {
+      "key": "BUFF_DMNW_26",
+      "value": "Slash Res +5%"
+    },
+    {
+      "key": "BUFF_DMNW_27",
+      "value": "Slash Res +6%"
+    },
+    {
+      "key": "BUFF_DMNW_28",
+      "value": "Dark Res +5%"
+    },
+    {
+      "key": "BUFF_DMNW_29",
+      "value": "Dark Res +4%"
+    },
+    {
+      "key": "BUFF_DMNW_30",
+      "value": "Evocation Magic Lv. 6"
+    },
+    {
+      "key": "BUFF_DMNW_31",
+      "value": "Evocation Magic Lv. 10"
+    },
+    {
+      "key": "BUFF_DMNW_32",
+      "value": "Light Res +7%"
+    },
+    {
+      "key": "BUFF_DMNW_33",
+      "value": "Slash Res +7%"
+    },
+    {
       "key": "BUFF_ARMN_01",
       "value": "Missile Attack Up +3%"
     },
@@ -9185,6 +10405,18 @@
       "value": "Unit Attack Res Up"
     },
     {
+      "key": "BUFF_ARENA_00008",
+      "value": "Accuracy Rate/Area Attack Res Up"
+    },
+    {
+      "key": "BUFF_ARENA_00010",
+      "value": "Missile Res/MAG Up"
+    },
+    {
+      "key": "BUFF_ARENA_GL_00001",
+      "value": "Missile Res Up"
+    },
+    {
       "key": "BUFF_GVG_001",
       "value": "Dark Attack Up"
     },
@@ -9199,6 +10431,22 @@
     {
       "key": "BUFF_GVG_004",
       "value": "Pierce Attack Up"
+    },
+    {
+      "key": "BUFF_GVG_007",
+      "value": "Magic Attack Up"
+    },
+    {
+      "key": "BUFF_GVG_GL_001",
+      "value": "Wind Attack Up"
+    },
+    {
+      "key": "BUFF_CLASSMATCH_001",
+      "value": "Cost Limit: 540 or Less"
+    },
+    {
+      "key": "BUFF_CLASSMATCH_002",
+      "value": "Cost Limit: 500 or Less"
     }
   ]
 }

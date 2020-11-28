@@ -1725,34 +1725,6 @@
       "value": "A staple accessory dear to the hearts of many young girls. It is a fine item that has the curious power to protect the wearer from harm."
     },
     {
-      "key": "AF_LW_ACC_002",
-      "value": "A jewel of pure, condensed magic. A certain mage poured their life and soul into its creation, and it is rumored to be concealed in a village inhabited only by mages. Theories suggest that it can be used to exceed the limits of one's magic."
-    },
-    {
-      "key": "AF_LW_KAT_008",
-      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
-    },
-    {
-      "key": "AF_LW_KAT_008_1",
-      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
-    },
-    {
-      "key": "AF_LW_KAT_008_2",
-      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
-    },
-    {
-      "key": "AF_LW_KAT_008_3",
-      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
-    },
-    {
-      "key": "AF_LW_KAT_008_4",
-      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
-    },
-    {
-      "key": "AF_LW_KAT_008_5",
-      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
-    },
-    {
       "key": "AF_SWO_LW_LILS_1",
       "value": "A greatsword forged under fire and flame. Putting emphasis on practicality, the sword's decoration was kept to a minimum. However, this has endowed it with superb simplicity and elegance of design. Its sturdy and solid appearance caught Lilyth's eye, and now it has become an extension of her body."
     },
@@ -2057,20 +2029,40 @@
       "value": "Lasswell's purple and black coat. While it may look like any ordinary coat, it was in fact tailored so that it would closely fit his body to allow for greater maneuverability during battle."
     },
     {
-      "key": "AF_SPE_LW_GRSR_2",
-      "value": "A spear with particular improvements made to complement Glaciela's combat style. A great deal of time went into its creation, with Glaciela requesting it be remade over and over again, unable to accept the work of even Wezette's greatest blacksmith. Eventually, Glaciela herself helped with its crafting, a move which finally resulted in a finished product."
+      "key": "AF_ACC_LW_RYER_01_1",
+      "value": "A cute hairband complete with wolf ears and a charming ribbon. When put on, the wearer is immediately put into high spirits and fully transformed into a wolf. Vigorous howling will follow, but this effect only triggers for Little Leela herself."
     },
     {
-      "key": "AF_BSW_LW_STRN_01_2",
-      "value": "A modest two-handed sword that remains in use by Sterne. Carried by Sterne for many years, one might even say that it is his partner, accompanying him on every path he takes in life. The sword, wielded by a crazed Sterne, looks as though it grieves for its former companion."
+      "key": "AF_ACC_LW_RIRY_01_1",
+      "value": "A mask with a lens originally designed for sharpshooting, despite appearing to be a mere toy. Rairyuu's partner in crime, Zazan, once mistook the now-damaged lens dangling from the mask for an eye that had popped out of its socket. Taking great joy in how his partner overreacted to this at the time, Rairyuu has since made extensive modifications to the broken mask so that he can continue to torment Zazan with it."
     },
     {
-      "key": "AF_MAC_LW_IRDL_2",
-      "value": "A mace used by Ildyra’s mother in battle until the very end. It is said that holding it envelops the wielder in an odd calm, allowing their thoughts to flow and thus granting them the ability to work out arithmetic even when in dire straits."
+      "key": "AF_CLT_LW_HWLT_1",
+      "value": "A coat modified by Howlet. Originally a traditional cape handed down from his father, he redrew a design that better suited his aesthetic tastes and placed it in the hands of a tailor. Though the complete and utter change of the cape infuriated his father, Howlet was far from bothered by it."
     },
     {
-      "key": "AF_KAT_LW_LSWL_2",
-      "value": "A modest two-handed sword that remains in use by Sterne. Carried by Sterne for many years, one might even say that it is his partner, accompanying him on every path he takes in life. The sword, wielded by a crazed Sterne, looks as though it grieves for its former companion."
+      "key": "AF_ACC_LW_SCAL_1",
+      "value": "A gauntlet worn by the previous chieftains of the Saiga clan. Instilled with the magic of each past chieftain, it is impossible for the average shinobi to control its vast magical power. Few have been able to command the gauntlet freely—and Skahal is one of those few."
+    },
+    {
+      "key": "AF_SWO_LW_MRAL_1",
+      "value": "A unique magic sword forged from a tensile metal. In the hands of a skilled user, it is extremely difficult to read, deceiving the eye like the legs of a spider and appearing to be multiple blades in unison. While it is not suited for assassinations, Mariale continues to use it regardless of this fact in order to flaunt her strength over those she cuts down."
+    },
+    {
+      "key": "AF_ROD_LW_CHEL_1",
+      "value": "A staff decorated with Chel’s favorite flower. During its creation, the weaponsmith balked at the idea of adorning it with meaningless flowers, but upon seeing the sad look on Chel’s face, her two brothers protested fiercely. The result of the pressure they put on the weaponsmith is the decorative flowers."
+    },
+    {
+      "key": "AF_ACC_FF4_CECL_1",
+      "value": "A circlet with the power to ward off evil worn by Cecil after he became a paladin. It projects a calming light over him as if to ensure he will never again be enthralled by darkness."
+    },
+    {
+      "key": "AF_ACC_FF4_ROSA_1",
+      "value": "An intricate hairpin that catches the eye. It is an item that speaks volumes of Rosa's personality. While an accessory of such splendor puts them at risk of being attacked by bandits during their long journey, she chooses to wear it out of her desire to look beautiful for Cecil."
+    },
+    {
+      "key": "AF_HLM_FF4_KAIN_1",
+      "value": "The helm of a dragoon, said to have been found in the ruins on the moon of a distant world. Kain wears this helm at all times, perhaps having sworn never to remove it until peace returns to the world he calls home."
     },
     {
       "key": "AF_SWO_LW_MONT_2",
@@ -2185,6 +2177,54 @@
       "value": "The sword that Ramza's father, Barbaneth, bequeathed to Delita upon his admission into the Akademy, in recognition of the great potential he felt emanating from the lowborn boy. The large blade embodies Barbaneth's hope that Delita would grow to be his son's right-hand man and staunch protector."
     },
     {
+      "key": "AF_MAC_LW_IRDL_2",
+      "value": "A mace used by Ildyra’s mother in battle until the very end. It is said that holding it envelops the wielder in an odd calm, allowing their thoughts to flow and thus granting them the ability to work out arithmetic even when in dire straits."
+    },
+    {
+      "key": "AF_BSW_LW_STRN_01_2",
+      "value": "A modest two-handed sword that remains in use by Sterne. Carried by Sterne for many years, one might even say that it is his partner, accompanying him on every path he takes in life. The sword, wielded by a crazed Sterne, looks as though it grieves for its former companion."
+    },
+    {
+      "key": "AF_KAT_LW_LSWL_2",
+      "value": "A modest two-handed sword that remains in use by Sterne. Carried by Sterne for many years, one might even say that it is his partner, accompanying him on every path he takes in life. The sword, wielded by a crazed Sterne, looks as though it grieves for its former companion."
+    },
+    {
+      "key": "AF_SPE_LW_GRSR_2",
+      "value": "A spear with particular improvements made to complement Glaciela's combat style. A great deal of time went into its creation, with Glaciela requesting it be remade over and over again, unable to accept the work of even Wezette's greatest blacksmith. Eventually, Glaciela herself helped with its crafting, a move which finally resulted in a finished product."
+    },
+    {
+      "key": "AF_MAC_LW_RYER_01_2",
+      "value": "A mace that was forcibly forged into a weapon through the magical reconfiguration of a decorative pumpkin. It radiates Little Leela's unique flair, and its wicked appearance is enough to send even evil spirits of the underworld fleeing with their tails between their legs. Its shining eyes are imbued with a powerful magic, and it is rumored that the weapon itself possesses a will of its own."
+    },
+    {
+      "key": "AF_SWO_LW_RIRY_01_2",
+      "value": "A mysterious sword that appears to be specialized more for cutting things apart than for slashing through opponents. Rairyuu uses the sword outside of battle, but none have been there to bear witness. Is it for cutting down trees in order to craft something, or perhaps to chop up things not meant for uninvited eyes?"
+    },
+    {
+      "key": "AF_SWO_LW_HWLT_2",
+      "value": "Forged by a renowned swordsmith, this sword possesses simple aesthetics, a beautiful blade, and is infused with powerful magic. The craftsmanship is so exquisite that it never sustains a scratch, not even from clashing violently with other blades or the use of immense magical power. Howlet has deemed the blade worthy of his abilities and takes good care of it."
+    },
+    {
+      "key": "AF_ROD_LW_SCAL_2",
+      "value": "The staff given to Skahal by the previous chieftain when he was appointed to lead his clan. It is made from a special material that can endure Skahal’s incredible physical prowess and magical power. Well aware that drawing upon the power of the staff could turn it into a weapon of atrocity, Skahal rarely engages in full-fledged battle."
+    },
+    {
+      "key": "AF_SWO_FF4_CECL_2",
+      "value": "A holy sword from a distant world. It is said to have been obtained by Cecil when he overcame his past at Mount Ordeals and transformed into a paladin. By giving a certain Underworld blacksmith legendary ore, this holy sword can be further enhanced."
+    },
+    {
+      "key": "AF_BOW_FF4_ROSA_2",
+      "value": "A bow crafted by the faeries of the forest, capable of eliminating foes without inflicting any suffering. The faeries, throughout their hunts for daily sustenance, have infused the bow with gratitude for the boons of nature and prayers for the departing souls of their prey. This is said to give rise to the bow's merciful qualities."
+    },
+    {
+      "key": "AF_SPE_FF4_KAIN_2",
+      "value": "A spear imbued with the power of wind, said to unleash whirlwinds from its tip when brandished. It was created using the principles of the spellblades, who instill their blades with magic. As it enhances its user's jumping ability, it is a weapon extremely well suited to dragoons, the specialists of aerial combat."
+    },
+    {
+      "key": "AF_ROD_FF4_GLBZ_2",
+      "value": ""
+    },
+    {
       "key": "AF_LW_RNG_005",
       "value": "A ring inlaid with a curiously radiant piece of alexandrite. This gemstone characteristically changes color depending on the light that strikes it, a beauty from which it has been called the king of precious stones. Specimens with high degrees of clarity and color variability are exceedingly rare, thus trading at extremely high prices."
     },
@@ -2207,6 +2247,10 @@
     {
       "key": "AF_LW_RNG_005_5",
       "value": "A ring inlaid with a curiously radiant piece of alexandrite. This gemstone characteristically changes color depending on the light that strikes it, a beauty from which it has been called the king of precious stones. Specimens with high degrees of clarity and color variability are exceedingly rare, thus trading at extremely high prices."
+    },
+    {
+      "key": "AF_LW_RNG_007",
+      "value": "A small ring inlaid with a stone resembling a clear droplet of water. Wearing it allows one to command the great power of water. However, the act of coercing a power that belongs in nature always has some form of repercussion for the wearer. This ring is only to be worn by those prepared to bear it."
     },
     {
       "key": "AF_LW_BSW_011",
@@ -2259,6 +2303,150 @@
     {
       "key": "AF_LW_HLM_005_5",
       "value": "A sleek and lightweight silver helm that gives the wearer excellent protection, it is a piece of equipment that every soldier wishes to obtain someday. The part covering the eyes can be slid up like a visor."
+    },
+    {
+      "key": "AF_LW_KAT_008",
+      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
+    },
+    {
+      "key": "AF_LW_KAT_008_1",
+      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
+    },
+    {
+      "key": "AF_LW_KAT_008_2",
+      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
+    },
+    {
+      "key": "AF_LW_KAT_008_3",
+      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
+    },
+    {
+      "key": "AF_LW_KAT_008_4",
+      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
+    },
+    {
+      "key": "AF_LW_KAT_008_5",
+      "value": "A katana used by Lasswell. The blade is very straight and has an ethereal feel to it, which reacts to the wielder's emotions to let out a cold yet beautiful shimmer. Under the tender care of Lasswell, this katana, which was originally used by Rain's father, Raegen, has weathered many years without dulling."
+    },
+    {
+      "key": "AF_LW_SWO_023",
+      "value": "A sword that bears the name of a knight from a legend passed through the ages. Also known as the \"Knight of the Swan,\" this figure has been the subject of many songs and plays, which is perhaps why the sword has been sought after by venerable knights across the generations. It is a renowned blade of old that still remains the object of admiration for those on the path of chivalry."
+    },
+    {
+      "key": "AF_LW_SWO_023_1",
+      "value": "A sword that bears the name of a knight from a legend passed through the ages. Also known as the \"Knight of the Swan,\" this figure has been the subject of many songs and plays, which is perhaps why the sword has been sought after by venerable knights across the generations. It is a renowned blade of old that still remains the object of admiration for those on the path of chivalry."
+    },
+    {
+      "key": "AF_LW_SWO_023_2",
+      "value": "A sword that bears the name of a knight from a legend passed through the ages. Also known as the \"Knight of the Swan,\" this figure has been the subject of many songs and plays, which is perhaps why the sword has been sought after by venerable knights across the generations. It is a renowned blade of old that still remains the object of admiration for those on the path of chivalry."
+    },
+    {
+      "key": "AF_LW_SWO_023_3",
+      "value": "A sword that bears the name of a knight from a legend passed through the ages. Also known as the \"Knight of the Swan,\" this figure has been the subject of many songs and plays, which is perhaps why the sword has been sought after by venerable knights across the generations. It is a renowned blade of old that still remains the object of admiration for those on the path of chivalry."
+    },
+    {
+      "key": "AF_LW_SWO_023_4",
+      "value": "A sword that bears the name of a knight from a legend passed through the ages. Also known as the \"Knight of the Swan,\" this figure has been the subject of many songs and plays, which is perhaps why the sword has been sought after by venerable knights across the generations. It is a renowned blade of old that still remains the object of admiration for those on the path of chivalry."
+    },
+    {
+      "key": "AF_LW_SWO_023_5",
+      "value": "A sword that bears the name of a knight from a legend passed through the ages. Also known as the \"Knight of the Swan,\" this figure has been the subject of many songs and plays, which is perhaps why the sword has been sought after by venerable knights across the generations. It is a renowned blade of old that still remains the object of admiration for those on the path of chivalry."
+    },
+    {
+      "key": "AF_LW_HAT_005",
+      "value": "A mask designed like the head of a wolf. Its uncanny resemblance goes beyond its appearance—it even feels and smells like a wolf, despite using no actual materials from the animal itself. Apparently, this dedication to detail has led an obsessive collector to amass hundreds of them."
+    },
+    {
+      "key": "AF_LW_HAT_005_1",
+      "value": "A mask designed like the head of a wolf. Its uncanny resemblance goes beyond its appearance—it even feels and smells like a wolf, despite using no actual materials from the animal itself. Apparently, this dedication to detail has led an obsessive collector to amass hundreds of them."
+    },
+    {
+      "key": "AF_LW_HAT_005_2",
+      "value": "A mask designed like the head of a wolf. Its uncanny resemblance goes beyond its appearance—it even feels and smells like a wolf, despite using no actual materials from the animal itself. Apparently, this dedication to detail has led an obsessive collector to amass hundreds of them."
+    },
+    {
+      "key": "AF_LW_HAT_005_3",
+      "value": "A mask designed like the head of a wolf. Its uncanny resemblance goes beyond its appearance—it even feels and smells like a wolf, despite using no actual materials from the animal itself. Apparently, this dedication to detail has led an obsessive collector to amass hundreds of them."
+    },
+    {
+      "key": "AF_LW_HAT_005_4",
+      "value": "A mask designed like the head of a wolf. Its uncanny resemblance goes beyond its appearance—it even feels and smells like a wolf, despite using no actual materials from the animal itself. Apparently, this dedication to detail has led an obsessive collector to amass hundreds of them."
+    },
+    {
+      "key": "AF_LW_HAT_005_5",
+      "value": "A mask designed like the head of a wolf. Its uncanny resemblance goes beyond its appearance—it even feels and smells like a wolf, despite using no actual materials from the animal itself. Apparently, this dedication to detail has led an obsessive collector to amass hundreds of them."
+    },
+    {
+      "key": "AF_FF4_ARM_001",
+      "value": "The shoulder plate worn by Cecil after he became a paladin. It is said to guide its wearer along the path of righteousness and protect them from evil. It has been in Cecil’s possession for a long time, emitting its holy glow that he may never lose his way again after conquering the darkness in his heart."
+    },
+    {
+      "key": "AF_FF4_ARM_001_1",
+      "value": "The shoulder plate worn by Cecil after he became a paladin. It is said to guide its wearer along the path of righteousness and protect them from evil. It has been in Cecil’s possession for a long time, emitting its holy glow that he may never lose his way again after conquering the darkness in his heart."
+    },
+    {
+      "key": "AF_FF4_ARM_001_2",
+      "value": "The shoulder plate worn by Cecil after he became a paladin. It is said to guide its wearer along the path of righteousness and protect them from evil. It has been in Cecil’s possession for a long time, emitting its holy glow that he may never lose his way again after conquering the darkness in his heart."
+    },
+    {
+      "key": "AF_FF4_ARM_001_3",
+      "value": "The shoulder plate worn by Cecil after he became a paladin. It is said to guide its wearer along the path of righteousness and protect them from evil. It has been in Cecil’s possession for a long time, emitting its holy glow that he may never lose his way again after conquering the darkness in his heart."
+    },
+    {
+      "key": "AF_FF4_ARM_001_4",
+      "value": "The shoulder plate worn by Cecil after he became a paladin. It is said to guide its wearer along the path of righteousness and protect them from evil. It has been in Cecil’s possession for a long time, emitting its holy glow that he may never lose his way again after conquering the darkness in his heart."
+    },
+    {
+      "key": "AF_FF4_ARM_001_5",
+      "value": "The shoulder plate worn by Cecil after he became a paladin. It is said to guide its wearer along the path of righteousness and protect them from evil. It has been in Cecil’s possession for a long time, emitting its holy glow that he may never lose his way again after conquering the darkness in his heart."
+    },
+    {
+      "key": "AF_FF4_SPE_000",
+      "value": "A spear imbued with the power of wind, said to unleash whirlwinds from its tip when brandished. It was created using the principles of the spellblades, who instill their blades with magic. As it enhances its user's jumping ability, it is a weapon extremely well suited to dragoons, the specialists of aerial combat."
+    },
+    {
+      "key": "AF_FF4_SPE_000_1",
+      "value": "A spear imbued with the power of wind, said to unleash whirlwinds from its tip when brandished. It was created using the principles of the spellblades, who instill their blades with magic. As it enhances its user's jumping ability, it is a weapon extremely well suited to dragoons, the specialists of aerial combat."
+    },
+    {
+      "key": "AF_FF4_SPE_000_2",
+      "value": "A spear imbued with the power of wind, said to unleash whirlwinds from its tip when brandished. It was created using the principles of the spellblades, who instill their blades with magic. As it enhances its user's jumping ability, it is a weapon extremely well suited to dragoons, the specialists of aerial combat."
+    },
+    {
+      "key": "AF_FF4_SPE_000_3",
+      "value": "A spear imbued with the power of wind, said to unleash whirlwinds from its tip when brandished. It was created using the principles of the spellblades, who instill their blades with magic. As it enhances its user's jumping ability, it is a weapon extremely well suited to dragoons, the specialists of aerial combat."
+    },
+    {
+      "key": "AF_FF4_SPE_000_4",
+      "value": "A spear imbued with the power of wind, said to unleash whirlwinds from its tip when brandished. It was created using the principles of the spellblades, who instill their blades with magic. As it enhances its user's jumping ability, it is a weapon extremely well suited to dragoons, the specialists of aerial combat."
+    },
+    {
+      "key": "AF_FF4_SPE_000_5",
+      "value": "A spear imbued with the power of wind, said to unleash whirlwinds from its tip when brandished. It was created using the principles of the spellblades, who instill their blades with magic. As it enhances its user's jumping ability, it is a weapon extremely well suited to dragoons, the specialists of aerial combat."
+    },
+    {
+      "key": "AF_FF4_BOW_000",
+      "value": "A bow crafted by the faeries of the forest, capable of eliminating foes without inflicting any suffering. The faeries, throughout their hunts for daily sustenance, have infused the bow with gratitude for the boons of nature and prayers for the departing souls of their prey, and this is said to give rise to the bow's merciful qualities."
+    },
+    {
+      "key": "AF_FF4_BOW_000_1",
+      "value": "A bow crafted by the faeries of the forest, capable of eliminating foes without inflicting any suffering. The faeries, throughout their hunts for daily sustenance, have infused the bow with gratitude for the boons of nature and prayers for the departing souls of their prey, and this is said to give rise to the bow's merciful qualities."
+    },
+    {
+      "key": "AF_FF4_BOW_000_2",
+      "value": "A bow crafted by the faeries of the forest, capable of eliminating foes without inflicting any suffering. The faeries, throughout their hunts for daily sustenance, have infused the bow with gratitude for the boons of nature and prayers for the departing souls of their prey, and this is said to give rise to the bow's merciful qualities."
+    },
+    {
+      "key": "AF_FF4_BOW_000_3",
+      "value": "A bow crafted by the faeries of the forest, capable of eliminating foes without inflicting any suffering. The faeries, throughout their hunts for daily sustenance, have infused the bow with gratitude for the boons of nature and prayers for the departing souls of their prey, and this is said to give rise to the bow's merciful qualities."
+    },
+    {
+      "key": "AF_FF4_BOW_000_4",
+      "value": "A bow crafted by the faeries of the forest, capable of eliminating foes without inflicting any suffering. The faeries, throughout their hunts for daily sustenance, have infused the bow with gratitude for the boons of nature and prayers for the departing souls of their prey, and this is said to give rise to the bow's merciful qualities."
+    },
+    {
+      "key": "AF_FF4_BOW_000_5",
+      "value": "A bow crafted by the faeries of the forest, capable of eliminating foes without inflicting any suffering. The faeries, throughout their hunts for daily sustenance, have infused the bow with gratitude for the boons of nature and prayers for the departing souls of their prey, and this is said to give rise to the bow's merciful qualities."
     }
   ]
 }

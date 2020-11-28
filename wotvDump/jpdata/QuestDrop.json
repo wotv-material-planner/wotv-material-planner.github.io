@@ -19,7 +19,8 @@
         "QE_EV_ART_SCR_02",
         "QE_EV_ART_SCR_03",
         "QE_EV_ART_SCR_04",
-        "QE_EV_ART_SCR_05"
+        "QE_EV_ART_SCR_05",
+        "QE_EV_ART_SCR_06"
       ]
     },
     {
@@ -31,7 +32,8 @@
         "QE_EV_ART_SCR_02",
         "QE_EV_ART_SCR_03",
         "QE_EV_ART_SCR_04",
-        "QE_EV_ART_SCR_05"
+        "QE_EV_ART_SCR_05",
+        "QE_EV_ART_SCR_06"
       ]
     },
     {
@@ -132,10 +134,25 @@
         "QE_ST_01100308",
         "QE_ST_01100309",
         "QE_ST_01100310",
+        "QE_ST_01130101",
+        "QE_ST_01130102",
+        "QE_ST_01130103",
+        "QE_ST_01130104",
+        "QE_ST_01130105",
+        "QE_ST_01130106",
+        "QE_ST_01130107",
+        "QE_ST_01130108",
+        "QE_ST_01130109",
+        "QE_ST_01130110",
         "QE_EV_FF14_01",
         "QE_EV_FF14_02",
         "QE_EV_FF4_01",
         "QE_EV_FF4_02",
+        "QE_EV_FF10_01",
+        "QE_EV_FF10_02",
+        "QE_EV_FF10_03",
+        "QE_EV_09_01",
+        "QE_EV_09_02",
         "QE_EV_08_01",
         "QE_EV_08_02",
         "QE_EV_07_01",
@@ -310,6 +327,16 @@
         "QE_ST_01110308",
         "QE_ST_01110309",
         "QE_ST_01110310",
+        "QE_ST_01130101",
+        "QE_ST_01130102",
+        "QE_ST_01130103",
+        "QE_ST_01130104",
+        "QE_ST_01130105",
+        "QE_ST_01130106",
+        "QE_ST_01130107",
+        "QE_ST_01130108",
+        "QE_ST_01130109",
+        "QE_ST_01130110",
         "QE_HA_LW_MONT",
         "QE_HA_LW_ZZAN",
         "QE_HA_LW_RART",
@@ -327,6 +354,13 @@
         "QE_EV_FF4_04",
         "QE_EV_FF4_05",
         "QE_EV_FF4_06",
+        "QE_EV_FF10_04",
+        "QE_EV_FF10_05",
+        "QE_EV_FF10_06",
+        "QE_EV_09_03",
+        "QE_EV_09_04",
+        "QE_EV_09_05",
+        "QE_EV_09_06",
         "QE_EV_08_03",
         "QE_EV_08_04",
         "QE_EV_08_05",
@@ -532,6 +566,26 @@
         "QE_ST_01120108",
         "QE_ST_01120109",
         "QE_ST_01120110",
+        "QE_ST_01120201",
+        "QE_ST_01120202",
+        "QE_ST_01120203",
+        "QE_ST_01120204",
+        "QE_ST_01120205",
+        "QE_ST_01120206",
+        "QE_ST_01120207",
+        "QE_ST_01120208",
+        "QE_ST_01120209",
+        "QE_ST_01120210",
+        "QE_ST_01120301",
+        "QE_ST_01120302",
+        "QE_ST_01120303",
+        "QE_ST_01120304",
+        "QE_ST_01120305",
+        "QE_ST_01120306",
+        "QE_ST_01120307",
+        "QE_ST_01120308",
+        "QE_ST_01120309",
+        "QE_ST_01120310",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_VADM",
@@ -563,6 +617,14 @@
         "QE_EV_FF4_08",
         "QE_EV_FF4_09",
         "QE_EV_FF4_10",
+        "QE_EV_FF10_07",
+        "QE_EV_FF10_08",
+        "QE_EV_FF10_09",
+        "QE_EV_FF10_10",
+        "QE_EV_09_07",
+        "QE_EV_09_08",
+        "QE_EV_09_09",
+        "QE_EV_09_10",
         "QE_EV_08_07",
         "QE_EV_08_08",
         "QE_EV_08_09",
@@ -721,6 +783,26 @@
         "QE_ST_01120108",
         "QE_ST_01120109",
         "QE_ST_01120110",
+        "QE_ST_01120201",
+        "QE_ST_01120202",
+        "QE_ST_01120203",
+        "QE_ST_01120204",
+        "QE_ST_01120205",
+        "QE_ST_01120206",
+        "QE_ST_01120207",
+        "QE_ST_01120208",
+        "QE_ST_01120209",
+        "QE_ST_01120210",
+        "QE_ST_01120301",
+        "QE_ST_01120302",
+        "QE_ST_01120303",
+        "QE_ST_01120304",
+        "QE_ST_01120305",
+        "QE_ST_01120306",
+        "QE_ST_01120307",
+        "QE_ST_01120308",
+        "QE_ST_01120309",
+        "QE_ST_01120310",
         "QE_HA_LW_AILN",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_AYKA",
@@ -761,7 +843,9 @@
         "QE_HA_LW_SAKR",
         "QE_HA_LW_ALIM",
         "QE_HA_LW_RARD",
-        "QE_HA_LW_ELSI"
+        "QE_HA_LW_ELSI",
+        "QE_HA_LW_GABL",
+        "QE_HA_LW_ELSR"
       ]
     },
     {
@@ -769,7 +853,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -789,10 +876,13 @@
         "QE_ST_01100203",
         "QE_ST_01100304",
         "QE_ST_01100308",
+        "QE_ST_01130103",
+        "QE_ST_01130109",
         "QE_EV_FF14_01",
         "QE_EV_FF14_02",
         "QE_EV_FF4_01",
         "QE_EV_FF4_02",
+        "QE_EV_FF10_01",
         "QE_EV_06_01",
         "QE_EV_01_02",
         "QE_EV_02_02",
@@ -829,6 +919,8 @@
         "QE_ST_01110206",
         "QE_ST_01110209",
         "QE_ST_01110310",
+        "QE_ST_01130103",
+        "QE_ST_01130109",
         "QE_HA_LW_MONT",
         "QE_HA_LW_ZZAN",
         "QE_HA_LW_MIIA",
@@ -843,6 +935,7 @@
         "QE_EV_FF4_03",
         "QE_EV_FF4_04",
         "QE_EV_FF4_06",
+        "QE_EV_FF10_04",
         "QE_EV_06_03",
         "QE_EV_06_05",
         "QE_EV_01_04",
@@ -885,6 +978,9 @@
         "QE_ST_01110310",
         "QE_ST_01120104",
         "QE_ST_01120107",
+        "QE_ST_01120203",
+        "QE_ST_01120301",
+        "QE_ST_01120306",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_VADM",
@@ -904,6 +1000,8 @@
         "QE_EV_FF4_07",
         "QE_EV_FF4_08",
         "QE_EV_FF4_10",
+        "QE_EV_FF10_07",
+        "QE_EV_FF10_10",
         "QE_EV_06_07",
         "QE_EV_06_09",
         "QE_EV_01_08",
@@ -940,6 +1038,9 @@
         "QE_ST_01090306",
         "QE_ST_01120104",
         "QE_ST_01120107",
+        "QE_ST_01120203",
+        "QE_ST_01120301",
+        "QE_ST_01120306",
         "QE_HA_LW_AILN",
         "QE_HA_LW_YERM",
         "QE_HA_LW_NASR",
@@ -959,7 +1060,9 @@
         "QE_HA_LW_TITU",
         "QE_HA_LW_SAKR",
         "QE_HA_LW_RARD",
-        "QE_HA_LW_ELSI"
+        "QE_HA_LW_ELSI",
+        "QE_HA_LW_GABL",
+        "QE_HA_LW_ELSR"
       ]
     },
     {
@@ -967,7 +1070,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -987,7 +1093,10 @@
         "QE_ST_01100205",
         "QE_ST_01100210",
         "QE_ST_01100305",
+        "QE_ST_01130105",
         "QE_EV_FF4_01",
+        "QE_EV_FF10_03",
+        "QE_EV_09_02",
         "QE_EV_01_02"
       ]
     },
@@ -1020,9 +1129,13 @@
         "QE_ST_01110204",
         "QE_ST_01110210",
         "QE_ST_01110305",
+        "QE_ST_01130105",
         "QE_EV_FF4_03",
         "QE_EV_FF4_05",
         "QE_EV_FF4_06",
+        "QE_EV_FF10_06",
+        "QE_EV_09_04",
+        "QE_EV_09_06",
         "QE_EV_01_03",
         "QE_EV_01_06"
       ]
@@ -1058,6 +1171,9 @@
         "QE_ST_01110305",
         "QE_ST_01120103",
         "QE_ST_01120108",
+        "QE_ST_01120206",
+        "QE_ST_01120303",
+        "QE_ST_01120308",
         "QE_HA_LW_LILS",
         "QE_HA_LW_VSTR",
         "QE_HA_LW_STRN",
@@ -1065,6 +1181,10 @@
         "QE_EV_FF4_07",
         "QE_EV_FF4_09",
         "QE_EV_FF4_10",
+        "QE_EV_FF10_09",
+        "QE_EV_FF10_10",
+        "QE_EV_09_08",
+        "QE_EV_09_10",
         "QE_EV_01_09",
         "QE_EV_01_10"
       ]
@@ -1094,6 +1214,9 @@
         "QE_ST_01090310",
         "QE_ST_01120103",
         "QE_ST_01120108",
+        "QE_ST_01120206",
+        "QE_ST_01120303",
+        "QE_ST_01120308",
         "QE_HA_LW_AILN",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_GLMS",
@@ -1102,7 +1225,8 @@
         "QE_HA_LW_RAIN",
         "QE_HA_LW_ORDR",
         "QE_HA_LW_STRN_01",
-        "QE_HA_LW_LATH"
+        "QE_HA_LW_LATH",
+        "QE_HA_LW_ELSR"
       ]
     },
     {
@@ -1110,7 +1234,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -1129,6 +1256,8 @@
         "QE_ST_01100208",
         "QE_ST_01100301",
         "QE_ST_01100306",
+        "QE_ST_01130106",
+        "QE_ST_01130109",
         "QE_EV_04_01"
       ]
     },
@@ -1160,6 +1289,8 @@
         "QE_ST_01110204",
         "QE_ST_01110304",
         "QE_ST_01110307",
+        "QE_ST_01130106",
+        "QE_ST_01130109",
         "QE_EV_04_03",
         "QE_EV_04_05"
       ]
@@ -1194,6 +1325,10 @@
         "QE_ST_01110304",
         "QE_ST_01110307",
         "QE_ST_01120105",
+        "QE_ST_01120201",
+        "QE_ST_01120207",
+        "QE_ST_01120302",
+        "QE_ST_01120306",
         "QE_HA_LW_VADM",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_ELDE",
@@ -1226,6 +1361,10 @@
         "QE_ST_01090304",
         "QE_ST_01090305",
         "QE_ST_01120105",
+        "QE_ST_01120201",
+        "QE_ST_01120207",
+        "QE_ST_01120302",
+        "QE_ST_01120306",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_SIMR",
         "QE_HA_LW_LVES",
@@ -1238,7 +1377,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -1258,6 +1400,7 @@
         "QE_ST_01100206",
         "QE_ST_01100304",
         "QE_ST_01100310",
+        "QE_ST_01130101",
         "QE_EV_FF4_02",
         "QE_EV_08_01",
         "QE_EV_ETRE_01"
@@ -1291,6 +1434,7 @@
         "QE_ST_01110208",
         "QE_ST_01110302",
         "QE_ST_01110305",
+        "QE_ST_01130101",
         "QE_EV_FF4_04",
         "QE_EV_FF4_05",
         "QE_EV_08_03",
@@ -1329,6 +1473,9 @@
         "QE_ST_01110305",
         "QE_ST_01120103",
         "QE_ST_01120108",
+        "QE_ST_01120203",
+        "QE_ST_01120209",
+        "QE_ST_01120309",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MRLK",
         "QE_HA_LW_ELDE",
@@ -1365,6 +1512,9 @@
         "QE_ST_01090303",
         "QE_ST_01120103",
         "QE_ST_01120108",
+        "QE_ST_01120203",
+        "QE_ST_01120209",
+        "QE_ST_01120309",
         "QE_HA_LW_MACR",
         "QE_HA_LW_DRND",
         "QE_HA_LW_LUCA",
@@ -1377,7 +1527,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -1397,6 +1550,8 @@
         "QE_ST_01100203",
         "QE_ST_01100303",
         "QE_ST_01100307",
+        "QE_ST_01130105",
+        "QE_ST_01130110",
         "QE_EV_05_02",
         "QE_EV_ETRE_01",
         "QE_EV_THLA_01",
@@ -1431,6 +1586,8 @@
         "QE_ST_01110206",
         "QE_ST_01110301",
         "QE_ST_01110306",
+        "QE_ST_01130105",
+        "QE_ST_01130110",
         "QE_HA_LW_RART",
         "QE_HA_LW_SCIA",
         "QE_HA_LW_SRJS",
@@ -1472,6 +1629,10 @@
         "QE_ST_01110301",
         "QE_ST_01110306",
         "QE_ST_01120101",
+        "QE_ST_01120201",
+        "QE_ST_01120206",
+        "QE_ST_01120301",
+        "QE_ST_01120307",
         "QE_HA_LW_MURM",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_RAMD",
@@ -1514,6 +1675,10 @@
         "QE_ST_01090210",
         "QE_ST_01090308",
         "QE_ST_01120101",
+        "QE_ST_01120201",
+        "QE_ST_01120206",
+        "QE_ST_01120301",
+        "QE_ST_01120307",
         "QE_HA_LW_AILN",
         "QE_HA_LW_NASR",
         "QE_HA_LW_VKTR",
@@ -1527,7 +1692,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -1546,6 +1714,8 @@
         "QE_ST_01100205",
         "QE_ST_01100209",
         "QE_ST_01100307",
+        "QE_ST_01130106",
+        "QE_ST_01130110",
         "QE_EV_03_02"
       ]
     },
@@ -1577,6 +1747,8 @@
         "QE_ST_01110205",
         "QE_ST_01110210",
         "QE_ST_01110309",
+        "QE_ST_01130106",
+        "QE_ST_01130110",
         "QE_HA_LW_ZZAN",
         "QE_HA_LW_MICE",
         "QE_HA_LW_MIIA",
@@ -1614,6 +1786,10 @@
         "QE_ST_01110210",
         "QE_ST_01110309",
         "QE_ST_01120104",
+        "QE_ST_01120202",
+        "QE_ST_01120208",
+        "QE_ST_01120304",
+        "QE_ST_01120307",
         "QE_HA_LW_VADM",
         "QE_HA_LW_RAMD",
         "QE_HA_LW_RIRY",
@@ -1647,6 +1823,10 @@
         "QE_ST_01090303",
         "QE_ST_01090310",
         "QE_ST_01120104",
+        "QE_ST_01120202",
+        "QE_ST_01120208",
+        "QE_ST_01120304",
+        "QE_ST_01120307",
         "QE_HA_LW_VKTR",
         "QE_HA_LW_VNLA",
         "QE_HA_LW_SIMR",
@@ -1664,7 +1844,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -1682,7 +1865,9 @@
         "QE_ST_01100109",
         "QE_ST_01100206",
         "QE_ST_01100210",
-        "QE_ST_01100306"
+        "QE_ST_01100306",
+        "QE_ST_01130104",
+        "QE_ST_01130108"
       ]
     },
     {
@@ -1712,7 +1897,9 @@
         "QE_ST_01110108",
         "QE_ST_01110203",
         "QE_ST_01110209",
-        "QE_ST_01110306"
+        "QE_ST_01110306",
+        "QE_ST_01130104",
+        "QE_ST_01130108"
       ]
     },
     {
@@ -1746,6 +1933,9 @@
         "QE_ST_01110306",
         "QE_ST_01120106",
         "QE_ST_01120109",
+        "QE_ST_01120204",
+        "QE_ST_01120210",
+        "QE_ST_01120305",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_STRN",
@@ -1777,6 +1967,9 @@
         "QE_ST_01090309",
         "QE_ST_01120106",
         "QE_ST_01120109",
+        "QE_ST_01120204",
+        "QE_ST_01120210",
+        "QE_ST_01120305",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_YERM",
         "QE_HA_LW_KTON",
@@ -1790,7 +1983,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -1810,6 +2006,7 @@
         "QE_ST_01100204",
         "QE_ST_01100209",
         "QE_ST_01100308",
+        "QE_ST_01130101",
         "QE_EV_07_01",
         "QE_EV_06_02",
         "QE_EV_05_01"
@@ -1844,6 +2041,7 @@
         "QE_ST_01110205",
         "QE_ST_01110301",
         "QE_ST_01110308",
+        "QE_ST_01130101",
         "QE_HA_LW_RART",
         "QE_HA_LW_MICE",
         "QE_HA_LW_SCIA",
@@ -1886,6 +2084,9 @@
         "QE_ST_01110308",
         "QE_ST_01120102",
         "QE_ST_01120107",
+        "QE_ST_01120208",
+        "QE_ST_01120303",
+        "QE_ST_01120310",
         "QE_HA_LW_UNII",
         "QE_HA_LW_LILS",
         "QE_HA_LW_CLEY",
@@ -1923,6 +2124,9 @@
         "QE_ST_01090307",
         "QE_ST_01120102",
         "QE_ST_01120107",
+        "QE_ST_01120208",
+        "QE_ST_01120303",
+        "QE_ST_01120310",
         "QE_HA_LW_FINA",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_LUCA",
@@ -1935,7 +2139,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -1955,6 +2162,7 @@
         "QE_ST_01100207",
         "QE_ST_01100302",
         "QE_ST_01100309",
+        "QE_ST_01130102",
         "QE_EV_02_01",
         "QE_EV_CRIS_01"
       ]
@@ -1987,6 +2195,7 @@
         "QE_ST_01110207",
         "QE_ST_01110303",
         "QE_ST_01110308",
+        "QE_ST_01130102",
         "QE_EV_02_03",
         "QE_EV_02_06",
         "QE_EV_CRIS_02"
@@ -2021,6 +2230,10 @@
         "QE_ST_01110303",
         "QE_ST_01110308",
         "QE_ST_01120105",
+        "QE_ST_01120202",
+        "QE_ST_01120207",
+        "QE_ST_01120304",
+        "QE_ST_01120309",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_RIRY",
         "QE_HA_LW_FDRC",
@@ -2053,13 +2266,18 @@
         "QE_ST_01090209",
         "QE_ST_01090305",
         "QE_ST_01120105",
+        "QE_ST_01120202",
+        "QE_ST_01120207",
+        "QE_ST_01120304",
+        "QE_ST_01120309",
         "QE_HA_LW_FINA",
         "QE_HA_LW_DRND",
         "QE_HA_LW_LUCA",
         "QE_HA_LW_VNLA",
         "QE_HA_LW_LATH",
         "QE_HA_LW_NIVL",
-        "QE_HA_LW_ALIM"
+        "QE_HA_LW_ALIM",
+        "QE_HA_LW_ELSR"
       ]
     },
     {
@@ -2067,7 +2285,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -2086,8 +2307,11 @@
         "QE_ST_01100208",
         "QE_ST_01100301",
         "QE_ST_01100310",
+        "QE_ST_01130104",
+        "QE_ST_01130107",
         "QE_EV_FF14_01",
         "QE_EV_FF14_02",
+        "QE_EV_FF10_02",
         "QE_EV_08_02",
         "QE_EV_07_02",
         "QE_EV_04_02",
@@ -2123,6 +2347,8 @@
         "QE_ST_01110207",
         "QE_ST_01110304",
         "QE_ST_01110309",
+        "QE_ST_01130104",
+        "QE_ST_01130107",
         "QE_HA_LW_RART",
         "QE_HA_LW_MICE",
         "QE_HA_LW_RYER",
@@ -2130,6 +2356,7 @@
         "QE_HA_LW_NAIA",
         "QE_EV_FF14_03",
         "QE_EV_FF14_04",
+        "QE_EV_FF10_05",
         "QE_EV_08_04",
         "QE_EV_08_06",
         "QE_EV_07_04",
@@ -2170,6 +2397,9 @@
         "QE_ST_01110309",
         "QE_ST_01120106",
         "QE_ST_01120110",
+        "QE_ST_01120204",
+        "QE_ST_01120302",
+        "QE_ST_01120305",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MURM",
@@ -2184,6 +2414,8 @@
         "QE_EV_FF14_05",
         "QE_EV_FF14_EX1",
         "QE_EV_FF14_Ex2",
+        "QE_EV_FF10_08",
+        "QE_EV_FF10_10",
         "QE_EV_08_08",
         "QE_EV_08_10",
         "QE_EV_07_08",
@@ -2219,6 +2451,9 @@
         "QE_ST_01090307",
         "QE_ST_01120106",
         "QE_ST_01120110",
+        "QE_ST_01120204",
+        "QE_ST_01120302",
+        "QE_ST_01120305",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_MACR",
@@ -2244,7 +2479,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -2262,7 +2500,9 @@
         "QE_ST_01100110",
         "QE_ST_01100204",
         "QE_ST_01100302",
-        "QE_ST_01100305"
+        "QE_ST_01100305",
+        "QE_ST_01130103",
+        "QE_ST_01130108"
       ]
     },
     {
@@ -2292,6 +2532,8 @@
         "QE_ST_01110208",
         "QE_ST_01110302",
         "QE_ST_01110307",
+        "QE_ST_01130103",
+        "QE_ST_01130108",
         "QE_HA_LW_MIIA",
         "QE_HA_LW_NAIA",
         "QE_HA_LW_SRJS"
@@ -2327,6 +2569,9 @@
         "QE_ST_01110307",
         "QE_ST_01120102",
         "QE_ST_01120110",
+        "QE_ST_01120205",
+        "QE_ST_01120209",
+        "QE_ST_01120310",
         "QE_HA_LW_KADI"
       ]
     },
@@ -2355,12 +2600,16 @@
         "QE_ST_01090306",
         "QE_ST_01120102",
         "QE_ST_01120110",
+        "QE_ST_01120205",
+        "QE_ST_01120209",
+        "QE_ST_01120310",
         "QE_HA_LW_MACR",
         "QE_HA_LW_FINA",
         "QE_HA_LW_IRDL",
         "QE_HA_LW_MRAL",
         "QE_HA_LW_RVAL",
-        "QE_HA_LW_SAKR"
+        "QE_HA_LW_SAKR",
+        "QE_HA_LW_GABL"
       ]
     },
     {
@@ -2368,7 +2617,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -2389,6 +2641,7 @@
         "QE_ST_01100207",
         "QE_ST_01100303",
         "QE_ST_01100309",
+        "QE_ST_01130102",
         "QE_EV_01_01"
       ]
     },
@@ -2421,6 +2674,7 @@
         "QE_ST_01110203",
         "QE_ST_01110303",
         "QE_ST_01110310",
+        "QE_ST_01130102",
         "QE_EV_01_03",
         "QE_EV_01_05"
       ]
@@ -2456,6 +2710,9 @@
         "QE_ST_01110310",
         "QE_ST_01120101",
         "QE_ST_01120109",
+        "QE_ST_01120205",
+        "QE_ST_01120210",
+        "QE_ST_01120308",
         "QE_EV_01_07",
         "QE_EV_01_09"
       ]
@@ -2485,6 +2742,9 @@
         "QE_ST_01090309",
         "QE_ST_01120101",
         "QE_ST_01120109",
+        "QE_ST_01120205",
+        "QE_ST_01120210",
+        "QE_ST_01120308",
         "QE_HA_LW_YERM",
         "QE_HA_LW_DRND",
         "QE_HA_LW_SIMR",
@@ -2498,7 +2758,114 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JB_GLOVE_01",
+      "questlist": [
+        "QE_ST_01010103",
+        "QE_ST_01010201",
+        "QE_ST_01070105",
+        "QE_ST_01070206",
+        "QE_ST_01070306",
+        "QE_ST_01100106",
+        "QE_ST_01100204",
+        "QE_ST_01100306",
+        "QE_ST_01130107",
+        "QE_EV_09_01"
+      ]
+    },
+    {
+      "iname": "IT_JB_GLOVE_02",
+      "questlist": [
+        "QE_ST_01010306",
+        "QE_ST_01020104",
+        "QE_ST_01020201",
+        "QE_ST_01070105",
+        "QE_ST_01070206",
+        "QE_ST_01070306",
+        "QE_ST_01080101",
+        "QE_ST_01080204",
+        "QE_ST_01080301",
+        "QE_ST_01100106",
+        "QE_ST_01100204",
+        "QE_ST_01100306",
+        "QE_ST_01110109",
+        "QE_ST_01110207",
+        "QE_ST_01110307",
+        "QE_ST_01130107",
+        "QE_EV_09_03",
+        "QE_EV_09_05"
+      ]
+    },
+    {
+      "iname": "IT_JB_GLOVE_03",
+      "questlist": [
+        "QE_ST_01020302",
+        "QE_ST_01030106",
+        "QE_ST_01030204",
+        "QE_ST_01030306",
+        "QE_ST_01040102",
+        "QE_ST_01040204",
+        "QE_ST_01080101",
+        "QE_ST_01080204",
+        "QE_ST_01080301",
+        "QE_ST_01090101",
+        "QE_ST_01090201",
+        "QE_ST_01090305",
+        "QE_ST_01110109",
+        "QE_ST_01110207",
+        "QE_ST_01110307",
+        "QE_ST_01120108",
+        "QE_ST_01120210",
+        "QE_ST_01120307",
+        "QE_EV_09_07",
+        "QE_EV_09_09"
+      ]
+    },
+    {
+      "iname": "IT_JB_GLOVE_04",
+      "questlist": [
+        "QE_EV_AW_H09_3",
+        "QE_EV_AW_H09_2",
+        "QE_EV_AW_H09_1",
+        "QE_ST_01040303",
+        "QE_ST_01050105",
+        "QE_ST_01050202",
+        "QE_ST_01050304",
+        "QE_ST_01060108",
+        "QE_ST_01060205",
+        "QE_ST_01060302",
+        "QE_ST_01090101",
+        "QE_ST_01090201",
+        "QE_ST_01090305",
+        "QE_ST_01120108",
+        "QE_ST_01120210",
+        "QE_ST_01120307",
+        "QE_HA_LW_GABL"
+      ]
+    },
+    {
+      "iname": "IT_JB_GLOVE_05",
+      "questlist": [
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_COMMON_5",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -2511,7 +2878,8 @@
         "QE_ST_01070303",
         "QE_ST_01100109",
         "QE_ST_01100204",
-        "QE_ST_01100305"
+        "QE_ST_01100305",
+        "QE_ST_01130105"
       ]
     },
     {
@@ -2531,6 +2899,7 @@
         "QE_ST_01100305",
         "QE_ST_01110101",
         "QE_ST_01110302",
+        "QE_ST_01130105",
         "QE_HA_LW_MONT",
         "QE_HA_LW_ZZAN",
         "QE_HA_LW_BYLO",
@@ -2555,6 +2924,7 @@
         "QE_ST_01110101",
         "QE_ST_01110302",
         "QE_ST_01120101",
+        "QE_ST_01120301",
         "QE_HA_LW_VADM",
         "QE_HA_LW_OOOO"
       ]
@@ -2572,13 +2942,15 @@
         "QE_ST_01090203",
         "QE_ST_01090302",
         "QE_ST_01120101",
+        "QE_ST_01120301",
         "QE_HA_LW_AILN"
       ]
     },
     {
       "iname": "IT_JB_MM_WAR_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -2592,6 +2964,8 @@
         "QE_ST_01100104",
         "QE_ST_01100208",
         "QE_ST_01100308",
+        "QE_ST_01130102",
+        "QE_ST_01130107",
         "QE_EV_03_01"
       ]
     },
@@ -2611,6 +2985,8 @@
         "QE_ST_01100308",
         "QE_ST_01110103",
         "QE_ST_01110304",
+        "QE_ST_01130102",
+        "QE_ST_01130107",
         "QE_HA_LW_MONT",
         "QE_HA_LW_ZZAN",
         "QE_HA_LW_BYLO",
@@ -2636,6 +3012,8 @@
         "QE_ST_01110103",
         "QE_ST_01110304",
         "QE_ST_01120103",
+        "QE_ST_01120208",
+        "QE_ST_01120303",
         "QE_HA_LW_LILS",
         "QE_HA_LW_MRLK",
         "QE_HA_LW_ENBT",
@@ -2657,6 +3035,8 @@
         "QE_ST_01090108",
         "QE_ST_01090208",
         "QE_ST_01120103",
+        "QE_ST_01120208",
+        "QE_ST_01120303",
         "QE_HA_LW_YERM",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_WHIS",
@@ -2667,7 +3047,8 @@
     {
       "iname": "IT_JB_MM_KNT_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -2679,6 +3060,7 @@
         "QE_ST_01070203",
         "QE_ST_01100102",
         "QE_ST_01100209",
+        "QE_ST_01130110",
         "QE_EV_01_02"
       ]
     },
@@ -2697,6 +3079,7 @@
         "QE_ST_01100209",
         "QE_ST_01110102",
         "QE_ST_01110303",
+        "QE_ST_01130110",
         "QE_HA_LW_MONT",
         "QE_HA_LW_BYLO",
         "QE_HA_LW_SRJS",
@@ -2722,6 +3105,7 @@
         "QE_ST_01110102",
         "QE_ST_01110303",
         "QE_ST_01120102",
+        "QE_ST_01120302",
         "QE_HA_LW_ENBT",
         "QE_EV_01_08",
         "QE_EV_01_10"
@@ -2741,6 +3125,7 @@
         "QE_ST_01090202",
         "QE_ST_01090304",
         "QE_ST_01120102",
+        "QE_ST_01120302",
         "QE_HA_LW_NASR",
         "QE_HA_LW_MRND",
         "QE_HA_LW_DRIO",
@@ -2752,7 +3137,8 @@
     {
       "iname": "IT_JB_MM_PLD_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -2811,6 +3197,7 @@
         "QE_ST_01110104",
         "QE_ST_01110305",
         "QE_ST_01120104",
+        "QE_ST_01120304",
         "QE_HA_LW_LILS",
         "QE_HA_LW_VSTR",
         "QE_HA_LW_STRN",
@@ -2836,6 +3223,7 @@
         "QE_ST_01090204",
         "QE_ST_01090210",
         "QE_ST_01120104",
+        "QE_ST_01120304",
         "QE_HA_LW_AILN",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_GLMS",
@@ -2848,7 +3236,8 @@
     {
       "iname": "IT_JB_MM_SWN_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -2861,6 +3250,7 @@
         "QE_ST_01070309",
         "QE_ST_01100108",
         "QE_ST_01100207",
+        "QE_ST_01130102",
         "QE_EV_FF4_02",
         "QE_EV_ETRE_01"
       ]
@@ -2881,6 +3271,7 @@
         "QE_ST_01100207",
         "QE_ST_01110106",
         "QE_ST_01110306",
+        "QE_ST_01130102",
         "QE_EV_FF4_04",
         "QE_EV_FF4_05",
         "QE_EV_ETRE_02"
@@ -2903,6 +3294,7 @@
         "QE_ST_01090308",
         "QE_ST_01110106",
         "QE_ST_01110306",
+        "QE_ST_01120201",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MRLK",
         "QE_HA_LW_ELDE",
@@ -2926,6 +3318,7 @@
         "QE_ST_01060304",
         "QE_ST_01090110",
         "QE_ST_01090308",
+        "QE_ST_01120201",
         "QE_HA_LW_MACR",
         "QE_HA_LW_DRND",
         "QE_HA_LW_LUCA",
@@ -2935,7 +3328,8 @@
     {
       "iname": "IT_JB_MM_MNK_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -2987,6 +3381,7 @@
         "QE_ST_01110109",
         "QE_ST_01110307",
         "QE_ST_01120105",
+        "QE_ST_01120305",
         "QE_HA_LW_VADM",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_ELDE",
@@ -3011,6 +3406,7 @@
         "QE_ST_01090305",
         "QE_ST_01090309",
         "QE_ST_01120105",
+        "QE_ST_01120305",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_SIMR",
         "QE_HA_LW_LVES",
@@ -3021,7 +3417,8 @@
     {
       "iname": "IT_JB_MM_SAM_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -3033,7 +3430,8 @@
         "QE_ST_01070204",
         "QE_ST_01070302",
         "QE_ST_01100101",
-        "QE_ST_01100210"
+        "QE_ST_01100210",
+        "QE_ST_01130109"
       ]
     },
     {
@@ -3051,6 +3449,7 @@
         "QE_ST_01100210",
         "QE_ST_01110107",
         "QE_ST_01110208",
+        "QE_ST_01130109",
         "QE_HA_LW_RART",
         "QE_HA_LW_SRJS"
       ]
@@ -3072,6 +3471,7 @@
         "QE_ST_01110107",
         "QE_ST_01110208",
         "QE_ST_01120109",
+        "QE_ST_01120309",
         "QE_HA_LW_MURM",
         "QE_HA_LW_RAMD",
         "QE_HA_LW_LRNZ",
@@ -3096,13 +3496,15 @@
         "QE_ST_01090109",
         "QE_ST_01090306",
         "QE_ST_01120109",
+        "QE_ST_01120309",
         "QE_HA_LW_AILN"
       ]
     },
     {
       "iname": "IT_JB_MM_LAN_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -3159,6 +3561,7 @@
         "QE_ST_01090301",
         "QE_ST_01110110",
         "QE_ST_01120110",
+        "QE_ST_01120310",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_LRNZ",
@@ -3184,6 +3587,7 @@
         "QE_ST_01090201",
         "QE_ST_01090301",
         "QE_ST_01120110",
+        "QE_ST_01120310",
         "QE_HA_LW_NASR",
         "QE_HA_LW_VKTR",
         "QE_HA_LW_LSWL",
@@ -3193,7 +3597,8 @@
     {
       "iname": "IT_JB_MM_DRG_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -3245,6 +3650,7 @@
         "QE_ST_01110201",
         "QE_ST_01110308",
         "QE_ST_01120107",
+        "QE_ST_01120307",
         "QE_HA_LW_VADM",
         "QE_HA_LW_RAMD",
         "QE_HA_LW_RIRY",
@@ -3267,6 +3673,7 @@
         "QE_ST_01090307",
         "QE_ST_01090310",
         "QE_ST_01120107",
+        "QE_ST_01120307",
         "QE_HA_LW_YERM",
         "QE_HA_LW_VKTR",
         "QE_HA_LW_VNLA",
@@ -3280,7 +3687,8 @@
     {
       "iname": "IT_JB_MM_THI_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -3292,7 +3700,8 @@
         "QE_ST_01070202",
         "QE_ST_01070310",
         "QE_ST_01100107",
-        "QE_ST_01100205"
+        "QE_ST_01100205",
+        "QE_ST_01130104"
       ]
     },
     {
@@ -3310,7 +3719,8 @@
         "QE_ST_01100107",
         "QE_ST_01100205",
         "QE_ST_01110202",
-        "QE_ST_01110309"
+        "QE_ST_01110309",
+        "QE_ST_01130104"
       ]
     },
     {
@@ -3330,6 +3740,7 @@
         "QE_ST_01110202",
         "QE_ST_01110309",
         "QE_ST_01120106",
+        "QE_ST_01120306",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_STRN",
@@ -3350,6 +3761,7 @@
         "QE_ST_01090207",
         "QE_ST_01090303",
         "QE_ST_01120106",
+        "QE_ST_01120306",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_KTON",
         "QE_HA_LW_THLA",
@@ -3360,7 +3772,8 @@
     {
       "iname": "IT_JB_MM_NIN_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -3421,6 +3834,8 @@
         "QE_ST_01090301",
         "QE_ST_01110105",
         "QE_ST_01110306",
+        "QE_ST_01120202",
+        "QE_ST_01120208",
         "QE_HA_LW_UNII",
         "QE_HA_LW_LILS",
         "QE_HA_LW_CLEY",
@@ -3446,6 +3861,8 @@
         "QE_ST_01060310",
         "QE_ST_01090107",
         "QE_ST_01090301",
+        "QE_ST_01120202",
+        "QE_ST_01120208",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_LUCA",
         "QE_HA_LW_RRIR"
@@ -3454,7 +3871,8 @@
     {
       "iname": "IT_JB_MM_HUN_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -3506,6 +3924,7 @@
         "QE_ST_01090209",
         "QE_ST_01110203",
         "QE_ST_01110301",
+        "QE_ST_01120202",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_RIRY",
         "QE_HA_LW_FDRC",
@@ -3526,6 +3945,7 @@
         "QE_ST_01090101",
         "QE_ST_01090206",
         "QE_ST_01090209",
+        "QE_ST_01120202",
         "QE_HA_LW_FINA",
         "QE_HA_LW_DRND",
         "QE_HA_LW_LATH",
@@ -3535,7 +3955,8 @@
     {
       "iname": "IT_JB_MM_GUN_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -3547,7 +3968,9 @@
         "QE_ST_01070205",
         "QE_ST_01070310",
         "QE_ST_01100109",
-        "QE_ST_01100203"
+        "QE_ST_01100203",
+        "QE_ST_01130103",
+        "QE_ST_01130110"
       ]
     },
     {
@@ -3565,6 +3988,8 @@
         "QE_ST_01100203",
         "QE_ST_01110108",
         "QE_ST_01110210",
+        "QE_ST_01130103",
+        "QE_ST_01130110",
         "QE_HA_LW_RART",
         "QE_HA_LW_RYER",
         "QE_HA_LW_VRID",
@@ -3587,6 +4012,7 @@
         "QE_ST_01110108",
         "QE_ST_01110210",
         "QE_ST_01120101",
+        "QE_ST_01120301",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_HLNA",
         "QE_HA_LW_KADI",
@@ -3607,6 +4033,7 @@
         "QE_ST_01090109",
         "QE_ST_01090305",
         "QE_ST_01120101",
+        "QE_ST_01120301",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_NASR",
         "QE_HA_LW_FINA",
@@ -3620,7 +4047,8 @@
     {
       "iname": "IT_JB_MM_WHM_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -3632,6 +4060,7 @@
         "QE_ST_01070207",
         "QE_ST_01070309",
         "QE_ST_01100201",
+        "QE_ST_01130106",
         "QE_EV_07_02",
         "QE_EV_THLA_01"
       ]
@@ -3651,6 +4080,7 @@
         "QE_ST_01100201",
         "QE_ST_01110109",
         "QE_ST_01110304",
+        "QE_ST_01130106",
         "QE_HA_LW_MICE",
         "QE_EV_07_04",
         "QE_EV_07_06",
@@ -3675,6 +4105,7 @@
         "QE_ST_01110109",
         "QE_ST_01110304",
         "QE_ST_01120102",
+        "QE_ST_01120302",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MURM",
@@ -3699,6 +4130,7 @@
         "QE_ST_01090308",
         "QE_ST_01090309",
         "QE_ST_01120102",
+        "QE_ST_01120302",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_MACR",
         "QE_HA_LW_THLA",
@@ -3710,7 +4142,8 @@
     {
       "iname": "IT_JB_MM_BLM_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -3765,6 +4198,8 @@
         "QE_ST_01110201",
         "QE_ST_01110210",
         "QE_ST_01120109",
+        "QE_ST_01120205",
+        "QE_ST_01120309",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MURM",
         "QE_HA_LW_RIRY",
@@ -3788,18 +4223,22 @@
         "QE_ST_01090203",
         "QE_ST_01090302",
         "QE_ST_01120109",
+        "QE_ST_01120205",
+        "QE_ST_01120309",
         "QE_HA_LW_MRND",
         "QE_HA_LW_ADLD",
         "QE_HA_LW_RAIN",
         "QE_HA_LW_HWLT",
         "QE_HA_LW_TITU",
-        "QE_HA_LW_SAKR"
+        "QE_HA_LW_SAKR",
+        "QE_HA_LW_GABL"
       ]
     },
     {
       "iname": "IT_JB_MM_RDM_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -3811,7 +4250,8 @@
         "QE_ST_01070203",
         "QE_ST_01070308",
         "QE_ST_01100208",
-        "QE_ST_01100304"
+        "QE_ST_01100304",
+        "QE_ST_01130103"
       ]
     },
     {
@@ -3830,6 +4270,7 @@
         "QE_ST_01100304",
         "QE_ST_01110202",
         "QE_ST_01110206",
+        "QE_ST_01130103",
         "QE_HA_LW_VRID"
       ]
     },
@@ -3850,6 +4291,7 @@
         "QE_ST_01110202",
         "QE_ST_01110206",
         "QE_ST_01120104",
+        "QE_ST_01120304",
         "QE_HA_LW_HLNA",
         "QE_HA_LW_CLEY",
         "QE_HA_LW_MRLK",
@@ -3870,6 +4312,7 @@
         "QE_ST_01090106",
         "QE_ST_01090210",
         "QE_ST_01120104",
+        "QE_ST_01120304",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_ADLD",
@@ -3879,7 +4322,8 @@
     {
       "iname": "IT_JB_MM_GRM_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -3932,6 +4376,8 @@
         "QE_ST_01110110",
         "QE_ST_01110305",
         "QE_ST_01120103",
+        "QE_ST_01120206",
+        "QE_ST_01120303",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_HLNA",
         "QE_HA_LW_LRNZ",
@@ -3954,6 +4400,8 @@
         "QE_ST_01090102",
         "QE_ST_01090306",
         "QE_ST_01120103",
+        "QE_ST_01120206",
+        "QE_ST_01120303",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_GLMS",
         "QE_HA_LW_KTON",
@@ -3967,7 +4415,8 @@
     {
       "iname": "IT_JB_MM_TIM_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -3980,7 +4429,8 @@
         "QE_ST_01070305",
         "QE_ST_01100201",
         "QE_ST_01100205",
-        "QE_ST_01100308"
+        "QE_ST_01100308",
+        "QE_ST_01130109"
       ]
     },
     {
@@ -3999,6 +4449,7 @@
         "QE_ST_01110203",
         "QE_ST_01110206",
         "QE_ST_01110310",
+        "QE_ST_01130109",
         "QE_HA_LW_MIIA",
         "QE_HA_LW_RYER"
       ]
@@ -4020,6 +4471,8 @@
         "QE_ST_01110206",
         "QE_ST_01110310",
         "QE_ST_01120110",
+        "QE_ST_01120206",
+        "QE_ST_01120310",
         "QE_HA_LW_UNII",
         "QE_HA_LW_RAMD",
         "QE_HA_LW_KADI"
@@ -4040,17 +4493,21 @@
         "QE_ST_01090204",
         "QE_ST_01090304",
         "QE_ST_01120110",
+        "QE_ST_01120206",
+        "QE_ST_01120310",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_DRIO",
         "QE_HA_LW_QILF",
         "QE_HA_LW_IRDL",
-        "QE_HA_LW_MRAL"
+        "QE_HA_LW_MRAL",
+        "QE_HA_LW_ELSR"
       ]
     },
     {
       "iname": "IT_JB_MM_MGK_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -4062,7 +4519,8 @@
         "QE_ST_01070209",
         "QE_ST_01070307",
         "QE_ST_01100101",
-        "QE_ST_01100307"
+        "QE_ST_01100307",
+        "QE_ST_01130105"
       ]
     },
     {
@@ -4080,6 +4538,7 @@
         "QE_ST_01100307",
         "QE_ST_01110108",
         "QE_ST_01110307",
+        "QE_ST_01130105",
         "QE_HA_LW_MIIA",
         "QE_HA_LW_NAIA",
         "QE_HA_LW_SRJS"
@@ -4102,6 +4561,7 @@
         "QE_ST_01110108",
         "QE_ST_01110307",
         "QE_ST_01120106",
+        "QE_ST_01120306",
         "QE_HA_LW_KADI"
       ]
     },
@@ -4120,6 +4580,7 @@
         "QE_ST_01090201",
         "QE_ST_01090208",
         "QE_ST_01120106",
+        "QE_ST_01120306",
         "QE_HA_LW_MACR",
         "QE_HA_LW_FINA",
         "QE_HA_LW_RVAL"
@@ -4128,7 +4589,8 @@
     {
       "iname": "IT_JB_MM_CLR_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -4139,7 +4601,8 @@
         "QE_ST_01070109",
         "QE_ST_01070207",
         "QE_ST_01070302",
-        "QE_ST_01100206"
+        "QE_ST_01100206",
+        "QE_ST_01130106"
       ]
     },
     {
@@ -4157,7 +4620,8 @@
         "QE_ST_01100206",
         "QE_ST_01110101",
         "QE_ST_01110208",
-        "QE_ST_01110303"
+        "QE_ST_01110303",
+        "QE_ST_01130106"
       ]
     },
     {
@@ -4178,7 +4642,8 @@
         "QE_ST_01110101",
         "QE_ST_01110208",
         "QE_ST_01110303",
-        "QE_ST_01120101"
+        "QE_ST_01120101",
+        "QE_ST_01120302"
       ]
     },
     {
@@ -4195,13 +4660,15 @@
         "QE_ST_01090205",
         "QE_ST_01090309",
         "QE_ST_01120101",
+        "QE_ST_01120302",
         "QE_HA_LW_GLMS"
       ]
     },
     {
       "iname": "IT_JB_MM_LW_GLMS_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -4213,6 +4680,7 @@
         "QE_ST_01070301",
         "QE_ST_01100105",
         "QE_ST_01100206",
+        "QE_ST_01130108",
         "QE_EV_01_01"
       ]
     },
@@ -4231,6 +4699,7 @@
         "QE_ST_01100206",
         "QE_ST_01110204",
         "QE_ST_01110308",
+        "QE_ST_01130108",
         "QE_EV_01_03",
         "QE_EV_01_05"
       ]
@@ -4252,6 +4721,7 @@
         "QE_ST_01090209",
         "QE_ST_01110204",
         "QE_ST_01110308",
+        "QE_ST_01120204",
         "QE_EV_01_07",
         "QE_EV_01_09"
       ]
@@ -4270,6 +4740,7 @@
         "QE_ST_01090103",
         "QE_ST_01090206",
         "QE_ST_01090209",
+        "QE_ST_01120204",
         "QE_HA_LW_YERM",
         "QE_HA_LW_DRND",
         "QE_HA_LW_SIMR",
@@ -4281,7 +4752,8 @@
     {
       "iname": "IT_JB_MM_VIK_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -4335,6 +4807,8 @@
         "QE_ST_01090307",
         "QE_ST_01110204",
         "QE_ST_01110209",
+        "QE_ST_01120203",
+        "QE_ST_01120210",
         "QE_EV_02_08",
         "QE_EV_02_10"
       ]
@@ -4352,16 +4826,20 @@
         "QE_ST_01060302",
         "QE_ST_01090110",
         "QE_ST_01090307",
+        "QE_ST_01120203",
+        "QE_ST_01120210",
         "QE_HA_LW_LUCA",
         "QE_HA_LW_VNLA",
         "QE_HA_LW_LATH",
-        "QE_HA_LW_ALIM"
+        "QE_HA_LW_ALIM",
+        "QE_HA_LW_ELSR"
       ]
     },
     {
       "iname": "IT_JB_MM_WGN_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -4411,6 +4889,7 @@
         "QE_ST_01090310",
         "QE_ST_01110107",
         "QE_ST_01120108",
+        "QE_ST_01120308",
         "QE_EV_03_08",
         "QE_EV_03_10"
       ]
@@ -4430,6 +4909,7 @@
         "QE_ST_01090205",
         "QE_ST_01090310",
         "QE_ST_01120108",
+        "QE_ST_01120308",
         "QE_HA_LW_VNLA",
         "QE_HA_LW_ORDR",
         "QE_HA_LW_STRN_01",
@@ -4439,7 +4919,8 @@
     {
       "iname": "IT_JB_MM_ASS_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -4452,7 +4933,8 @@
         "QE_ST_01070304",
         "QE_ST_01100105",
         "QE_ST_01100202",
-        "QE_ST_01100309"
+        "QE_ST_01100309",
+        "QE_ST_01130101"
       ]
     },
     {
@@ -4471,7 +4953,8 @@
         "QE_ST_01100309",
         "QE_ST_01110104",
         "QE_ST_01110207",
-        "QE_ST_01110301"
+        "QE_ST_01110301",
+        "QE_ST_01130101"
       ]
     },
     {
@@ -4491,7 +4974,8 @@
         "QE_ST_01110104",
         "QE_ST_01110207",
         "QE_ST_01110301",
-        "QE_ST_01120103"
+        "QE_ST_01120103",
+        "QE_ST_01120209"
       ]
     },
     {
@@ -4509,13 +4993,15 @@
         "QE_ST_01090208",
         "QE_ST_01090303",
         "QE_ST_01120103",
+        "QE_ST_01120209",
         "QE_HA_LW_RAIN"
       ]
     },
     {
       "iname": "IT_JB_MM_LW_RAIN_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -4573,6 +5059,8 @@
         "QE_ST_01110207",
         "QE_ST_01110310",
         "QE_ST_01120105",
+        "QE_ST_01120205",
+        "QE_ST_01120305",
         "QE_EV_04_08",
         "QE_EV_04_10"
       ]
@@ -4592,6 +5080,8 @@
         "QE_ST_01090202",
         "QE_ST_01090205",
         "QE_ST_01120105",
+        "QE_ST_01120205",
+        "QE_ST_01120305",
         "QE_HA_LW_QILF",
         "QE_HA_LW_SCAL"
       ]
@@ -4599,7 +5089,8 @@
     {
       "iname": "IT_JB_MM_MST_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -4650,7 +5141,8 @@
         "QE_ST_01090303",
         "QE_ST_01110105",
         "QE_ST_01110208",
-        "QE_ST_01120107"
+        "QE_ST_01120107",
+        "QE_ST_01120307"
       ]
     },
     {
@@ -4667,6 +5159,7 @@
         "QE_ST_01090108",
         "QE_ST_01090303",
         "QE_ST_01120107",
+        "QE_ST_01120307",
         "QE_HA_LW_IRDL",
         "QE_HA_LW_MRAL",
         "QE_HA_LW_RVAL"
@@ -4675,7 +5168,8 @@
     {
       "iname": "IT_JB_MM_CAL_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -4687,7 +5181,8 @@
         "QE_ST_01070208",
         "QE_ST_01070309",
         "QE_ST_01100208",
-        "QE_ST_01100309"
+        "QE_ST_01100309",
+        "QE_ST_01130104"
       ]
     },
     {
@@ -4706,7 +5201,8 @@
         "QE_ST_01100309",
         "QE_ST_01110110",
         "QE_ST_01110205",
-        "QE_ST_01110308"
+        "QE_ST_01110308",
+        "QE_ST_01130104"
       ]
     },
     {
@@ -4727,7 +5223,9 @@
         "QE_ST_01110110",
         "QE_ST_01110205",
         "QE_ST_01110308",
-        "QE_ST_01120102"
+        "QE_ST_01120102",
+        "QE_ST_01120207",
+        "QE_ST_01120303"
       ]
     },
     {
@@ -4745,13 +5243,16 @@
         "QE_ST_01090209",
         "QE_ST_01090310",
         "QE_ST_01120102",
+        "QE_ST_01120207",
+        "QE_ST_01120303",
         "QE_HA_LW_STRN_01"
       ]
     },
     {
       "iname": "IT_JB_MM_LW_STRN_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -4765,6 +5266,7 @@
         "QE_ST_01100109",
         "QE_ST_01100209",
         "QE_ST_01100310",
+        "QE_ST_01130101",
         "QE_EV_05_02"
       ]
     },
@@ -4786,6 +5288,7 @@
         "QE_ST_01110101",
         "QE_ST_01110205",
         "QE_ST_01110209",
+        "QE_ST_01130101",
         "QE_EV_05_04",
         "QE_EV_05_06"
       ]
@@ -4808,6 +5311,8 @@
         "QE_ST_01110205",
         "QE_ST_01110209",
         "QE_ST_01120106",
+        "QE_ST_01120210",
+        "QE_ST_01120305",
         "QE_EV_05_08",
         "QE_EV_05_10"
       ]
@@ -4826,13 +5331,16 @@
         "QE_ST_01090108",
         "QE_ST_01090210",
         "QE_ST_01120106",
+        "QE_ST_01120210",
+        "QE_ST_01120305",
         "QE_HA_LW_GRSR"
       ]
     },
     {
       "iname": "IT_JB_MM_LW_GRSR_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -4844,7 +5352,8 @@
         "QE_ST_01070206",
         "QE_ST_01070308",
         "QE_ST_01100102",
-        "QE_ST_01100203"
+        "QE_ST_01100203",
+        "QE_ST_01130107"
       ]
     },
     {
@@ -4861,7 +5370,8 @@
         "QE_ST_01100102",
         "QE_ST_01100203",
         "QE_ST_01110102",
-        "QE_ST_01110202"
+        "QE_ST_01110202",
+        "QE_ST_01130107"
       ]
     },
     {
@@ -4904,7 +5414,8 @@
     {
       "iname": "IT_JB_MM_LW_LSWL_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -4918,6 +5429,7 @@
         "QE_ST_01100104",
         "QE_ST_01100301",
         "QE_ST_01100306",
+        "QE_ST_01130108",
         "QE_EV_06_01",
         "QE_EV_CRIS_01"
       ]
@@ -4940,6 +5452,7 @@
         "QE_ST_01110103",
         "QE_ST_01110206",
         "QE_ST_01110309",
+        "QE_ST_01130108",
         "QE_EV_06_03",
         "QE_EV_06_05",
         "QE_EV_CRIS_03"
@@ -4962,6 +5475,8 @@
         "QE_ST_01110103",
         "QE_ST_01110206",
         "QE_ST_01110309",
+        "QE_ST_01120201",
+        "QE_ST_01120207",
         "QE_EV_06_07",
         "QE_EV_06_09",
         "QE_EV_CRIS_05"
@@ -4980,6 +5495,8 @@
         "QE_ST_01060305",
         "QE_ST_01090107",
         "QE_ST_01090301",
+        "QE_ST_01120201",
+        "QE_ST_01120207",
         "QE_HA_LW_HWLT",
         "QE_HA_LW_ELSI"
       ]
@@ -4987,7 +5504,8 @@
     {
       "iname": "IT_JB_MM_MKN_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -5061,7 +5579,8 @@
         "QE_ST_01090302",
         "QE_ST_01110105",
         "QE_ST_01110302",
-        "QE_ST_01120108"
+        "QE_ST_01120108",
+        "QE_ST_01120308"
       ]
     },
     {
@@ -5078,13 +5597,16 @@
         "QE_ST_01090110",
         "QE_ST_01090302",
         "QE_ST_01120108",
-        "QE_HA_LW_SAKR"
+        "QE_ST_01120308",
+        "QE_HA_LW_SAKR",
+        "QE_HA_LW_GABL"
       ]
     },
     {
       "iname": "IT_JB_MM_MMC_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -5134,6 +5656,8 @@
         "QE_ST_01090308",
         "QE_ST_01110107",
         "QE_ST_01110303",
+        "QE_ST_01120203",
+        "QE_ST_01120209",
         "QE_EV_07_07",
         "QE_EV_07_09"
       ]
@@ -5151,13 +5675,16 @@
         "QE_ST_01060304",
         "QE_ST_01090203",
         "QE_ST_01090308",
+        "QE_ST_01120203",
+        "QE_ST_01120209",
         "QE_HA_LW_NIVL"
       ]
     },
     {
       "iname": "IT_JB_MM_ARC_5",
       "questlist": [
-        "QE_EV_AW_H13_2"
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
       ]
     },
     {
@@ -5214,6 +5741,7 @@
         "QE_ST_01110205",
         "QE_ST_01110310",
         "QE_ST_01120105",
+        "QE_ST_01120309",
         "QE_EV_ALIM_05"
       ]
     },
@@ -5232,13 +5760,15 @@
         "QE_ST_01090202",
         "QE_ST_01090307",
         "QE_ST_01120105",
+        "QE_ST_01120309",
         "QE_HA_LW_SAKR"
       ]
     },
     {
       "iname": "IT_JB_MM_LW_SAKR_5",
       "questlist": [
-        "QE_EV_AW_H13_3"
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
       ]
     },
     {
@@ -5295,6 +5825,7 @@
         "QE_ST_01110104",
         "QE_ST_01110203",
         "QE_ST_01110306",
+        "QE_ST_01120204",
         "QE_EV_08_07",
         "QE_EV_08_09"
       ]
@@ -5313,13 +5844,248 @@
         "QE_ST_01090105",
         "QE_ST_01090204",
         "QE_ST_01090304",
+        "QE_ST_01120204",
         "QE_HA_LW_RARD"
       ]
     },
     {
       "iname": "IT_JB_MM_BEA_5",
       "questlist": [
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PSI",
+      "questlist": [
+        "QE_ST_01010103",
+        "QE_ST_01010201",
+        "QE_ST_01070105",
+        "QE_ST_01070206",
+        "QE_ST_01070306",
+        "QE_ST_01100106",
+        "QE_ST_01100204",
+        "QE_ST_01100306",
+        "QE_EV_09_01"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PSI_2",
+      "questlist": [
+        "QE_ST_01010306",
+        "QE_ST_01020104",
+        "QE_ST_01020201",
+        "QE_ST_01070105",
+        "QE_ST_01070206",
+        "QE_ST_01070306",
+        "QE_ST_01080101",
+        "QE_ST_01080204",
+        "QE_ST_01080301",
+        "QE_ST_01100106",
+        "QE_ST_01100204",
+        "QE_ST_01100306",
+        "QE_ST_01110109",
+        "QE_ST_01110207",
+        "QE_ST_01110307",
+        "QE_EV_09_03",
+        "QE_EV_09_05"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PSI_3",
+      "questlist": [
+        "QE_ST_01020302",
+        "QE_ST_01030106",
+        "QE_ST_01030204",
+        "QE_ST_01030306",
+        "QE_ST_01040102",
+        "QE_ST_01040204",
+        "QE_ST_01080101",
+        "QE_ST_01080204",
+        "QE_ST_01080301",
+        "QE_ST_01090101",
+        "QE_ST_01090201",
+        "QE_ST_01090305",
+        "QE_ST_01110109",
+        "QE_ST_01110207",
+        "QE_ST_01110307",
+        "QE_ST_01120108",
+        "QE_ST_01120210",
+        "QE_ST_01120307",
+        "QE_EV_09_07",
+        "QE_EV_09_09"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PSI_4",
+      "questlist": [
+        "QE_EV_AW_H09_3",
+        "QE_ST_01040303",
+        "QE_ST_01050105",
+        "QE_ST_01050202",
+        "QE_ST_01050304",
+        "QE_ST_01060108",
+        "QE_ST_01060205",
+        "QE_ST_01060302",
+        "QE_ST_01090101",
+        "QE_ST_01090201",
+        "QE_ST_01090305",
+        "QE_ST_01120108",
+        "QE_ST_01120210",
+        "QE_ST_01120307",
+        "QE_HA_LW_GABL"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PSI_5",
+      "questlist": [
+        "QE_EV_AW_H13_3",
+        "QE_EV_AW_H15_3"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_MSW",
+      "questlist": [
+        "QE_ST_01010102",
+        "QE_ST_01010202",
+        "QE_ST_01070101",
+        "QE_ST_01070204",
+        "QE_ST_01070303",
+        "QE_ST_01100101",
+        "QE_ST_01100201",
+        "QE_ST_01100305",
+        "QE_EV_09_02"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_MSW_2",
+      "questlist": [
+        "QE_ST_01010307",
+        "QE_ST_01020105",
+        "QE_ST_01020206",
+        "QE_ST_01070101",
+        "QE_ST_01070204",
+        "QE_ST_01070303",
+        "QE_ST_01080106",
+        "QE_ST_01080208",
+        "QE_ST_01080305",
+        "QE_ST_01100101",
+        "QE_ST_01100201",
+        "QE_ST_01100305",
+        "QE_ST_01110103",
+        "QE_ST_01110204",
+        "QE_ST_01110302",
+        "QE_EV_09_04",
+        "QE_EV_09_06"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_MSW_3",
+      "questlist": [
+        "QE_ST_01020306",
+        "QE_ST_01030104",
+        "QE_ST_01030201",
+        "QE_ST_01030303",
+        "QE_ST_01040107",
+        "QE_ST_01040208",
+        "QE_ST_01080106",
+        "QE_ST_01080208",
+        "QE_ST_01080305",
+        "QE_ST_01090107",
+        "QE_ST_01090206",
+        "QE_ST_01090301",
+        "QE_ST_01110103",
+        "QE_ST_01110204",
+        "QE_ST_01110302",
+        "QE_ST_01120107",
+        "QE_ST_01120207",
+        "QE_ST_01120304",
+        "QE_EV_09_08",
+        "QE_EV_09_10"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_MSW_4",
+      "questlist": [
+        "QE_EV_AW_H09_2",
+        "QE_ST_01040305",
+        "QE_ST_01050102",
+        "QE_ST_01050206",
+        "QE_ST_01050308",
+        "QE_ST_01060107",
+        "QE_ST_01060203",
+        "QE_ST_01060304",
+        "QE_ST_01090107",
+        "QE_ST_01090206",
+        "QE_ST_01090301",
+        "QE_ST_01120107",
+        "QE_ST_01120207",
+        "QE_ST_01120304",
+        "QE_HA_LW_ELSR"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_MSW_5",
+      "questlist": [
+        "QE_EV_AW_H13_2",
+        "QE_EV_AW_H15_2"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_TIDU",
+      "questlist": [
+        "QE_EV_FF10_01"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_TIDU_2",
+      "questlist": [
+        "QE_EV_FF10_04"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_TIDU_3",
+      "questlist": [
+        "QE_EV_FF10_07",
+        "QE_EV_FF10_10"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_YUNA",
+      "questlist": [
+        "QE_EV_FF10_02"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_YUNA_2",
+      "questlist": [
+        "QE_EV_FF10_05"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_YUNA_3",
+      "questlist": [
+        "QE_EV_FF10_08",
+        "QE_EV_FF10_10"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_ARON",
+      "questlist": [
+        "QE_EV_FF10_03"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_ARON_2",
+      "questlist": [
+        "QE_EV_FF10_06"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF10_ARON_3",
+      "questlist": [
+        "QE_EV_FF10_09",
+        "QE_EV_FF10_10"
       ]
     },
     {
@@ -5337,6 +6103,7 @@
         "QE_ST_01100108",
         "QE_ST_01100206",
         "QE_ST_01100304",
+        "QE_ST_01130106",
         "QE_EV_FF14_01",
         "QE_EV_08_01",
         "QE_EV_02_02",
@@ -5367,6 +6134,7 @@
         "QE_ST_01110110",
         "QE_ST_01110208",
         "QE_ST_01110306",
+        "QE_ST_01130106",
         "QE_HA_LW_MICE",
         "QE_HA_LW_NAIA",
         "QE_EV_FF14_03",
@@ -5405,6 +6173,9 @@
         "QE_ST_01110208",
         "QE_ST_01110306",
         "QE_ST_01120104",
+        "QE_ST_01120202",
+        "QE_ST_01120210",
+        "QE_ST_01120308",
         "QE_HA_LW_LILS",
         "QE_HA_LW_MGRT",
         "QE_HA_LW_ELDE",
@@ -5424,6 +6195,7 @@
       "questlist": [
         "QE_EV_AW_FIRE_04",
         "QE_EV_AW_FIRE_05",
+        "QE_EV_AW_FIRE_06",
         "QE_ST_01040307",
         "QE_ST_01050106",
         "QE_ST_01050204",
@@ -5437,6 +6209,9 @@
         "QE_ST_01090302",
         "QE_ST_01090310",
         "QE_ST_01120104",
+        "QE_ST_01120202",
+        "QE_ST_01120210",
+        "QE_ST_01120308",
         "QE_HA_LW_ADLD",
         "QE_HA_LW_RAIN",
         "QE_HA_LW_SIMR",
@@ -5447,7 +6222,8 @@
     {
       "iname": "IT_JB_EM_FIRE_5",
       "questlist": [
-        "QE_EV_AW_FIRE_05"
+        "QE_EV_AW_FIRE_05",
+        "QE_EV_AW_FIRE_06"
       ]
     },
     {
@@ -5465,6 +6241,8 @@
         "QE_ST_01100204",
         "QE_ST_01100302",
         "QE_ST_01100310",
+        "QE_ST_01130104",
+        "QE_EV_FF10_03",
         "QE_EV_01_02",
         "QE_EV_THLA_01"
       ]
@@ -5491,8 +6269,10 @@
         "QE_ST_01110108",
         "QE_ST_01110206",
         "QE_ST_01110304",
+        "QE_ST_01130104",
         "QE_HA_LW_VRID",
         "QE_HA_LW_SRJS",
+        "QE_EV_FF10_06",
         "QE_EV_01_04",
         "QE_EV_01_06",
         "QE_EV_THLA_03"
@@ -5524,7 +6304,11 @@
         "QE_ST_01110304",
         "QE_ST_01120102",
         "QE_ST_01120110",
+        "QE_ST_01120208",
+        "QE_ST_01120306",
         "QE_HA_LW_CLEY",
+        "QE_EV_FF10_09",
+        "QE_EV_FF10_10",
         "QE_EV_01_08",
         "QE_EV_01_10",
         "QE_EV_THLA_05"
@@ -5535,6 +6319,7 @@
       "questlist": [
         "QE_EV_AW_ICE_04",
         "QE_EV_AW_ICE_05",
+        "QE_EV_AW_ICE_06",
         "QE_ST_01040306",
         "QE_ST_01050104",
         "QE_ST_01050202",
@@ -5550,6 +6335,8 @@
         "QE_ST_01090308",
         "QE_ST_01120102",
         "QE_ST_01120110",
+        "QE_ST_01120208",
+        "QE_ST_01120306",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_NASR",
         "QE_HA_LW_GLMS",
@@ -5561,7 +6348,8 @@
     {
       "iname": "IT_JB_EM_ICE_5",
       "questlist": [
-        "QE_EV_AW_ICE_05"
+        "QE_EV_AW_ICE_05",
+        "QE_EV_AW_ICE_06"
       ]
     },
     {
@@ -5579,6 +6367,7 @@
         "QE_ST_01100107",
         "QE_ST_01100205",
         "QE_ST_01100303",
+        "QE_ST_01130105",
         "QE_EV_06_01",
         "QE_EV_05_01",
         "QE_EV_01_01",
@@ -5608,6 +6397,7 @@
         "QE_ST_01110109",
         "QE_ST_01110207",
         "QE_ST_01110305",
+        "QE_ST_01130105",
         "QE_HA_LW_MIIA",
         "QE_HA_LW_SCIA",
         "QE_EV_06_03",
@@ -5646,6 +6436,9 @@
         "QE_ST_01110207",
         "QE_ST_01110305",
         "QE_ST_01120103",
+        "QE_ST_01120201",
+        "QE_ST_01120209",
+        "QE_ST_01120307",
         "QE_HA_LW_HLNA",
         "QE_HA_LW_KADI",
         "QE_EV_06_07",
@@ -5663,6 +6456,7 @@
       "questlist": [
         "QE_EV_AW_WIND_04",
         "QE_EV_AW_WIND_05",
+        "QE_EV_AW_WIND_06",
         "QE_ST_01040305",
         "QE_ST_01050105",
         "QE_ST_01050203",
@@ -5676,6 +6470,9 @@
         "QE_ST_01090301",
         "QE_ST_01090309",
         "QE_ST_01120103",
+        "QE_ST_01120201",
+        "QE_ST_01120209",
+        "QE_ST_01120307",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_YERM",
         "QE_HA_LW_LUCA",
@@ -5688,7 +6485,8 @@
     {
       "iname": "IT_JB_EM_WIND_5",
       "questlist": [
-        "QE_EV_AW_WIND_05"
+        "QE_EV_AW_WIND_05",
+        "QE_EV_AW_WIND_06"
       ]
     },
     {
@@ -5706,6 +6504,7 @@
         "QE_ST_01100203",
         "QE_ST_01100301",
         "QE_ST_01100309",
+        "QE_ST_01130103",
         "QE_EV_07_02",
         "QE_EV_06_02",
         "QE_EV_04_02",
@@ -5736,6 +6535,7 @@
         "QE_ST_01110107",
         "QE_ST_01110205",
         "QE_ST_01110303",
+        "QE_ST_01130103",
         "QE_HA_LW_MONT",
         "QE_HA_LW_BYLO",
         "QE_EV_07_04",
@@ -5773,6 +6573,8 @@
         "QE_ST_01110303",
         "QE_ST_01120101",
         "QE_ST_01120109",
+        "QE_ST_01120207",
+        "QE_ST_01120305",
         "QE_HA_LW_MURM",
         "QE_HA_LW_LRNZ",
         "QE_EV_07_08",
@@ -5790,6 +6592,7 @@
       "questlist": [
         "QE_EV_AW_EAR_04",
         "QE_EV_AW_EAR_05",
+        "QE_EV_AW_EAR_06",
         "QE_ST_01040304",
         "QE_ST_01050103",
         "QE_ST_01050201",
@@ -5805,6 +6608,8 @@
         "QE_ST_01090307",
         "QE_ST_01120101",
         "QE_ST_01120109",
+        "QE_ST_01120207",
+        "QE_ST_01120305",
         "QE_HA_LW_AILN",
         "QE_HA_LW_KTON",
         "QE_HA_LW_DRND",
@@ -5815,7 +6620,8 @@
     {
       "iname": "IT_JB_EM_SOIL_5",
       "questlist": [
-        "QE_EV_AW_EAR_05"
+        "QE_EV_AW_EAR_05",
+        "QE_EV_AW_EAR_06"
       ]
     },
     {
@@ -5833,6 +6639,7 @@
         "QE_ST_01100109",
         "QE_ST_01100207",
         "QE_ST_01100305",
+        "QE_ST_01130107",
         "QE_EV_07_01",
         "QE_EV_THLA_01",
         "QE_EV_ALIM_01"
@@ -5863,6 +6670,7 @@
         "QE_ST_01110201",
         "QE_ST_01110209",
         "QE_ST_01110307",
+        "QE_ST_01130107",
         "QE_HA_LW_RART",
         "QE_EV_07_03",
         "QE_EV_07_05",
@@ -5895,6 +6703,9 @@
         "QE_ST_01110209",
         "QE_ST_01110307",
         "QE_ST_01120105",
+        "QE_ST_01120203",
+        "QE_ST_01120301",
+        "QE_ST_01120309",
         "QE_HA_LW_VADM",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_MRLK",
@@ -5910,6 +6721,7 @@
       "questlist": [
         "QE_EV_AW_THUN_04",
         "QE_EV_AW_THUN_05",
+        "QE_EV_AW_THUN_06",
         "QE_ST_01040308",
         "QE_ST_01050107",
         "QE_ST_01050205",
@@ -5922,6 +6734,9 @@
         "QE_ST_01090205",
         "QE_ST_01090303",
         "QE_ST_01120105",
+        "QE_ST_01120203",
+        "QE_ST_01120301",
+        "QE_ST_01120309",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_THLA",
         "QE_HA_LW_LVES",
@@ -5933,7 +6748,8 @@
     {
       "iname": "IT_JB_EM_THUNDER_5",
       "questlist": [
-        "QE_EV_AW_THUN_05"
+        "QE_EV_AW_THUN_05",
+        "QE_EV_AW_THUN_06"
       ]
     },
     {
@@ -5951,6 +6767,8 @@
         "QE_ST_01100110",
         "QE_ST_01100208",
         "QE_ST_01100306",
+        "QE_ST_01130108",
+        "QE_EV_FF10_01",
         "QE_EV_05_02",
         "QE_EV_01_02",
         "QE_EV_03_01",
@@ -5982,7 +6800,9 @@
         "QE_ST_01110202",
         "QE_ST_01110210",
         "QE_ST_01110308",
+        "QE_ST_01130108",
         "QE_HA_LW_ZZAN",
+        "QE_EV_FF10_04",
         "QE_EV_05_04",
         "QE_EV_05_06",
         "QE_EV_01_03",
@@ -6016,9 +6836,14 @@
         "QE_ST_01110210",
         "QE_ST_01110308",
         "QE_ST_01120106",
+        "QE_ST_01120204",
+        "QE_ST_01120302",
+        "QE_ST_01120310",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_RAMD",
+        "QE_EV_FF10_07",
+        "QE_EV_FF10_10",
         "QE_EV_05_08",
         "QE_EV_05_10",
         "QE_EV_01_09",
@@ -6033,6 +6858,7 @@
       "questlist": [
         "QE_EV_AW_WTR_04",
         "QE_EV_AW_WTR_05",
+        "QE_EV_AW_WTR_06",
         "QE_ST_01040301",
         "QE_ST_01040309",
         "QE_ST_01050108",
@@ -6046,6 +6872,9 @@
         "QE_ST_01090206",
         "QE_ST_01090304",
         "QE_ST_01120106",
+        "QE_ST_01120204",
+        "QE_ST_01120302",
+        "QE_ST_01120310",
         "QE_HA_LW_MRND",
         "QE_HA_LW_IRDL",
         "QE_HA_LW_GRSR"
@@ -6054,7 +6883,8 @@
     {
       "iname": "IT_JB_EM_WATER_5",
       "questlist": [
-        "QE_EV_AW_WTR_05"
+        "QE_EV_AW_WTR_05",
+        "QE_EV_AW_WTR_06"
       ]
     },
     {
@@ -6072,9 +6902,13 @@
         "QE_ST_01100201",
         "QE_ST_01100209",
         "QE_ST_01100307",
+        "QE_ST_01130101",
+        "QE_ST_01130109",
         "QE_EV_FF14_02",
         "QE_EV_FF4_01",
         "QE_EV_FF4_02",
+        "QE_EV_FF10_02",
+        "QE_EV_09_02",
         "QE_EV_08_02",
         "QE_EV_ALIM_01"
       ]
@@ -6103,11 +6937,16 @@
         "QE_ST_01110203",
         "QE_ST_01110301",
         "QE_ST_01110309",
+        "QE_ST_01130101",
+        "QE_ST_01130109",
         "QE_EV_FF14_04",
         "QE_EV_FF4_03",
         "QE_EV_FF4_04",
         "QE_EV_FF4_05",
         "QE_EV_FF4_06",
+        "QE_EV_FF10_05",
+        "QE_EV_09_04",
+        "QE_EV_09_06",
         "QE_EV_08_04",
         "QE_EV_08_06",
         "QE_EV_ALIM_03"
@@ -6137,6 +6976,8 @@
         "QE_ST_01110301",
         "QE_ST_01110309",
         "QE_ST_01120107",
+        "QE_ST_01120205",
+        "QE_ST_01120303",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_VSTR",
         "QE_HA_LW_PRAY",
@@ -6147,6 +6988,10 @@
         "QE_EV_FF4_08",
         "QE_EV_FF4_09",
         "QE_EV_FF4_10",
+        "QE_EV_FF10_08",
+        "QE_EV_FF10_10",
+        "QE_EV_09_08",
+        "QE_EV_09_10",
         "QE_EV_08_08",
         "QE_EV_08_10",
         "QE_EV_ALIM_05"
@@ -6157,6 +7002,7 @@
       "questlist": [
         "QE_EV_AW_SHIN_04",
         "QE_EV_AW_SHIN_05",
+        "QE_EV_AW_SHIN_06",
         "QE_ST_01040302",
         "QE_ST_01050101",
         "QE_ST_01050109",
@@ -6171,17 +7017,21 @@
         "QE_ST_01090207",
         "QE_ST_01090305",
         "QE_ST_01120107",
+        "QE_ST_01120205",
+        "QE_ST_01120303",
         "QE_HA_LW_MACR",
         "QE_HA_LW_FINA",
         "QE_HA_LW_MRAL",
         "QE_HA_LW_SAKR",
-        "QE_HA_LW_ELSI"
+        "QE_HA_LW_ELSI",
+        "QE_HA_LW_ELSR"
       ]
     },
     {
       "iname": "IT_JB_EM_SHINE_5",
       "questlist": [
-        "QE_EV_AW_SHIN_05"
+        "QE_EV_AW_SHIN_05",
+        "QE_EV_AW_SHIN_06"
       ]
     },
     {
@@ -6199,6 +7049,9 @@
         "QE_ST_01100202",
         "QE_ST_01100210",
         "QE_ST_01100308",
+        "QE_ST_01130102",
+        "QE_ST_01130110",
+        "QE_EV_09_01",
         "QE_EV_03_02"
       ]
     },
@@ -6226,7 +7079,11 @@
         "QE_ST_01110204",
         "QE_ST_01110302",
         "QE_ST_01110310",
+        "QE_ST_01130102",
+        "QE_ST_01130110",
         "QE_HA_LW_RYER",
+        "QE_EV_09_03",
+        "QE_EV_09_05",
         "QE_EV_03_04",
         "QE_EV_03_06"
       ]
@@ -6255,10 +7112,14 @@
         "QE_ST_01110302",
         "QE_ST_01110310",
         "QE_ST_01120108",
+        "QE_ST_01120206",
+        "QE_ST_01120304",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_RIRY",
         "QE_HA_LW_STRN",
         "QE_HA_LW_ZIZA",
+        "QE_EV_09_07",
+        "QE_EV_09_09",
         "QE_EV_03_08",
         "QE_EV_03_10"
       ]
@@ -6268,6 +7129,7 @@
       "questlist": [
         "QE_EV_AW_DARK_04",
         "QE_EV_AW_DARK_05",
+        "QE_EV_AW_DARK_06",
         "QE_ST_01040303",
         "QE_ST_01040310",
         "QE_ST_01050102",
@@ -6283,16 +7145,20 @@
         "QE_ST_01090208",
         "QE_ST_01090306",
         "QE_ST_01120108",
+        "QE_ST_01120206",
+        "QE_ST_01120304",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_VNLA",
         "QE_HA_LW_STRN_01",
-        "QE_HA_LW_TITU"
+        "QE_HA_LW_TITU",
+        "QE_HA_LW_GABL"
       ]
     },
     {
       "iname": "IT_JB_EM_DARK_5",
       "questlist": [
-        "QE_EV_AW_DARK_05"
+        "QE_EV_AW_DARK_05",
+        "QE_EV_AW_DARK_06"
       ]
     },
     {
@@ -6338,8 +7204,15 @@
         "QE_ST_01100305",
         "QE_ST_01100307",
         "QE_ST_01100309",
+        "QE_ST_01130101",
+        "QE_ST_01130103",
+        "QE_ST_01130106",
+        "QE_ST_01130108",
+        "QE_ST_01130110",
         "QE_EV_FF14_01",
         "QE_EV_FF4_01",
+        "QE_EV_FF10_02",
+        "QE_EV_09_01",
         "QE_EV_08_02",
         "QE_EV_07_01",
         "QE_EV_06_01",
@@ -6429,6 +7302,11 @@
         "QE_ST_01110305",
         "QE_ST_01110307",
         "QE_ST_01110309",
+        "QE_ST_01130101",
+        "QE_ST_01130103",
+        "QE_ST_01130106",
+        "QE_ST_01130108",
+        "QE_ST_01130110",
         "QE_HA_LW_MONT",
         "QE_HA_LW_ZZAN",
         "QE_HA_LW_RART",
@@ -6441,6 +7319,9 @@
         "QE_EV_FF14_03",
         "QE_EV_FF4_03",
         "QE_EV_FF4_05",
+        "QE_EV_FF10_05",
+        "QE_EV_09_03",
+        "QE_EV_09_05",
         "QE_EV_08_04",
         "QE_EV_08_06",
         "QE_EV_07_03",
@@ -6548,6 +7429,16 @@
         "QE_ST_01120106",
         "QE_ST_01120108",
         "QE_ST_01120110",
+        "QE_ST_01120201",
+        "QE_ST_01120203",
+        "QE_ST_01120205",
+        "QE_ST_01120207",
+        "QE_ST_01120210",
+        "QE_ST_01120302",
+        "QE_ST_01120304",
+        "QE_ST_01120306",
+        "QE_ST_01120307",
+        "QE_ST_01120309",
         "QE_HA_LW_UNII",
         "QE_HA_LW_VADM",
         "QE_HA_LW_PHBE",
@@ -6564,6 +7455,10 @@
         "QE_EV_FF14_Ex2",
         "QE_EV_FF4_07",
         "QE_EV_FF4_09",
+        "QE_EV_FF10_08",
+        "QE_EV_FF10_10",
+        "QE_EV_09_07",
+        "QE_EV_09_09",
         "QE_EV_08_08",
         "QE_EV_08_10",
         "QE_EV_07_07",
@@ -6649,6 +7544,16 @@
         "QE_ST_01120106",
         "QE_ST_01120108",
         "QE_ST_01120110",
+        "QE_ST_01120201",
+        "QE_ST_01120203",
+        "QE_ST_01120205",
+        "QE_ST_01120207",
+        "QE_ST_01120210",
+        "QE_ST_01120302",
+        "QE_ST_01120304",
+        "QE_ST_01120306",
+        "QE_ST_01120307",
+        "QE_ST_01120309",
         "QE_HA_LW_AILN",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_MACR",
@@ -6669,7 +7574,8 @@
         "QE_HA_LW_CHEL",
         "QE_HA_LW_TITU",
         "QE_HA_LW_NIVL",
-        "QE_HA_LW_ELSI"
+        "QE_HA_LW_ELSI",
+        "QE_HA_LW_GABL"
       ]
     },
     {
@@ -6677,7 +7583,10 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -6723,8 +7632,16 @@
         "QE_ST_01100306",
         "QE_ST_01100308",
         "QE_ST_01100310",
+        "QE_ST_01130102",
+        "QE_ST_01130104",
+        "QE_ST_01130105",
+        "QE_ST_01130107",
+        "QE_ST_01130109",
         "QE_EV_FF14_02",
         "QE_EV_FF4_02",
+        "QE_EV_FF10_01",
+        "QE_EV_FF10_03",
+        "QE_EV_09_02",
         "QE_EV_08_01",
         "QE_EV_07_02",
         "QE_EV_01_01",
@@ -6815,11 +7732,20 @@
         "QE_ST_01110306",
         "QE_ST_01110308",
         "QE_ST_01110310",
+        "QE_ST_01130102",
+        "QE_ST_01130104",
+        "QE_ST_01130105",
+        "QE_ST_01130107",
+        "QE_ST_01130109",
         "QE_HA_LW_MICE",
         "QE_HA_LW_SCIA",
         "QE_EV_FF14_04",
         "QE_EV_FF4_04",
         "QE_EV_FF4_06",
+        "QE_EV_FF10_04",
+        "QE_EV_FF10_06",
+        "QE_EV_09_04",
+        "QE_EV_09_06",
         "QE_EV_08_03",
         "QE_EV_08_05",
         "QE_EV_07_04",
@@ -6923,6 +7849,16 @@
         "QE_ST_01120105",
         "QE_ST_01120107",
         "QE_ST_01120109",
+        "QE_ST_01120202",
+        "QE_ST_01120204",
+        "QE_ST_01120206",
+        "QE_ST_01120208",
+        "QE_ST_01120209",
+        "QE_ST_01120301",
+        "QE_ST_01120303",
+        "QE_ST_01120305",
+        "QE_ST_01120308",
+        "QE_ST_01120310",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MURM",
         "QE_HA_LW_OOOO",
@@ -6938,6 +7874,11 @@
         "QE_EV_FF14_EX1",
         "QE_EV_FF4_08",
         "QE_EV_FF4_10",
+        "QE_EV_FF10_07",
+        "QE_EV_FF10_09",
+        "QE_EV_FF10_10",
+        "QE_EV_09_08",
+        "QE_EV_09_10",
         "QE_EV_08_07",
         "QE_EV_08_09",
         "QE_EV_07_08",
@@ -7019,6 +7960,16 @@
         "QE_ST_01120105",
         "QE_ST_01120107",
         "QE_ST_01120109",
+        "QE_ST_01120202",
+        "QE_ST_01120204",
+        "QE_ST_01120206",
+        "QE_ST_01120208",
+        "QE_ST_01120209",
+        "QE_ST_01120301",
+        "QE_ST_01120303",
+        "QE_ST_01120305",
+        "QE_ST_01120308",
+        "QE_ST_01120310",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_KTON",
@@ -7038,7 +7989,8 @@
         "QE_HA_LW_RVAL",
         "QE_HA_LW_SAKR",
         "QE_HA_LW_ALIM",
-        "QE_HA_LW_RARD"
+        "QE_HA_LW_RARD",
+        "QE_HA_LW_ELSR"
       ]
     },
     {
@@ -7046,7 +7998,138 @@
       "questlist": [
         "QE_EV_AW_H13_3",
         "QE_EV_AW_H13_2",
-        "QE_EV_AW_H13_1"
+        "QE_EV_AW_H13_1",
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_MM",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1",
+        "QE_EV_AW_FIRE_06",
+        "QE_EV_AW_WIND_06",
+        "QE_EV_AW_WTR_06",
+        "QE_EV_AW_ICE_06",
+        "QE_EV_AW_EAR_06",
+        "QE_EV_AW_DARK_06",
+        "QE_EV_AW_THUN_06",
+        "QE_EV_AW_SHIN_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_FIRE",
+      "questlist": [
+        "QE_EV_AW_FIRE_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_WATER",
+      "questlist": [
+        "QE_EV_AW_WTR_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_THUNDER",
+      "questlist": [
+        "QE_EV_AW_THUN_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_WIND",
+      "questlist": [
+        "QE_EV_AW_WIND_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_ICE",
+      "questlist": [
+        "QE_EV_AW_ICE_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_SOIL",
+      "questlist": [
+        "QE_EV_AW_EAR_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_DARK",
+      "questlist": [
+        "QE_EV_AW_DARK_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_SHINE",
+      "questlist": [
+        "QE_EV_AW_SHIN_06"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_BOW",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_SWORD",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_FIST",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_GUN",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_STAFF",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_SPEAR",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_LSWORD",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
+      ]
+    },
+    {
+      "iname": "IT_JBEX_JSWORD",
+      "questlist": [
+        "QE_EV_AW_H15_3",
+        "QE_EV_AW_H15_2",
+        "QE_EV_AW_H15_1"
       ]
     },
     {
@@ -7074,13 +8157,15 @@
       "iname": "IT_UN_AW_FIRE_R5",
       "questlist": [
         "QE_EV_AW_FIRE_04",
-        "QE_EV_AW_FIRE_05"
+        "QE_EV_AW_FIRE_05",
+        "QE_EV_AW_FIRE_06"
       ]
     },
     {
       "iname": "IT_UN_AW_FIRE_R6",
       "questlist": [
-        "QE_EV_AW_FIRE_05"
+        "QE_EV_AW_FIRE_05",
+        "QE_EV_AW_FIRE_06"
       ]
     },
     {
@@ -7108,13 +8193,15 @@
       "iname": "IT_UN_AW_ICE_R5",
       "questlist": [
         "QE_EV_AW_ICE_04",
-        "QE_EV_AW_ICE_05"
+        "QE_EV_AW_ICE_05",
+        "QE_EV_AW_ICE_06"
       ]
     },
     {
       "iname": "IT_UN_AW_ICE_R6",
       "questlist": [
-        "QE_EV_AW_ICE_05"
+        "QE_EV_AW_ICE_05",
+        "QE_EV_AW_ICE_06"
       ]
     },
     {
@@ -7142,13 +8229,15 @@
       "iname": "IT_UN_AW_WIND_R5",
       "questlist": [
         "QE_EV_AW_WIND_04",
-        "QE_EV_AW_WIND_05"
+        "QE_EV_AW_WIND_05",
+        "QE_EV_AW_WIND_06"
       ]
     },
     {
       "iname": "IT_UN_AW_WIND_R6",
       "questlist": [
-        "QE_EV_AW_WIND_05"
+        "QE_EV_AW_WIND_05",
+        "QE_EV_AW_WIND_06"
       ]
     },
     {
@@ -7176,13 +8265,15 @@
       "iname": "IT_UN_AW_SOIL_R5",
       "questlist": [
         "QE_EV_AW_EAR_04",
-        "QE_EV_AW_EAR_05"
+        "QE_EV_AW_EAR_05",
+        "QE_EV_AW_EAR_06"
       ]
     },
     {
       "iname": "IT_UN_AW_SOIL_R6",
       "questlist": [
-        "QE_EV_AW_EAR_05"
+        "QE_EV_AW_EAR_05",
+        "QE_EV_AW_EAR_06"
       ]
     },
     {
@@ -7210,13 +8301,15 @@
       "iname": "IT_UN_AW_THUNDER_R5",
       "questlist": [
         "QE_EV_AW_THUN_04",
-        "QE_EV_AW_THUN_05"
+        "QE_EV_AW_THUN_05",
+        "QE_EV_AW_THUN_06"
       ]
     },
     {
       "iname": "IT_UN_AW_THUNDER_R6",
       "questlist": [
-        "QE_EV_AW_THUN_05"
+        "QE_EV_AW_THUN_05",
+        "QE_EV_AW_THUN_06"
       ]
     },
     {
@@ -7244,13 +8337,15 @@
       "iname": "IT_UN_AW_WATER_R5",
       "questlist": [
         "QE_EV_AW_WTR_04",
-        "QE_EV_AW_WTR_05"
+        "QE_EV_AW_WTR_05",
+        "QE_EV_AW_WTR_06"
       ]
     },
     {
       "iname": "IT_UN_AW_WATER_R6",
       "questlist": [
-        "QE_EV_AW_WTR_05"
+        "QE_EV_AW_WTR_05",
+        "QE_EV_AW_WTR_06"
       ]
     },
     {
@@ -7278,13 +8373,15 @@
       "iname": "IT_UN_AW_SHINE_R5",
       "questlist": [
         "QE_EV_AW_SHIN_04",
-        "QE_EV_AW_SHIN_05"
+        "QE_EV_AW_SHIN_05",
+        "QE_EV_AW_SHIN_06"
       ]
     },
     {
       "iname": "IT_UN_AW_SHINE_R6",
       "questlist": [
-        "QE_EV_AW_SHIN_05"
+        "QE_EV_AW_SHIN_05",
+        "QE_EV_AW_SHIN_06"
       ]
     },
     {
@@ -7312,13 +8409,15 @@
       "iname": "IT_UN_AW_DARK_R5",
       "questlist": [
         "QE_EV_AW_DARK_04",
-        "QE_EV_AW_DARK_05"
+        "QE_EV_AW_DARK_05",
+        "QE_EV_AW_DARK_06"
       ]
     },
     {
       "iname": "IT_UN_AW_DARK_R6",
       "questlist": [
-        "QE_EV_AW_DARK_05"
+        "QE_EV_AW_DARK_05",
+        "QE_EV_AW_DARK_06"
       ]
     },
     {
@@ -7822,6 +8921,38 @@
       "iname": "IT_PI_LW_RIRY_01",
       "questlist": [
         "QE_EV_RIRY_01"
+      ]
+    },
+    {
+      "iname": "IT_PI_LW_GABL",
+      "questlist": [
+        "QE_HA_LW_GABL",
+        "QE_EV_GABL_01"
+      ]
+    },
+    {
+      "iname": "IT_PI_LW_ELSR",
+      "questlist": [
+        "QE_HA_LW_ELSR",
+        "QE_EV_ELSR_01"
+      ]
+    },
+    {
+      "iname": "IT_PI_FF10_TIDU",
+      "questlist": [
+        "QE_EV_TIDU_01"
+      ]
+    },
+    {
+      "iname": "IT_PI_FF10_YUNA",
+      "questlist": [
+        "QE_EV_YUNA_01"
+      ]
+    },
+    {
+      "iname": "IT_PI_FF10_ARON",
+      "questlist": [
+        "QE_EV_ARON_01"
       ]
     }
   ]
