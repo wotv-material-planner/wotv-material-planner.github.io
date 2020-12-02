@@ -34,6 +34,7 @@ export interface DumpContext {
     itemNameMap: object;
     itemBooks: object[];
     itemMaterials: object[];
+    itemRecipes: object[];
 }
 
 interface Stat {
@@ -400,7 +401,13 @@ const getItemBooks = () => {
 
 const getItemMaterials = () => {
     return ItemName_en.infos.filter((item) => {
-        return item.key.startsWith('IT_AF_MAT_')
+        return item.key.startsWith('IT_AF_MAT_');
+    });
+}
+
+const getItemRecipes = () => {
+    return ItemName_en.infos.filter((item) => {
+        return item.key.startsWith('IT_AF_LW_');
     });
 }
 
@@ -422,6 +429,7 @@ export const defaultContext: DumpContext = {
     itemNameMap: getItemNameMap(),
     itemBooks: getItemBooks(),
     itemMaterials: getItemMaterials(),
+    itemRecipes: getItemRecipes(),
 };
 
 export const WotvDumpContext = createContext(defaultContext);
