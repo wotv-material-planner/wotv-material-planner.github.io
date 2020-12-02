@@ -12,7 +12,7 @@ export interface BookMap {
     [book: string]: number | null;
 };
 
-type UserBooksState = [BookMap, Dispatch<SetStateAction<BookMap>>]
+type UserBooksState = [BookMap, Dispatch<SetStateAction<BookMap>>];
 
 export const UserBooksContext = createContext<UserBooksState>([null, null]);
 

@@ -12,7 +12,7 @@ export interface MaterialMap {
     [material: string]: number | null;
 };
 
-type UserMaterialsState = [MaterialMap, Dispatch<SetStateAction<MaterialMap>>]
+type UserMaterialsState = [MaterialMap, Dispatch<SetStateAction<MaterialMap>>];
 
 export const UserMaterialsContext = createContext<UserMaterialsState>([null, null]);
 
