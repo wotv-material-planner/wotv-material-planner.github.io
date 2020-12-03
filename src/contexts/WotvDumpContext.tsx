@@ -343,14 +343,28 @@ const getSealGrowthMap = () => {
     return sealGrowthMap;
 };
 
-const getArtifactCategoryList = () => {
-    const artifactCategoryList = [...ArtifactCategory_en.infos];
+export interface Category {
+    key: string;
+    value: string;
+}
 
-    // for some reason doesn't match exactly
-    artifactCategoryList.splice(18,2); // LIGHTSHIELD, HEAVYSHIELD
-    artifactCategoryList.splice(22,3); // LIGHTARMOR, HEAVYARMOR, ROBE
+const getArtifactCategoryList = (): Category[] => {
+    const artifactCategoryList: Category[] = [...ArtifactCategory_en.infos];
 
-    return artifactCategoryList;
+    const categoryExclusionList = [
+        'LIGHTSHIELD',
+        'HEAVYSHIELD',
+        'LIGHTARMOR',
+        'HEAVYARMOR',
+        'ROBE',
+        'SEPARATOR',
+        'LARGESWORD',
+        'STAFF',
+    ];
+
+    return artifactCategoryList.filter((category: Category) => {
+        return !categoryExclusionList.includes(category.key);
+    });
 };
 
 const getArtifactRecipeMap = () => {

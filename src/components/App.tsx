@@ -4,6 +4,7 @@ import {WotvDumpContext} from '../contexts/WotvDumpContext';
 import {BooksList} from './BooksList';
 import './App.scss'
 import {MaterialsList} from './MaterialsList';
+import {CraftingPlan} from './CraftingPlan';
 
 export const App: FunctionComponent = () => {
     const dumpContext = useContext(WotvDumpContext);
@@ -15,6 +16,7 @@ export const App: FunctionComponent = () => {
             <h1>FFBE WOTV MATERIAL PLANNER</h1>
             <BooksList />
             <MaterialsList />
+            <CraftingPlan />
         </div>
     );
 };
