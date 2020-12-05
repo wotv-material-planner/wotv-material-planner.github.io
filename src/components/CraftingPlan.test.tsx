@@ -10,13 +10,13 @@ describe('CraftingPlan', () => {
     });
 });
 
-interface OptionalProps {}
+interface OptionalProps {};
 
 const renderSubject = (props: OptionalProps) => {
     return render(
         <CraftingPlan {...makeProps(props)} />
     );
-}
+};
 
 const makeProps = (props: OptionalProps) => {
     return {};

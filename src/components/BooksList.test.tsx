@@ -13,7 +13,7 @@ describe('BooksList', () => {
     });
 });
 
-interface OptionalProps {}
+interface OptionalProps {};
 
 const renderSubject = (props: OptionalProps) => {
     return render(
@@ -21,7 +21,7 @@ const renderSubject = (props: OptionalProps) => {
             <BooksList {...makeProps(props)} /> 
         </UserBooksProvider>
     );
-}
+};
 
 const makeProps = (props: OptionalProps) => {
     return {};

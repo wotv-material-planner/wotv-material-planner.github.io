@@ -11,7 +11,7 @@ describe('App', () => {
     });
 });
 
-interface OptionalProps {}
+interface OptionalProps {};
 
 const renderSubject = (props: OptionalProps) => {
     return render(

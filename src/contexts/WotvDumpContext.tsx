@@ -35,12 +35,12 @@ export interface DumpContext {
     itemBooks: object[];
     itemMaterials: object[];
     itemRecipes: object[];
-}
+};
 
 interface Stat {
     label: string;
     value: string;
-}
+};
 
 interface LotGrowMap {
     grow1: string;
@@ -49,12 +49,12 @@ interface LotGrowMap {
     gwait2?: number;
     grow3?: string;
     gwait3?: string;
-}
+};
 
 interface ArtifactRandLotItem {
     iname: string;
     lot: LotGrowMap[];
-}
+};
 
 const stats: Stat[] = [
     {
@@ -346,7 +346,7 @@ const getSealGrowthMap = () => {
 export interface Category {
     key: string;
     value: string;
-}
+};
 
 const getArtifactCategoryList = (): Category[] => {
     const artifactCategoryList: Category[] = [...ArtifactCategory_en.infos];
@@ -417,13 +417,13 @@ const getItemMaterials = () => {
     return ItemName_en.infos.filter((item) => {
         return item.key.startsWith('IT_AF_MAT_');
     });
-}
+};
 
 const getItemRecipes = () => {
     return ItemName_en.infos.filter((item) => {
         return item.key.startsWith('IT_AF_LW_');
     });
-}
+};
 
 export const defaultContext: DumpContext = {
     typeMap: getTypeMap(),
@@ -454,4 +454,4 @@ export const WotvDumpProvider = (props) => {
             {props.children}
         </WotvDumpContext.Provider>
     );
-}
+};

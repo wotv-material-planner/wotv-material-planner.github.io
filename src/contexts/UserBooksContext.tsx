@@ -6,7 +6,7 @@ import {WotvDumpContext} from './WotvDumpContext';
 export interface Book {
     key: string;
     value: string;
-}
+};
 
 export interface BookMap {
     [book: string]: number | null;
@@ -32,4 +32,4 @@ export const UserBooksProvider = (props) => {
             {props.children}
         </UserBooksContext.Provider>
     );
-}
+};

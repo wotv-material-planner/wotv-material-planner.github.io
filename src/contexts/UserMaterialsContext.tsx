@@ -6,7 +6,7 @@ import {WotvDumpContext} from './WotvDumpContext';
 export interface Material {
     key: string;
     value: string;
-}
+};
 
 export interface MaterialMap {
     [material: string]: number | null;
@@ -32,4 +32,4 @@ export const UserMaterialsProvider = (props) => {
             {props.children}
         </UserMaterialsContext.Provider>
     );
-}
+};

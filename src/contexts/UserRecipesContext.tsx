@@ -6,7 +6,7 @@ import {WotvDumpContext} from './WotvDumpContext';
 export interface Recipe {
     key: string;
     value: string;
-}
+};
 
 export interface RecipeMap {
     [recipe: string]: number | null;
@@ -32,4 +32,4 @@ export const UserRecipesProvider = (props) => {
             {props.children}
         </UserRecipesContext.Provider>
     );
-}
+};
