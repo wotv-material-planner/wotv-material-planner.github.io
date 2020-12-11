@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {createContext, useContext, Dispatch, SetStateAction} from 'react';
-import {usePersistedState} from '../hooks/UsePersistedState';
+import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
 import {WotvDumpContext} from './WotvDumpContext';
 
 export interface Book {
@@ -12,9 +12,7 @@ export interface BookMap {
     [book: string]: number | null;
 };
 
-type UserBooksState = [BookMap, Dispatch<SetStateAction<BookMap>>];
-
-export const UserBooksContext = createContext<UserBooksState>([null, null]);
+export const UserBooksContext = createContext<PersistedState<BookMap>>([null, null]);
 
 export const UserBooksProvider = (props) => {
     const {itemBooks} = useContext(WotvDumpContext);
@@ -25,7 +23,7 @@ export const UserBooksProvider = (props) => {
         return acc;
     }, {}) as BookMap;
 
-    const defaultContext: UserBooksState = usePersistedState<BookMap>('userBooks', initialUserBooksMap);
+    const defaultContext: PersistedState<BookMap> = usePersistedState<BookMap>('userBooks', initialUserBooksMap);
 
     return (
         <UserBooksContext.Provider value={defaultContext}>

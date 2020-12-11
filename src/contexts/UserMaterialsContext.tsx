@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {createContext, useContext, Dispatch, SetStateAction} from 'react';
-import {usePersistedState} from '../hooks/UsePersistedState';
+import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
 import {WotvDumpContext} from './WotvDumpContext';
 
 export interface Material {
@@ -12,9 +12,7 @@ export interface MaterialMap {
     [material: string]: number | null;
 };
 
-type UserMaterialsState = [MaterialMap, Dispatch<SetStateAction<MaterialMap>>];
-
-export const UserMaterialsContext = createContext<UserMaterialsState>([null, null]);
+export const UserMaterialsContext = createContext<PersistedState<MaterialMap>>([null, null]);
 
 export const UserMaterialsProvider = (props) => {
     const {itemMaterials} = useContext(WotvDumpContext);
@@ -25,7 +23,7 @@ export const UserMaterialsProvider = (props) => {
         return acc;
     }, {}) as MaterialMap;
 
-    const defaultContext: UserMaterialsState = usePersistedState<MaterialMap>('userMaterials', initialUserMaterialsMap);
+    const defaultContext: PersistedState<MaterialMap> = usePersistedState<MaterialMap>('userMaterials', initialUserMaterialsMap);
 
     return (
         <UserMaterialsContext.Provider value={defaultContext}>
