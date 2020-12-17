@@ -25,7 +25,7 @@ export interface DumpContext {
     skillNameMap: object;
     artifactNameMap: object;
     artifactMap: object;
-    artifactListByCat: object[];
+    artifactListByCat: ArtifactListItem[][];
     sealGrowthMap: object;
     artifactCategoryList: object[];
     artifactRecipeMap: object;
@@ -293,7 +293,12 @@ const getArtifactMap = () => {
     return artifactMap;
 };
 
-const getArtifactListByCat = () => {
+export interface ArtifactListItem {
+    label: string;
+    value: string;
+};
+
+const getArtifactListByCat = (): ArtifactListItem[][] => {
     const artifactListByCat = [];
     const artifactNameMap = getArtifactNameMap();
 
