@@ -1,10 +1,13 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, useState, useEffect} from 'react';
+import {UserCraftingItemsContext, CraftingItem} from '../contexts/UserCraftingItemsContext';
 import {WotvDumpContext, Category, ArtifactListItem} from '../contexts/WotvDumpContext';
 import './CraftingPlan.scss'
 
 export const CraftingPlan: FunctionComponent = () => {
     const [category, setCategory] = useState<number>(0);
+    const [artifact, setArtifact] = useState<string>('');
+    const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
     const {artifactCategoryList, artifactListByCat} = useContext(WotvDumpContext);
 
     return (
@@ -31,6 +34,9 @@ export const CraftingPlan: FunctionComponent = () => {
             </select>
             <select
                 className="CraftingPlan-artifactSelect"
+                onChange={(e) => {
+                    setArtifact(e.target.value);
+                }}
             >
                 {artifactListByCat[category] &&
                     artifactListByCat[category].reduce((acc, artifact: ArtifactListItem, index) => {
@@ -49,6 +55,21 @@ export const CraftingPlan: FunctionComponent = () => {
                     }, [])
                 }
             </select>
+            <button
+                className="CraftingPlan-artifactAdd"
+                onClick={() => {
+                    const newCraftingItem: CraftingItem = {
+                        iname: artifact,
+                        currentPlus: null,
+                        targetPlus: 0,
+                        targetType: null
+                    }
+
+                    setCraftingItems([...craftingItems, newCraftingItem]);
+                }}
+            >
+                Add
+            </button>
         </div>
     );
 };
