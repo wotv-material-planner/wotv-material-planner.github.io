@@ -75,9 +75,7 @@ export const CraftingPlan: FunctionComponent = () => {
                 Add
             </button>
 
-            <CraftingItemsTable
-                craftingItems={craftingItems}
-            />
+            <CraftingItemsTable />
         </div>
     );
 };

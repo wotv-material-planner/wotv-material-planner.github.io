@@ -1,21 +1,21 @@
 import * as React from 'react';
-import {FunctionComponent} from 'react';
-import {CraftingItem} from '../contexts/UserCraftingItemsContext';
+import {FunctionComponent, useContext} from 'react';
+import {CraftingItem, UserCraftingItemsContext} from '../contexts/UserCraftingItemsContext';
 import './CraftingItemsTable.scss';
 
-interface Props {
-    craftingItems: CraftingItem[];
-}
+export const CraftingItemsTable: FunctionComponent = () => {
+    const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
 
-export const CraftingItemsTable: FunctionComponent<Props> = (props: Props) => {
     return (
         <div className="CraftingItemsTable">
             <div>Crafting Items</div>
             {
-                props.craftingItems.map((craftingItem: CraftingItem) => {
+                craftingItems.map((craftingItem: CraftingItem, index) => {
                     return (
-                        <div>
-                            {craftingItem.iname}
+                        <div
+                            key={`craftingItem-${index}`}
+                        >
+                            {craftingItem.displayName}
                         </div>
                     );
                 })

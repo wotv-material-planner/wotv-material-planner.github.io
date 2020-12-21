@@ -1,28 +1,38 @@
 import * as React from 'react';
 import {render, screen} from '@testing-library/react';
 import {CraftingItemsTable} from './CraftingItemsTable';
-import {CraftingItem} from '../contexts/UserCraftingItemsContext';
+import {CraftingItem, UserCraftingItemsProvider} from '../contexts/UserCraftingItemsContext';
+import {arbitraryCraftingItem} from '../testSupport/arbitraryObjects';
 
 describe('CraftingItemsTable', () => {
     it('renders a CraftingTableItem', () => {
-        renderSubject({});
+        const craftingItems: CraftingItem[] = [
+            {
+                ...arbitraryCraftingItem(),
+                displayName: 'Slothbear Sword'
+            }
+        ];
+        
+        renderSubject({init: craftingItems});
 
-        expect(screen.getByText('Crafting Items')).toBeTruthy();
+        expect(screen.getByText('Slothbear Sword')).toBeTruthy();
     });
 });
 
 interface OptionalProps {
-    craftingItems?: CraftingItem[];
+    init?: CraftingItem[];
 };
 
 const renderSubject = (props: OptionalProps) => {
     return render(
-        <CraftingItemsTable {...makeProps(props)} />
+        <UserCraftingItemsProvider {...makeProps(props)}>
+            <CraftingItemsTable />
+        </UserCraftingItemsProvider>
     );
 };
 
 const makeProps = (props: OptionalProps) => {
     return {
-        craftingItems: props.craftingItems || []
+        init: props.init
     };
 };

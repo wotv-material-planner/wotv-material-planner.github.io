@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {createContext} from 'react';
+import {createContext, FunctionComponent} from 'react';
 import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
 
 export interface CraftingItem {
@@ -14,8 +14,13 @@ export interface CraftingItem {
 
 export const UserCraftingItemsContext = createContext<PersistedState<CraftingItem[]>>([null, null]);
 
-export const UserCraftingItemsProvider = (props) => {
-    const defaultContext: PersistedState<CraftingItem[]> = usePersistedState<CraftingItem[]>('userCraftingItems', []);
+interface ProviderProps {
+    init?: CraftingItem[];
+}
+
+export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (props) => {
+    const defaultContext: PersistedState<CraftingItem[]> = 
+        usePersistedState<CraftingItem[]>('userCraftingItems', props.init || []);
 
     return (
         <UserCraftingItemsContext.Provider value={defaultContext}>
