@@ -9,7 +9,7 @@ export const CraftingPlan: FunctionComponent = () => {
     const [category, setCategory] = useState<number>(0);
     const [artifact, setArtifact] = useState<string>('');
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
-    const {artifactCategoryList, artifactListByCat} = useContext(WotvDumpContext);
+    const {artifactCategoryList, artifactListByCat, artifactMap} = useContext(WotvDumpContext);
 
     return (
         <div className="CraftingPlan">
@@ -61,10 +61,13 @@ export const CraftingPlan: FunctionComponent = () => {
                 onClick={() => {
                     const newCraftingItem: CraftingItem = {
                         iname: artifact,
+                        displayName: artifactMap[artifact].name,
+                        category: category,
+                        type: artifactMap[artifact].type,
                         currentPlus: null,
                         targetPlus: 0,
-                        targetType: null
-                    }
+                        targetGrowthType: null
+                    };
 
                     setCraftingItems([...craftingItems, newCraftingItem]);
                 }}
