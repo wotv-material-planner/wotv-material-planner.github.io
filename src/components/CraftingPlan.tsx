@@ -40,14 +40,18 @@ export const CraftingPlan: FunctionComponent = () => {
                 }}
             >
                 {artifactListByCat[category] &&
-                    artifactListByCat[category].reduce((acc, artifact: ArtifactListItem, index) => {
+                    artifactListByCat[category].reduce((acc, artifact: ArtifactListItem, index, arr) => {
                         if (!artifact.label.includes('+')) {
+                            const plusItem = arr.some((ele) => {
+                                return ele.label.includes(`${artifact.label} +`);
+                            });
+
                             acc.push(
                                 <option
                                     key={`CraftingPlan-artifact-${index}`}
                                     value={artifact.value}
                                 >
-                                    {artifact.label}
+                                    {`${artifact.label}${plusItem ? ' +' : ''}`}
                                 </option>
                             );
                         }
