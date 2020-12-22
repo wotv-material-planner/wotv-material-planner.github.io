@@ -9,13 +9,14 @@ describe('CraftingItemsTable', () => {
         const craftingItems: CraftingItem[] = [
             {
                 ...arbitraryCraftingItem(),
-                displayName: 'Slothbear Sword'
+                iname: 'AF_LW_NKN_001',
+                currentPlus: null
             }
         ];
         
         renderSubject({init: craftingItems});
 
-        expect(screen.getByText('Slothbear Sword')).toBeTruthy();
+        expect(screen.getByText('Kunai')).toBeTruthy();
     });
 });
 
