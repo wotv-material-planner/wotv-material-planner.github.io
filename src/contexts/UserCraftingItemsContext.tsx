@@ -4,9 +4,7 @@ import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
 
 export interface CraftingItem {
     iname: string;
-    displayName: string;
     category: number;
-    type: number;
     currentPlus: number | null;
     targetPlus: number;
     targetGrowthType: string | null;

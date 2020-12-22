@@ -7,9 +7,9 @@ import './CraftingPlan.scss'
 
 export const CraftingPlan: FunctionComponent = () => {
     const [category, setCategory] = useState<number>(0);
-    const [artifact, setArtifact] = useState<string>('');
+    const [artifactId, setArtifactId] = useState<string>('');
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
-    const {artifactCategoryList, artifactListByCat, artifactMap} = useContext(WotvDumpContext);
+    const {artifactCategoryList, artifactListByCat} = useContext(WotvDumpContext);
 
     return (
         <div className="CraftingPlan">
@@ -36,7 +36,7 @@ export const CraftingPlan: FunctionComponent = () => {
             <select
                 className="CraftingPlan-artifactSelect"
                 onChange={(e) => {
-                    setArtifact(e.target.value);
+                    setArtifactId(e.target.value);
                 }}
             >
                 {artifactListByCat[category] &&
@@ -60,10 +60,8 @@ export const CraftingPlan: FunctionComponent = () => {
                 className="CraftingPlan-artifactAdd"
                 onClick={() => {
                     const newCraftingItem: CraftingItem = {
-                        iname: artifact,
-                        displayName: artifactMap[artifact].name,
+                        iname: artifactId,
                         category: category,
-                        type: artifactMap[artifact].type,
                         currentPlus: null,
                         targetPlus: 0,
                         targetGrowthType: null
