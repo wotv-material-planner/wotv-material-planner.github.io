@@ -16,29 +16,78 @@ export const CraftingItemsTable: FunctionComponent = () => {
                 key={`craftingItem-${itemIndex}`}
             >
                 <div>{artifact.name}</div>
-                <select
-                    value={craftingItem.targetGrowthType}
-                    onChange={(e) => {
-                        const newCraftingItems = [...craftingItems];
-                        craftingItems[itemIndex].targetGrowthType = e.target.value;
+                <div>
+                    <select
+                        value={craftingItem.targetGrowthType}
+                        onChange={(event) => {
+                            const newCraftingItems = [...craftingItems];
+                            craftingItems[itemIndex].targetGrowthType = event.target.value;
 
-                        setCraftingItems(newCraftingItems);
-                    }}
-                >
-                    <option value="" />
-                    {typeMap[artifact.rtype].map((typeOptions, index) => {
-                        return (
-                            <option
-                                key={`craftingItem-${itemIndex}-option-${index}`}
-                            >
-                                {typeOptions.label}
-                            </option>
-                        )
-                    })}
-                </select>
+                            setCraftingItems(newCraftingItems);
+                        }}
+                    >
+                        <option value="" />
+                        {typeMap[artifact.rtype].map((typeOptions, index) => {
+                            return (
+                                <option
+                                    key={`craftingItem-${itemIndex}-option-${index}`}
+                                    value={typeOptions.value}
+                                >
+                                    {typeOptions.label}
+                                </option>
+                            )
+                        })}
+                    </select>
+                </div>
+                <div>
+                    {artifactMap[`${craftingItem.iname}_1`] &&
+                        <select
+                            value={craftingItem.currentPlus ?? ''}
+                            onChange={(event) => {
+                                const newCraftingItems = [...craftingItems];
+
+                                if (event.target.value === '') {
+                                    newCraftingItems[itemIndex].currentPlus = null;
+                                } else {
+                                    newCraftingItems[itemIndex].currentPlus = +event.target.value;
+                                }
+
+                                setCraftingItems(newCraftingItems);
+                            }}
+                        >
+                            <option value=""></option>
+                            <option value="0">+0</option>
+                            <option value="1">+1</option>
+                            <option value="2">+2</option>
+                            <option value="3">+3</option>
+                            <option value="4">+4</option>
+                            <option value="5">+5</option>
+                        </select>
+                    }
+                </div>
+                <div>
+                    {artifactMap[`${artifact.iname}_1`] &&
+                        <select
+                            value={craftingItem.targetPlus}
+                            onChange={(event) => {
+                                const newCraftingItems = [...craftingItems];
+                                newCraftingItems[itemIndex].targetPlus = +event.target.value;
+
+                                setCraftingItems(newCraftingItems);
+                            }}
+                        >
+                            <option value="0">+0</option>
+                            <option value="1">+1</option>
+                            <option value="2">+2</option>
+                            <option value="3">+3</option>
+                            <option value="4">+4</option>
+                            <option value="5">+5</option>
+                        </select>
+                    }
+                </div>
             </div>
         );
-    }
+    };
 
     return (
         <div className="CraftingItemsTable">
