@@ -7,7 +7,7 @@ export interface CraftingItem {
     category: number;
     currentPlus: number | null;
     targetPlus: number;
-    targetGrowthType: string | null;
+    targetGrowthType: string
 };
 
 export const UserCraftingItemsContext = createContext<PersistedState<CraftingItem[]>>([null, null]);

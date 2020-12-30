@@ -20,58 +20,65 @@ export const CraftingPlan: FunctionComponent = () => {
                     setCategory(+e.target.value);
                 }}
             >
-                {
-                    artifactCategoryList.map((category: Category, index) => {
-                        return (
-                            <option
-                                key={`CraftingPlan-category-${index}`}
-                                value={index}
-                            >
-                                {category.value}
+                {artifactCategoryList.map((category: Category, index) => {
+                    return (
+                        <option
+                            key={`CraftingPlan-category-${index}`}
+                            value={index}
+                        >
+                            {category.value}
+                        </option>
+                    );
+                })}
+            </select>
+            {category !== 0 &&
+                <select
+                    className="CraftingPlan-artifactSelect"
+                    defaultValue=""
+                    onChange={(e) => {
+                        setArtifactId(e.target.value);
+                    }}
+                >
+                    {artifactListByCat[category] &&
+                        artifactListByCat[category].reduce((acc, artifact: ArtifactListItem, index, arr) => {
+                            if (!artifact.label.includes('+')) {
+                                const plusItem = arr.some((ele) => {
+                                    return ele.label.includes(`${artifact.label} +`);
+                                });
+
+                                acc.push(
+                                    <option
+                                        key={`CraftingPlan-artifact-${index}`}
+                                        value={artifact.value}
+                                    >
+                                        {`${artifact.label}${plusItem ? ' +' : ''}`}
+                                    </option>
+                                );
+                            }
+
+                            return acc;
+                        }, [(
+                            <option value="">
+                                {`choose ${artifactCategoryList[category].value}`}
                             </option>
-                        );
-                    })
-                }
-            </select>
-            <select
-                className="CraftingPlan-artifactSelect"
-                onChange={(e) => {
-                    setArtifactId(e.target.value);
-                }}
-            >
-                {artifactListByCat[category] &&
-                    artifactListByCat[category].reduce((acc, artifact: ArtifactListItem, index, arr) => {
-                        if (!artifact.label.includes('+')) {
-                            const plusItem = arr.some((ele) => {
-                                return ele.label.includes(`${artifact.label} +`);
-                            });
-
-                            acc.push(
-                                <option
-                                    key={`CraftingPlan-artifact-${index}`}
-                                    value={artifact.value}
-                                >
-                                    {`${artifact.label}${plusItem ? ' +' : ''}`}
-                                </option>
-                            );
-                        }
-
-                        return acc;
-                    }, [])
-                }
-            </select>
+                        )])
+                    }
+                </select>
+            }
             <button
                 className="CraftingPlan-artifactAdd"
                 onClick={() => {
-                    const newCraftingItem: CraftingItem = {
-                        iname: artifactId,
-                        category: category,
-                        currentPlus: null,
-                        targetPlus: 0,
-                        targetGrowthType: null
-                    };
-
-                    setCraftingItems([...craftingItems, newCraftingItem]);
+                    if (artifactId) {
+                        const newCraftingItem: CraftingItem = {
+                            iname: artifactId,
+                            category: category,
+                            currentPlus: null,
+                            targetPlus: 0,
+                            targetGrowthType: '',
+                        };
+    
+                        setCraftingItems([...craftingItems, newCraftingItem]);
+                    }
                 }}
             >
                 Add

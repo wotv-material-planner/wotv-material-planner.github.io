@@ -27,7 +27,7 @@ export interface DumpContext {
     artifactMap: object;
     artifactListByCat: ArtifactListItem[][];
     sealGrowthMap: object;
-    artifactCategoryList: object[];
+    artifactCategoryList: Category[];
     artifactRecipeMap: object;
     artifactAwakeMap: object;
     itemMap: object;

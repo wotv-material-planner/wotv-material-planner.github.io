@@ -6,6 +6,6 @@ export const arbitraryCraftingItem = (): CraftingItem => {
         category: 0,
         currentPlus: null,
         targetPlus: 0,
-        targetGrowthType: null
+        targetGrowthType: ''
     };
 };
