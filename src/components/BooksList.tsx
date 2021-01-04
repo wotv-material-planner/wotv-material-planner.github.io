@@ -19,10 +19,10 @@ export const BooksList: FunctionComponent = () => {
                             placeholder={bookType}
                             name={book.key}
                             key={`bookinput-${index}`}
-                            defaultValue={books[book.key]}
+                            defaultValue={books[book.key].current}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                 const newBooks: BookMap = {...books};
-                                newBooks[book.key] = +event.target.value;
+                                newBooks[book.key].current = +event.target.value;
 
                                 setBooks(newBooks);
                             }}

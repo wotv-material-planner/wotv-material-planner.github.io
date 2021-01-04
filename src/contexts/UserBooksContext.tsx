@@ -8,8 +8,13 @@ export interface Book {
     value: string;
 };
 
+export interface UserBookValues {
+    current: number | null;
+    totalNeeded: number | null;
+};
+
 export interface BookMap {
-    [book: string]: number | null;
+    [book: string]: UserBookValues;
 };
 
 export const UserBooksContext = createContext<PersistedState<BookMap>>([null, null]);
@@ -18,7 +23,10 @@ export const UserBooksProvider = (props) => {
     const {itemBooks} = useContext(WotvDumpContext);
 
     const initialUserBooksMap: BookMap = itemBooks.reduce((acc: BookMap, curr: Book): BookMap => {
-        acc[curr.key] = null;
+        acc[curr.key] = {
+            current: null,
+            totalNeeded: null,
+        };
     
         return acc;
     }, {}) as BookMap;
