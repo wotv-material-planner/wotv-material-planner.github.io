@@ -8,8 +8,13 @@ export interface Recipe {
     value: string;
 };
 
+export interface UserRecipeValues {
+    current: number | null;
+    totalNeeded: number | null;
+};
+
 export interface RecipeMap {
-    [recipe: string]: number | null;
+    [recipe: string]: UserRecipeValues;
 };
 
 export const UserRecipesContext = createContext<PersistedState<RecipeMap>>([null, null]);
@@ -18,7 +23,10 @@ export const UserRecipesProvider = (props) => {
     const {itemRecipes} = useContext(WotvDumpContext);
 
     const initialUserRecipesMap: RecipeMap = itemRecipes.reduce((acc: RecipeMap, curr: Recipe): RecipeMap => {
-        acc[curr.key] = null;
+        acc[curr.key] = {
+            current: null,
+            totalNeeded: null,
+        };
     
         return acc;
     }, {}) as RecipeMap;
