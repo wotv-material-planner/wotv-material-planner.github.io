@@ -58,7 +58,7 @@ export const CraftingPlan: FunctionComponent = () => {
 
                             return acc;
                         }, [(
-                            <option value="">
+                            <option value="" key="CraftingPlan-artifact-default">
                                 {`choose ${artifactCategoryList[category].value}`}
                             </option>
                         )])
