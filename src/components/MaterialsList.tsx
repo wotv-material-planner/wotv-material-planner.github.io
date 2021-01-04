@@ -17,10 +17,10 @@ export const MaterialsList: FunctionComponent = () => {
                             placeholder={material.value}
                             name={material.key}
                             key={`materialinput-${index}`}
-                            defaultValue={materials[material.key]}
+                            defaultValue={materials[material.key].current}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                 const newMaterials: MaterialMap = {...materials};
-                                newMaterials[material.key] = +event.target.value;
+                                newMaterials[material.key].current = +event.target.value;
 
                                 setMaterials(newMaterials);
                             }}

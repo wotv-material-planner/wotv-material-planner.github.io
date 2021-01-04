@@ -8,8 +8,13 @@ export interface Material {
     value: string;
 };
 
+export interface UserMaterialValues {
+    current: number | null;
+    totalNeeded: number | null;
+};
+
 export interface MaterialMap {
-    [material: string]: number | null;
+    [material: string]: UserMaterialValues;
 };
 
 export const UserMaterialsContext = createContext<PersistedState<MaterialMap>>([null, null]);
@@ -18,7 +23,10 @@ export const UserMaterialsProvider = (props) => {
     const {itemMaterials} = useContext(WotvDumpContext);
 
     const initialUserMaterialsMap: MaterialMap = itemMaterials.reduce((acc: MaterialMap, curr: Material): MaterialMap => {
-        acc[curr.key] = null;
+        acc[curr.key] = {
+            current: null,
+            totalNeeded: null,
+        };
     
         return acc;
     }, {}) as MaterialMap;
