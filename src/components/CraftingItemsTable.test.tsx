@@ -3,6 +3,9 @@ import {render, screen} from '@testing-library/react';
 import {CraftingItemsTable} from './CraftingItemsTable';
 import {CraftingItem, UserCraftingItemsProvider} from '../contexts/UserCraftingItemsContext';
 import {arbitraryCraftingItem} from '../testSupport/arbitraryObjects';
+import {UserBooksProvider} from '../contexts/UserBooksContext';
+import {UserRecipesProvider} from '../contexts/UserRecipesContext';
+import {UserMaterialsProvider} from '../contexts/UserMaterialsContext';
 
 describe('CraftingItemsTable', () => {
     it('renders a CraftingTableItem', () => {
@@ -26,9 +29,15 @@ interface OptionalProps {
 
 const renderSubject = (props: OptionalProps) => {
     return render(
-        <UserCraftingItemsProvider {...makeProps(props)}>
-            <CraftingItemsTable />
-        </UserCraftingItemsProvider>
+        <UserBooksProvider>
+            <UserRecipesProvider>
+                <UserMaterialsProvider>
+                    <UserCraftingItemsProvider {...makeProps(props)}>
+                        <CraftingItemsTable />
+                    </UserCraftingItemsProvider>
+                </UserMaterialsProvider>
+            </UserRecipesProvider>
+        </UserBooksProvider>
     );
 };
 
