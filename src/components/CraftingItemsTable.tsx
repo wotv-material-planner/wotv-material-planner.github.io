@@ -52,6 +52,10 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     newCraftingItems[itemIndex].currentPlus = +event.target.value;
                                 }
 
+                                if (newCraftingItems[itemIndex].targetPlus < +event.target.value) {
+                                    newCraftingItems[itemIndex].targetPlus = +event.target.value
+                                }
+
                                 setCraftingItems(newCraftingItems);
                             }}
                         >
@@ -72,6 +76,10 @@ export const CraftingItemsTable: FunctionComponent = () => {
                             onChange={(event) => {
                                 const newCraftingItems = [...craftingItems];
                                 newCraftingItems[itemIndex].targetPlus = +event.target.value;
+
+                                if (newCraftingItems[itemIndex].currentPlus > +event.target.value) {
+                                    newCraftingItems[itemIndex].currentPlus = +event.target.value;
+                                }
 
                                 setCraftingItems(newCraftingItems);
                             }}
