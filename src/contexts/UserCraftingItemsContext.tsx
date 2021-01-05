@@ -14,35 +14,29 @@ export interface CraftingItem {
     targetGrowthType: string
 };
 
-interface MaterialValue {
+interface ElementValue {
     num: number;
-}
-
-interface MaterialValueMap {
-    [num: string]: MaterialValue;
-}
-
-interface ItemMaterialsMap {
-    awake: MaterialValueMap;
-    recipe: MaterialValueMap;
-    total: MaterialValueMap;
 };
 
-interface TotalMaterialsValue {
+interface ElementValueMap {
+    [num: string]: ElementValue;
+};
+
+interface TotalElementsValue {
     [material: string]: number;
 };
 
-interface TotalMaterialsMap {
-    books: TotalMaterialsValue;
-    recipes: TotalMaterialsValue;
-    materials: TotalMaterialsValue;
+interface TotalElementsMap {
+    books: TotalElementsValue;
+    recipes: TotalElementsValue;
+    materials: TotalElementsValue;
 };
 
 export const UserCraftingItemsContext = createContext<PersistedState<CraftingItem[]>>([null, null]);
 
 interface ProviderProps {
     init?: CraftingItem[];
-}
+};
 
 export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (props) => {
     const defaultContext: PersistedState<CraftingItem[]> = 
@@ -54,73 +48,113 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
     const [materials, setMaterials] = useContext(UserMaterialsContext);
     const {artifactRecipeMap, artifactAwakeMap} = useContext(WotvDumpContext);
 
-    const getTotalMaterials = (iname: string, level: number): ItemMaterialsMap => {
-        const mats: ItemMaterialsMap = {
-            awake: {},
-            recipe: {},
-            total: {},
-        };
+    const getItemElements = (iname: string, level: number): ElementValueMap => {
+        const elements: ElementValueMap = {};
 
         if (artifactRecipeMap[iname]) {
-            artifactRecipeMap[iname].craft.forEach((material) => {
-                switch (material.type) {
+            artifactRecipeMap[iname].craft.forEach((craftingElement) => {
+                switch (craftingElement.type) {
                     case 0:
-                        if (mats.total[material.id]) {
-                            mats.total[material.id].num += parseInt(material.num);
+                        if (elements[craftingElement.id]) {
+                            elements[craftingElement.id].num += +craftingElement.num;
                         } else {
-                            mats.total[material.id] = JSON.parse(JSON.stringify(material));
+                            elements[craftingElement.id] = craftingElement;
                         }
+
                         break;
                     case 1:
-                        let item_mats = getTotalMaterials(material.id, material.lv);
+                        let itemElements = getItemElements(craftingElement.id, craftingElement.lv);
 
-                        for (let key in item_mats.total) {
-                            if (mats.total[key]) {
-                                mats.total[key].num += item_mats.total[key].num;
+                        for (let iname in itemElements) {
+                            if (elements[iname]) {
+                                elements[iname].num += itemElements[iname].num;
                             } else {
-                                mats.total[key] = JSON.parse(JSON.stringify(item_mats.total[key]));
+                                elements[iname] = itemElements[iname];
                             }
                         }
-                        break;
-                }
 
-                if (mats.recipe[material.id]) {
-                    mats.recipe[material.id].num += material.num;
-                } else {
-                    mats.recipe[material.id] = JSON.parse(JSON.stringify(material));
+                        break;
                 }
             });
         }
 
         if (artifactAwakeMap[iname]) {
-            artifactAwakeMap[iname].awakes.forEach((awake, i) => {
+            artifactAwakeMap[iname].awakes.forEach((awake) => {
                 if (awake.lv <= level) {
-                    let mat_index = 1;
-                    while (awake['mat' + mat_index] && mat_index <= 9) {
-                        let mat = awake['mat' + mat_index].split(',');
+                    let matIndex = 1;
 
-                        if (mats.awake[mat[0]]) {
-                            mats.awake[mat[0]].num += parseInt(mat[1]);
+                    while (awake['mat' + matIndex] && matIndex <= 9) {
+                        let mat = awake['mat' + matIndex].split(',');
+
+                        if (elements[mat[0]]) {
+                            elements[mat[0]].num += +mat[1];
                         } else {
-                            mats.awake[mat[0]] = {
-                                num: parseInt(mat[1])
-                            };
-                        }
-                        if (mats.total[mat[0]]) {
-                            mats.total[mat[0]].num += parseInt(mat[1]);
-                        } else {
-                            mats.total[mat[0]] = {
-                                num: parseInt(mat[1])
+                            elements[mat[0]] = {
+                                num: +mat[1]
                             };
                         }
 
-                        mat_index++;
+                        matIndex++;
                     }
                 }
             });
         }
 
-        return mats;
+        return elements;
+    };
+
+    const getTotalElements = (items: CraftingItem[]): TotalElementsMap => {
+        return craftingItems.reduce((acc: TotalElementsMap, curr: CraftingItem) => {
+            let targetPlusIname = curr.iname;
+
+            if (curr.targetPlus) {
+                targetPlusIname = `${curr.iname}_${curr.targetPlus}`;
+            }
+
+            const targetElements: ElementValueMap = getItemElements(targetPlusIname, curr.targetPlus * 10);
+
+            let currentElements: ElementValueMap = {};
+
+            if (curr.currentPlus !== null) {
+                let currentPlusIname = curr.iname;
+
+                if (curr.currentPlus) {
+                    currentPlusIname = `${curr.iname}_${curr.currentPlus}`;
+                }
+
+                currentElements = getItemElements(currentPlusIname, curr.currentPlus * 10);
+            }
+
+            for (let iname in targetElements) {
+                const needed = targetElements[iname].num - (currentElements[iname]?.num || 0);
+
+                if (iname.startsWith('IT_AF_AW')) {
+                    if (!acc.books[iname]) {
+                        acc.books[iname] = needed;
+                    } else {
+                        acc.books[iname] += needed;
+                    }
+                }
+
+                if (iname.startsWith('IT_AF_LW')) {
+                    if (!acc.recipes[iname]) {
+                        acc.recipes[iname] = needed;
+                    } else {
+                        acc.recipes[iname] += needed;
+                    }
+                }
+
+                if (iname.startsWith('IT_AF_MAT')) {
+                    if (!acc.materials[iname]) {
+                        acc.materials[iname] = needed;
+                    } else {
+                        acc.materials[iname] = needed;
+                    }
+                }
+            }
+
+            return acc;
+        }, {books: {}, recipes: {}, materials: {}} as TotalElementsMap);
     };
 
     useEffect(() => {
@@ -128,76 +162,22 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
         const newRecipes: RecipeMap = {...recipes};
         const newMaterials: MaterialMap = {...materials};
 
-        const totalMaterials: TotalMaterialsMap = craftingItems.reduce((acc: TotalMaterialsMap, curr: CraftingItem) => {
-            let targetIname = curr.iname;
+        const totalElements: TotalElementsMap = getTotalElements(craftingItems);
 
-            if (curr.targetPlus) {
-                targetIname = `${curr.iname}_${curr.targetPlus}`;
-            }
-
-            const targetMaterials: ItemMaterialsMap = getTotalMaterials(targetIname, 50);
-
-            let currentMaterials: ItemMaterialsMap = {
-                awake: {},
-                recipe: {},
-                total: {},
-            };
-
-            if (curr.currentPlus !== null) {
-                let currentIname = curr.iname;
-
-                if (curr.currentPlus) {
-                    currentIname = `${curr.iname}_${curr.currentPlus}`;
-                }
-
-                currentMaterials = getTotalMaterials(currentIname, curr.currentPlus * 10);
-            }
-
-            for (let key in targetMaterials.total) {
-                const needed = targetMaterials.total[key].num - (currentMaterials.total[key]?.num || 0);
-
-                if (key.startsWith('IT_AF_AW')) {
-                    if (acc.books[key]) {
-                        acc.books[key] += needed;
-                    } else {
-                        acc.books[key] = needed;
-                    }
-                }
-
-                if (key.startsWith('IT_AF_LW')) {
-                    if (acc.recipes[key]) {
-                        acc.recipes[key] += needed;
-                    } else {
-                        acc.recipes[key] = needed;
-                    }
-                }
-
-                if (key.startsWith('IT_AF_MAT')) {
-                    if (acc.materials[key]) {
-                        acc.materials[key] += needed;
-                    } else {
-                        acc.materials[key] = needed;
-                    }
-                }
-            }
-
-            return acc;
-        }, {books: {}, recipes: {}, materials: {}} as TotalMaterialsMap);
-
-        for (let book in totalMaterials.books) {
-            newBooks[book].totalNeeded = totalMaterials.books[book];
+        for (let book in totalElements.books) {
+            newBooks[book].totalNeeded = totalElements.books[book];
         }
 
         setBooks(newBooks);
 
-        for (let recipe in totalMaterials.recipes) {
-            newRecipes[recipe].totalNeeded = totalMaterials.recipes[recipe];
+        for (let recipe in totalElements.recipes) {
+            newRecipes[recipe].totalNeeded = totalElements.recipes[recipe];
         }
 
         setRecipes(newRecipes);
 
-        for (let material in totalMaterials.materials) {
-            newMaterials[material].totalNeeded = totalMaterials.materials[material];
+        for (let material in totalElements.materials) {
+            newMaterials[material].totalNeeded = totalElements.materials[material];
         }
 
         setMaterials(newMaterials);
