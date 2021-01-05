@@ -14,22 +14,14 @@ export interface CraftingItem {
     targetGrowthType: string
 };
 
-interface ElementValue {
-    num: number;
+interface CraftingElementMap {
+    [num: string]: number;
 };
 
-interface ElementValueMap {
-    [num: string]: ElementValue;
-};
-
-interface TotalElementsValue {
-    [material: string]: number;
-};
-
-interface TotalElementsMap {
-    books: TotalElementsValue;
-    recipes: TotalElementsValue;
-    materials: TotalElementsValue;
+interface TotalCraftingElements {
+    books: CraftingElementMap;
+    recipes: CraftingElementMap;
+    materials: CraftingElementMap;
 };
 
 export const UserCraftingItemsContext = createContext<PersistedState<CraftingItem[]>>([null, null]);
@@ -48,32 +40,28 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
     const [materials, setMaterials] = useContext(UserMaterialsContext);
     const {artifactRecipeMap, artifactAwakeMap} = useContext(WotvDumpContext);
 
-    const getItemElements = (iname: string, level: number): ElementValueMap => {
-        const elements: ElementValueMap = {};
+    const getItemElements = (iname: string, level: number): CraftingElementMap => {
+        const elements: CraftingElementMap = {};
 
         if (artifactRecipeMap[iname]) {
             artifactRecipeMap[iname].craft.forEach((craftingElement) => {
-                switch (craftingElement.type) {
-                    case 0:
-                        if (elements[craftingElement.id]) {
-                            elements[craftingElement.id].num += +craftingElement.num;
+                if (craftingElement.type === 0) {
+                    if (!elements[craftingElement.id]) {
+                        elements[craftingElement.id] = +craftingElement.num;
+                    } else {
+                        elements[craftingElement.id] += +craftingElement.num;
+                    }
+
+                } else {
+                    let itemElements = getItemElements(craftingElement.id, craftingElement.lv);
+
+                    for (let iname in itemElements) {
+                        if (!elements[iname]) {
+                            elements[iname] = itemElements[iname];
                         } else {
-                            elements[craftingElement.id] = craftingElement;
+                            elements[iname] += itemElements[iname];
                         }
-
-                        break;
-                    case 1:
-                        let itemElements = getItemElements(craftingElement.id, craftingElement.lv);
-
-                        for (let iname in itemElements) {
-                            if (elements[iname]) {
-                                elements[iname].num += itemElements[iname].num;
-                            } else {
-                                elements[iname] = itemElements[iname];
-                            }
-                        }
-
-                        break;
+                    }
                 }
             });
         }
@@ -87,11 +75,9 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
                         let mat = awake['mat' + matIndex].split(',');
 
                         if (elements[mat[0]]) {
-                            elements[mat[0]].num += +mat[1];
+                            elements[mat[0]] += +mat[1];
                         } else {
-                            elements[mat[0]] = {
-                                num: +mat[1]
-                            };
+                            elements[mat[0]] = +mat[1];
                         }
 
                         matIndex++;
@@ -103,17 +89,17 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
         return elements;
     };
 
-    const getTotalElements = (items: CraftingItem[]): TotalElementsMap => {
-        return craftingItems.reduce((acc: TotalElementsMap, curr: CraftingItem) => {
+    const getTotalElements = (items: CraftingItem[]): TotalCraftingElements => {
+        return craftingItems.reduce((acc: TotalCraftingElements, curr: CraftingItem) => {
             let targetPlusIname = curr.iname;
 
             if (curr.targetPlus) {
                 targetPlusIname = `${curr.iname}_${curr.targetPlus}`;
             }
 
-            const targetElements: ElementValueMap = getItemElements(targetPlusIname, curr.targetPlus * 10);
+            const targetPlusElements = getItemElements(targetPlusIname, curr.targetPlus * 10);
 
-            let currentElements: ElementValueMap = {};
+            let currentPlusElements: CraftingElementMap = {};
 
             if (curr.currentPlus !== null) {
                 let currentPlusIname = curr.iname;
@@ -122,11 +108,11 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
                     currentPlusIname = `${curr.iname}_${curr.currentPlus}`;
                 }
 
-                currentElements = getItemElements(currentPlusIname, curr.currentPlus * 10);
+                currentPlusElements = getItemElements(currentPlusIname, curr.currentPlus * 10);
             }
 
-            for (let iname in targetElements) {
-                const needed = targetElements[iname].num - (currentElements[iname]?.num || 0);
+            for (let iname in targetPlusElements) {
+                const needed = targetPlusElements[iname] - (currentPlusElements[iname] || 0);
 
                 if (iname.startsWith('IT_AF_AW')) {
                     if (!acc.books[iname]) {
@@ -154,7 +140,7 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
             }
 
             return acc;
-        }, {books: {}, recipes: {}, materials: {}} as TotalElementsMap);
+        }, {books: {}, recipes: {}, materials: {}} as TotalCraftingElements);
     };
 
     useEffect(() => {
@@ -162,7 +148,7 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
         const newRecipes: RecipeMap = {...recipes};
         const newMaterials: MaterialMap = {...materials};
 
-        const totalElements: TotalElementsMap = getTotalElements(craftingItems);
+        const totalElements = getTotalElements(craftingItems);
 
         for (let book in totalElements.books) {
             newBooks[book].totalNeeded = totalElements.books[book];
