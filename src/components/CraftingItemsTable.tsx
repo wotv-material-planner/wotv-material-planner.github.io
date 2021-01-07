@@ -1,15 +1,21 @@
 import * as React from 'react';
-import {FunctionComponent, useContext} from 'react';
-import {CraftingItem, UserCraftingItemsContext} from '../contexts/UserCraftingItemsContext';
+import {FunctionComponent, useContext, ChangeEvent} from 'react';
+import {CraftingItem, getTotalCraftingElements, UserCraftingItemsContext} from '../contexts/UserCraftingItemsContext';
+import {RecipeMap, UserRecipesContext} from '../contexts/UserRecipesContext';
 import {WotvDumpContext} from '../contexts/WotvDumpContext';
 import './CraftingItemsTable.scss';
 
 export const CraftingItemsTable: FunctionComponent = () => {
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
-    const {artifactMap, typeMap} = useContext(WotvDumpContext);
+    const [recipes, setRecipes] = useContext(UserRecipesContext);
+    const wotvDump = useContext(WotvDumpContext);
+    const {artifactMap, typeMap} = wotvDump;
 
     const buildCraftingItemRow = (craftingItem: CraftingItem, itemIndex) => {
         const artifact = artifactMap[craftingItem.iname];
+
+        let totalElements = getTotalCraftingElements([craftingItem], wotvDump);
+        const recipe = Object.keys(totalElements.recipes)[0];
 
         return (
             <div
@@ -17,27 +23,29 @@ export const CraftingItemsTable: FunctionComponent = () => {
             >
                 <div>{artifact.name}</div>
                 <div>
-                    <select
-                        value={craftingItem.targetGrowthType}
-                        onChange={(event) => {
-                            const newCraftingItems = [...craftingItems];
-                            craftingItems[itemIndex].targetGrowthType = event.target.value;
+                    {typeMap[artifact.rtype][0].label &&
+                        <select
+                            value={craftingItem.targetGrowthType}
+                            onChange={(event) => {
+                                const newCraftingItems = [...craftingItems];
+                                craftingItems[itemIndex].targetGrowthType = event.target.value;
 
-                            setCraftingItems(newCraftingItems);
-                        }}
-                    >
-                        <option value="" />
-                        {typeMap[artifact.rtype].map((typeOptions, index) => {
-                            return (
-                                <option
-                                    key={`craftingItem-${itemIndex}-option-${index}`}
-                                    value={typeOptions.value}
-                                >
-                                    {typeOptions.label}
-                                </option>
-                            )
-                        })}
-                    </select>
+                                setCraftingItems(newCraftingItems);
+                            }}
+                        >
+                            <option value="" />
+                            {typeMap[artifact.rtype].map((typeOptions, index) => {
+                                return (
+                                    <option
+                                        key={`craftingItem-${itemIndex}-option-${index}`}
+                                        value={typeOptions.value}
+                                    >
+                                        {typeOptions.label}
+                                    </option>
+                                )
+                            })}
+                        </select>
+                    }
                 </div>
                 <div>
                     {artifactMap[`${craftingItem.iname}_1`] &&
@@ -92,6 +100,24 @@ export const CraftingItemsTable: FunctionComponent = () => {
                             <option value="4">+4</option>
                             <option value="5">+5</option>
                         </select>
+                    }
+                </div>
+                <div>
+                    {recipe &&
+                        <>
+                            <input
+                                defaultValue={recipes[recipe].current}
+                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                    const newRecipes: RecipeMap = {...recipes};
+                                    newRecipes[recipe].current = +event.target.value;
+
+                                    setRecipes(newRecipes);
+                                }}
+                            />
+                            <div>
+                                / {totalElements.recipes[recipe]}
+                            </div>
+                        </>
                     }
                 </div>
             </div>

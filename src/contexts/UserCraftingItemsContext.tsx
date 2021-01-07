@@ -18,7 +18,7 @@ interface CraftingElementMap {
     [num: string]: number;
 };
 
-interface TotalCraftingElements {
+export interface TotalCraftingElements {
     books: CraftingElementMap;
     recipes: CraftingElementMap;
     materials: CraftingElementMap;
