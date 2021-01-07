@@ -10,23 +10,36 @@ export const BooksList: FunctionComponent = () => {
 
     return (
         <div className="BooksList">
+            <div>Books</div>
             {
                 itemBooks.map((book: Book, index: number) => {
                     const bookType = book.value.replace(/.*\(|\).*/g, '');
 
                     return (
-                        <input 
-                            placeholder={bookType}
-                            name={book.key}
+                        <div
                             key={`bookinput-${index}`}
-                            defaultValue={books[book.key].current}
-                            onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                const newBooks: BookMap = {...books};
-                                newBooks[book.key].current = +event.target.value;
+                        >
+                            <div>{bookType}</div>
+                            <input
+                                placeholder={`${bookType} books`}
+                                name={book.key}
+                                defaultValue={books[book.key].current}
+                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                    const newBooks: BookMap = {...books};
 
-                                setBooks(newBooks);
-                            }}
-                        />
+                                    if (event.target.value === '') {
+                                        newBooks[book.key].current = null;
+                                    } else {
+                                        newBooks[book.key].current = +event.target.value;
+                                    }
+
+                                    setBooks(newBooks);
+                                }}
+                            />
+                            <div>
+                                / {books[book.key].totalNeeded ?? 0}
+                            </div>
+                        </div>
                     );
                 })
             }
