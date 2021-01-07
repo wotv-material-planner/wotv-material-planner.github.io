@@ -10,21 +10,34 @@ export const MaterialsList: FunctionComponent = () => {
 
     return (
         <div className="MaterialsList">
+            <div>Materials</div>
             {
                 itemMaterials.map((material: Material, index: number) => {
                     return (
-                        <input 
-                            placeholder={material.value}
-                            name={material.key}
+                        <div
                             key={`materialinput-${index}`}
-                            defaultValue={materials[material.key].current}
-                            onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                const newMaterials: MaterialMap = {...materials};
-                                newMaterials[material.key].current = +event.target.value;
+                        >
+                            <div>{material.value}</div>
+                            <input
+                                placeholder={material.value}
+                                name={material.key}
+                                defaultValue={materials[material.key].current}
+                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                    const newMaterials: MaterialMap = {...materials};
 
-                                setMaterials(newMaterials);
-                            }}
-                        />
+                                    if (event.target.value === '') {
+                                        newMaterials[material.key].current = null;
+                                    } else {
+                                        newMaterials[material.key].current = +event.target.value;
+                                    }
+
+                                    setMaterials(newMaterials);
+                                }}
+                            />
+                            <div>
+                                / {materials[material.key].totalNeeded ?? 0}
+                            </div>
+                        </div>
                     );
                 })
             }
