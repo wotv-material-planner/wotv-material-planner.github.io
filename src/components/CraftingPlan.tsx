@@ -73,7 +73,7 @@ export const CraftingPlan: FunctionComponent = () => {
                             iname: artifactId,
                             category: category,
                             currentPlus: null,
-                            targetPlus: 0,
+                            targetPlus: null,
                             targetGrowthType: '',
                         };
     

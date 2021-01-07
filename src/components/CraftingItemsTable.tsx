@@ -72,7 +72,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                 <div>
                     {artifactMap[`${artifact.iname}_1`] &&
                         <select
-                            value={craftingItem.targetPlus}
+                            value={craftingItem.targetPlus ?? ''}
                             onChange={(event) => {
                                 const newCraftingItems = [...craftingItems];
                                 newCraftingItems[itemIndex].targetPlus = +event.target.value;
@@ -84,6 +84,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 setCraftingItems(newCraftingItems);
                             }}
                         >
+                            <option value=""></option>
                             <option value="0">+0</option>
                             <option value="1">+1</option>
                             <option value="2">+2</option>

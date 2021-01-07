@@ -88,7 +88,9 @@ export const getTotalCraftingElements = (items: CraftingItem[], wotvDump: DumpCo
             targetPlusIname = `${curr.iname}_${curr.targetPlus}`;
         }
 
-        const targetPlusElements = getItemCraftingElements(targetPlusIname, curr.targetPlus * 10, wotvDump);
+        const targetLevel = (curr.targetPlus ?? 5) * 10;
+
+        const targetPlusElements = getItemCraftingElements(targetPlusIname, targetLevel, wotvDump);
 
         let currentPlusElements: CraftingElementMap = {};
 
