@@ -13,10 +13,12 @@ export const App: FunctionComponent = () => {
 
     return (
         <div className="App">
-            <h1>FFBE WOTV MATERIAL PLANNER</h1>
-            <BooksList />
-            <MaterialsList />
-            <CraftingPlan />
+            <div className="App-contents">
+                <h1>FFBE WOTV MATERIAL PLANNER</h1>
+                <BooksList />
+                <MaterialsList />
+                <CraftingPlan />
+            </div>
         </div>
     );
 };
