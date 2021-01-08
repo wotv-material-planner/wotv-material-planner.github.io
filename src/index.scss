@@ -1,4 +1,6 @@
+@import './styles/reset.scss';
 @import './styles/variables';
+@import './styles/fonts.scss';
 
 body {
     background-image: url("styles/vaporwave-background.jpg");
@@ -7,9 +9,6 @@ body {
     background-size: cover;
     width: 100%;
     height: 100%;
-    margin: 0;
-    padding: 0;
-    border: 0;
 
     main {
         background-image: url("styles/vaporwave-sun.png");
