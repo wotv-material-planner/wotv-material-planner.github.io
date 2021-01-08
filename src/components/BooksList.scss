@@ -1,9 +1,65 @@
 @import '../styles/variables.scss';
 
 .BooksList {
-    input {
+    width: 90%;
+    margin-top: 20px;
+    padding: 10px;
+    border: 3px solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(to left, $light-grey, $dark-grey);
+    background-color: rgba($dark-grey, 0.2);
+    position: relative;
+
+    .BooksList-title {
         background-color: $black;
-        border: 1px solid lime;
+        font-family: 'Audiowide', monospace;
         color: $white;
+        text-shadow: $cyan 1px 0 0px, $pink -1px 0 0px;
+        font-size: 1em;
+        position: absolute;
+        top: -15px;
+        border: 3px solid $dark-grey;
+        padding: 2px 10px;
+    }
+
+    .BooksList-books {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        .BooksList-book {
+            margin-top: 10px;
+            width: 150px;
+
+            .BooksList-bookTitle {
+                margin-bottom: 5px;
+                margin-left: 20px;
+                text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
+            }
+
+            .BooksList-bookValues {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+
+                .BooksList-bookValues-current {
+                    width: 60px;
+                    background-color: $black;
+                    border: 1px solid $cyan;
+                    color: $white;
+
+                    &:focus {
+                        outline-color: $pink;
+                        outline-style: inset;
+                    }
+                }
+
+                .BooksList-bookValues-totalNeeded {
+                    width: 60px;
+                }
+            }
+        }
     }
 }

@@ -8,41 +8,50 @@ export const BooksList: FunctionComponent = () => {
     const {itemBooks} = useContext(WotvDumpContext);
     const [books, setBooks] = useContext(UserBooksContext);
 
+    const buildBookEntry = (book: Book, index: number) => {
+        const bookType = book.value.replace(/.*\(|\).*/g, '');
+
+        return (
+            <div
+                className="BooksList-book"
+                key={`bookinput-${index}`}
+            >
+                <div className="BooksList-bookTitle">
+                    {bookType}
+                </div>
+                <div className="BooksList-bookValues">
+                    <input
+                        className="BooksList-bookValues-current"
+                        placeholder={bookType}
+                        name={book.key}
+                        defaultValue={books[book.key].current}
+                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                            const newBooks: BookMap = {...books};
+
+                            if (event.target.value === '') {
+                                newBooks[book.key].current = null;
+                            } else {
+                                newBooks[book.key].current = +event.target.value;
+                            }
+
+                            setBooks(newBooks);
+                        }}
+                    />
+                    <div className="BooksList-bookValues-separator">/</div>
+                    <div className="BooksList-bookValues-totalNeeded">
+                        {books[book.key].totalNeeded ?? 0}
+                    </div>
+                </div>
+            </div>
+        );
+    };
+
     return (
         <div className="BooksList">
-            <div>Books</div>
-            {
-                itemBooks.map((book: Book, index: number) => {
-                    const bookType = book.value.replace(/.*\(|\).*/g, '');
-
-                    return (
-                        <div
-                            key={`bookinput-${index}`}
-                        >
-                            <div>{bookType}</div>
-                            <input
-                                placeholder={`${bookType} books`}
-                                name={book.key}
-                                defaultValue={books[book.key].current}
-                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                    const newBooks: BookMap = {...books};
-
-                                    if (event.target.value === '') {
-                                        newBooks[book.key].current = null;
-                                    } else {
-                                        newBooks[book.key].current = +event.target.value;
-                                    }
-
-                                    setBooks(newBooks);
-                                }}
-                            />
-                            <div>
-                                / {books[book.key].totalNeeded ?? 0}
-                            </div>
-                        </div>
-                    );
-                })
-            }
+            <div className="BooksList-title">Books</div>
+            <div className="BooksList-books">
+                {itemBooks.map(buildBookEntry)}
+            </div>
         </div>
     );
 };
