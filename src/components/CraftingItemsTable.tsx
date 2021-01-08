@@ -2,6 +2,7 @@ import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
 import {BookMap, UserBooksContext} from '../contexts/UserBooksContext';
 import {CraftingItem, getTotalCraftingElements, UserCraftingItemsContext} from '../contexts/UserCraftingItemsContext';
+import {MaterialMap, UserMaterialsContext} from '../contexts/UserMaterialsContext';
 import {RecipeMap, UserRecipesContext} from '../contexts/UserRecipesContext';
 import {WotvDumpContext} from '../contexts/WotvDumpContext';
 import './CraftingItemsTable.scss';
@@ -10,6 +11,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
     const [recipes, setRecipes] = useContext(UserRecipesContext);
     const [books, setBooks] = useContext(UserBooksContext);
+    const [materials, setMaterials] = useContext(UserMaterialsContext);
     const wotvDump = useContext(WotvDumpContext);
     const {artifactMap, itemNameMap, typeMap} = wotvDump;
 
@@ -119,6 +121,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                         <>
                             <input
                                 placeholder={`${artifact.name} recipes`}
+                                name={recipe}
                                 defaultValue={recipes[recipe].current}
                                 onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                     const newRecipes: RecipeMap = {...recipes};
@@ -143,6 +146,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                         <>
                             <input
                                 placeholder={`${bookType} books`}
+                                name={book}
                                 defaultValue={books[book].current}
                                 onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                     const newBooks: BookMap = {...books};
@@ -161,6 +165,116 @@ export const CraftingItemsTable: FunctionComponent = () => {
                             </div>
                         </>
                     }
+                </div>
+                <div>
+                    {material1 &&
+                        <>
+                            <input
+                                placeholder={itemNameMap[material1]}
+                                name={material1}
+                                defaultValue={materials[material1].current}
+                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                    const newMaterials: MaterialMap = {...materials};
+
+                                    if (event.target.value === '') {
+                                        newMaterials[material1].current = null;
+                                    } else {
+                                        newMaterials[material1].current = +event.target.value;
+                                    }
+
+                                    setMaterials(newMaterials);
+                                }}
+                            />
+                            <div>
+                                / {totalElements.materials[material1] ?? 0}
+                            </div>
+                        </>
+                    }
+                </div>
+                <div>
+                    {material2 &&
+                        <>
+                            <input
+                                placeholder={itemNameMap[material2]}
+                                name={material2}
+                                defaultValue={materials[material2].current}
+                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                    const newMaterials: MaterialMap = {...materials};
+
+                                    if (event.target.value === '') {
+                                        newMaterials[material2].current = null;
+                                    } else {
+                                        newMaterials[material2].current = +event.target.value;
+                                    }
+
+                                    setMaterials(newMaterials);
+                                }}
+                            />
+                            <div>
+                                / {totalElements.materials[material2] ?? 0}
+                            </div>
+                        </>
+                    }
+                </div>
+                <div>
+                    {material3 &&
+                        <>
+                            <input
+                                placeholder={itemNameMap[material3]}
+                                name={material3}
+                                defaultValue={materials[material3].current}
+                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                    const newMaterials: MaterialMap = {...materials};
+
+                                    if (event.target.value === '') {
+                                        newMaterials[material3].current = null;
+                                    } else {
+                                        newMaterials[material3].current = +event.target.value;
+                                    }
+
+                                    setMaterials(newMaterials);
+                                }}
+                            />
+                            <div>
+                                / {totalElements.materials[material3] ?? 0}
+                            </div>
+                        </>
+                    }
+                </div>
+                <div>
+                    {material4 &&
+                        <>
+                            <input
+                                placeholder={itemNameMap[material4]}
+                                name={material4}
+                                defaultValue={materials[material4].current}
+                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                    const newMaterials: MaterialMap = {...materials};
+
+                                    if (event.target.value === '') {
+                                        newMaterials[material4].current = null;
+                                    } else {
+                                        newMaterials[material4].current = +event.target.value;
+                                    }
+
+                                    setMaterials(newMaterials);
+                                }}
+                            />
+                            <div>
+                                / {totalElements.materials[material4] ?? 0}
+                            </div>
+                        </>
+                    }
+                </div>
+                <div
+                    onClick={() => {
+                        const newCraftingItems: CraftingItem[] = [...craftingItems];
+                        newCraftingItems.splice(itemIndex, 1);
+
+                        setCraftingItems(newCraftingItems);
+                    }}
+                >
+                    <i className="material-icons">delete_forever</i>
                 </div>
             </div>
         );
