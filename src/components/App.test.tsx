@@ -7,7 +7,7 @@ describe('App', () => {
     it('renders an App', () => {
         renderSubject({});
 
-        expect(screen.getByText('FFBE WOTV MATERIAL PLANNER')).toBeTruthy();
+        expect(screen.getByText('WOTV MATERIAL PLANNER')).toBeTruthy();
     });
 });
 
