@@ -13,8 +13,8 @@ export const App: FunctionComponent = () => {
 
     return (
         <div className="App">
+            <h1 className="App-title">WOTV MATERIAL PLANNER</h1>
             <div className="App-contents">
-                <h1>FFBE WOTV MATERIAL PLANNER</h1>
                 <BooksList />
                 <MaterialsList />
                 <CraftingPlan />
