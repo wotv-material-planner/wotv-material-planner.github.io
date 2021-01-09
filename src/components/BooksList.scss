@@ -4,7 +4,8 @@
     width: 90%;
     margin-top: 20px;
     padding: 10px;
-    border: 3px solid;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
     border-image-slice: 1;
     border-width: 3px;
     border-image-source: linear-gradient(to left, $light-grey, $dark-grey);
@@ -31,11 +32,11 @@
 
         .BooksList-book {
             margin-top: 10px;
-            width: 150px;
+            width: 100px;
 
             .BooksList-bookTitle {
+                font-size: 0.8em;
                 margin-bottom: 5px;
-                margin-left: 20px;
                 text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
             }
 
@@ -45,7 +46,9 @@
                 align-items: center;
 
                 .BooksList-bookValues-current {
-                    width: 60px;
+                    font-size: 0.7em;
+                    padding-top: 2px;
+                    width: 45px;
                     background-color: $black;
                     border: 1px solid $cyan;
                     color: $white;
@@ -57,7 +60,8 @@
                 }
 
                 .BooksList-bookValues-totalNeeded {
-                    width: 60px;
+                    font-size: 0.7em;
+                    width: 45px;
                 }
             }
         }
