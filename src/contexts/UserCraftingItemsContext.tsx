@@ -14,14 +14,14 @@ export interface CraftingItem {
     targetGrowthType: string
 };
 
-interface CraftingElementMap {
+interface CraftingIngredientMap {
     [num: string]: number;
 };
 
-export interface TotalCraftingElements {
-    books: CraftingElementMap;
-    recipes: CraftingElementMap;
-    materials: CraftingElementMap;
+export interface TotalCraftingIngredients {
+    books: CraftingIngredientMap;
+    recipes: CraftingIngredientMap;
+    materials: CraftingIngredientMap;
 };
 
 interface ProviderProps {
@@ -30,27 +30,27 @@ interface ProviderProps {
 
 export const UserCraftingItemsContext = createContext<PersistedState<CraftingItem[]>>([null, null]);
 
-export const getItemCraftingElements = (iname: string, level: number, wotvDump: DumpContext): CraftingElementMap => {
-    const elements: CraftingElementMap = {};
+export const getItemCraftingIngredients = (iname: string, level: number, wotvDump: DumpContext): CraftingIngredientMap => {
+    const ingredients: CraftingIngredientMap = {};
     const {artifactRecipeMap, artifactAwakeMap} = wotvDump;
 
     if (artifactRecipeMap[iname]) {
-        artifactRecipeMap[iname].craft.forEach((craftingElement) => {
-            if (craftingElement.type === 0) {
-                if (!elements[craftingElement.id]) {
-                    elements[craftingElement.id] = +craftingElement.num;
+        artifactRecipeMap[iname].craft.forEach((craftingIngredient) => {
+            if (craftingIngredient.type === 0) {
+                if (!ingredients[craftingIngredient.id]) {
+                    ingredients[craftingIngredient.id] = +craftingIngredient.num;
                 } else {
-                    elements[craftingElement.id] += +craftingElement.num;
+                    ingredients[craftingIngredient.id] += +craftingIngredient.num;
                 }
 
             } else {
-                let itemElements = getItemCraftingElements(craftingElement.id, craftingElement.lv, wotvDump);
+                let itemIngredients = getItemCraftingIngredients(craftingIngredient.id, craftingIngredient.lv, wotvDump);
 
-                for (let iname in itemElements) {
-                    if (!elements[iname]) {
-                        elements[iname] = itemElements[iname];
+                for (let iname in itemIngredients) {
+                    if (!ingredients[iname]) {
+                        ingredients[iname] = itemIngredients[iname];
                     } else {
-                        elements[iname] += itemElements[iname];
+                        ingredients[iname] += itemIngredients[iname];
                     }
                 }
             }
@@ -65,10 +65,10 @@ export const getItemCraftingElements = (iname: string, level: number, wotvDump: 
                 while (awake['mat' + matIndex] && matIndex <= 9) {
                     let mat = awake['mat' + matIndex].split(',');
 
-                    if (elements[mat[0]]) {
-                        elements[mat[0]] += +mat[1];
+                    if (ingredients[mat[0]]) {
+                        ingredients[mat[0]] += +mat[1];
                     } else {
-                        elements[mat[0]] = +mat[1];
+                        ingredients[mat[0]] = +mat[1];
                     }
 
                     matIndex++;
@@ -77,11 +77,11 @@ export const getItemCraftingElements = (iname: string, level: number, wotvDump: 
         });
     }
 
-    return elements;
+    return ingredients;
 };
 
-export const getTotalCraftingElements = (items: CraftingItem[], wotvDump: DumpContext): TotalCraftingElements => {
-    return items.reduce((acc: TotalCraftingElements, curr: CraftingItem) => {
+export const getTotalCraftingIngredients = (items: CraftingItem[], wotvDump: DumpContext): TotalCraftingIngredients => {
+    return items.reduce((acc: TotalCraftingIngredients, curr: CraftingItem) => {
         let targetPlusIname = curr.iname;
 
         if (curr.targetPlus) {
@@ -90,9 +90,9 @@ export const getTotalCraftingElements = (items: CraftingItem[], wotvDump: DumpCo
 
         const targetLevel = (curr.targetPlus ?? 5) * 10;
 
-        const targetPlusElements = getItemCraftingElements(targetPlusIname, targetLevel, wotvDump);
+        const targetPlusIngredients = getItemCraftingIngredients(targetPlusIname, targetLevel, wotvDump);
 
-        let currentPlusElements: CraftingElementMap = {};
+        let currentPlusIngredients: CraftingIngredientMap = {};
 
         if (curr.currentPlus !== null) {
             let currentPlusIname = curr.iname;
@@ -101,11 +101,11 @@ export const getTotalCraftingElements = (items: CraftingItem[], wotvDump: DumpCo
                 currentPlusIname = `${curr.iname}_${curr.currentPlus}`;
             }
 
-            currentPlusElements = getItemCraftingElements(currentPlusIname, curr.currentPlus * 10, wotvDump);
+            currentPlusIngredients = getItemCraftingIngredients(currentPlusIname, curr.currentPlus * 10, wotvDump);
         }
 
-        for (let iname in targetPlusElements) {
-            const needed = targetPlusElements[iname] - (currentPlusElements[iname] || 0);
+        for (let iname in targetPlusIngredients) {
+            const needed = targetPlusIngredients[iname] - (currentPlusIngredients[iname] || 0);
 
             if (iname.startsWith('IT_AF_AW')) {
                 if (!acc.books[iname]) {
@@ -133,7 +133,7 @@ export const getTotalCraftingElements = (items: CraftingItem[], wotvDump: DumpCo
         }
 
         return acc;
-    }, {books: {}, recipes: {}, materials: {}} as TotalCraftingElements);
+    }, {books: {}, recipes: {}, materials: {}} as TotalCraftingIngredients);
 };
 
 export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (props) => {
@@ -151,7 +151,7 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
         const newRecipes: RecipeMap = {...recipes};
         const newMaterials: MaterialMap = {...materials};
 
-        const totalElements = getTotalCraftingElements(craftingItems, wotvDump);
+        const totalElements = getTotalCraftingIngredients(craftingItems, wotvDump);
 
         for (let book in totalElements.books) {
             newBooks[book].totalNeeded = totalElements.books[book];

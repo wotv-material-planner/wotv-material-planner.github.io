@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
 import {BookMap, UserBooksContext} from '../contexts/UserBooksContext';
-import {CraftingItem, getTotalCraftingElements, UserCraftingItemsContext} from '../contexts/UserCraftingItemsContext';
+import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '../contexts/UserCraftingItemsContext';
 import {MaterialMap, UserMaterialsContext} from '../contexts/UserMaterialsContext';
 import {RecipeMap, UserRecipesContext} from '../contexts/UserRecipesContext';
 import {WotvDumpContext} from '../contexts/WotvDumpContext';
@@ -18,14 +18,14 @@ export const CraftingItemsTable: FunctionComponent = () => {
     const buildCraftingItemRow = (craftingItem: CraftingItem, itemIndex) => {
         const artifact = artifactMap[craftingItem.iname];
 
-        let totalElements = getTotalCraftingElements([craftingItem], wotvDump);
+        const totalIngredients = getTotalCraftingIngredients([craftingItem], wotvDump);
 
-        const recipe = Object.keys(totalElements.recipes)[0];
+        const recipe = Object.keys(totalIngredients.recipes)[0];
 
-        const book = Object.keys(totalElements.books)[0];
+        const book = Object.keys(totalIngredients.books)[0];
         const bookType = itemNameMap[book]?.replace(/.*\(|\).*/g, '');
 
-        const craftingMaterials = Object.keys(totalElements.materials);
+        const craftingMaterials = Object.keys(totalIngredients.materials);
         const material1 = craftingMaterials[0];
         const material2 = craftingMaterials[1];
         const material3 = craftingMaterials[2];
@@ -136,7 +136,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 }}
                             />
                             <div>
-                                / {totalElements.recipes[recipe] ?? 0}
+                                / {totalIngredients.recipes[recipe] ?? 0}
                             </div>
                         </>
                     }
@@ -161,7 +161,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 }}
                             />
                             <div>
-                                / {totalElements.books[book] ?? 0}
+                                / {totalIngredients.books[book] ?? 0}
                             </div>
                         </>
                     }
@@ -186,7 +186,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 }}
                             />
                             <div>
-                                / {totalElements.materials[material1] ?? 0}
+                                / {totalIngredients.materials[material1] ?? 0}
                             </div>
                         </>
                     }
@@ -211,7 +211,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 }}
                             />
                             <div>
-                                / {totalElements.materials[material2] ?? 0}
+                                / {totalIngredients.materials[material2] ?? 0}
                             </div>
                         </>
                     }
@@ -236,7 +236,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 }}
                             />
                             <div>
-                                / {totalElements.materials[material3] ?? 0}
+                                / {totalIngredients.materials[material3] ?? 0}
                             </div>
                         </>
                     }
@@ -261,7 +261,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 }}
                             />
                             <div>
-                                / {totalElements.materials[material4] ?? 0}
+                                / {totalIngredients.materials[material4] ?? 0}
                             </div>
                         </>
                     }
