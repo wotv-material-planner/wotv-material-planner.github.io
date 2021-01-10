@@ -6,8 +6,11 @@
 
     .IngredientEntry-title {
         font-size: 0.8em;
+        height: 1.2em;
         margin-bottom: 5px;
         text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
+        white-space: nowrap;
+        overflow: hidden;
     }
 
     .IngredientEntry-values {

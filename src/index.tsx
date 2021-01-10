@@ -4,14 +4,14 @@ import './index.scss'
 import {App} from './components/App';
 import {UserDataProvider} from './contexts/UserDataProvider';
 import {WotvDumpProvider} from './contexts/WotvDumpContext';
-import {ListToggleProvider} from './contexts/ListToggleProvider';
+import {ToggleProvider} from './contexts/ToggleProvider';
 
 ReactDOM.render((
     <WotvDumpProvider>
         <UserDataProvider>
-            <ListToggleProvider>
+            <ToggleProvider>
                 <App />
-            </ListToggleProvider>
+            </ToggleProvider>
         </UserDataProvider>
     </WotvDumpProvider>
 ), document.getElementById('app'));

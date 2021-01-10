@@ -1,9 +1,9 @@
 @import '../styles/variables.scss';
 
 .MaterialsList {
-    input {
-        background-color: $black;
-        border: 1px solid lime;
-        color: $white;
-    }
+    margin: 10px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
