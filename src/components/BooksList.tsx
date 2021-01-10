@@ -35,10 +35,7 @@ export const BooksList: FunctionComponent = () => {
 
     return (
         <div className="BooksList">
-            <div className="BooksList-title">Books</div>
-            <div className="BooksList-books">
-                {itemBooks.map(buildBookEntry)}
-            </div>
+            {itemBooks.map(buildBookEntry)}
         </div>
     );
 };

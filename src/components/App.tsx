@@ -5,6 +5,7 @@ import {BooksList} from './BooksList';
 import './App.scss'
 import {MaterialsList} from './MaterialsList';
 import {CraftingPlan} from './CraftingPlan';
+import {IngredientList} from './IngredientList';
 
 export const App: FunctionComponent = () => {
     const dumpContext = useContext(WotvDumpContext);
@@ -15,7 +16,11 @@ export const App: FunctionComponent = () => {
         <div className="App">
             <h1 className="App-title">WOTV MATERIAL PLANNER</h1>
             <div className="App-contents">
-                <BooksList />
+                <IngredientList
+                    title="Books"
+                >
+                    <BooksList />
+                </IngredientList>
                 <MaterialsList />
                 <CraftingPlan />
             </div>

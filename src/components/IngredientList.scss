@@ -1,0 +1,26 @@
+@import '../styles/variables.scss';
+
+.IngredientList {
+    width: 90%;
+    margin-top: 20px;
+    padding: 10px;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(to left, $light-grey, $dark-grey);
+    background-color: rgba($dark-grey, 0.2);
+    position: relative;
+
+    .IngredientList-title {
+        background-color: $black;
+        font-family: 'Audiowide', monospace;
+        color: $white;
+        text-shadow: $cyan 1px 0 0px, $pink -1px 0 0px;
+        font-size: 1em;
+        position: absolute;
+        top: -15px;
+        border: 3px solid $dark-grey;
+        padding: 2px 10px;
+    }
+}
