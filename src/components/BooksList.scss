@@ -29,41 +29,5 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-
-        .BooksList-book {
-            margin-top: 10px;
-            width: 100px;
-
-            .BooksList-bookTitle {
-                font-size: 0.8em;
-                margin-bottom: 5px;
-                text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
-            }
-
-            .BooksList-bookValues {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
-
-                .BooksList-bookValues-current {
-                    font-size: 0.7em;
-                    padding-top: 2px;
-                    width: 45px;
-                    background-color: $black;
-                    border: 1px solid $cyan;
-                    color: $white;
-
-                    &:focus {
-                        outline-color: $pink;
-                        outline-style: inset;
-                    }
-                }
-
-                .BooksList-bookValues-totalNeeded {
-                    font-size: 0.7em;
-                    width: 45px;
-                }
-            }
-        }
     }
 }
