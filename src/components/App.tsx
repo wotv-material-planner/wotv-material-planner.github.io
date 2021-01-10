@@ -6,9 +6,11 @@ import './App.scss'
 import {MaterialsList} from './MaterialsList';
 import {CraftingPlan} from './CraftingPlan';
 import {IngredientList} from './IngredientList';
+import {BooksListToggleContext} from '../contexts/BooksListToggleContext';
 
 export const App: FunctionComponent = () => {
     const dumpContext = useContext(WotvDumpContext);
+    const [booksListToggle, setsBookListToggle] = useContext(BooksListToggleContext);
 
     // console.log(dumpContext);
 
@@ -18,8 +20,13 @@ export const App: FunctionComponent = () => {
             <div className="App-contents">
                 <IngredientList
                     title="Books"
+                    toggle={() => {
+                        setsBookListToggle(!booksListToggle);
+                    }}
                 >
-                    <BooksList />
+                    {booksListToggle &&
+                        <BooksList />
+                    }
                 </IngredientList>
                 <MaterialsList />
                 <CraftingPlan />
