@@ -1,9 +1,9 @@
 import * as React from 'react';
 import {render, screen} from '@testing-library/react';
-import {IngredientList} from './IngredientList';
+import {ContentsDrawer} from './ContentsDrawer';
 
-describe('IngredientList', () => {
-    it('renders an IngredientList', () => {
+describe('ContentsDrawer', () => {
+    it('renders an ContentsDrawer', () => {
         renderSubject({
             title: 'Slothbear List'
         });
@@ -14,18 +14,18 @@ describe('IngredientList', () => {
 
 interface OptionalProps {
     title?: string;
-    toggle?: () => void
+    fixed?: boolean;
 };
 
 const renderSubject = (props: OptionalProps) => {
     return render(
-        <IngredientList {...makeProps(props)} />
+        <ContentsDrawer {...makeProps(props)} />
     );
 };
 
 const makeProps = (props: OptionalProps) => {
     return {
         title: props.title || '',
-        toggle: props.toggle || (() => {})
+        fixed: props.fixed,
     };
 };

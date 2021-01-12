@@ -28,6 +28,7 @@
         border-image-slice: 1;
         border-width: 3px;
         border-image-source: linear-gradient(to left, $pink, $cyan);
+        padding-top: 15px;
         max-width: 1028px;
         width: 80%;
         height: 80%;
@@ -35,9 +36,8 @@
         -ms-overflow-style: none;
         scrollbar-width: none;
         display: flex;
+        flex-direction: row;
         flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
     }
 
     .App-contents::-webkit-scrollbar {
