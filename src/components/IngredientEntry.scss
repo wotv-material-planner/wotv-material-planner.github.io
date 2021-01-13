@@ -2,7 +2,7 @@
 
 .IngredientEntry {
     margin-top: 10px;
-    width: 100px;
+    width: 110px;
 
     .IngredientEntry-title {
         font-size: 0.8em;
@@ -17,11 +17,27 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+        position: relative;
+
+        .IngredientEntry-values-status {
+            position: absolute;
+            margin-bottom: 1px;
+            left: 40px;
+            font-size: 0.8em;
+
+            &.yes {
+                color: $green;
+            }
+
+            &.no {
+                color: $pink;
+            }
+        }
 
         .IngredientEntry-values-current {
             font-size: 0.7em;
             padding-top: 2px;
-            width: 45px;
+            width: 55px;
             background-color: $black;
             border: 1px solid $cyan;
             color: $white;
@@ -29,6 +45,7 @@
             &:focus {
                 outline-color: $pink;
                 outline-style: inset;
+                outline-width: 1px;
             }
         }
 

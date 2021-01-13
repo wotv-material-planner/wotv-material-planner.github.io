@@ -10,6 +10,8 @@ interface Props {
 }
 
 export const IngredientEntry: FunctionComponent<Props> = (props: Props) => {
+    const totalAcquired = props.current >= props.totalNeeded;
+
     return (
         <div
             className="IngredientEntry"
@@ -24,6 +26,11 @@ export const IngredientEntry: FunctionComponent<Props> = (props: Props) => {
                     defaultValue={props.current}
                     onChange={props.onChange}
                 />
+                {totalAcquired ?
+                    <div className="IngredientEntry-values-status yes">&#x1F5F9;</div>
+                    :
+                    <div className="IngredientEntry-values-status no">&#x2612;</div>
+                }
                 <div className="IngredientEntry-values-separator">/</div>
                 <div className="IngredientEntry-values-totalNeeded">
                     {props.totalNeeded ?? 0}
