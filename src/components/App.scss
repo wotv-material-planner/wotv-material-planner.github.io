@@ -24,9 +24,8 @@
     .App-contents {
         box-sizing: border-box;
         background-color: rgba($black, 0.7);
-        border: 10px solid;
+        border: 3px solid $cyan;
         border-image-slice: 1;
-        border-width: 3px;
         border-image-source: linear-gradient(to left, $pink, $cyan);
         padding-top: 15px;
         max-width: 1028px;
