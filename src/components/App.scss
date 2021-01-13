@@ -32,14 +32,24 @@
         width: 80%;
         height: 80%;
         overflow-y: scroll;
-        -ms-overflow-style: none;
-        scrollbar-width: none;
+        scrollbar-width: thin;
+        scrollbar-color: $cyan;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
     }
 
     .App-contents::-webkit-scrollbar {
-        display: none;
+        width: 11px;
+    }
+
+    .App-contents::-webkit-scrollbar-track {
+        background: none;
+      }
+
+    .App-contents::-webkit-scrollbar-thumb {
+        background-color: $cyan;
+        border-radius: 6px;
+        box-shadow: inset 0 0 2px 2px rgba($pink, 0.8);
     }
 }
