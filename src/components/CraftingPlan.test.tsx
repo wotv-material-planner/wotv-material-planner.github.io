@@ -7,7 +7,7 @@ describe('CraftingPlan', () => {
     it('renders a CraftingPlan', () => {
         renderSubject({});
 
-        expect(screen.getByText('Crafting Plan')).toBeTruthy();
+        expect(screen.getByText('Add Items')).toBeTruthy();
     });
 });
 
