@@ -271,6 +271,40 @@ export const CraftingItemsTable: FunctionComponent = () => {
                         const newCraftingItems: CraftingItem[] = [...craftingItems];
                         newCraftingItems.splice(itemIndex, 1);
 
+                        const newBooks = {...books};
+                        const newRecipes = {...recipes};
+                        const newMaterials = {...materials};
+
+                        if (book) {
+                            newBooks[book].totalNeeded -= totalIngredients.books[book];
+                        }
+
+                        setBooks(newBooks);
+
+                        if (recipe) {
+                            newRecipes[recipe].totalNeeded -= totalIngredients.recipes[recipe];
+                        }
+
+                        setRecipes(newRecipes);
+
+                        if (material1) {
+                            newMaterials[material1].totalNeeded -= totalIngredients.materials[material1];
+                        }
+
+                        if (material2) {
+                            newMaterials[material2].totalNeeded -= totalIngredients.materials[material2];
+                        }
+
+                        if (material3) {
+                            newMaterials[material3].totalNeeded -= totalIngredients.materials[material3];
+                        }
+
+                        if (material4) {
+                            newMaterials[material4].totalNeeded -= totalIngredients.materials[material4];
+                        }
+
+                        setMaterials(newMaterials);
+
                         setCraftingItems(newCraftingItems);
                     }}
                 >
