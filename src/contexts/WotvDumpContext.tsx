@@ -298,6 +298,10 @@ export interface ArtifactListItem {
     value: string;
 };
 
+export const artifactExlusionList = [
+    'AF_FF4_SPE_000'
+];
+
 const getArtifactListByCat = (): ArtifactListItem[][] => {
     const artifactListByCat = [];
     const artifactNameMap = getArtifactNameMap();
@@ -307,6 +311,10 @@ const getArtifactListByCat = (): ArtifactListItem[][] => {
         if (item.iname.match(/AF_\w+_2/) && 
                 (artifactNameMap[item.iname] == null || !artifactNameMap[item.iname].match(/.+\+2/))
             ) {
+            return;
+        }
+
+        if (artifactExlusionList.includes(item.iname)) {
             return;
         }
 
