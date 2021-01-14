@@ -4,8 +4,16 @@ import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
 import {WotvDumpContext} from './WotvDumpContext';
 
 export interface Recipe {
-    key: string;
-    value: string;
+    iname: string;
+    type: number;
+    rare: number;
+    steal: number;
+    coin: number;
+    ac: number;
+    mc: number;
+    buy: number;
+    sell: number;
+    icon: string;
 };
 
 export interface UserRecipeValues {
@@ -23,7 +31,7 @@ export const UserRecipesProvider = (props) => {
     const {itemRecipes} = useContext(WotvDumpContext);
 
     const initialUserRecipesMap: RecipeMap = itemRecipes.reduce((acc: RecipeMap, curr: Recipe): RecipeMap => {
-        acc[curr.key] = {
+        acc[curr.iname] = {
             current: null,
             totalNeeded: null,
         };

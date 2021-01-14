@@ -3,7 +3,7 @@ import {createContext, FunctionComponent, useContext, useEffect} from 'react';
 import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
 import {BookMap, UserBooksContext} from './UserBooksContext';
 import {MaterialMap, UserMaterialsContext} from './UserMaterialsContext';
-import {RecipeMap, UserRecipesContext} from './UserRecipesContext';
+import {Recipe, RecipeMap, UserRecipesContext} from './UserRecipesContext';
 import {DumpContext, WotvDumpContext} from './WotvDumpContext';
 
 export interface CraftingItem {
@@ -81,6 +81,11 @@ export const getItemCraftingIngredients = (iname: string, level: number, wotvDum
 };
 
 export const getTotalCraftingIngredients = (items: CraftingItem[], wotvDump: DumpContext): TotalCraftingIngredients => {
+    const {itemRecipes} = wotvDump;
+    const allRecipes = itemRecipes.map((recipe: Recipe) => {
+        return recipe.iname;
+    });
+
     return items.reduce((acc: TotalCraftingIngredients, curr: CraftingItem) => {
         let targetPlusIname = curr.iname;
 
@@ -115,7 +120,7 @@ export const getTotalCraftingIngredients = (items: CraftingItem[], wotvDump: Dum
                 }
             }
 
-            if (iname.startsWith('IT_AF_LW')) {
+            if (allRecipes.includes(iname)) {
                 if (!acc.recipes[iname]) {
                     acc.recipes[iname] = needed;
                 } else {

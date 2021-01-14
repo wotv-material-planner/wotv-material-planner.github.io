@@ -299,7 +299,7 @@ export interface ArtifactListItem {
 };
 
 export const artifactExlusionList = [
-    'AF_FF4_SPE_000'
+    'AF_LW_SPE_003'
 ];
 
 const getArtifactListByCat = (): ArtifactListItem[][] => {
@@ -433,8 +433,8 @@ const getItemMaterials = () => {
 };
 
 const getItemRecipes = () => {
-    return ItemName_en.infos.filter((item) => {
-        return item.key.startsWith('IT_AF_LW_');
+    return Item.items.filter((item) => {
+        return item.type === 13;
     });
 };
 
