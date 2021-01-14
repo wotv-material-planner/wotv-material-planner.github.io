@@ -117,6 +117,18 @@
       "value": "A Deviating Fate"
     },
     {
+      "key": "SE_ST_011003",
+      "value": "Declaration of War"
+    },
+    {
+      "key": "SE_ST_011101",
+      "value": "For Our Comrades"
+    },
+    {
+      "key": "SE_ST_011102",
+      "value": "Conviction"
+    },
+    {
       "key": "SE_WD_010101",
       "value": "Lion's Great Forest"
     },
@@ -185,6 +197,70 @@
       "value": "Yuzyula Snow Plains"
     },
     {
+      "key": "SE_WD_010208",
+      "value": "Imarylda Snow Plains"
+    },
+    {
+      "key": "SE_EV_01_01",
+      "value": "The Admirable Prince"
+    },
+    {
+      "key": "SE_EV_01_EX_01",
+      "value": "The Admirable Prince"
+    },
+    {
+      "key": "SE_MU_EV_01_EX",
+      "value": "The Admirable Prince [EX]"
+    },
+    {
+      "key": "SE_EV_ETRE",
+      "value": "Etre Training Quest"
+    },
+    {
+      "key": "SE_EV_ETRE_EX",
+      "value": "High Difficulty Etre Training Ex-Quest"
+    },
+    {
+      "key": "SE_MU_EV_ETRE_EX",
+      "value": "[Multi] High Difficulty Etre Training Ex-Quest"
+    },
+    {
+      "key": "SE_EV_FF14_01",
+      "value": "FINAL FANTASY XIV: Shadowbringers"
+    },
+    {
+      "key": "SE_EV_FF14_EX_01",
+      "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+    },
+    {
+      "key": "SE_EV_FF14_EX_02",
+      "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+    },
+    {
+      "key": "SE_MU_FF14_EX_02",
+      "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+    },
+    {
+      "key": "SE_EV_07_01",
+      "value": "Gouga and Saiga: Part II"
+    },
+    {
+      "key": "SE_EV_07_EX_01",
+      "value": "Gouga and Saiga: Part II [EX]"
+    },
+    {
+      "key": "SE_MU_EV_07_EX",
+      "value": "[Multi] Gouga and Saiga: Part II [EX]"
+    },
+    {
+      "key": "SE_EV_NY2020",
+      "value": "New Year's Gift Quest"
+    },
+    {
+      "key": "SE_EV_JP_001",
+      "value": "JP Reward Quest"
+    },
+    {
       "key": "SE_PTQ_0001",
       "value": "Trials of Reckoning"
     },
@@ -251,6 +327,14 @@
     {
       "key": "SE_MU_SB_06",
       "value": "Fenrir Challenge"
+    },
+    {
+      "key": "SE_SB_07",
+      "value": "Shiva Challenge"
+    },
+    {
+      "key": "SE_MU_SB_07",
+      "value": "Shiva Challenge"
     },
     {
       "key": "SE_CHAL_01",
@@ -363,34 +447,6 @@
     {
       "key": "SE_EV_GL_1M_DL",
       "value": "\"1 Million Downloads\" Celebratory Quest"
-    },
-    {
-      "key": "SE_EV_FF14_01",
-      "value": "FINAL FANTASY XIV: Shadowbringers"
-    },
-    {
-      "key": "SE_EV_FF14_EX_01",
-      "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
-    },
-    {
-      "key": "SE_EV_ETRE",
-      "value": "Etre Training Quest"
-    },
-    {
-      "key": "SE_EV_ETRE_EX",
-      "value": "High Difficulty Etre Training Ex-Quest"
-    },
-    {
-      "key": "SE_EV_01_01",
-      "value": "The Admirable Prince"
-    },
-    {
-      "key": "SE_EV_01_EX_01",
-      "value": "The Admirable Prince"
-    },
-    {
-      "key": "SE_MU_EV_01_EX",
-      "value": "The Admirable Prince [EX]"
     },
     {
       "key": "SE_EV_02_01",
@@ -537,10 +593,6 @@
       "value": ""
     },
     {
-      "key": "SE_MU_EV_ETRE_EX",
-      "value": "[Multi] High Difficulty Etre Training Ex-Quest"
-    },
-    {
       "key": "SE_EV_ART_CRF_01",
       "value": "Equipment Training Quest"
     },
@@ -583,6 +635,14 @@
     {
       "key": "SE_MU_ART_CRF_03",
       "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_EV_ART_CRF_06",
+      "value": "Brutal Difficulty Equipment Training Quest"
+    },
+    {
+      "key": "SE_MU_ART_CRF_06",
+      "value": "Brutal Difficulty Equipment Training Quest"
     },
     {
       "key": "SE_EV_ART_CRF_04",
@@ -697,10 +757,6 @@
       "value": "[Multi] High Difficulty Secret Book Reward Quest"
     },
     {
-      "key": "SE_EV_JP_001",
-      "value": "JP Reward Quest"
-    },
-    {
       "key": "SE_EV_NEWMAP_001",
       "value": "Mock Guild Battle"
     },
@@ -791,6 +847,26 @@
     {
       "key": "SE_EV_GL_TWCQ",
       "value": "Porcelain Tower Launch Celebration Quest"
+    },
+    {
+      "key": "SE_KEY_SB_02",
+      "value": "Iron Giant Challenge"
+    },
+    {
+      "key": "SE_KEY_SB_03",
+      "value": "Chocolate Flan Challenge"
+    },
+    {
+      "key": "SE_KEY_SB_04",
+      "value": "Ochu Challenge"
+    },
+    {
+      "key": "SE_KEY_SB_05",
+      "value": "Ifrit Challenge"
+    },
+    {
+      "key": "SE_KEY_SB_06",
+      "value": "Fenrir Challenge"
     }
   ]
 }

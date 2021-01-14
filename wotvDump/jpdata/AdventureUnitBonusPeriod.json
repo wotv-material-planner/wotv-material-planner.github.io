@@ -297,8 +297,44 @@
     {
       "iname": "PERIOD_050",
       "begin_at": "2020/11/24 15:00:00",
-      "end_at": "2028/10/01 5:00:00",
+      "end_at": "2020/11/30 23:59:59",
       "bonus_set_id": "BONUS_050"
+    },
+    {
+      "iname": "PERIOD_051",
+      "begin_at": "2020/12/01",
+      "end_at": "2020/12/09 14:59:59",
+      "bonus_set_id": "BONUS_051"
+    },
+    {
+      "iname": "PERIOD_052",
+      "begin_at": "2020/12/09 15:00:00",
+      "end_at": "2020/12/16 10:29:59",
+      "bonus_set_id": "BONUS_052"
+    },
+    {
+      "iname": "PERIOD_053",
+      "begin_at": "2020/12/16 10:30:00",
+      "end_at": "2020/12/23 14:59:59",
+      "bonus_set_id": "BONUS_053"
+    },
+    {
+      "iname": "PERIOD_054",
+      "begin_at": "2020/12/23 15:00:00",
+      "end_at": "2020/12/31 23:59:59",
+      "bonus_set_id": "BONUS_054"
+    },
+    {
+      "iname": "PERIOD_055",
+      "begin_at": "2021/01/01",
+      "end_at": "2021/01/08 14:59:59",
+      "bonus_set_id": "BONUS_055"
+    },
+    {
+      "iname": "PERIOD_056",
+      "begin_at": "2021/01/08 15:00:00",
+      "end_at": "2028/10/01 5:00:00",
+      "bonus_set_id": "BONUS_056"
     }
   ]
 }

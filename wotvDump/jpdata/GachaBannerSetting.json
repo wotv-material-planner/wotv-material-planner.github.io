@@ -909,6 +909,296 @@
       "id": 182,
       "banner_id": "GachaBanner_0285_ice",
       "gname": "element_gacha_20201124_ice"
+    },
+    {
+      "id": 183,
+      "banner_id": "GachaBanner_0292",
+      "gname": "1onlyNstep_p_gacha_20201201"
+    },
+    {
+      "id": 184,
+      "banner_id": "GachaBanner_0294",
+      "gname": "redraw_gacha_20201201"
+    },
+    {
+      "id": 185,
+      "banner_id": "GachaBanner_0295",
+      "gname": "1onlyNstep_gacha_20201201"
+    },
+    {
+      "id": 186,
+      "banner_id": "GachaBanner_0302",
+      "gname": "1onlyNstep_p_gacha_20201209"
+    },
+    {
+      "id": 187,
+      "banner_id": "GachaBanner_0301",
+      "gname": "redraw_gacha_20201209"
+    },
+    {
+      "id": 188,
+      "banner_id": "GachaBanner_0303_1",
+      "gname": "NdayNstep_gacha_20201209_a_1"
+    },
+    {
+      "id": 189,
+      "banner_id": "GachaBanner_0303_2",
+      "gname": "NdayNstep_gacha_20201209_a_2"
+    },
+    {
+      "id": 190,
+      "banner_id": "GachaBanner_0303_3",
+      "gname": "NdayNstep_gacha_20201209_a_3"
+    },
+    {
+      "id": 191,
+      "banner_id": "GachaBanner_0303_4",
+      "gname": "NdayNstep_gacha_20201209_a_4"
+    },
+    {
+      "id": 192,
+      "banner_id": "GachaBanner_0303_5",
+      "gname": "NdayNstep_gacha_20201209_a_5"
+    },
+    {
+      "id": 193,
+      "banner_id": "GachaBanner_0303_6",
+      "gname": "NdayNstep_gacha_20201209_a_6"
+    },
+    {
+      "id": 194,
+      "banner_id": "GachaBanner_0303_7",
+      "gname": "NdayNstep_gacha_20201209_a_7"
+    },
+    {
+      "id": 195,
+      "banner_id": "GachaBanner_0315_1",
+      "gname": "no_coin_gacha_20201216_1"
+    },
+    {
+      "id": 196,
+      "banner_id": "GachaBanner_0315_2",
+      "gname": "no_coin_gacha_20201216_2"
+    },
+    {
+      "id": 197,
+      "banner_id": "GachaBanner_0315_3",
+      "gname": "no_coin_gacha_20201216_3"
+    },
+    {
+      "id": 198,
+      "banner_id": "GachaBanner_0315_4",
+      "gname": "no_coin_gacha_20201216_4"
+    },
+    {
+      "id": 199,
+      "banner_id": "GachaBanner_0315_5",
+      "gname": "no_coin_gacha_20201216_5"
+    },
+    {
+      "id": 200,
+      "banner_id": "GachaBanner_0315_6",
+      "gname": "no_coin_gacha_20201216_6"
+    },
+    {
+      "id": 201,
+      "banner_id": "GachaBanner_0315_7",
+      "gname": "no_coin_gacha_20201216_7"
+    },
+    {
+      "id": 202,
+      "banner_id": "GachaBanner_0315_8",
+      "gname": "no_coin_gacha_20201216_8"
+    },
+    {
+      "id": 203,
+      "banner_id": "GachaBanner_0311",
+      "gname": "1onlyNstep_p_gacha_20201216"
+    },
+    {
+      "id": 204,
+      "banner_id": "GachaBanner_0312",
+      "gname": "1only_p_gacha_20201216"
+    },
+    {
+      "id": 205,
+      "banner_id": "GachaBanner_0318",
+      "gname": "no_coin_gacha_20201223_b"
+    },
+    {
+      "id": 206,
+      "banner_id": "GachaBanner_0317",
+      "gname": "no_coin_gacha_20201223_a"
+    },
+    {
+      "id": 207,
+      "banner_id": "GachaBanner_NIER_0004",
+      "gname": "NIER_no_coin_gacha_20201223"
+    },
+    {
+      "id": 208,
+      "banner_id": "GachaBanner_NIER_0005",
+      "gname": "NIER_1onlyNstep_p_gacha_20201223"
+    },
+    {
+      "id": 209,
+      "banner_id": "GachaBanner_NIER_0016",
+      "gname": "NIER_1onlyNstep_gacha_20201223"
+    },
+    {
+      "id": 210,
+      "banner_id": "GachaBanner_0316",
+      "gname": "1only_p_gacha_20201223"
+    },
+    {
+      "id": 211,
+      "banner_id": "GachaBanner_0334",
+      "gname": "no_coin_gacha_20210101_b"
+    },
+    {
+      "id": 212,
+      "banner_id": "GachaBanner_0321",
+      "gname": "1only_gacha_20210101_a"
+    },
+    {
+      "id": 213,
+      "banner_id": "GachaBanner_0322",
+      "gname": "1only_gacha_20210101_b"
+    },
+    {
+      "id": 214,
+      "banner_id": "GachaBanner_0323",
+      "gname": "1only_gacha_20210101_c"
+    },
+    {
+      "id": 215,
+      "banner_id": "GachaBanner_0324",
+      "gname": "1only_gacha_20210101_d"
+    },
+    {
+      "id": 216,
+      "banner_id": "GachaBanner_0332_1",
+      "gname": "no_coin_gacha_20210101_1"
+    },
+    {
+      "id": 217,
+      "banner_id": "GachaBanner_0332_2",
+      "gname": "no_coin_gacha_20210101_2"
+    },
+    {
+      "id": 218,
+      "banner_id": "GachaBanner_0332_3",
+      "gname": "no_coin_gacha_20210101_3"
+    },
+    {
+      "id": 219,
+      "banner_id": "GachaBanner_0332_4",
+      "gname": "no_coin_gacha_20210101_4"
+    },
+    {
+      "id": 220,
+      "banner_id": "GachaBanner_0332_5",
+      "gname": "no_coin_gacha_20210101_5"
+    },
+    {
+      "id": 221,
+      "banner_id": "GachaBanner_0332_6",
+      "gname": "no_coin_gacha_20210101_6"
+    },
+    {
+      "id": 222,
+      "banner_id": "GachaBanner_0332_7",
+      "gname": "no_coin_gacha_20210101_7"
+    },
+    {
+      "id": 223,
+      "banner_id": "GachaBanner_0332_8",
+      "gname": "no_coin_gacha_20210101_8"
+    },
+    {
+      "id": 224,
+      "banner_id": "GachaBanner_0329",
+      "gname": "redraw_gacha_20210101"
+    },
+    {
+      "id": 225,
+      "banner_id": "GachaBanner_0331",
+      "gname": "1onlyNstep_gacha_20210101"
+    },
+    {
+      "id": 226,
+      "banner_id": "GachaBanner_0342",
+      "gname": "redraw_gacha_20210108"
+    },
+    {
+      "id": 227,
+      "banner_id": "GachaBanner_0343_1",
+      "gname": "NdayNstep_gacha_20210108_a_1"
+    },
+    {
+      "id": 228,
+      "banner_id": "GachaBanner_0343_2",
+      "gname": "NdayNstep_gacha_20210108_a_2"
+    },
+    {
+      "id": 229,
+      "banner_id": "GachaBanner_0343_3",
+      "gname": "NdayNstep_gacha_20210108_a_3"
+    },
+    {
+      "id": 230,
+      "banner_id": "GachaBanner_0343_4",
+      "gname": "NdayNstep_gacha_20210108_a_4"
+    },
+    {
+      "id": 231,
+      "banner_id": "GachaBanner_0343_5",
+      "gname": "NdayNstep_gacha_20210108_a_5"
+    },
+    {
+      "id": 232,
+      "banner_id": "GachaBanner_0343_6",
+      "gname": "NdayNstep_gacha_20210108_a_6"
+    },
+    {
+      "id": 233,
+      "banner_id": "GachaBanner_0343_7",
+      "gname": "NdayNstep_gacha_20210108_a_7"
+    },
+    {
+      "id": 234,
+      "banner_id": "GachaBanner_0344_1",
+      "gname": "NdayNstep_gacha_20210108_b_1"
+    },
+    {
+      "id": 235,
+      "banner_id": "GachaBanner_0344_2",
+      "gname": "NdayNstep_gacha_20210108_b_2"
+    },
+    {
+      "id": 236,
+      "banner_id": "GachaBanner_0344_3",
+      "gname": "NdayNstep_gacha_20210108_b_3"
+    },
+    {
+      "id": 237,
+      "banner_id": "GachaBanner_0344_4",
+      "gname": "NdayNstep_gacha_20210108_b_4"
+    },
+    {
+      "id": 238,
+      "banner_id": "GachaBanner_0344_5",
+      "gname": "NdayNstep_gacha_20210108_b_5"
+    },
+    {
+      "id": 239,
+      "banner_id": "GachaBanner_0344_6",
+      "gname": "NdayNstep_gacha_20210108_b_6"
+    },
+    {
+      "id": 240,
+      "banner_id": "GachaBanner_0344_7",
+      "gname": "NdayNstep_gacha_20210108_b_7"
     }
   ]
 }

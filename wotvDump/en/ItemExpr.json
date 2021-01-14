@@ -1301,6 +1301,46 @@
       "value": "An item required to enhance a Job (Dragoon of Baron) at Lv. 15"
     },
     {
+      "key": "IT_JB_MM_LW_DEAN",
+      "value": "An item required to enhance a Job (Dark Knight of Remorse) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_LW_DEAN_2",
+      "value": "An item required to enhance a Job (Dark Knight of Remorse) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_LW_DEAN_3",
+      "value": "An item required to enhance a Job (Dark Knight of Remorse) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_LW_DEAN_4",
+      "value": "An item required to enhance a Job (Dark Knight of Remorse) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_LW_DEAN_5",
+      "value": "An item required to enhance a Job (Dark Knight of Remorse) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_ARC",
+      "value": "An item required to enhance a Job (Sniper) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_ARC_2",
+      "value": "An item required to enhance a Job (Sniper) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_ARC_3",
+      "value": "An item required to enhance a Job (Sniper) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_ARC_4",
+      "value": "An item required to enhance a Job (Sniper) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_ARC_5",
+      "value": "An item required to enhance a Job (Sniper) at Lv. 15"
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "An item required to enhance a fire unit's Job at Lvs. 2<space=1>–<space=1>3"
     },
@@ -2089,6 +2129,34 @@
       "value": "An item required to Limit Break a unit"
     },
     {
+      "key": "IT_PI_LW_RAMD_01",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_MACR_01",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_LATH",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_TITU",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_DEAN",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_NIVL",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_RVAL",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
       "key": "IT_SB_EXP_FIRE_01",
       "value": "Grants esper EXP (S)"
     },
@@ -2407,6 +2475,30 @@
     {
       "key": "IT_SB_AW_CHCB1_R3",
       "value": "An item required to awaken Chocobo to 3★"
+    },
+    {
+      "key": "IT_SB_AW_MOGL_R2",
+      "value": "An item required to awaken Moogle (Winter) to 2★"
+    },
+    {
+      "key": "IT_SB_AW_MOGL_R3",
+      "value": "An item required to awaken Moogle (Winter) to 3★"
+    },
+    {
+      "key": "IT_SB_AW_TNBR_R2",
+      "value": "An item required to awaken Tonberry to 2★"
+    },
+    {
+      "key": "IT_SB_AW_TNBR_R3",
+      "value": "An item required to awaken Tonberry to 3★"
+    },
+    {
+      "key": "IT_SB_AW_LVAT_R2",
+      "value": "An item required to awaken Leviathan to 2★"
+    },
+    {
+      "key": "IT_SB_AW_LVAT_R3",
+      "value": "An item required to awaken Leviathan to 3★"
     },
     {
       "key": "IT_TICKET_STORY",
@@ -2742,7 +2834,7 @@
     },
     {
       "key": "IT_AF_LW_SPE_003",
-      "value": "A recipe required to craft a Wind Spear"
+      "value": "A recipe required to craft a Gust Spear"
     },
     {
       "key": "IT_AF_LW_SPE_004",
@@ -2969,6 +3061,30 @@
       "value": "A recipe required to craft an Elven Bow"
     },
     {
+      "key": "IT_AF_LW_ACC_002",
+      "value": "A recipe required to craft a Soul of Thamasa"
+    },
+    {
+      "key": "IT_AF_LW_CLT_006",
+      "value": "A recipe required to craft a Fides Lacerna"
+    },
+    {
+      "key": "IT_AF_LW_MAC_009",
+      "value": "A recipe required to craft a Healing Mace"
+    },
+    {
+      "key": "IT_AF_LW_BOW_004",
+      "value": "A recipe required to craft a Killer Bow"
+    },
+    {
+      "key": "IT_AF_FF14_ARW_001",
+      "value": "A recipe required to craft a Bale Gauntlet."
+    },
+    {
+      "key": "IT_AF_FF14_HLM_001",
+      "value": "A recipe required to craft a Bale Burgeonet"
+    },
+    {
       "key": "IT_AF_SUP_HP",
       "value": "Raises chance of HP increasing when equipment is leveled up"
     },
@@ -3113,14 +3229,6 @@
       "value": "Specification undefined"
     },
     {
-      "key": "IT_EC_SUMMON_12_A",
-      "value": "A medal that can be acquired during New Unit/Vision Card and Winter Holiday Summons (Expires 11:59 p.m. PST, 12/31/2019)"
-    },
-    {
-      "key": "IT_EC_SUMMON_12_B",
-      "value": "A medal that can be acquired during Winter Holiday Part 2 Summons (Expires 2:59 p.m. PST, 1/15/2020)"
-    },
-    {
       "key": "IT_EC_VISION",
       "value": ""
     },
@@ -3157,6 +3265,14 @@
       "value": "A medal that can be purchased in the Black Friday Medal Pack and exchanged for UR unit shards in the Black Friday Medal Exchange Shop. *Cannot be used for limited or collaborative units"
     },
     {
+      "key": "IT_EC_MEDAL_WH",
+      "value": "An exchangeable item that can be obtained for free once per day or purchased at the Winter Festivities Part I Shop. Can be exchanged for UR unit shards and UR vision card shards at the Winter Festivities Medal Unit Exchange Shop and the Winter Festivities Medal Vision Card Exchange Shop, respectively. *Cannot be used for limited or collaborative units and vision cards other than Ramada (Winter), Machérie (Winter), and \"Winter Holiday Party.\""
+    },
+    {
+      "key": "IT_EC_MEDAL_GF_A",
+      "value": "An item that can be exchanged for UR unit shards and UR vision card shards at the Global Festival Medal (A) Unit Exchange Shop and the Global Festival Medal (A) Vision Card Exchange Shop, respectively. *Cannot be used for limited or collaborative units and vision cards other than Duane, Fryevia, and \"Irresistible Darkness.\""
+    },
+    {
       "key": "IT_EC_FF14_1",
       "value": "An item that can be acquired in FFXIV Collaborative Events and exchanged for various items at the Tomestone of Goetia Exchange Shop"
     },
@@ -3165,8 +3281,20 @@
       "value": "A medal that can be acquired during FFXIV Collaborative Summons and exchanged for various items at the FFXIV Summon Medal Exchange Shop"
     },
     {
+      "key": "IT_EC_FF14_1_R",
+      "value": "An item that can be acquired in FFXIV Collaborative Events and exchanged for various items at the Reissue Tomestone of Goetia Exchange Shop"
+    },
+    {
+      "key": "IT_EC_FF14_2_R",
+      "value": "A medal that can be acquired during FFXIV: Shadowbringers Part II Collaborative Summons and exchanged for various items at the FFXIV Reissue Summon Medal Exchange Shop (Expires 23:59, 2/2/2021, World Time (PST))"
+    },
+    {
       "key": "IT_US_G_FF14_01",
       "value": "A ticket that can be obtained by exchanging Tomestones of Goetia acquired in FFXIV Collaborative Events"
+    },
+    {
+      "key": "IT_US_G_FF14_01_R",
+      "value": "A ticket that can be obtained by exchanging Reissue Tomestones of Goetia acquired in FFXIV Collaborative Events"
     },
     {
       "key": "IT_EC_SUMMON_03_A",
@@ -3237,6 +3365,18 @@
       "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 12/15/2020, World Time (PST))"
     },
     {
+      "key": "IT_EC_SUMMON_12_A",
+      "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 1/5/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_12_B",
+      "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 17:59, 1/19/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_01_02_A",
+      "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 2/2/2021, World Time (PST))"
+    },
+    {
       "key": "IT_EC_FFT_1",
       "value": "An item that can be acquired in FFT Collaborative Events and exchanged for various items at the FFT Event Medal Exchange Shop"
     },
@@ -3295,6 +3435,10 @@
     {
       "key": "IT_EC_EV06_1",
       "value": "An item that can be acquired via A Damsel in Distress Events and exchanged for various items at the A Damsel in Distress Medal Exchange Shop"
+    },
+    {
+      "key": "IT_EC_EV07_1",
+      "value": "An item that can be acquired in Gouga and Saiga: Part II Events and exchanged for various items at the Gouga and Saiga: Part II Medal Exchange Shop"
     },
     {
       "key": "IT_EC_FF1_1",
@@ -3529,6 +3673,26 @@
       "value": "A ticket that allows the user to summon five Job Memories (Red) for any one Job *Cannot be used for collaborative unit Jobs"
     },
     {
+      "key": "IT_US_SE_JB_MM_05_5",
+      "value": "A ticket that allows the user to summon five Job Memories (Red) for any one Job *Cannot be used for collaborative unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_04_5",
+      "value": "A ticket that allows the user to summon four Job Memories (Yellow) for any one Job *Cannot be used for collaborative unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_03_4",
+      "value": "A ticket that allows the user to summon three Job Memories (Purple) for any one Job *Cannot be used for collaborative unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_02_4",
+      "value": "A ticket that allows the user to summon two Job Memories (Blue) for any one Job *Cannot be used for collaborative unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_01_4",
+      "value": "A ticket that allows the user to summon one Job Memory (Green) for any one Job *Cannot be used for collaborative unit Jobs"
+    },
+    {
       "key": "IT_US_SE_JB_05_01",
       "value": "A ticket that allows the user to summon 30 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe) necessary to enhance a Job at Lv. 13 – 15."
     },
@@ -3549,6 +3713,26 @@
       "value": "A ticket that allows the user to summon 15 of one type of Jadeite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe) necessary to enhance a Job at Lv. 1 – 3."
     },
     {
+      "key": "IT_US_SE_JB_05_04",
+      "value": "A ticket that allows the user to summon 30 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe) necessary to enhance a Job at Lv. 13 – 15."
+    },
+    {
+      "key": "IT_US_SE_JB_04_05",
+      "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe) necessary to enhance a Job at Lv. 10 – 12."
+    },
+    {
+      "key": "IT_US_SE_JB_03_05",
+      "value": "A ticket that allows the user to summon 30 of one type of Charoite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe) necessary to enhance a Job at Lv. 7 – 9."
+    },
+    {
+      "key": "IT_US_SE_JB_02_05",
+      "value": "A ticket that allows the user to summon 30 of one type of Azurite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe) necessary to enhance a Job at Lv. 4 – 6."
+    },
+    {
+      "key": "IT_US_SE_JB_01_05",
+      "value": "A ticket that allows the user to summon 15 of one type of Jadeite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe) necessary to enhance a Job at Lv. 1 – 3."
+    },
+    {
       "key": "IT_US_SE_UR_U_01",
       "value": "A ticket that allows the user to select and summon a unit of UR rarity"
     },
@@ -3563,6 +3747,14 @@
     {
       "key": "IT_US_SE_R_UR_U_05",
       "value": "A Select Unit Summon Ticket for units of R to UR rarity released by November 4. *Cannot be used for limited or collaborative units"
+    },
+    {
+      "key": "IT_US_SE_R_UR_U_06",
+      "value": "A Select Unit Summon Ticket for units of R to UR rarity released by November 4. *Cannot be used for limited or collaborative units"
+    },
+    {
+      "key": "IT_US_SE_R_UR_U_07",
+      "value": "A Select Unit Summon Ticket for units of R to UR rarity released by December 23. *Cannot be used for limited or collaborative units"
     },
     {
       "key": "IT_US_SE_AW-ITEM_01",
@@ -3605,12 +3797,16 @@
       "value": "A ticket necessary to perform the Black Friday Celebration — MR+ Guaranteed Unit Summon. *This ticket cannot be used after 12/2/2020, World Time (PST). *Limited and collaborative units are not included in this Summon. "
     },
     {
+      "key": "IT_US_G_U_SSR_UR_11",
+      "value": "A ticket necessary to perform the Winter Festivities Part I — MR+ Guaranteed Unit Summon. *This ticket cannot be used after 12/16/2020, World Time (PST). *Limited and collaborative units are not included in this Summon. "
+    },
+    {
       "key": "IT_US_SE_UR_V_01",
       "value": ""
     },
     {
       "key": "IT_US_SE_R_UR_V_GL01",
-      "value": "A ticket that allows the user to select and summon a vision card of R to UR rarity released by 8/12/2020. *Cannot be used for \"Hourne’s First Division, «Solidus»,\" \"Bursting Spirit, Mindflayer,\" \"Moonlit Fang, Fenrir,\" \"Unreaching Affection,\" \"Raging Earth, Titan,\" \"The Four Warring Lords,\" or limited or collaborative vision cards"
+      "value": "A ticket that allows the user to select and summon a vision card of R to UR rarity released by 8/12/2020. *Cannot be used for \"Hourne's First Division, «Solidus»,\" \"Bursting Spirit, Mindflayer,\" \"Moonlit Fang, Fenrir,\" \"Unreaching Affection,\" \"Raging Earth, Titan,\" \"The Four Warring Lords,\" or limited or collaborative vision cards"
     },
     {
       "key": "IT_US_SE_R_UR_V_GL02",
@@ -3619,6 +3815,14 @@
     {
       "key": "IT_US_SE_R_UR_V_GL03",
       "value": "A Select Vision Card Summon Ticket for vision cards of R to UR rarity released by November 11. *Cannot be used for limited or collaborative vision cards"
+    },
+    {
+      "key": "IT_US_SE_R_UR_V_GL04",
+      "value": "A Select Vision Card Summon Ticket for vision cards of R to UR rarity released by November 18. *Cannot be used for limited or collaborative vision cards"
+    },
+    {
+      "key": "IT_US_SE_R_UR_V_GL05",
+      "value": "A Select Vision Card Summon Ticket for vision cards of R to UR rarity released by December 30. *Cannot be used for limited or collaborative vision cards"
     },
     {
       "key": "IT_US_SE_AW-ITEM_04",
@@ -3957,6 +4161,50 @@
       "value": "An item required to awaken a vision card"
     },
     {
+      "key": "IT_VPI_LW_MOGL",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_XMAS",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_LUCA",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_FIGHT",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_DEAN",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_GRSR2",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_SCAL",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_TNBR",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_FF14_MV3",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_LVAT",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_ASSASIN",
+      "value": "An item required to awaken a vision card"
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "Grants vision card EXP (S)"
     },
@@ -4061,6 +4309,14 @@
       "value": "A medal that can be acquired from Raid Battles"
     },
     {
+      "key": "IT_EC_RAID_08",
+      "value": "A medal that can be acquired from Raid Battles"
+    },
+    {
+      "key": "IT_EC_RAID_FF14",
+      "value": "A medal that can be acquired from FFXIV Collaborative Raid Battles"
+    },
+    {
       "key": "IT_US_GL_SE_SB_EXP_1",
       "value": "A ticket that allows the user to select from 8 elements to summon 500 Magicite (M) necessary for enhancing espers"
     },
@@ -4149,6 +4405,30 @@
       "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by November 11. *Cannot be used for limited or collaborative vision cards"
     },
     {
+      "key": "IT_US_GL_SE_VPI_15",
+      "value": "A Select UR Vision Card Shard x100 Summon Ticket for vision cards released by December 9. *Cannot be used for limited or collaborative vision cards other than \"Winter Holiday Party\""
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_16",
+      "value": "A Select UR Vision Card Shard x100 Summon Ticket for vision cards released by December 16. *Cannot be used for limited or collaborative vision cards other than \"Winter Holiday Party\""
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_17",
+      "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by December 16. *Cannot be used for limited or collaborative vision cards other than \"Winter Holiday Party\""
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_18",
+      "value": "A Select UR Vision Card Shard x100 Summon Ticket for vision cards released by December 30. *Cannot be used for limited or collaborative vision cards"
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_19",
+      "value": "A Select UR Vision Card Shard x100 Summon Ticket for vision cards released by 1/13/2021, World Time (PST). *Cannot be used for limited or collaborative vision cards"
+    },
+    {
+      "key": "IT_US_SE_VPI_11",
+      "value": "A Select UR Vision Card Shard x75 Summon Ticket for vision cards released by November 11. *Cannot be used for limited or collaborative vision cards"
+    },
+    {
       "key": "IT_US_SE_UR_U_02",
       "value": "A ticket that allows the user to select and summon one recommended UR unit. *If you summon a unit you already possess, it will be converted into 40 unit shards"
     },
@@ -4163,6 +4443,10 @@
     {
       "key": "IT_US_SE_PI_15",
       "value": "A Select FFBE UR Unit Shard x40 Summon Ticket that can be used for Lasswell, Rain, Fryevia, Ayaka, Mediena, or Aileen "
+    },
+    {
+      "key": "IT_US_SE_PI_16",
+      "value": "A Select UR Unit Shard x80 Summon Ticket for units released by November 4. *Cannot be used for limited or collaborative units"
     },
     {
       "key": "IT_US_SE_PI_GL00",
@@ -4203,6 +4487,26 @@
     {
       "key": "IT_US_SE_AF_AW_02",
       "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Armor, or Accessory) released by 11/25/2020"
+    },
+    {
+      "key": "IT_US_SE_AF_AW_05",
+      "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Armor, or Accessory) released by 12/16/2020"
+    },
+    {
+      "key": "IT_US_SE_AF_AW_06",
+      "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Armor, or Accessory) released by 12/23/2020"
+    },
+    {
+      "key": "IT_US_GL_SE_AF_AW_06",
+      "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Armor, or Accessory) released by 1/6/2021"
+    },
+    {
+      "key": "IT_US_GL_SE_AF_AW_07",
+      "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Armor, or Accessory) released by 1/13/2021"
+    },
+    {
+      "key": "IT_US_SE_AF_SUP_01",
+      "value": "A ticket that allows the user to summon 20 of one type of Equipment Seal (Life, Attack, Magic, Spirit, Defense, Evasion, Skill, Damage)."
     },
     {
       "key": "IT_US_G_N_TW_10",
@@ -4251,6 +4555,10 @@
     {
       "key": "IT_JP_UP_04",
       "value": "Increases JP acquired (XL) during Quests (excluding Crystals)"
+    },
+    {
+      "key": "IT_KEY_QE_001",
+      "value": "Unlocks a specified Key Quest for 3 days"
     }
   ]
 }

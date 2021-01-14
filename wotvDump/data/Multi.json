@@ -100,15 +100,15 @@
       "iname": "SE_MU_EV_01_EX",
       "event_type": 1,
       "image": "ev_01_ex_01",
-      "start": "2020/09/15 18:30:00",
-      "end": "2020/09/29 23:59:59"
+      "start": "2020/12/08 18:30:00",
+      "end": "2020/12/22 21:59:59"
     },
     {
       "iname": "SE_MU_EV_ETRE_EX",
       "event_type": 1,
       "image": "ev_etre_ex_01",
-      "start": "2020/09/15 18:30:00",
-      "end": "2020/09/29 23:59:59"
+      "start": "2020/12/08 18:30:00",
+      "end": "2020/12/22 21:59:59"
     },
     {
       "iname": "SE_MU_FF1_01_EX",
@@ -139,6 +139,13 @@
       "end": "2020/12/15 23:59:59"
     },
     {
+      "iname": "SE_MU_FF14_EX_02",
+      "event_type": 1,
+      "image": "ev_ff14_ex_01_R",
+      "start": "2021/01/06",
+      "end": "2021/01/26 23:59:59"
+    },
+    {
       "iname": "SE_MU_EV_SCR_01",
       "event_type": 1,
       "image": "ev_art_secret_02",
@@ -163,8 +170,8 @@
       "iname": "SE_MU_ART_CRF_04",
       "event_type": 1,
       "image": "ev_arti_crft_04",
-      "start": "2020/10/20 18:30:00",
-      "end": "2020/11/03 23:59:59"
+      "start": "2020/12/22 22:30:00",
+      "end": "2021/01/05 23:59:59"
     },
     {
       "iname": "SE_MU_ART_CRF_05",
@@ -174,11 +181,18 @@
       "end": "2020/11/17 17:59:59"
     },
     {
+      "iname": "SE_MU_ART_CRF_06",
+      "event_type": 1,
+      "image": "ev_arti_crft_06",
+      "start": "2020/12/22 22:30:00",
+      "end": "2021/01/05 23:59:59"
+    },
+    {
       "iname": "SE_MU_EV_SCR_02",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2020/11/24 22:30:00",
-      "end": "2020/12/08 17:59:59"
+      "start": "2021/01/13",
+      "end": "2021/01/19 17:59:59"
     },
     {
       "iname": "SE_MU_SB_02",
@@ -214,6 +228,13 @@
       "image": "ev_summon_014",
       "start": "2020/11/11",
       "end": "2020/11/25 23:59:59"
+    },
+    {
+      "iname": "SE_MU_SB_07",
+      "event_type": 1,
+      "image": "ev_summon_015",
+      "start": "2020/12/30",
+      "end": "2021/01/12 23:59:59"
     },
     {
       "iname": "SE_MU_EV_02_EX",
@@ -256,6 +277,13 @@
       "image": "ev_06_ex_01",
       "start": "2020/11/04",
       "end": "2020/11/17 17:59:59"
+    },
+    {
+      "iname": "SE_MU_EV_07_EX",
+      "event_type": 1,
+      "image": "ev_07_ex_01",
+      "start": "2021/01/06",
+      "end": "2021/01/19 17:59:59"
     }
   ]
 }

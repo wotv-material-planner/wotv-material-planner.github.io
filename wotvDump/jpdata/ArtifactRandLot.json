@@ -105,7 +105,7 @@
           "gwait1": 50,
           "grow2": "AFGROW_ASS_50",
           "gwait2": 50,
-          "grow3": "AFGROW_CRI_50",
+          "grow3": "AFGROW_MAG_50",
           "gwait3": 50
         }
       ]
@@ -261,6 +261,19 @@
       ]
     },
     {
+      "iname": "AF_LOT_NIER_KAT_000",
+      "lot": [
+        {
+          "grow1": "AFGROW_ASS_50",
+          "gwait1": 50,
+          "grow2": "AFGROW_AIM_50",
+          "gwait2": 50,
+          "grow3": "AFGROW_CRI_50",
+          "gwait3": 50
+        }
+      ]
+    },
+    {
       "iname": "AF_LOT_LW_FIS_001",
       "lot": [
         {
@@ -384,6 +397,19 @@
           "grow1": "AFGROW_VIT_50",
           "gwait1": 50,
           "grow2": "AFGROW_ASS_50",
+          "gwait2": 50,
+          "grow3": "AFGROW_CRI_50",
+          "gwait3": 50
+        }
+      ]
+    },
+    {
+      "iname": "AF_LOT_NIER_SPE_000",
+      "lot": [
+        {
+          "grow1": "AFGROW_ASS_50",
+          "gwait1": 50,
+          "grow2": "AFGROW_AIM_50",
           "gwait2": 50,
           "grow3": "AFGROW_CRI_50",
           "gwait3": 50
@@ -540,6 +566,19 @@
           "grow1": "AFGROW_VIT_50",
           "gwait1": 50,
           "grow2": "AFGROW_AIM_50",
+          "gwait2": 50,
+          "grow3": "AFGROW_CRI_50",
+          "gwait3": 50
+        }
+      ]
+    },
+    {
+      "iname": "AF_LOT_LW_BOW_012",
+      "lot": [
+        {
+          "grow1": "AFGROW_VIT_50",
+          "gwait1": 50,
+          "grow2": "AFGROW_ASS_50",
           "gwait2": 50,
           "grow3": "AFGROW_CRI_50",
           "gwait3": 50
@@ -741,6 +780,19 @@
     },
     {
       "iname": "AF_LOT_FF1_ARM_002",
+      "lot": [
+        {
+          "grow1": "AFGROW_VIT_50",
+          "gwait1": 50,
+          "grow2": "AFGROW_SLD_50",
+          "gwait2": 50,
+          "grow3": "AFGROW_BAR_50",
+          "gwait3": 50
+        }
+      ]
+    },
+    {
+      "iname": "AF_LOT_LW_ARM_028",
       "lot": [
         {
           "grow1": "AFGROW_VIT_50",
@@ -1192,6 +1244,15 @@
       ]
     },
     {
+      "iname": "AF_LOT_NIER_ACC_000",
+      "lot": [
+        {
+          "grow1": "AFGROW_AIM_50",
+          "gwait1": 50
+        }
+      ]
+    },
+    {
       "iname": "AF_LOT_LW_GLO_001",
       "lot": [
         {
@@ -1239,6 +1300,32 @@
           "grow2": "AFGROW_SLD_50",
           "gwait2": 50,
           "grow3": "AFGROW_BAR_50",
+          "gwait3": 50
+        }
+      ]
+    },
+    {
+      "iname": "AF_LOT_FF10_ACCE_001",
+      "lot": [
+        {
+          "grow1": "AFGROW_VIT_50",
+          "gwait1": 50,
+          "grow2": "AFGROW_AIM_50",
+          "gwait2": 50,
+          "grow3": "AFGROW_BAR_50",
+          "gwait3": 50
+        }
+      ]
+    },
+    {
+      "iname": "AF_LOT_LW_CLT_016",
+      "lot": [
+        {
+          "grow1": "AFGROW_VIT_50",
+          "gwait1": 50,
+          "grow2": "AFGROW_DOD_50",
+          "gwait2": 50,
+          "grow3": "AFGROW_SLD_50",
           "gwait3": 50
         }
       ]

@@ -1301,6 +1301,46 @@
       "value": "Dragoon of Baron's Memory (Red)"
     },
     {
+      "key": "IT_JB_MM_LW_DEAN",
+      "value": "Dark Knight of Remorse's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_LW_DEAN_2",
+      "value": "Dark Knight of Remorse's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_LW_DEAN_3",
+      "value": "Dark Knight of Remorse's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_LW_DEAN_4",
+      "value": "Dark Knight of Remorse's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_LW_DEAN_5",
+      "value": "Dark Knight of Remorse's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_ARC",
+      "value": "Sniper's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_ARC_2",
+      "value": "Sniper's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_ARC_3",
+      "value": "Sniper's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_ARC_4",
+      "value": "Sniper's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_ARC_5",
+      "value": "Sniper's Memory (Red)"
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "Fire Alcryst (Green)"
     },
@@ -2089,6 +2129,34 @@
       "value": "Kain Unit Shard"
     },
     {
+      "key": "IT_PI_LW_RAMD_01",
+      "value": "Ramada (Winter) Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_MACR_01",
+      "value": "Machérie (Winter) Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_LATH",
+      "value": "Luartha Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_TITU",
+      "value": "Tyytas Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_DEAN",
+      "value": "Duane Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_NIVL",
+      "value": "Niv'Lu Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_RVAL",
+      "value": "Livialle Unit Shard"
+    },
+    {
       "key": "IT_SB_EXP_FIRE_01",
       "value": "Red Magicite (S)"
     },
@@ -2407,6 +2475,30 @@
     {
       "key": "IT_SB_AW_CHCB1_R3",
       "value": "Chocobo's Awakening Stone (3★)"
+    },
+    {
+      "key": "IT_SB_AW_MOGL_R2",
+      "value": "Moogle (Winter)'s Awakening Stone (2★)"
+    },
+    {
+      "key": "IT_SB_AW_MOGL_R3",
+      "value": "Moogle (Winter)'s Awakening Stone (3★)"
+    },
+    {
+      "key": "IT_SB_AW_TNBR_R2",
+      "value": "Tonberry's Awakening Stone (2★)"
+    },
+    {
+      "key": "IT_SB_AW_TNBR_R3",
+      "value": "Tonberry's Awakening Stone (3★)"
+    },
+    {
+      "key": "IT_SB_AW_LVAT_R2",
+      "value": "Leviathan's Awakening Stone (2★)"
+    },
+    {
+      "key": "IT_SB_AW_LVAT_R3",
+      "value": "Leviathan's Awakening Stone (3★)"
     },
     {
       "key": "IT_TICKET_STORY",
@@ -2742,7 +2834,7 @@
     },
     {
       "key": "IT_AF_LW_SPE_003",
-      "value": "Wind Spear Crafting Recipe"
+      "value": "Gust Spear Crafting Recipe"
     },
     {
       "key": "IT_AF_LW_SPE_004",
@@ -2969,6 +3061,30 @@
       "value": "Elven Bow Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_ACC_002",
+      "value": "Soul of Thamasa Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_CLT_006",
+      "value": "Fides Lacerna Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_MAC_009",
+      "value": "Healing Mace Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_BOW_004",
+      "value": "Killer Bow Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_FF14_ARW_001",
+      "value": "Bale Gauntlet Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_FF14_HLM_001",
+      "value": "Bale Burgeonet Crafting Recipe"
+    },
+    {
       "key": "IT_AF_SUP_HP",
       "value": "Life Seal"
     },
@@ -3113,14 +3229,6 @@
       "value": "Summon Medal"
     },
     {
-      "key": "IT_EC_SUMMON_12_A",
-      "value": "December Summon Medal A"
-    },
-    {
-      "key": "IT_EC_SUMMON_12_B",
-      "value": "December Summon Medal B"
-    },
-    {
       "key": "IT_EC_VISION",
       "value": "Vision Medal"
     },
@@ -3157,6 +3265,14 @@
       "value": "Black Friday Medal"
     },
     {
+      "key": "IT_EC_MEDAL_WH",
+      "value": "Winter Festivities Medal"
+    },
+    {
+      "key": "IT_EC_MEDAL_GF_A",
+      "value": "Global Festival Medal A"
+    },
+    {
       "key": "IT_EC_FF14_1",
       "value": "Tomestone of Goetia"
     },
@@ -3165,8 +3281,20 @@
       "value": "FFXIV Summon Medal"
     },
     {
+      "key": "IT_EC_FF14_1_R",
+      "value": "Reissue Tomestone of Goetia"
+    },
+    {
+      "key": "IT_EC_FF14_2_R",
+      "value": "FFXIV Reissue Summon Medal"
+    },
+    {
       "key": "IT_US_G_FF14_01",
       "value": "FFXIV Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_FF14_01_R",
+      "value": "FFXIV Reissue Summon Ticket"
     },
     {
       "key": "IT_EC_SUMMON_03_A",
@@ -3237,6 +3365,18 @@
       "value": "November Summon Medal B"
     },
     {
+      "key": "IT_EC_SUMMON_12_A",
+      "value": "December Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_12_B",
+      "value": "December Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_01_02_A",
+      "value": "January Summon Medal A"
+    },
+    {
       "key": "IT_EC_FFT_1",
       "value": "FFT Event Medal"
     },
@@ -3295,6 +3435,10 @@
     {
       "key": "IT_EC_EV06_1",
       "value": "A Damsel in Distress Medal"
+    },
+    {
+      "key": "IT_EC_EV07_1",
+      "value": "Gouga and Saiga: Part II Medal"
     },
     {
       "key": "IT_EC_FF1_1",
@@ -3529,6 +3673,26 @@
       "value": "[Six-Month Anniversary] Select Job Memory (Red) x5 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_JB_MM_05_5",
+      "value": "[New Year's Greetings] Select Job Memory (Red) x5 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_04_5",
+      "value": "[New Year's Greetings] Select Job Memory (Yellow) x4 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_03_4",
+      "value": "[New Year's Greetings] Select Job Memory (Purple) x3 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_02_4",
+      "value": "[New Year's Greetings] Select Job Memory (Blue) x2 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_01_4",
+      "value": "[New Year's Greetings] Select Job Memory (Green) x1 Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_JB_05_01",
       "value": "[Halloween Campaign] Select Spinel x30 Summon Ticket"
     },
@@ -3549,6 +3713,26 @@
       "value": "[Halloween Campaign] Select Jadeite x15 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_JB_05_04",
+      "value": "[New Year's Greetings] Select Spinel x30 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_04_05",
+      "value": "[New Year's Greetings] Select Citrine x30 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_03_05",
+      "value": "[New Year's Greetings] Select Charoite x30 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_02_05",
+      "value": "[New Year's Greetings] Select Azurite x30 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_01_05",
+      "value": "[New Year's Greetings] Select Jadeite x15 Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_UR_U_01",
       "value": "Select UR Unit Summon Ticket A"
     },
@@ -3563,6 +3747,14 @@
     {
       "key": "IT_US_SE_R_UR_U_05",
       "value": "[Cyber Monday] Select Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_R_UR_U_06",
+      "value": "[Winter Festivities Part III] Select Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_R_UR_U_07",
+      "value": "[New Year's Celebration Part III] Select Unit Summon Ticket"
     },
     {
       "key": "IT_US_SE_AW-ITEM_01",
@@ -3605,6 +3797,10 @@
       "value": "[Black Friday Celebration] MR+ Guaranteed Unit Summon Ticket"
     },
     {
+      "key": "IT_US_G_U_SSR_UR_11",
+      "value": "[Winter Festivities Part I] MR+ Guaranteed Unit Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_UR_V_01",
       "value": "Select UR Vision Card Summon Ticket A"
     },
@@ -3619,6 +3815,14 @@
     {
       "key": "IT_US_SE_R_UR_V_GL03",
       "value": "[Cyber Monday] Select Vision Card Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_R_UR_V_GL04",
+      "value": "[Winter Festivities Part III] Select Vision Card Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_R_UR_V_GL05",
+      "value": "[New Year's Celebration Part III] Select Vision Card Summon Ticket"
     },
     {
       "key": "IT_US_SE_AW-ITEM_04",
@@ -3957,6 +4161,50 @@
       "value": "\"Demon Wall\" Vision Card Shard"
     },
     {
+      "key": "IT_VPI_LW_MOGL",
+      "value": "\"Holy Night's Visitor, Winter Moogle\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_XMAS",
+      "value": "\"Winter Holiday Party\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_LUCA",
+      "value": "“New Test Subjects” Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_FIGHT",
+      "value": "\"Fated Clash\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_DEAN",
+      "value": "\"Irresistible Darkness\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_GRSR2",
+      "value": "\"Downtime\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_SCAL",
+      "value": "\"Blossoms in the Dark\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_TNBR",
+      "value": "\"Grudge-Filled Lantern, Tonberry\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_FF14_MV3",
+      "value": "\"Bringers of Shadow\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_LVAT",
+      "value": "\"Divine Maelstrom, Leviathan\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_ASSASIN",
+      "value": "\"Sanctum Assassins\" Vision Card Shard"
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "Growth Egg (N)"
     },
@@ -4061,6 +4309,14 @@
       "value": "October Raid Medal"
     },
     {
+      "key": "IT_EC_RAID_08",
+      "value": "December Raid Medal"
+    },
+    {
+      "key": "IT_EC_RAID_FF14",
+      "value": "FFXIV Raid Medal"
+    },
+    {
       "key": "IT_US_GL_SE_SB_EXP_1",
       "value": "Select Element Magicite (M) x500 Summon Ticket"
     },
@@ -4149,6 +4405,30 @@
       "value": "Select UR Vision Card Shard x50 Summon Ticket"
     },
     {
+      "key": "IT_US_GL_SE_VPI_15",
+      "value": "Select UR Vision Card Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_16",
+      "value": "Select UR Vision Card Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_17",
+      "value": "Select UR Vision Card Shard x50 Summon Ticket"
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_18",
+      "value": "Select UR Vision Card Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_GL_SE_VPI_19",
+      "value": "Select UR Vision Card Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_11",
+      "value": "[New Year's] Select UR Vision Card Shard x75 Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_UR_U_02",
       "value": "Select Recommended UR Unit Summon Ticket"
     },
@@ -4163,6 +4443,10 @@
     {
       "key": "IT_US_SE_PI_15",
       "value": "Select FFBE UR Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_16",
+      "value": "[New Year's] Select UR Unit Shard x80 Summon Ticket"
     },
     {
       "key": "IT_US_SE_PI_GL00",
@@ -4203,6 +4487,26 @@
     {
       "key": "IT_US_SE_AF_AW_02",
       "value": "Select Secret Book of Refinement x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_AF_AW_05",
+      "value": "[Winter Festivities Part II] Select Secret Book of Refinement x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_AF_AW_06",
+      "value": "Select Secret Book of Refinement x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_GL_SE_AF_AW_06",
+      "value": "Select Secret Book of Refinement x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_GL_SE_AF_AW_07",
+      "value": "[New Year's Celebration Part III] Select Secret Book of Refinement x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_AF_SUP_01",
+      "value": "Select Equipment Seal x20 Summon Ticket"
     },
     {
       "key": "IT_US_G_N_TW_10",
@@ -4251,6 +4555,10 @@
     {
       "key": "IT_JP_UP_04",
       "value": "Ovalite (XL)"
+    },
+    {
+      "key": "IT_KEY_QE_001",
+      "value": "Challenge Key"
     }
   ]
 }

@@ -718,7 +718,7 @@
     },
     {
       "key": "IT_SET_JB_EXP_01",
-      "value": "Job Enhancment Support Pack"
+      "value": "Job Enhancement Support Pack"
     },
     {
       "key": "IT_SET_UNIT_EXP_S",
@@ -846,15 +846,15 @@
     },
     {
       "key": "IT_SET_JB_MM_HA_L",
-      "value": "[Black Friday Celebration] Job Training Pack III"
+      "value": "[Winter Festivities Part II] Job Training Pack III"
     },
     {
       "key": "IT_SET_JB_MM_HA_M",
-      "value": "[Black Friday Celebration] Job Training Pack II"
+      "value": "[Winter Festivities Part II] Job Training Pack II"
     },
     {
       "key": "IT_SET_JB_MM_HA_S",
-      "value": "[Black Friday Celebration] Job Training Pack I"
+      "value": "[Winter Festivities Part II] Job Training Pack I"
     },
     {
       "key": "IT_SET_UNIT_EXP_HA_L",
@@ -978,15 +978,15 @@
     },
     {
       "key": "IT_SET_PI_COM_1100DL",
-      "value": "[Halloween Campaign] Fragment of Thought Pack"
+      "value": "[Winter Festivities Part I] Fragment of Thought Pack"
     },
     {
       "key": "IT_SET_UNIT_EXP_1100DL_L",
-      "value": "[Halloween Campaign] EXP Cube Pack II"
+      "value": "[Winter Festivities Part I] EXP Cube Pack II"
     },
     {
       "key": "IT_SET_WA_EXP_1100DL",
-      "value": "[Halloween Campaign] Equipment Ability Pack"
+      "value": "[Winter Festivities Part I] Equipment Ability Pack"
     },
     {
       "key": "IT_SET_STA_01",
@@ -1002,7 +1002,7 @@
     },
     {
       "key": "IT_SET_UNIT_EXP_1100DL_S",
-      "value": "[Halloween Campaign] EXP Cube Pack I"
+      "value": "[Winter Festivities Part I] EXP Cube Pack I"
     },
     {
       "key": "IT_SET_1100DL_SE_UPI",
@@ -1030,11 +1030,11 @@
     },
     {
       "key": "IT_SET_1100DL_VE_EXP",
-      "value": "[Halloween Campaign] Vision Card Enhancing Pack"
+      "value": "[Winter Festivities Part I] Vision Card Enhancing Pack"
     },
     {
       "key": "IT_SET_1100DL_SM_EXP",
-      "value": "[Halloween Campaign] Esper Enhancing Pack"
+      "value": "[Winter Festivities Part I] Esper Enhancing Pack"
     },
     {
       "key": "IT_SET_JB_MM_1100DL_03",
@@ -1058,7 +1058,7 @@
     },
     {
       "key": "IT_SET_GROW_2020SM_01",
-      "value": "[Autumn 2020 Campaign Part II] Rainbow Training Pack"
+      "value": "[Winter Festivities Part II] Rainbow Training Pack"
     },
     {
       "key": "IT_SET_WA_EXP_1100DL_H",
@@ -1186,11 +1186,11 @@
     },
     {
       "key": "IT_SET_JB_MM_HA_L_01",
-      "value": "[Cyber Monday Celebration] Job Training Pack III"
+      "value": "[Winter Festivities Part II] Job Training Pack III"
     },
     {
       "key": "IT_SET_JB_MM_HA_M_01",
-      "value": "[Cyber Monday Celebration] Job Training Pack II"
+      "value": "[Winter Festivities Part II] Job Training Pack II"
     },
     {
       "key": "IT_SET_JB_MM_HA_S_01",
@@ -1215,6 +1215,250 @@
     {
       "key": "IT_SET_AF_EXP_HA_01",
       "value": "[Cyber Monday Celebration] Adamantite Pack"
+    },
+    {
+      "key": "IT_SET_UR_UNIT_03",
+      "value": "UR Unit Limit Breaking Pack"
+    },
+    {
+      "key": "IT_SET_MR_UR_UNIT_GL06",
+      "value": "Unit Summoning Pack"
+    },
+    {
+      "key": "IT_SET_LSWORD_01",
+      "value": "Greatsword Awakening Pack"
+    },
+    {
+      "key": "IT_SET_TICKET_STORY_02",
+      "value": "Story Skip Ticket Pack"
+    },
+    {
+      "key": "IT_SET_HA_VE_EXP_03",
+      "value": "[Winter Festivities Part II] Vision Card Awakening Pack"
+    },
+    {
+      "key": "IT_SET_SMVC2_UNIT_RD_01",
+      "value": "[Winter Festivities Part II] Raid Support Pack+"
+    },
+    {
+      "key": "IT_SET_SMVC_AWK_01",
+      "value": "[Winter Festivities Part II] Unit Awakening Pack"
+    },
+    {
+      "key": "IT_SET_AF_EXP_SMVC2_02",
+      "value": "[Winter Festivities Part II] Equipment Awakening Pack+"
+    },
+    {
+      "key": "IT_SET_SMVC_UE_EXP",
+      "value": "[Winter Festivities Part II] Unit Enhancing Pack"
+    },
+    {
+      "key": "IT_SET_SMVC_VE_EXP_02",
+      "value": "[Winter Festivities Part II] Vision Card Enhancing Pack"
+    },
+    {
+      "key": "IT_SET_SMVC_AF_EXP_01",
+      "value": "[Winter Festivities Part II] Equipment Enhancing Pack"
+    },
+    {
+      "key": "IT_SET_GROW_DEAN",
+      "value": "Duane Training Pack"
+    },
+    {
+      "key": "IT_SET_VC_GROW_DEAN",
+      "value": "\"Irresistible Darkness\" Training Pack"
+    },
+    {
+      "key": "IT_SET_WH_SE_UNIT",
+      "value": "[Winter Festivities Part III] Select Unit Pack"
+    },
+    {
+      "key": "IT_SET_WH_SE_VCARD",
+      "value": "[Winter Festivities Part III] Select Vision Card Pack"
+    },
+    {
+      "key": "IT_SET_UNIT_EXP_WH_L",
+      "value": "[Winter Festivities Part III] EXP Cube Pack II"
+    },
+    {
+      "key": "IT_SET_UNIT_EXP_WH_S",
+      "value": "[Winter Festivities Part III] EXP Cube Pack I"
+    },
+    {
+      "key": "IT_SET_VC_EXP_WH_L",
+      "value": "[Winter Festivities Part III] Growth Egg Pack II"
+    },
+    {
+      "key": "IT_SET_VC_EXP_WH_S",
+      "value": "[Winter Festivities Part III] Growth Egg Pack I"
+    },
+    {
+      "key": "IT_SET_AF_EXP_WH",
+      "value": "[Winter Festivities Part III] Adamantite Pack"
+    },
+    {
+      "key": "IT_SET_AF_EXP_WH_02",
+      "value": "Equipment Awakening Pack"
+    },
+    {
+      "key": "IT_SET_KG_EXP_01",
+      "value": "[Daily] King Burst Pot/Armor Pot Pack"
+    },
+    {
+      "key": "IT_SET_AWK_NO_01",
+      "value": "Unit Awakening Pack+"
+    },
+    {
+      "key": "IT_SET_JB_MM_NO_05",
+      "value": "Job Enhancing Pack V"
+    },
+    {
+      "key": "IT_SET_JB_MM_NO_04",
+      "value": "Job Enhancing Pack IV"
+    },
+    {
+      "key": "IT_SET_JB_MM_NO_03",
+      "value": "Job Enhancing Pack III"
+    },
+    {
+      "key": "IT_SET_NO_UE_EXP",
+      "value": "Unit Enhancing Pack II"
+    },
+    {
+      "key": "IT_SET_NO_VE_EXP",
+      "value": "Vision Card Enhancing Pack"
+    },
+    {
+      "key": "IT_SET_US_SB_EXP_NO",
+      "value": "Select Element Magicite Pack"
+    },
+    {
+      "key": "IT_SET_JB_MM_NO_02",
+      "value": "Job Enhancing Pack II"
+    },
+    {
+      "key": "IT_SET_JB_MM_NO_01",
+      "value": "Job Enhancing Pack I"
+    },
+    {
+      "key": "IT_SET_UNIT_EXP_NO_S",
+      "value": "Unit Enhancing Pack I"
+    },
+    {
+      "key": "IT_SET_PI_COM_ALL_1000VER",
+      "value": "Rainbow Training Pack"
+    },
+    {
+      "key": "IT_SET_VC_EXP_1000VER",
+      "value": "Growth Egg Pack"
+    },
+    {
+      "key": "IT_SET_LB_EXP_NO",
+      "value": "King Burst Pot Pack"
+    },
+    {
+      "key": "IT_SET_JP_UP_NO_01",
+      "value": "Ovalite Pack"
+    },
+    {
+      "key": "IT_SET_WA_EXP_NO",
+      "value": "King Armor Pot Pack"
+    },
+    {
+      "key": "IT_SET_PI_COM_NO_01",
+      "value": "Fragment of Thought Pack"
+    },
+    {
+      "key": "IT_SET_GROW_RD_02",
+      "value": "Rainbow Training Pack+"
+    },
+    {
+      "key": "IT_SET_AF_EXP_GU_02",
+      "value": "Equipment Awakening Pack"
+    },
+    {
+      "key": "IT_SET_GROW_NO_01",
+      "value": "Rainbow Training Pack"
+    },
+    {
+      "key": "IT_SET_AW_THUNDER_NO_03",
+      "value": "Lightning Full Awakening Pack"
+    },
+    {
+      "key": "IT_SET_BOW_01_300",
+      "value": "Bow Awakening Pack"
+    },
+    {
+      "key": "IT_SET_NO2_UE_EXP",
+      "value": "Unit Enhancing Pack"
+    },
+    {
+      "key": "IT_SET_NO_AF_EXP_01",
+      "value": "Equipment Enhancing Pack"
+    },
+    {
+      "key": "IT_SET_VC_GROW_LVAT",
+      "value": "Leviathan Training Pack"
+    },
+    {
+      "key": "IT_SET_KEY_01",
+      "value": "Key Quest Unlocking Pack (Challenge)"
+    },
+    {
+      "key": "IT_SET_NY3_G_U_UR_UPI",
+      "value": "UR Guaranteed Unit Summon Pack"
+    },
+    {
+      "key": "IT_SET_NY3_G_VC_UR_UPI",
+      "value": "UR Guaranteed Vision Card Summon Pack"
+    },
+    {
+      "key": "IT_SET_NY3_SE_UNIT",
+      "value": "[New Year's Celebration Part III] Select Unit Pack"
+    },
+    {
+      "key": "IT_SET_NY3_SE_VCARD",
+      "value": "[New Year's Celebration Part III] Select Vision Card Pack"
+    },
+    {
+      "key": "IT_SET_NO_VE_EXP_MAX",
+      "value": "Vision Card Full Enhancing Pack"
+    },
+    {
+      "key": "IT_SET_US_SB_EXP_WA_NO",
+      "value": "Light Blue Magicite Pack"
+    },
+    {
+      "key": "IT_SET_LB_EXP_SP_01",
+      "value": "Limit Burst Enhancement Pack+ "
+    },
+    {
+      "key": "IT_SET_WA_EXP_SP_01",
+      "value": "Equipment Ability Pack+"
+    },
+    {
+      "key": "IT_SET_NO_UNIT_RD_01",
+      "value": "Raid Support Pack+"
+    },
+    {
+      "key": "IT_SET_BOW_GL03",
+      "value": "Killer Bow +3 (Critical) Pack"
+    },
+    {
+      "key": "IT_SET_RNG_GL02",
+      "value": "Jeweled Ring +3 (Aim) Pack"
+    },
+    {
+      "key": "IT_SET_SMVC_AWK_01_NO",
+      "value": "Unit Awakening Pack"
+    },
+    {
+      "key": "IT_SET_AF_EXP_NO_02",
+      "value": "Equipment Awakening Pack+"
+    },
+    {
+      "key": "IT_SET_JP_UP_NO_GL01",
+      "value": "Ovalite Pack"
     }
   ]
 }

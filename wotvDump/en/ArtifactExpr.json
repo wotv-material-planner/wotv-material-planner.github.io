@@ -1697,8 +1697,8 @@
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
     {
-      "key": "AF_LW_CLK_001",
-      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+      "key": "AF_LW_SHI_004",
+      "value": "Equipment type: Shield <br>Appropriate Armor Proficiency: B or better"
     },
     {
       "key": "AF_LW_ACC_001",
@@ -1909,8 +1909,16 @@
       "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_CLT_LW_RAMD_01_1",
+      "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
       "key": "AF_ACC_LW_ETRE_1",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_ACC_LW_MACR_01_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
     {
       "key": "AF_ARM_FFT_RAMZ_1",
@@ -2065,6 +2073,22 @@
       "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
     },
     {
+      "key": "AF_SWO_LW_TITU_1",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_HLM_LW_DEAN_1",
+      "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_ACC_LW_NIVL_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_ROD_LW_RVAL_1",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
       "key": "AF_SWO_LW_MONT_2",
       "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
     },
@@ -2113,8 +2137,16 @@
       "value": "Equipment type: Shield <br>Appropriate Armor Proficiency: E or better"
     },
     {
+      "key": "AF_BSW_LW_RAMD_01_2",
+      "value": "Equipment type: Greatsword <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
       "key": "AF_LW_SHI_003",
       "value": "Equipment type: Shield <br>Appropriate Armor Proficiency: B or better"
+    },
+    {
+      "key": "AF_SPE_LW_MACR_01_2",
+      "value": ""
     },
     {
       "key": "AF_SWO_FFT_RAMZ_2",
@@ -2222,6 +2254,18 @@
     },
     {
       "key": "AF_ROD_FF4_GLBZ_2",
+      "value": ""
+    },
+    {
+      "key": "AF_GUN_LW_LATH_2",
+      "value": "Equipment type: Gun <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
+      "key": "AF_SWO_LW_DEAN_2",
+      "value": ""
+    },
+    {
+      "key": "AF_BOW_LW_NIVL_2",
       "value": ""
     },
     {
@@ -2447,6 +2491,150 @@
     {
       "key": "AF_FF4_BOW_000_5",
       "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_002",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_002_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_002_2",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_002_3",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_002_4",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_002_5",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_CLT_006",
+      "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_CLT_006_1",
+      "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_CLT_006_2",
+      "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_CLT_006_3",
+      "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_CLT_006_4",
+      "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_CLT_006_5",
+      "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_MAC_009",
+      "value": "Equipment type: Mace <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_MAC_009_1",
+      "value": "Equipment type: Mace <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_MAC_009_2",
+      "value": "Equipment type: Mace <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_MAC_009_3",
+      "value": "Equipment type: Mace <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_MAC_009_4",
+      "value": "Equipment type: Mace <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_MAC_009_5",
+      "value": "Equipment type: Mace <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_004",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_004_1",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_004_2",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_004_3",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_004_4",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_004_5",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_FF14_ARW_001",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_FF14_ARW_001_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_FF14_ARW_001_2",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_FF14_ARW_001_3",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_FF14_ARW_001_4",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_FF14_ARW_001_5",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_FF14_HLM_001",
+      "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_FF14_HLM_001_1",
+      "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_FF14_HLM_001_2",
+      "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_FF14_HLM_001_3",
+      "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_FF14_HLM_001_4",
+      "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_FF14_HLM_001_5",
+      "value": "Equipment type: Helm <br>Appropriate Armor Proficiency: A or better"
     }
   ]
 }

@@ -1649,6 +1649,204 @@
           "unit_group_id": "UNIT_GROUP_198"
         }
       ]
+    },
+    {
+      "iname": "BONUS_051",
+      "bonuses": [
+        {
+          "priority": 1,
+          "add_exp_speed": 150,
+          "rate_fix_sub": 10,
+          "rate_fix_disp": 0,
+          "unit_group_id": "UNIT_GROUP_199"
+        },
+        {
+          "priority": 2,
+          "add_exp_speed": 130,
+          "rate_fix_sub": 5,
+          "rate_fix_disp": 1,
+          "unit_group_id": "UNIT_GROUP_200"
+        },
+        {
+          "priority": 3,
+          "add_exp_speed": 120,
+          "rate_fix_sub": 2,
+          "rate_fix_disp": 2,
+          "unit_group_id": "UNIT_GROUP_201"
+        },
+        {
+          "priority": 4,
+          "add_exp_speed": 110,
+          "rate_fix_sub": 1,
+          "rate_fix_disp": 3,
+          "unit_group_id": "UNIT_GROUP_202"
+        }
+      ]
+    },
+    {
+      "iname": "BONUS_052",
+      "bonuses": [
+        {
+          "priority": 1,
+          "add_exp_speed": 150,
+          "rate_fix_sub": 10,
+          "rate_fix_disp": 0,
+          "unit_group_id": "UNIT_GROUP_203"
+        },
+        {
+          "priority": 2,
+          "add_exp_speed": 130,
+          "rate_fix_sub": 5,
+          "rate_fix_disp": 1,
+          "unit_group_id": "UNIT_GROUP_204"
+        },
+        {
+          "priority": 3,
+          "add_exp_speed": 120,
+          "rate_fix_sub": 2,
+          "rate_fix_disp": 2,
+          "unit_group_id": "UNIT_GROUP_205"
+        },
+        {
+          "priority": 4,
+          "add_exp_speed": 110,
+          "rate_fix_sub": 1,
+          "rate_fix_disp": 3,
+          "unit_group_id": "UNIT_GROUP_206"
+        }
+      ]
+    },
+    {
+      "iname": "BONUS_053",
+      "bonuses": [
+        {
+          "priority": 1,
+          "add_exp_speed": 150,
+          "rate_fix_sub": 10,
+          "rate_fix_disp": 0,
+          "unit_group_id": "UNIT_GROUP_207"
+        },
+        {
+          "priority": 2,
+          "add_exp_speed": 130,
+          "rate_fix_sub": 5,
+          "rate_fix_disp": 1,
+          "unit_group_id": "UNIT_GROUP_208"
+        },
+        {
+          "priority": 3,
+          "add_exp_speed": 120,
+          "rate_fix_sub": 2,
+          "rate_fix_disp": 2,
+          "unit_group_id": "UNIT_GROUP_209"
+        },
+        {
+          "priority": 4,
+          "add_exp_speed": 110,
+          "rate_fix_sub": 1,
+          "rate_fix_disp": 3,
+          "unit_group_id": "UNIT_GROUP_210"
+        }
+      ]
+    },
+    {
+      "iname": "BONUS_054",
+      "bonuses": [
+        {
+          "priority": 1,
+          "add_exp_speed": 150,
+          "rate_fix_sub": 10,
+          "rate_fix_disp": 0,
+          "unit_group_id": "UNIT_GROUP_211"
+        },
+        {
+          "priority": 2,
+          "add_exp_speed": 130,
+          "rate_fix_sub": 5,
+          "rate_fix_disp": 1,
+          "unit_group_id": "UNIT_GROUP_212"
+        },
+        {
+          "priority": 3,
+          "add_exp_speed": 120,
+          "rate_fix_sub": 2,
+          "rate_fix_disp": 2,
+          "unit_group_id": "UNIT_GROUP_213"
+        },
+        {
+          "priority": 4,
+          "add_exp_speed": 110,
+          "rate_fix_sub": 1,
+          "rate_fix_disp": 3,
+          "unit_group_id": "UNIT_GROUP_214"
+        }
+      ]
+    },
+    {
+      "iname": "BONUS_055",
+      "bonuses": [
+        {
+          "priority": 1,
+          "add_exp_speed": 150,
+          "rate_fix_sub": 10,
+          "rate_fix_disp": 0,
+          "unit_group_id": "UNIT_GROUP_215"
+        },
+        {
+          "priority": 2,
+          "add_exp_speed": 130,
+          "rate_fix_sub": 5,
+          "rate_fix_disp": 1,
+          "unit_group_id": "UNIT_GROUP_216"
+        },
+        {
+          "priority": 3,
+          "add_exp_speed": 120,
+          "rate_fix_sub": 2,
+          "rate_fix_disp": 2,
+          "unit_group_id": "UNIT_GROUP_217"
+        },
+        {
+          "priority": 4,
+          "add_exp_speed": 110,
+          "rate_fix_sub": 1,
+          "rate_fix_disp": 3,
+          "unit_group_id": "UNIT_GROUP_218"
+        }
+      ]
+    },
+    {
+      "iname": "BONUS_056",
+      "bonuses": [
+        {
+          "priority": 1,
+          "add_exp_speed": 150,
+          "rate_fix_sub": 10,
+          "rate_fix_disp": 0,
+          "unit_group_id": "UNIT_GROUP_219"
+        },
+        {
+          "priority": 2,
+          "add_exp_speed": 130,
+          "rate_fix_sub": 5,
+          "rate_fix_disp": 1,
+          "unit_group_id": "UNIT_GROUP_220"
+        },
+        {
+          "priority": 3,
+          "add_exp_speed": 120,
+          "rate_fix_sub": 2,
+          "rate_fix_disp": 2,
+          "unit_group_id": "UNIT_GROUP_221"
+        },
+        {
+          "priority": 4,
+          "add_exp_speed": 110,
+          "rate_fix_sub": 1,
+          "rate_fix_disp": 3,
+          "unit_group_id": "UNIT_GROUP_222"
+        }
+      ]
     }
   ]
 }

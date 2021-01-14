@@ -95,6 +95,38 @@
     {
       "key": "CM_PRO_010_1",
       "value": "FFIV Challenge Mission Part II No. 1"
+    },
+    {
+      "key": "CM_PRO_GL_RAMD_01_1",
+      "value": "Ramada (Winter) Release Celebration Training Challenge Missions"
+    },
+    {
+      "key": "CM_PRO_GL_MACR_01_1",
+      "value": "Machérie (Winter) Release Celebration Training Challenge Missions"
+    },
+    {
+      "key": "CM_PRO_GL_WINT_2020_1",
+      "value": "Holy Night's Visitor, Winter Moogle Challenge Missions"
+    },
+    {
+      "key": "CM_PRO_GL_DEAN_1",
+      "value": "Duane Release Celebration Training Challenge Missions"
+    },
+    {
+      "key": "CM_PRO_GL_LATH_1",
+      "value": "Luartha Release Celebration Training Challenge Missions"
+    },
+    {
+      "key": "CM_PRO_GL_NIVL_1",
+      "value": "Niv'Lu Release Celebration Training Challenge Missions"
+    },
+    {
+      "key": "CM_PRO_008_1",
+      "value": "FFXIV Challenge Mission No. 1"
+    },
+    {
+      "key": "CM_PRO_008_2",
+      "value": "FFXIV Challenge Mission No. 2"
     }
   ]
 }

@@ -1485,6 +1485,126 @@
       "value": "Fierce Trust"
     },
     {
+      "key": "QE_ST_01100301",
+      "value": "A Father's Choice"
+    },
+    {
+      "key": "QE_ST_01100302",
+      "value": "Secret Passage I"
+    },
+    {
+      "key": "QE_ST_01100303",
+      "value": "Secret Passage II"
+    },
+    {
+      "key": "QE_ST_01100304",
+      "value": "Conditions"
+    },
+    {
+      "key": "QE_ST_01100305",
+      "value": "Make Your Decision"
+    },
+    {
+      "key": "QE_ST_01100306",
+      "value": "Disgrace and Hatred"
+    },
+    {
+      "key": "QE_ST_01100307",
+      "value": "Dario Hourne"
+    },
+    {
+      "key": "QE_ST_01100308",
+      "value": "Apprehension"
+    },
+    {
+      "key": "QE_ST_01100309",
+      "value": "Secret Passage III"
+    },
+    {
+      "key": "QE_ST_01100310",
+      "value": "Destiny"
+    },
+    {
+      "key": "QE_ST_01110101",
+      "value": "Voiceless Answer"
+    },
+    {
+      "key": "QE_ST_01110102",
+      "value": "Yet I Will Take the Field I"
+    },
+    {
+      "key": "QE_ST_01110103",
+      "value": "Yet I Will Take the Field II"
+    },
+    {
+      "key": "QE_ST_01110104",
+      "value": "The Odds Aren't Null"
+    },
+    {
+      "key": "QE_ST_01110105",
+      "value": "Assault I"
+    },
+    {
+      "key": "QE_ST_01110106",
+      "value": "Assault II"
+    },
+    {
+      "key": "QE_ST_01110107",
+      "value": "The Last Trick"
+    },
+    {
+      "key": "QE_ST_01110108",
+      "value": "Proof I"
+    },
+    {
+      "key": "QE_ST_01110109",
+      "value": "Proof II"
+    },
+    {
+      "key": "QE_ST_01110110",
+      "value": "Uprising"
+    },
+    {
+      "key": "QE_ST_01110201",
+      "value": "Want to Live I"
+    },
+    {
+      "key": "QE_ST_01110202",
+      "value": "Want to Live II"
+    },
+    {
+      "key": "QE_ST_01110203",
+      "value": "Want to Live III"
+    },
+    {
+      "key": "QE_ST_01110204",
+      "value": "Truth"
+    },
+    {
+      "key": "QE_ST_01110205",
+      "value": "Those Without Allegiances"
+    },
+    {
+      "key": "QE_ST_01110206",
+      "value": "Searching I"
+    },
+    {
+      "key": "QE_ST_01110207",
+      "value": "Searching II"
+    },
+    {
+      "key": "QE_ST_01110208",
+      "value": "Dungeon"
+    },
+    {
+      "key": "QE_ST_01110209",
+      "value": "Reinforcements"
+    },
+    {
+      "key": "QE_ST_01110210",
+      "value": "The Power of Love"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Shard Quest: Zazan"
     },
@@ -1757,6 +1877,22 @@
       "value": "Shard Quest: Chel"
     },
     {
+      "key": "QE_HA_LW_LATH",
+      "value": "Shard Quest: Luartha"
+    },
+    {
+      "key": "QE_HA_LW_TITU",
+      "value": "Shard Quest: Tyytas"
+    },
+    {
+      "key": "QE_HA_LW_NIVL",
+      "value": "Shard Quest: Niv'Lu"
+    },
+    {
+      "key": "QE_HA_LW_RVAL",
+      "value": "Shard Quest: Livialle"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "Zazan"
     },
@@ -2017,6 +2153,10 @@
       "value": "Thancred"
     },
     {
+      "key": "QE_CH_FF14_TNCR2",
+      "value": "Thancred (2)"
+    },
+    {
       "key": "QE_CH_FFT_RAMZ",
       "value": "Ramza"
     },
@@ -2101,6 +2241,42 @@
       "value": "Rosa"
     },
     {
+      "key": "QE_CH_LW_RAMD_01",
+      "value": "Ramada (Winter)"
+    },
+    {
+      "key": "QE_CH_GL_LW_RAMD_01_2",
+      "value": "Ramada (Winter)"
+    },
+    {
+      "key": "QE_CH_LW_MA_01",
+      "value": "Machérie (Winter)"
+    },
+    {
+      "key": "QE_CH_GL_LW_MA_01_2",
+      "value": "Machérie (Winter)"
+    },
+    {
+      "key": "QE_CH_LW_LATH",
+      "value": "Luartha"
+    },
+    {
+      "key": "QE_CH_LW_TITU",
+      "value": "Tyytas"
+    },
+    {
+      "key": "QE_CH_GL_LW_DEAN",
+      "value": "Duane"
+    },
+    {
+      "key": "QE_CH_LW_NIVL",
+      "value": "Niv'Lu"
+    },
+    {
+      "key": "QE_CH_LW_RVAL",
+      "value": "Livialle"
+    },
+    {
       "key": "QE_EV_GL_CDOWN_01_9",
       "value": "Countdown Quest"
     },
@@ -2167,6 +2343,10 @@
     {
       "key": "QE_EV_GL_TWCQ_DAR",
       "value": "Porcelain Tower Launch Celebration Quest (Dark)"
+    },
+    {
+      "key": "QE_EV_NY2020",
+      "value": "New Year's Gift Quest"
     },
     {
       "key": "QE_PT_001_01",
@@ -2318,39 +2498,47 @@
     },
     {
       "key": "QE_EV_FF14_01",
-      "value": ""
+      "value": "FINAL FANTASY XIV: Shadowbringers Battle #1"
     },
     {
       "key": "QE_EV_FF14_02",
-      "value": ""
+      "value": "FINAL FANTASY XIV: Shadowbringers Battle #2"
     },
     {
       "key": "QE_EV_FF14_03",
-      "value": ""
+      "value": "FINAL FANTASY XIV: Shadowbringers Battle #3"
     },
     {
       "key": "QE_EV_FF14_04",
-      "value": ""
+      "value": "FINAL FANTASY XIV: Shadowbringers Battle #4"
     },
     {
       "key": "QE_EV_FF14_05",
-      "value": ""
+      "value": "FINAL FANTASY XIV: Shadowbringers Battle #5"
     },
     {
       "key": "QE_EV_FF14_RD01",
-      "value": ""
-    },
-    {
-      "key": "QE_EV_FF14_EX1",
-      "value": ""
-    },
-    {
-      "key": "QE_EV_FF14_Ex2",
-      "value": ""
+      "value": "FINAL FANTASY XIV: Shadowbringers [Conquest] Lv. 1"
     },
     {
       "key": "QE_EV_FF14_RD02",
-      "value": ""
+      "value": "FINAL FANTASY XIV: Shadowbringers [Conquest] Lv. 10"
+    },
+    {
+      "key": "QE_EV_FF14_EX1",
+      "value": "FINAL FANTASY XIV: Shadowbringers [EX1]"
+    },
+    {
+      "key": "QE_EV_FF14_Ex2",
+      "value": "FINAL FANTASY XIV: Shadowbringers [EX2]"
+    },
+    {
+      "key": "QE_EV_FF14_Ex3",
+      "value": "FINAL FANTASY XIV: Shadowbringers [EX3]"
+    },
+    {
+      "key": "QE_MU_FF14_Ex3",
+      "value": "FINAL FANTASY XIV: Shadowbringers [EX3]"
     },
     {
       "key": "QE_EV_FFT02_01",
@@ -2571,6 +2759,14 @@
     {
       "key": "QE_SB_OCHU_03",
       "value": "Brutal Difficulty Ochu Challenge"
+    },
+    {
+      "key": "QE_SB_SHIV_02",
+      "value": "High Difficulty Shiva Challenge"
+    },
+    {
+      "key": "QE_SB_SHIV_03",
+      "value": "Brutal Difficulty Shiva Challenge"
     },
     {
       "key": "QE_EV_GL_1M_WIN",
@@ -2921,6 +3117,62 @@
       "value": "A Damsel in Distress [EX]"
     },
     {
+      "key": "QE_EV_07_01",
+      "value": "Ep. 1: Village in Flames"
+    },
+    {
+      "key": "QE_EV_07_02",
+      "value": "Ep. 2: Shadow"
+    },
+    {
+      "key": "QE_EV_07_03",
+      "value": "Ep. 3: Pursuit"
+    },
+    {
+      "key": "QE_EV_07_04",
+      "value": "Ep. 4: To Gouga I"
+    },
+    {
+      "key": "QE_EV_07_05",
+      "value": "Ep. 5: To Gouga II"
+    },
+    {
+      "key": "QE_EV_07_06",
+      "value": "Ep. 6: Gravestone"
+    },
+    {
+      "key": "QE_EV_07_07",
+      "value": "Ep. 7: Decisive Battle I"
+    },
+    {
+      "key": "QE_EV_07_08",
+      "value": "Ep. 8: Decisive Battle II"
+    },
+    {
+      "key": "QE_EV_07_09",
+      "value": "Ep. 9: Two Powers"
+    },
+    {
+      "key": "QE_EV_07_10",
+      "value": "Ep. 10: The Fall of Saiga"
+    },
+    {
+      "key": "QE_EV_07_EX",
+      "value": "Gouga and Saiga: Part II [EX]"
+    },
+    {
+      "key": "QE_EV_07_EX_1",
+      "value": "Brutal Difficulty Gouga and Saiga: Part II [EX]"
+    },
+    {
+      "key": "QE_MU_EV_07_EX",
+      "value": "Gouga and Saiga: Part II [EX]"
+    },
+    {
+      "key": "QE_MU_EV_07_EX_1",
+      "value": "Brutal Difficulty Gouga and Saiga: Part II [EX]"
+    },
+    {
       "key": "QE_CHAL_01_01",
       "value": "[High Difficulty] Challenge Quest"
     },
@@ -3105,6 +3357,34 @@
       "value": "Equipment Training Quest (Platinum Rod)"
     },
     {
+      "key": "QE_EV_ART_CRF_13",
+      "value": "Equipment Training Quest (Healing Mace)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_14",
+      "value": "Equipment Training Quest (Ras Algethi)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_15",
+      "value": "Equipment Training Quest (Sasuke's Katana)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_10",
+      "value": "Brutal Difficulty Equipment Training Quest (Healing Mace)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_11",
+      "value": "Brutal Difficulty Equipment Training Quest (Ras Algethi)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_12",
+      "value": "Brutal Difficulty Equipment Training Quest (Sasuke's Katana)"
+    },
+    {
+      "key": "QE_MU_SHIV_04",
+      "value": "Brutal Difficulty Shiva Challenge"
+    },
+    {
       "key": "QE_MU_IFRT_04",
       "value": "Brutal Difficulty Ifrit Challenge"
     },
@@ -3201,6 +3481,30 @@
       "value": "Equipment Training Quest (Golden Axe)"
     },
     {
+      "key": "QE_MU_ART_CRF_13",
+      "value": "Equipment Training Quest (Healing Mace)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_14",
+      "value": "Equipment Training Quest (Ras Algethi)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_15",
+      "value": "Equipment Training Quest (Sasuke's Katana)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_10",
+      "value": "Brutal Difficulty Equipment Training Quest (Healing Mace)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_11",
+      "value": "Brutal Difficulty Equipment Training Quest (Ras Algethi)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_12",
+      "value": "Brutal Difficulty Equipment Training Quest (Sasuke's Katana)"
+    },
+    {
       "key": "QE_SB_IFRT_01",
       "value": "Ifrit Battle"
     },
@@ -3279,6 +3583,10 @@
     {
       "key": "QE_SB_CHCB_01",
       "value": "Chocobo Battle"
+    },
+    {
+      "key": "QE_SB_TNBR_01",
+      "value": "Tonberry Battle"
     },
     {
       "key": "QE_RAID_EV_06_01",
@@ -3371,6 +3679,42 @@
     {
       "key": "QE_RAID_EV_10_06",
       "value": "Tonberry Raid"
+    },
+    {
+      "key": "QE_RAID_EV_11_01",
+      "value": "FFXIV: Shadowbringers Collaborative Raid"
+    },
+    {
+      "key": "QE_RAID_EV_11_02",
+      "value": "FFXIV: Shadowbringers Collaborative Raid"
+    },
+    {
+      "key": "QE_RAID_EV_11_03",
+      "value": "FFXIV: Shadowbringers Collaborative Raid"
+    },
+    {
+      "key": "QE_RAID_EV_12_01",
+      "value": "Two-Headed Dragon Raid"
+    },
+    {
+      "key": "QE_RAID_EV_12_02",
+      "value": "Two-Headed Dragon Raid"
+    },
+    {
+      "key": "QE_RAID_EV_12_03",
+      "value": "Two-Headed Dragon Raid"
+    },
+    {
+      "key": "QE_RAID_EV_12_04",
+      "value": "Flan Princess Raid"
+    },
+    {
+      "key": "QE_RAID_EV_12_05",
+      "value": "Flan Princess Raid"
+    },
+    {
+      "key": "QE_RAID_EV_12_06",
+      "value": "Flan Princess Raid"
     },
     {
       "key": "QE_MU_AW_FIRE_01",
@@ -3717,12 +4061,20 @@
       "value": "Plains"
     },
     {
+      "key": "QE_GVG_00009",
+      "value": "Fortress"
+    },
+    {
       "key": "QE_GVG_00010",
       "value": "Graveyard"
     },
     {
       "key": "QE_GVG_GL_00001",
       "value": "Ancient Ruins"
+    },
+    {
+      "key": "QE_GVG_GL_00002",
+      "value": "Snowy Mountains"
     },
     {
       "key": "QE_PVP_FRE_0001",
@@ -3783,6 +4135,50 @@
     {
       "key": "QE_TEST_FOR",
       "value": "Debug"
+    },
+    {
+      "key": "QE_K_SB_IGNT_02",
+      "value": "High Difficulty Iron Giant Challenge"
+    },
+    {
+      "key": "QE_K_SB_IGNT_03",
+      "value": "Brutal Difficulty Iron Giant Challenge"
+    },
+    {
+      "key": "QE_K_SB_CSLI_02",
+      "value": "High Difficulty Chocolate Flan Challenge"
+    },
+    {
+      "key": "QE_K_SB_CSLI_03",
+      "value": "Brutal Difficulty Chocolate Flan Challenge"
+    },
+    {
+      "key": "QE_K_SB_OCHU_02",
+      "value": "High Difficulty Ochu Challenge"
+    },
+    {
+      "key": "QE_K_SB_OCHU_03",
+      "value": "Brutal Difficulty Ochu Challenge"
+    },
+    {
+      "key": "QE_K_SB_IFRT_02",
+      "value": "High Difficulty Ifrit Challenge"
+    },
+    {
+      "key": "QE_K_SB_IFRT_03",
+      "value": "Brutal Difficulty Ifrit Challenge"
+    },
+    {
+      "key": "QE_K_SB_FNRR_02",
+      "value": "High Difficulty Fenrir Challenge"
+    },
+    {
+      "key": "QE_K_SB_FNRR_03",
+      "value": "Brutal Difficulty Fenrir Challenge"
+    },
+    {
+      "key": "QE_SB_LVAT_01",
+      "value": "Leviathan Battle"
     }
   ]
 }

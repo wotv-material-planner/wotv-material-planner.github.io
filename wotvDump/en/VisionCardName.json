@@ -121,6 +121,34 @@
       "value": "Demon Wall"
     },
     {
+      "key": "VC_LW_XMAS",
+      "value": "Winter Holiday Party"
+    },
+    {
+      "key": "VC_LW_LUCA",
+      "value": "New Test Subjects"
+    },
+    {
+      "key": "VC_LW_DEAN",
+      "value": "Irresistible Darkness"
+    },
+    {
+      "key": "VC_LW_GRSR2",
+      "value": "Downtime"
+    },
+    {
+      "key": "VC_LW_SCAL",
+      "value": "Blossoms in the Dark"
+    },
+    {
+      "key": "VC_FF14_MV3",
+      "value": "Bringers of Shadow"
+    },
+    {
+      "key": "VC_LW_LVAT",
+      "value": "Divine Maelstrom, Leviathan"
+    },
+    {
       "key": "VC_LW_IGNT",
       "value": "Metal Daemon, Iron Giant"
     },
@@ -231,6 +259,22 @@
     {
       "key": "VC_LW_CHCB",
       "value": "Beloved Sidekick, Chocobo"
+    },
+    {
+      "key": "VC_LW_MOGL",
+      "value": "Holy Night's Visitor, Winter Moogle"
+    },
+    {
+      "key": "VC_LW_FIGHT",
+      "value": "Fated Clash"
+    },
+    {
+      "key": "VC_LW_TNBR",
+      "value": "Grudge-Filled Lantern, Tonberry"
+    },
+    {
+      "key": "VC_LW_ASSASIN",
+      "value": "Sanctum Assassins"
     },
     {
       "key": "VC_LW_CACT",

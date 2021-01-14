@@ -111,6 +111,69 @@
       "end_at": "2020/11/15 4:59:59"
     },
     {
+      "iname": "CM_PRO_030",
+      "priority": 1,
+      "banner": "ChallengeTab_Unit_06",
+      "begin_at": "2021/01/01",
+      "end_at": "2021/01/15 9:59:59"
+    },
+    {
+      "iname": "CM_PRO_031",
+      "priority": 1,
+      "banner": "ChallengeTab_c210112_01",
+      "begin_at": "2021/01/01",
+      "end_at": "2021/01/15 9:59:59"
+    },
+    {
+      "iname": "CM_PRO_027",
+      "priority": 1,
+      "banner": "ChallengeTab_NIER_01",
+      "begin_at": "2020/12/23 14:30:00",
+      "end_at": "2021/01/15 9:59:59"
+    },
+    {
+      "iname": "CM_PRO_028",
+      "priority": 1,
+      "banner": "ChallengeTab_nier_03",
+      "begin_at": "2020/12/23 14:30:00",
+      "end_at": "2021/01/15 9:59:59"
+    },
+    {
+      "iname": "CM_PRO_029",
+      "priority": 1,
+      "banner": "ChallengeTab_nier_04",
+      "begin_at": "2020/12/23 14:30:00",
+      "end_at": "2021/01/15 9:59:59"
+    },
+    {
+      "iname": "CM_PRO_025",
+      "priority": 1,
+      "banner": "ChallengeTab_Unit_05",
+      "begin_at": "2020/12/16 10:30:00",
+      "end_at": "2020/12/31 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_026",
+      "priority": 1,
+      "banner": "ChallengeTab_c201216",
+      "begin_at": "2020/12/16 10:30:00",
+      "end_at": "2020/12/23 14:59:59"
+    },
+    {
+      "iname": "CM_PRO_024",
+      "priority": 1,
+      "banner": "ChallengeTab_c201214_01",
+      "begin_at": "2020/12/09 14:30:00",
+      "end_at": "2020/12/23 14:59:59"
+    },
+    {
+      "iname": "CM_PRO_023",
+      "priority": 1,
+      "banner": "ChallengeTab_Unit_04",
+      "begin_at": "2020/12/01",
+      "end_at": "2020/12/16 9:59:59"
+    },
+    {
       "iname": "CM_PRO_017",
       "priority": 1,
       "banner": "ChallengeTab_FF10_01",

@@ -815,6 +815,90 @@
       "daily_reward": "ARENA_DREWARD_002",
       "weekly_reward": "ARENA_WREWARD_015",
       "npc_grp_id": "ARENA_NPCGRP01"
+    },
+    {
+      "iname": "ARENA_GL_20201214",
+      "begin_at": "2020/12/14  0:00:00",
+      "end_at": "2020/12/20  23:59:59",
+      "quest_id": "QE_ARENA_00008",
+      "thumbnail": "MapIcon_0014",
+      "bonus_unit": "ARENA_GL_BU_00037",
+      "join_reward": "ARENA_JREWARD_001",
+      "daily_reward": "ARENA_DREWARD_002",
+      "weekly_reward": "ARENA_WREWARD_016",
+      "npc_grp_id": "ARENA_NPCGRP01"
+    },
+    {
+      "iname": "ARENA_GL_20201221",
+      "begin_at": "2020/12/21 0:00:00",
+      "end_at": "2020/12/27 23:59:59",
+      "quest_id": "QE_ARENA_00008",
+      "thumbnail": "MapIcon_0014",
+      "bonus_unit": "ARENA_GL_BU_00038",
+      "join_reward": "ARENA_JREWARD_001",
+      "daily_reward": "ARENA_DREWARD_002",
+      "weekly_reward": "ARENA_WREWARD_017",
+      "npc_grp_id": "ARENA_NPCGRP01"
+    },
+    {
+      "iname": "ARENA_GL_20201228",
+      "begin_at": "2020/12/28 0:00:00",
+      "end_at": "2021/01/03 23:59:59",
+      "quest_id": "QE_ARENA_00008",
+      "thumbnail": "MapIcon_0014",
+      "bonus_unit": "ARENA_GL_BU_00039",
+      "join_reward": "ARENA_JREWARD_001",
+      "daily_reward": "ARENA_DREWARD_002",
+      "weekly_reward": "ARENA_WREWARD_018",
+      "npc_grp_id": "ARENA_NPCGRP01"
+    },
+    {
+      "iname": "ARENA_GL_20210104",
+      "begin_at": "2021/01/04 0:00:00",
+      "end_at": "2021/01/10 23:59:59",
+      "quest_id": "QE_ARENA_00008",
+      "thumbnail": "MapIcon_0014",
+      "bonus_unit": "ARENA_GL_BU_00040",
+      "join_reward": "ARENA_JREWARD_001",
+      "daily_reward": "ARENA_DREWARD_002",
+      "weekly_reward": "ARENA_WREWARD_011",
+      "npc_grp_id": "ARENA_NPCGRP01"
+    },
+    {
+      "iname": "ARENA_GL_20210111",
+      "begin_at": "2021/01/11 0:00:00",
+      "end_at": "2021/01/17 23:59:59",
+      "quest_id": "QE_ARENA_00008",
+      "thumbnail": "MapIcon_0014",
+      "bonus_unit": "ARENA_GL_BU_00041",
+      "join_reward": "ARENA_JREWARD_001",
+      "daily_reward": "ARENA_DREWARD_002",
+      "weekly_reward": "ARENA_WREWARD_012",
+      "npc_grp_id": "ARENA_NPCGRP01"
+    },
+    {
+      "iname": "ARENA_GL_20210118",
+      "begin_at": "2021/01/18 0:00:00",
+      "end_at": "2021/01/24 23:59:59",
+      "quest_id": "QE_ARENA_00008",
+      "thumbnail": "MapIcon_0014",
+      "bonus_unit": "ARENA_GL_BU_00042",
+      "join_reward": "ARENA_JREWARD_001",
+      "daily_reward": "ARENA_DREWARD_002",
+      "weekly_reward": "ARENA_WREWARD_013",
+      "npc_grp_id": "ARENA_NPCGRP01"
+    },
+    {
+      "iname": "ARENA_GL_20210125",
+      "begin_at": "2021/01/25 0:00:00",
+      "end_at": "2021/01/31 23:59:59",
+      "quest_id": "QE_ARENA_00008",
+      "thumbnail": "MapIcon_0014",
+      "bonus_unit": "ARENA_GL_BU_00043",
+      "join_reward": "ARENA_JREWARD_001",
+      "daily_reward": "ARENA_DREWARD_002",
+      "weekly_reward": "ARENA_WREWARD_014",
+      "npc_grp_id": "ARENA_NPCGRP01"
     }
   ]
 }

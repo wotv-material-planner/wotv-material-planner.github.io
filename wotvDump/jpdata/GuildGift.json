@@ -4,7 +4,10 @@
       "id": "GG_DEFAULT",
       "type": 0,
       "iname": "IT_EC_GUILD",
-      "num": 1
+      "num": 1,
+      "cp_num": 3,
+      "cp_begin_at": "2021/01/01 5:00:00",
+      "cp_end_at": "2021/01/16 4:59:59"
     },
     {
       "id": "GG_CONST_01",
@@ -123,6 +126,14 @@
       "num": 3,
       "begin_at": "2020/11/14 5:00:00",
       "end_at": "2020/11/25 4:59:59"
+    },
+    {
+      "id": "GG_LIMIT_0015",
+      "type": 0,
+      "iname": "IT_EC_GUILD",
+      "num": 2,
+      "begin_at": "2020/12/10 5:00:00",
+      "end_at": "2020/12/17 4:59:59"
     }
   ]
 }

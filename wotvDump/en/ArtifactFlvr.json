@@ -1697,8 +1697,8 @@
       "value": "An armlet with a red gemstone in the center. It is said that the gem contains the wisdom of a great thief and that just wearing it increases one's chances of pulling off a successful theft."
     },
     {
-      "key": "AF_LW_CLK_001",
-      "value": "It is said that all elves wear this cloak when embarking on a journey. Made with magic unique to the elves, it both conceals the wearer's presence and protects them from attacks. It also has heat-retaining properties, making it useful as a blanket when sleeping outdoors."
+      "key": "AF_LW_SHI_004",
+      "value": ""
     },
     {
       "key": "AF_LW_ACC_001",
@@ -1909,8 +1909,16 @@
       "value": "Nasha's sword, which bears a beautiful crimson design upon the blade. When she decided to depart her home village, her parents entrusted her with this family heirloom. Though she wants to use a longsword like Sterne, she lacks the physical strength, and so she reluctantly continues to use this one."
     },
     {
+      "key": "AF_CLT_LW_RAMD_01_1",
+      "value": "A large hair ornament fashioned to resemble reindeer antlers. Made from the hardwood of an ancient holy tree found deep within a sprawling forest, it is hard enough to run through several ironclad knights with ease. Even so, it will never be used in battle, as Ramada has taken quite a liking to it."
+    },
+    {
       "key": "AF_ACC_LW_ETRE_1",
       "value": "A badge worn by monks of legend. It is said that by wearing this badge, one's opponents become gripped with fear to the point of trembling—though in actuality, Etre thought this would be a good story to tell and came up with it during her travels."
+    },
+    {
+      "key": "AF_ACC_LW_MACR_01_1",
+      "value": "A ribbon affixed with a holy bell. The bell, which has been purified in holy water, resounds with a tone that bestows blessings upon the living and brings respite to the souls of the deceased. Yet no such graces will be awarded to those who have made an enemy of its wearer—only decimation. The sound of the bell terrifies enemies on the precipice of battle, and it remains etched in their minds long after they have been handed their defeat."
     },
     {
       "key": "AF_ARM_FFT_RAMZ_1",
@@ -2065,6 +2073,22 @@
       "value": "The helm of a dragoon, said to have been found in the ruins on the moon of a distant world. Kain wears this helm at all times, perhaps having sworn never to remove it until peace returns to the world he calls home."
     },
     {
+      "key": "AF_SWO_LW_TITU_1",
+      "value": "Forged by a prominent swordsmith who also happens to be a friend of Tyytas's father. A curious blade designed more so to protect its wielder than to defeat their enemies. Extremely complementary of his stoic nature, Tyytas sees the blade as something akin to another version of himself."
+    },
+    {
+      "key": "AF_HLM_LW_DEAN_1",
+      "value": "The helm worn by Duane. Standard-issue equipment of the knightly order he belonged to, beautifully adorned in a manner befitting of one who defends his nation. It is now devoid of the glimmer it once bore, much like the remorse-filled eyes of its wearer."
+    },
+    {
+      "key": "AF_ACC_LW_NIVL_1",
+      "value": "An archer's mask handed down among the nomadic V Clan. It is extremely tight when worn, such that even simply standing up would be difficult for an ordinary person, but Niv'Lu, on the contrary, is not only unfazed but also experiences a rise in concentration, claiming that prey appears frozen in time."
+    },
+    {
+      "key": "AF_ROD_LW_RVAL_1",
+      "value": "A staff designed for shinobi. It is the preferred staff of those studying black magic in Saiga. The staff used by Livialle is the same one the chieftain of Saiga, Skahal, used during his training, and it houses significantly more magic than other staves."
+    },
+    {
       "key": "AF_SWO_LW_MONT_2",
       "value": "A one-handed sword forged specifically for Mont by Leonis's dedicated blacksmith. Made upon Mont's request for a sword that would be easiest to handle, it looks to be little more than a well-loved training sword. Though others suggested a sword more royal in appearance, Mont himself is exceedingly pleased with it."
     },
@@ -2113,8 +2137,16 @@
       "value": ""
     },
     {
+      "key": "AF_BSW_LW_RAMD_01_2",
+      "value": "A greatsword made from the hardwood of an ancient holy tree found deep within a sprawling forest. Though made of wood, its unique processing protects it from both burning and rotting. It also boasts an extraordinarily powerful edge that is sturdier and sharper than steel. The slash unleashed from this greatsword, enveloped in the holy night's prayer, passes merciless judgement upon all evildoers."
+    },
+    {
       "key": "AF_LW_SHI_003",
       "value": ""
+    },
+    {
+      "key": "AF_SPE_LW_MACR_01_2",
+      "value": "A beautifully decorated, incredibly cute spear adorned with a ribbon. It is said that simply displaying it in one's home will banish evil spirits and bestow happiness. It is imbued with its creator's prayers for the fortune and happiness of humankind. However, when wielded on the battlefield, this spear transforms into a brutal weapon that deftly pierces evil beings and strikes a desperate fear into the hearts of those who oppose it."
     },
     {
       "key": "AF_SWO_FFT_RAMZ_2",
@@ -2223,6 +2255,18 @@
     {
       "key": "AF_ROD_FF4_GLBZ_2",
       "value": ""
+    },
+    {
+      "key": "AF_GUN_LW_LATH_2",
+      "value": "A broken gun incapable of holding a target in its sights, stolen from a group of arms dealers. Viktora gave it to Luartha in jest, but strangely enough, it always shoots true in her hands. Finding the gun to be most amusing, Luartha continues to use it to this day."
+    },
+    {
+      "key": "AF_SWO_LW_DEAN_2",
+      "value": "The sword Duane carries at his side. Once the standard-issue equipment of the knightly order he belonged to, the weapon is now stained black with the power of darkness. It is unknown whether it was named by those who know of his foul deeds or by guilt-tormented Duane himself in an act of self-punishment for his sins."
+    },
+    {
+      "key": "AF_BOW_LW_NIVL_2",
+      "value": "A bow with heavy draw weight capable of firing multiple arrows at once. The bowstring is strung unusually tight, such that even a fighter boasting superhuman strength would be unable to draw it. In order to use it, one must possess a command of the technique passed down among the V Clan in which lithe muscles throughout the entire body are used in concert like a coiled spring."
     },
     {
       "key": "AF_LW_RNG_005",
@@ -2447,6 +2491,150 @@
     {
       "key": "AF_FF4_BOW_000_5",
       "value": "A bow crafted by the faeries of the forest, capable of eliminating foes without inflicting any suffering. The faeries, throughout their hunts for daily sustenance, have infused the bow with gratitude for the boons of nature and prayers for the departing souls of their prey, and this is said to give rise to the bow's merciful qualities."
+    },
+    {
+      "key": "AF_LW_ACC_002",
+      "value": "A jewel of pure, condensed magic. A certain mage poured their life and soul into its creation, and it is rumored to be concealed in a village inhabited only by mages. Theories suggest that it can be used to exceed the limits of one's magic."
+    },
+    {
+      "key": "AF_LW_ACC_002_1",
+      "value": "A jewel of pure, condensed magic. A certain mage poured their life and soul into its creation, and it is rumored to be concealed in a village inhabited only by mages. Theories suggest that it can be used to exceed the limits of one's magic."
+    },
+    {
+      "key": "AF_LW_ACC_002_2",
+      "value": "A jewel of pure, condensed magic. A certain mage poured their life and soul into its creation, and it is rumored to be concealed in a village inhabited only by mages. Theories suggest that it can be used to exceed the limits of one's magic."
+    },
+    {
+      "key": "AF_LW_ACC_002_3",
+      "value": "A jewel of pure, condensed magic. A certain mage poured their life and soul into its creation, and it is rumored to be concealed in a village inhabited only by mages. Theories suggest that it can be used to exceed the limits of one's magic."
+    },
+    {
+      "key": "AF_LW_ACC_002_4",
+      "value": "A jewel of pure, condensed magic. A certain mage poured their life and soul into its creation, and it is rumored to be concealed in a village inhabited only by mages. Theories suggest that it can be used to exceed the limits of one's magic."
+    },
+    {
+      "key": "AF_LW_ACC_002_5",
+      "value": "A jewel of pure, condensed magic. A certain mage poured their life and soul into its creation, and it is rumored to be concealed in a village inhabited only by mages. Theories suggest that it can be used to exceed the limits of one's magic."
+    },
+    {
+      "key": "AF_LW_CLT_006",
+      "value": "A bewitchingly lustrous purple robe with a mysterious air about it. Tailored with enough cloth to cover the body from head to toe, donning this robe allows its wearer to hide in the shadows."
+    },
+    {
+      "key": "AF_LW_CLT_006_1",
+      "value": "A bewitchingly lustrous purple robe with a mysterious air about it. Tailored with enough cloth to cover the body from head to toe, donning this robe allows its wearer to hide in the shadows."
+    },
+    {
+      "key": "AF_LW_CLT_006_2",
+      "value": "A bewitchingly lustrous purple robe with a mysterious air about it. Tailored with enough cloth to cover the body from head to toe, donning this robe allows its wearer to hide in the shadows."
+    },
+    {
+      "key": "AF_LW_CLT_006_3",
+      "value": "A bewitchingly lustrous purple robe with a mysterious air about it. Tailored with enough cloth to cover the body from head to toe, donning this robe allows its wearer to hide in the shadows."
+    },
+    {
+      "key": "AF_LW_CLT_006_4",
+      "value": "A bewitchingly lustrous purple robe with a mysterious air about it. Tailored with enough cloth to cover the body from head to toe, donning this robe allows its wearer to hide in the shadows."
+    },
+    {
+      "key": "AF_LW_CLT_006_5",
+      "value": "A bewitchingly lustrous purple robe with a mysterious air about it. Tailored with enough cloth to cover the body from head to toe, donning this robe allows its wearer to hide in the shadows."
+    },
+    {
+      "key": "AF_LW_MAC_009",
+      "value": "A mace developed from a staff possessing healing powers and tailored for use by clerics. As a result of revisions made in not only the length of the handle but also in the design and material properties, it is able to store more magic than the Healing Staff. Though it requires some getting used to, it will allow the wielder to perform somewhat advanced healing magic."
+    },
+    {
+      "key": "AF_LW_MAC_009_1",
+      "value": "A mace developed from a staff possessing healing powers and tailored for use by clerics. As a result of revisions made in not only the length of the handle but also in the design and material properties, it is able to store more magic than the Healing Staff. Though it requires some getting used to, it will allow the wielder to perform somewhat advanced healing magic."
+    },
+    {
+      "key": "AF_LW_MAC_009_2",
+      "value": "A mace developed from a staff possessing healing powers and tailored for use by clerics. As a result of revisions made in not only the length of the handle but also in the design and material properties, it is able to store more magic than the Healing Staff. Though it requires some getting used to, it will allow the wielder to perform somewhat advanced healing magic."
+    },
+    {
+      "key": "AF_LW_MAC_009_3",
+      "value": "A mace developed from a staff possessing healing powers and tailored for use by clerics. As a result of revisions made in not only the length of the handle but also in the design and material properties, it is able to store more magic than the Healing Staff. Though it requires some getting used to, it will allow the wielder to perform somewhat advanced healing magic."
+    },
+    {
+      "key": "AF_LW_MAC_009_4",
+      "value": "A mace developed from a staff possessing healing powers and tailored for use by clerics. As a result of revisions made in not only the length of the handle but also in the design and material properties, it is able to store more magic than the Healing Staff. Though it requires some getting used to, it will allow the wielder to perform somewhat advanced healing magic."
+    },
+    {
+      "key": "AF_LW_MAC_009_5",
+      "value": "A mace developed from a staff possessing healing powers and tailored for use by clerics. As a result of revisions made in not only the length of the handle but also in the design and material properties, it is able to store more magic than the Healing Staff. Though it requires some getting used to, it will allow the wielder to perform somewhat advanced healing magic."
+    },
+    {
+      "key": "AF_LW_BOW_004",
+      "value": "A bow designed for and preferred by expert archers. As its name suggests, its incredible ability to kill instantaneously requires infallible accuracy, and it can prove highly dangerous in untrained hands. Accordingly, many regions have banned its use, though it is safe to say that those with the ability to use it deserve the title of true master."
+    },
+    {
+      "key": "AF_LW_BOW_004_1",
+      "value": "A bow designed for and preferred by expert archers. As its name suggests, its incredible ability to kill instantaneously requires infallible accuracy, and it can prove highly dangerous in untrained hands. Accordingly, many regions have banned its use, though it is safe to say that those with the ability to use it deserve the title of true master."
+    },
+    {
+      "key": "AF_LW_BOW_004_2",
+      "value": "A bow designed for and preferred by expert archers. As its name suggests, its incredible ability to kill instantaneously requires infallible accuracy, and it can prove highly dangerous in untrained hands. Accordingly, many regions have banned its use, though it is safe to say that those with the ability to use it deserve the title of true master."
+    },
+    {
+      "key": "AF_LW_BOW_004_3",
+      "value": "A bow designed for and preferred by expert archers. As its name suggests, its incredible ability to kill instantaneously requires infallible accuracy, and it can prove highly dangerous in untrained hands. Accordingly, many regions have banned its use, though it is safe to say that those with the ability to use it deserve the title of true master."
+    },
+    {
+      "key": "AF_LW_BOW_004_4",
+      "value": "A bow designed for and preferred by expert archers. As its name suggests, its incredible ability to kill instantaneously requires infallible accuracy, and it can prove highly dangerous in untrained hands. Accordingly, many regions have banned its use, though it is safe to say that those with the ability to use it deserve the title of true master."
+    },
+    {
+      "key": "AF_LW_BOW_004_5",
+      "value": "A bow designed for and preferred by expert archers. As its name suggests, its incredible ability to kill instantaneously requires infallible accuracy, and it can prove highly dangerous in untrained hands. Accordingly, many regions have banned its use, though it is safe to say that those with the ability to use it deserve the title of true master."
+    },
+    {
+      "key": "AF_FF14_ARW_001",
+      "value": "This jet-black gauntlet is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said to have been bestowed upon a hero known as the Warrior of Darkness, who fought to restore the dark of night to a world consumed by light."
+    },
+    {
+      "key": "AF_FF14_ARW_001_1",
+      "value": "This jet-black gauntlet is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said to have been bestowed upon a hero known as the Warrior of Darkness, who fought to restore the dark of night to a world consumed by light."
+    },
+    {
+      "key": "AF_FF14_ARW_001_2",
+      "value": "This jet-black gauntlet is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said to have been bestowed upon a hero known as the Warrior of Darkness, who fought to restore the dark of night to a world consumed by light."
+    },
+    {
+      "key": "AF_FF14_ARW_001_3",
+      "value": "This jet-black gauntlet is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said to have been bestowed upon a hero known as the Warrior of Darkness, who fought to restore the dark of night to a world consumed by light."
+    },
+    {
+      "key": "AF_FF14_ARW_001_4",
+      "value": "This jet-black gauntlet is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said to have been bestowed upon a hero known as the Warrior of Darkness, who fought to restore the dark of night to a world consumed by light."
+    },
+    {
+      "key": "AF_FF14_ARW_001_5",
+      "value": "This jet-black gauntlet is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said to have been bestowed upon a hero known as the Warrior of Darkness, who fought to restore the dark of night to a world consumed by light."
+    },
+    {
+      "key": "AF_FF14_HLM_001",
+      "value": "This jet-black helm is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said that by having a glimpse of a crystal in the possession of a certain hero, Grenoldt was able to come up with and complete a brand new concept."
+    },
+    {
+      "key": "AF_FF14_HLM_001_1",
+      "value": "This jet-black helm is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said that by having a glimpse of a crystal in the possession of a certain hero, Grenoldt was able to come up with and complete a brand new concept."
+    },
+    {
+      "key": "AF_FF14_HLM_001_2",
+      "value": "This jet-black helm is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said that by having a glimpse of a crystal in the possession of a certain hero, Grenoldt was able to come up with and complete a brand new concept."
+    },
+    {
+      "key": "AF_FF14_HLM_001_3",
+      "value": "This jet-black helm is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said that by having a glimpse of a crystal in the possession of a certain hero, Grenoldt was able to come up with and complete a brand new concept."
+    },
+    {
+      "key": "AF_FF14_HLM_001_4",
+      "value": "This jet-black helm is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said that by having a glimpse of a crystal in the possession of a certain hero, Grenoldt was able to come up with and complete a brand new concept."
+    },
+    {
+      "key": "AF_FF14_HLM_001_5",
+      "value": "This jet-black helm is an Artifact Armor piece created by the craftsman Grenoldt who dwells in an atelier at the bottom of the sea in a distant world. It is said that by having a glimpse of a crystal in the possession of a certain hero, Grenoldt was able to come up with and complete a brand new concept."
     }
   ]
 }

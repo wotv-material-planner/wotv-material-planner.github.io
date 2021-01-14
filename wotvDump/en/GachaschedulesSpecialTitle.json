@@ -2077,6 +2077,566 @@
       "value": ""
     },
     {
+      "key": "1only-gacha_gl20201202_10_1",
+      "value": "Bonus-Included 10x Summon"
+    },
+    {
+      "key": "1only-gacha_gl20201202_10_2",
+      "value": "Bonus-Included 10x Summon"
+    },
+    {
+      "key": "1only-gacha_gl20201202_10_3",
+      "value": "Bonus-Included 10x Summon"
+    },
+    {
+      "key": "1only-gacha_gl20201202_10_4",
+      "value": "Bonus-Included 10x Summon"
+    },
+    {
+      "key": "1only-gacha_gl20201202_10_5",
+      "value": "Bonus-Included 10x Summon"
+    },
+    {
+      "key": "1only-gacha_gl20201202_10_6",
+      "value": "Bonus-Included 10x Summon"
+    },
+    {
+      "key": "1only-gacha_gl20201202_10_7",
+      "value": "Bonus-Included 10x Summon"
+    },
+    {
+      "key": "gacha_gl20201209_RAMD_01",
+      "value": "Winter Festivities Summon — Ramada (Winter)"
+    },
+    {
+      "key": "gacha_gl20201209_RAMD_10",
+      "value": "Winter Festivities 10x Summon — Ramada (Winter)"
+    },
+    {
+      "key": "gacha_gl20201209_MACR_01",
+      "value": "Winter Festivities Summon — Machérie (Winter)"
+    },
+    {
+      "key": "gacha_gl20201209_MACR_10",
+      "value": "Winter Festivities 10x Summon — Machérie (Winter)"
+    },
+    {
+      "key": "3step-gacha_gl20201209_10_step3",
+      "value": "Step Up 10x Summon Step 3"
+    },
+    {
+      "key": "3step-gacha_gl20201209_10_step2",
+      "value": "Step Up 10x Summon Step 2"
+    },
+    {
+      "key": "3step-gacha_gl20201209_10_step1",
+      "value": "Step Up 10x Summon Step 1"
+    },
+    {
+      "key": "3step-gacha_gl20201209_10",
+      "value": ""
+    },
+    {
+      "key": "5step-gacha_gl20201209_10_step5",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20201209_10_step4",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20201209_10_step3",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20201209_10_step2",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20201209_10_step1",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20201209_10",
+      "value": ""
+    },
+    {
+      "key": "2step-gacha_gl20201209_10_step2",
+      "value": "2-Step 10x Summon Step 2"
+    },
+    {
+      "key": "2step-gacha_gl20201209_10_step1",
+      "value": "2-Step 10x Summon Step 1"
+    },
+    {
+      "key": "2step-gacha_gl20201209_10",
+      "value": ""
+    },
+    {
+      "key": "new-gacha_gl20201216_01",
+      "value": "Featured New Vision Card Summon"
+    },
+    {
+      "key": "new-gacha_gl20201216_10",
+      "value": "Featured New Vision Card 10x Summon"
+    },
+    {
+      "key": "5step-gacha_gl20201216_10_step5",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20201216_10_step4",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20201216_10_step3",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20201216_10_step2",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20201216_10_step1",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20201216_10",
+      "value": ""
+    },
+    {
+      "key": "2step-gacha_gl20201216_10_step2",
+      "value": "2-Step 10x Summon Step 2"
+    },
+    {
+      "key": "2step-gacha_gl20201216_10_step1",
+      "value": "2-Step 10x Summon Step 1"
+    },
+    {
+      "key": "2step-gacha_gl20201216_10",
+      "value": ""
+    },
+    {
+      "key": "gacha_gl20201216_01",
+      "value": "Featured Summon"
+    },
+    {
+      "key": "gacha_gl20201216_10",
+      "value": "Featured 10x Summon"
+    },
+    {
+      "key": "gacha_gl20201223_01",
+      "value": "Winter Festivities Global Festival Summon — Duane"
+    },
+    {
+      "key": "gacha_gl20201223_10",
+      "value": "Winter Festivities Global Festival 10x Summon — Duane"
+    },
+    {
+      "key": "new-gacha_gl20201223_01",
+      "value": "Featured New Unit Summon"
+    },
+    {
+      "key": "new-gacha_gl20201223_10",
+      "value": "Featured New Unit 10x Summon"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step5_DEAN",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step4_DEAN",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step3_DEAN",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step2_DEAN",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step1_DEAN",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_DEAN",
+      "value": ""
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step5",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step4",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step3",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step2",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10_step1",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20201223_10",
+      "value": ""
+    },
+    {
+      "key": "3step-gacha_gl20201223_10_step3_DARK",
+      "value": "Step Up 10x Summon Step 3"
+    },
+    {
+      "key": "3step-gacha_gl20201223_10_step2_DARK",
+      "value": "Step Up 10x Summon Step 2"
+    },
+    {
+      "key": "3step-gacha_gl20201223_10_step1_DARK",
+      "value": "Step Up 10x Summon Step 1"
+    },
+    {
+      "key": "3step-gacha_gl20201223_10",
+      "value": ""
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step9",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step8",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step7",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step6",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step5",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step4",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step3",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step2",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10_step1",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "Nstep-gacha_gl20201223_10",
+      "value": ""
+    },
+    {
+      "key": "p_gacha_10unit_gl20201223_10",
+      "value": "10 UR Units Guaranteed 10x Summon"
+    },
+    {
+      "key": "gacha_5unit_gl20201223_10",
+      "value": "5 UR Units Guaranteed 10x Summon"
+    },
+    {
+      "key": "100unit_p_Normal_gacha_A_gl20201223_10",
+      "value": "100 UR Unit Shards Guaranteed 10x Summon"
+    },
+    {
+      "key": "50unit_Normal_gacha_A_gl20201223_10",
+      "value": "50 UR Unit Shards Guaranteed 10x Summon"
+    },
+    {
+      "key": "p_gacha_unit_vc_gl20201223_10",
+      "value": "10 URs Guaranteed 10x Summon"
+    },
+    {
+      "key": "new-gacha_gl20201230_01",
+      "value": "Featured New Vision Card Summon"
+    },
+    {
+      "key": "new-gacha_gl20201230_10",
+      "value": "Featured New Vision Card 10x Summon"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step5_GRSR2",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step4_GRSR2",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step3_GRSR2",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step2_GRSR2",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step1_GRSR2",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_GRSR2",
+      "value": ""
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step5_SCAL",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step4_SCAL",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step3_SCAL",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step2_SCAL",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step1_SCAL",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_SCAL",
+      "value": ""
+    },
+    {
+      "key": "2step-gacha_gl20201230_10_step2",
+      "value": "2-Step 10x Summon Step 2"
+    },
+    {
+      "key": "2step-gacha_gl20201230_10_step1",
+      "value": "2-Step 10x Summon Step 1"
+    },
+    {
+      "key": "2step-gacha_gl20201230_10",
+      "value": ""
+    },
+    {
+      "key": "no_coin_gacha_gl20201230_10",
+      "value": "FREE 10x Summon"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step5",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step4",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step3",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step2",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10_step1",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20201230_10",
+      "value": ""
+    },
+    {
+      "key": "p_gacha_unit_vc_gl20201230_10",
+      "value": "2 URs Guaranteed 10x Summon"
+    },
+    {
+      "key": "ff14_gacha_20210106_01",
+      "value": "FFXIV: Shadowbringers Part II Collaborative Summon"
+    },
+    {
+      "key": "ff14_gacha_20210106_10",
+      "value": "FFXIV: Shadowbringers Part II Collaborative 10x Summon"
+    },
+    {
+      "key": "comeback-gacha_gl20210106_10_step3",
+      "value": "Comeback-Limited Step Up 10x Summon Step 3"
+    },
+    {
+      "key": "comeback-gacha_gl20210106_10_step2",
+      "value": "Comeback-Limited Step Up 10x Summon Step 2"
+    },
+    {
+      "key": "comeback-gacha_gl20210106_10_step1",
+      "value": "Comeback-Limited Step Up 10x Summon Step 1"
+    },
+    {
+      "key": "comeback-gacha_gl20210106_10",
+      "value": ""
+    },
+    {
+      "key": "new-gacha_gl20210106_01",
+      "value": "Featured New Unit Summon"
+    },
+    {
+      "key": "new-gacha_gl20210106_10",
+      "value": "Featured New Unit 10x Summon"
+    },
+    {
+      "key": "5step-gacha_gl20210106_10_step5",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20210106_10_step4",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20210106_10_step3",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20210106_10_step2",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20210106_10_step1",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20210106_10",
+      "value": ""
+    },
+    {
+      "key": "3step-gacha_gl20210106_10_step3",
+      "value": "Step Up 10x Summon Step 3"
+    },
+    {
+      "key": "3step-gacha_gl20210106_10_step2",
+      "value": "Step Up 10x Summon Step 2"
+    },
+    {
+      "key": "3step-gacha_gl20210106_10_step1",
+      "value": "Step Up 10x Summon Step 1"
+    },
+    {
+      "key": "3step-gacha_gl20210106_10",
+      "value": ""
+    },
+    {
+      "key": "new-gacha_gl20210113_01",
+      "value": "Featured New Vision Card Summon"
+    },
+    {
+      "key": "new-gacha_gl20210113_10",
+      "value": "Featured New Vision Card 10x Summon"
+    },
+    {
+      "key": "5step-gacha_gl20210113_10_step5",
+      "value": "5-Step 10x Summon Step 5"
+    },
+    {
+      "key": "5step-gacha_gl20210113_10_step4",
+      "value": "5-Step 10x Summon Step 4"
+    },
+    {
+      "key": "5step-gacha_gl20210113_10_step3",
+      "value": "5-Step 10x Summon Step 3"
+    },
+    {
+      "key": "5step-gacha_gl20210113_10_step2",
+      "value": "5-Step 10x Summon Step 2"
+    },
+    {
+      "key": "5step-gacha_gl20210113_10_step1",
+      "value": "5-Step 10x Summon Step 1"
+    },
+    {
+      "key": "5step-gacha_gl20210113_10",
+      "value": ""
+    },
+    {
+      "key": "2step-gacha_gl20210113_10_step2",
+      "value": "2-Step 10x Summon Step 2"
+    },
+    {
+      "key": "2step-gacha_gl20210113_10_step1",
+      "value": "2-Step 10x Summon Step 1"
+    },
+    {
+      "key": "2step-gacha_gl20210113_10",
+      "value": ""
+    },
+    {
+      "key": "3step-gacha_gl20210113_10_step3",
+      "value": "Step Up 10x Summon Step 3"
+    },
+    {
+      "key": "3step-gacha_gl20210113_10_step2",
+      "value": "Step Up 10x Summon Step 2"
+    },
+    {
+      "key": "3step-gacha_gl20210113_10_step1",
+      "value": "Step Up 10x Summon Step 1"
+    },
+    {
+      "key": "3step-gacha_gl20210113_10",
+      "value": ""
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step9",
+      "value": "9-Step 10x Summon Step 9"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step8",
+      "value": "9-Step 10x Summon Step 8"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step7",
+      "value": "9-Step 10x Summon Step 7"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step6",
+      "value": "9-Step 10x Summon Step 6"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step5",
+      "value": "9-Step 10x Summon Step 5"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step4",
+      "value": "9-Step 10x Summon Step 4"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step3",
+      "value": "9-Step 10x Summon Step 3"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step2",
+      "value": "9-Step 10x Summon Step 2"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10_step1",
+      "value": "9-Step 10x Summon Step 1"
+    },
+    {
+      "key": "9step-gacha_gl20210113_10",
+      "value": ""
+    },
+    {
       "key": "global_pickup_sterne_20200325_01",
       "value": "Release Commemoration Featured Summon"
     },

@@ -318,9 +318,18 @@
       "img": "LAPScact_02"
     },
     {
+      "iname": "UN_LW_E_CACT_03_RAID",
+      "bodyId": "LAPScact_02",
+      "img": "LAPScact_02"
+    },
+    {
       "iname": "UN_LW_E_RYER_01_MOGI",
       "bodyId": "LAPSryer_01",
       "img": "LAPSryer_01"
+    },
+    {
+      "iname": "UN_LW_P_TITU",
+      "shield": "AF_LW_SHI_004"
     }
   ]
 }

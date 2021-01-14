@@ -1961,6 +1961,10 @@
       "value": "Blasting Zone"
     },
     {
+      "key": "SK_LW_TNCR_M_4_B",
+      "value": "Blasting Zone"
+    },
+    {
       "key": "SK_LW_TNCR_M_2",
       "value": "Keen Edge"
     },
@@ -3353,6 +3357,98 @@
       "value": "Blessing of Ice"
     },
     {
+      "key": "SK_LW_DEAN_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_DEAN_M_1",
+      "value": "Magic Infuse"
+    },
+    {
+      "key": "SK_LW_DEAN_M_2",
+      "value": "Darkness"
+    },
+    {
+      "key": "SK_LW_DEAN_M_3",
+      "value": "Atonement"
+    },
+    {
+      "key": "SK_LW_DEAN_S_1",
+      "value": "Rising Twilight"
+    },
+    {
+      "key": "SK_LW_DEAN_S_2",
+      "value": "Dark Mantle"
+    },
+    {
+      "key": "SK_LW_DEAN_S_3",
+      "value": "Sword Eater"
+    },
+    {
+      "key": "SK_LW_DEAN_S_4",
+      "value": "Spell Eater"
+    },
+    {
+      "key": "SK_LW_DEAN_R_1",
+      "value": "Sorcery Counter"
+    },
+    {
+      "key": "SK_LW_DEAN_P_1",
+      "value": "Swift Shadow"
+    },
+    {
+      "key": "SK_LW_DEAN_P_2",
+      "value": "Night Hood"
+    },
+    {
+      "key": "SK_LW_ARC_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_ARC_M_1",
+      "value": "Slow Arrow"
+    },
+    {
+      "key": "SK_LW_ARC_M_2",
+      "value": "Dispel Spread"
+    },
+    {
+      "key": "SK_LW_ARC_M_3",
+      "value": "Barrier Break Arrow"
+    },
+    {
+      "key": "SK_LW_ARC_S_1_INIT",
+      "value": "Slow Shot"
+    },
+    {
+      "key": "SK_LW_ARC_S_2_INIT",
+      "value": "Target"
+    },
+    {
+      "key": "SK_LW_ARC_S_3",
+      "value": "Arm Shot"
+    },
+    {
+      "key": "SK_LW_ARC_S_4",
+      "value": "Paralyzing Trap"
+    },
+    {
+      "key": "SK_LW_ARC_S_5",
+      "value": "Target Share"
+    },
+    {
+      "key": "SK_LW_ARC_R_1",
+      "value": "Counter Smoke"
+    },
+    {
+      "key": "SK_LW_ARC_P_1",
+      "value": "Long-Range"
+    },
+    {
+      "key": "SK_LW_ARC_P_2",
+      "value": "Sniper Mastery"
+    },
+    {
       "key": "SK_LW_TU_BLM_ICE",
       "value": "Blizzara"
     },
@@ -3818,11 +3914,11 @@
     },
     {
       "key": "SK_FF14BOSS_M_01",
-      "value": "Breast Ripper"
+      "value": "Pillory"
     },
     {
       "key": "SK_FF14BOSS_M_02",
-      "value": "Pear of Anguish"
+      "value": "Gibbet Cage"
     },
     {
       "key": "SK_FF14BOSS_M_03",
@@ -3977,6 +4073,18 @@
       "value": "Lunatic Voice"
     },
     {
+      "key": "SK_SIRE_M_01_RA",
+      "value": "Water"
+    },
+    {
+      "key": "SK_SIRE_M_02_RA",
+      "value": "Waterga"
+    },
+    {
+      "key": "SK_SIRE_M_04_RA",
+      "value": "Lunatic Voice"
+    },
+    {
       "key": "SK_SHIV_ATK",
       "value": "Normal Attack"
     },
@@ -3990,6 +4098,10 @@
     },
     {
       "key": "SK_SHIV_M_03",
+      "value": "Shooting Hail"
+    },
+    {
+      "key": "SK_SHIV_M_03_B",
       "value": "Shooting Hail"
     },
     {
@@ -4098,6 +4210,10 @@
     },
     {
       "key": "SK_GL_LAMA_M_03",
+      "value": "Bewitching Tail"
+    },
+    {
+      "key": "SK_LAMA_M_03_EX",
       "value": "Bewitching Tail"
     },
     {
@@ -4233,6 +4349,10 @@
       "value": "Mind Blast"
     },
     {
+      "key": "SK_MDFY_M_04_B",
+      "value": "Mind Blast"
+    },
+    {
       "key": "SK_FNRR_M_04_2",
       "value": "Mystic Roar"
     },
@@ -4365,6 +4485,30 @@
       "value": "Everyone's Grudge"
     },
     {
+      "key": "SK_LVAT_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LVAT_M_01",
+      "value": "Mow Down"
+    },
+    {
+      "key": "SK_LVAT_M_02",
+      "value": "Tsunami"
+    },
+    {
+      "key": "SK_LVAT_M_03",
+      "value": "Bubbles of Rage"
+    },
+    {
+      "key": "SK_LVAT_M_04",
+      "value": "Rising Flood"
+    },
+    {
+      "key": "SK_LVAT_R_01",
+      "value": "Water Surge"
+    },
+    {
       "key": "SK_CHCB2_ATK",
       "value": "Normal Attack"
     },
@@ -4471,6 +4615,26 @@
     {
       "key": "SK_GLBZ_M_4",
       "value": "Ebony Fang "
+    },
+    {
+      "key": "SK_CSLI_02_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_CSLI_02_M_01",
+      "value": "Pink Sphere"
+    },
+    {
+      "key": "SK_CSLI_02_M_01_RA",
+      "value": "Pink Sphere"
+    },
+    {
+      "key": "SK_CSLI_02_M_02",
+      "value": "Time to Eat!"
+    },
+    {
+      "key": "SK_CSLI_02_M_03",
+      "value": "Let’s Dance!"
     },
     {
       "key": "SK_LB_LW_MONT",
@@ -4609,6 +4773,14 @@
       "value": "Soaring Axe Slash+"
     },
     {
+      "key": "SK_LB_LW_RAMD_01",
+      "value": "Holy Night's Judgment"
+    },
+    {
+      "key": "SK_LB_LW_MACR_01",
+      "value": "Holy Night's Gift"
+    },
+    {
       "key": "SK_LB_FFT_RAMZ",
       "value": "Ultima"
     },
@@ -4697,6 +4869,18 @@
       "value": "Dragon's Bane"
     },
     {
+      "key": "SK_LB_LW_LATH",
+      "value": "Speed Break Shot"
+    },
+    {
+      "key": "SK_LB_LW_DEAN",
+      "value": "Death Scythe"
+    },
+    {
+      "key": "SK_LB_LW_NIVL",
+      "value": "Spider Rain"
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Hellfire"
     },
@@ -4731,6 +4915,10 @@
     {
       "key": "SK_SMN_MABR",
       "value": "Smelly Breath"
+    },
+    {
+      "key": "SK_SMN_MOGL",
+      "value": "Winter Moogle Dance"
     },
     {
       "key": "SK_SMN_CACT",
@@ -4807,6 +4995,14 @@
     {
       "key": "SK_SMN_DMNW",
       "value": "Landslide Crash"
+    },
+    {
+      "key": "SK_SMN_TNBR",
+      "value": "Everyone's Grudge"
+    },
+    {
+      "key": "SK_SMN_LVAT",
+      "value": "Tsunami"
     },
     {
       "key": "SK_US_POTION",
@@ -4973,6 +5169,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_FF14_TNCR_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_HLNA",
       "value": "Master Ability"
     },
@@ -5109,7 +5309,23 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_P_RAMD_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_GL_MA_LW_P_RAMD_01_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_P_NASR",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_P_MACR_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_GL_MA_LW_P_MACR_01_2",
       "value": "Master Ability"
     },
     {
@@ -5262,6 +5478,26 @@
     },
     {
       "key": "SK_MA_FF4_KAIN",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_LATH",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_TITU",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_DEAN",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_NIVL",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_RVAL",
       "value": "Master Ability"
     },
     {
@@ -5473,6 +5709,10 @@
       "value": "Crimson Saber"
     },
     {
+      "key": "SK_LW_MAC_009_5",
+      "value": "Curada"
+    },
+    {
       "key": "SK_FFT_SWO_002_2",
       "value": ""
     },
@@ -5518,6 +5758,22 @@
     },
     {
       "key": "SK_LW_RNG_007_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_002_1",
+      "value": "Soul of Thamasa"
+    },
+    {
+      "key": "SK_LW_ACC_002_5",
+      "value": "Soul of Thamasa"
+    },
+    {
+      "key": "SK_FF14_HLM_001_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF14_HLM_001_5",
       "value": ""
     },
     {
@@ -5575,6 +5831,14 @@
     {
       "key": "SK_BLT_LW_YERM_1_1",
       "value": "Bloodboil"
+    },
+    {
+      "key": "SK_CLT_LW_RAMD_01_1_1",
+      "value": "Exaltation"
+    },
+    {
+      "key": "SK_ACC_LW_MACR_01_1",
+      "value": "Winter Harmony"
     },
     {
       "key": "SK_ARM_FFT_RAMZ_1_1",
@@ -5695,6 +5959,22 @@
     {
       "key": "SK_HLM_FF4_KAIN_1_1",
       "value": "Dragoon's Pride"
+    },
+    {
+      "key": "SK_GUN_LW_LATH_2_1",
+      "value": ""
+    },
+    {
+      "key": "SK_SWO_LW_TITU_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_HLM_LW_DEAN_1_1",
+      "value": "Magic Prevention"
+    },
+    {
+      "key": "SK_ACC_LW_NIVL_1_1",
+      "value": "Inherited Bewitching Art"
     },
     {
       "key": "SK_ACC_LW_MONT_ARENA",
@@ -5882,6 +6162,10 @@
     },
     {
       "key": "SK_KAT_LW_SIMR_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ROD_LW_RVAL_1_1",
       "value": ""
     },
     {
@@ -6150,6 +6434,14 @@
     },
     {
       "key": "SK_VC_FF14_MV2_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MOGL_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MOGL_GSAW",
       "value": ""
     },
     {
@@ -6565,6 +6857,114 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_XMAS_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FIGHT_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FIGHT_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TNBR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TNBR_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ASSASIN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ASSASIN_GSAW",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_TITN_P",
       "value": ""
     },
@@ -6667,6 +7067,10 @@
     {
       "key": "SK_GL_VC_LW_HALL_P2MAX",
       "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_PVA",
+      "value": "Triple Trick"
     },
     {
       "key": "SK_VC_LW_BLMN_P",
@@ -7053,6 +7457,22 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_MOGL_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MOGL_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MOGL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MOGL_P2AW",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_LAMA_01_P",
       "value": ""
     },
@@ -7098,6 +7518,178 @@
     },
     {
       "key": "SK_VC_LW_CBVPARTY1_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_PVA",
+      "value": "Height 3 Holy Night's Purge"
+    },
+    {
+      "key": "SK_VC_LW_XMAS_PVA_B",
+      "value": "Height 2 Holy Night's Purge"
+    },
+    {
+      "key": "SK_VC_LW_LUCA_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FIGHT_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FIGHT_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_PAW3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_PMAX3",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_PVA",
+      "value": "Ruinja"
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_PAW3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_PMAX3",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TNBR_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TNBR_PAW",
       "value": ""
     },
     {
@@ -7338,6 +7930,54 @@
     },
     {
       "key": "SK_VC_LW_ORDR_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LVAT_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LVAT_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LVAT_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_PVA",
+      "value": "Crash Edge"
+    },
+    {
+      "key": "SK_VC_LW_ASSASIN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ASSASIN_PAW",
       "value": ""
     },
     {
@@ -8211,6 +8851,14 @@
     {
       "key": "SK_BTL_RESDB_ATK_1_100_U",
       "value": "ATK Debuff Res 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_RESDB_SLASH_1_100_U",
+      "value": "Slash Res Debuff Res 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_RESDB_ELEMALL1_1_100_U",
+      "value": "All Elemental Res Debuff Res 1-100 Up"
     },
     {
       "key": "SK_BTL_JOB_THI_1_15_U",

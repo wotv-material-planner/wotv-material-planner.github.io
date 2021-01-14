@@ -1485,6 +1485,126 @@
       "value": "Chapter 10, Scene 2"
     },
     {
+      "key": "QE_ST_01100301",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100302",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100303",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100304",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100305",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100306",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100307",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100308",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100309",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01100310",
+      "value": "Chapter 10, Scene 3"
+    },
+    {
+      "key": "QE_ST_01110101",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110102",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110103",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110104",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110105",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110106",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110107",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110108",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110109",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110110",
+      "value": "Chapter 11, Scene 1"
+    },
+    {
+      "key": "QE_ST_01110201",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110202",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110203",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110204",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110205",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110206",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110207",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110208",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110209",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
+      "key": "QE_ST_01110210",
+      "value": "Chapter 11, Scene 2"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Hard Quest"
     },
@@ -1757,6 +1877,22 @@
       "value": "Hard Quest"
     },
     {
+      "key": "QE_HA_LW_LATH",
+      "value": "Hard Quest"
+    },
+    {
+      "key": "QE_HA_LW_TITU",
+      "value": "Hard Quest"
+    },
+    {
+      "key": "QE_HA_LW_NIVL",
+      "value": "Hard Quest"
+    },
+    {
+      "key": "QE_HA_LW_RVAL",
+      "value": "Hard Quest"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "Character Quest"
     },
@@ -2017,6 +2153,10 @@
       "value": "Character Quest"
     },
     {
+      "key": "QE_CH_FF14_TNCR2",
+      "value": "Character Quest"
+    },
+    {
       "key": "QE_CH_FFT_RAMZ",
       "value": "Character Quest"
     },
@@ -2101,6 +2241,42 @@
       "value": "Character Quest"
     },
     {
+      "key": "QE_CH_LW_RAMD_01",
+      "value": "Character Quest"
+    },
+    {
+      "key": "QE_CH_GL_LW_RAMD_01_2",
+      "value": "Character Quest"
+    },
+    {
+      "key": "QE_CH_LW_MA_01",
+      "value": "Character Quest"
+    },
+    {
+      "key": "QE_CH_GL_LW_MA_01_2",
+      "value": "Character Quest"
+    },
+    {
+      "key": "QE_CH_LW_LATH",
+      "value": "Character Quest"
+    },
+    {
+      "key": "QE_CH_LW_TITU",
+      "value": "Character Quest"
+    },
+    {
+      "key": "QE_CH_GL_LW_DEAN",
+      "value": "Character Quest"
+    },
+    {
+      "key": "QE_CH_LW_NIVL",
+      "value": "Character Quest"
+    },
+    {
+      "key": "QE_CH_LW_RVAL",
+      "value": "Character Quest"
+    },
+    {
       "key": "QE_EV_GL_CDOWN_01_9",
       "value": "Six-Month Anniversary"
     },
@@ -2167,6 +2343,10 @@
     {
       "key": "QE_EV_GL_TWCQ_DAR",
       "value": "Porcelain Tower Launch Celebration"
+    },
+    {
+      "key": "QE_EV_NY2020",
+      "value": "New Year's Gift Quest"
     },
     {
       "key": "QE_PT_001_01",
@@ -2341,6 +2521,10 @@
       "value": "Recommended: Unit Lv. 20, Job Lv. 4"
     },
     {
+      "key": "QE_EV_FF14_RD02",
+      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+    },
+    {
       "key": "QE_EV_FF14_EX1",
       "value": "Recommended: Unit Lv. 50, Job Lv. 10"
     },
@@ -2349,8 +2533,12 @@
       "value": "Recommended: Unit Lv. 50, Job Lv. 10"
     },
     {
-      "key": "QE_EV_FF14_RD02",
-      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+      "key": "QE_EV_FF14_Ex3",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 10"
+    },
+    {
+      "key": "QE_MU_FF14_Ex3",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 10"
     },
     {
       "key": "QE_EV_FFT02_01",
@@ -2570,6 +2758,14 @@
     },
     {
       "key": "QE_SB_OCHU_03",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_SB_SHIV_02",
+      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+    },
+    {
+      "key": "QE_SB_SHIV_03",
       "value": "Recommended: Unit Lv. 80, Job Lv. 12"
     },
     {
@@ -2921,6 +3117,62 @@
       "value": "Recommended: Unit Lv. 50, Job Lv. 10"
     },
     {
+      "key": "QE_EV_07_01",
+      "value": "Recommended: Unit Lv. 5, Job Lv. 1"
+    },
+    {
+      "key": "QE_EV_07_02",
+      "value": "Recommended: Unit Lv. 10, Job Lv. 2"
+    },
+    {
+      "key": "QE_EV_07_03",
+      "value": "Recommended: Unit Lv. 15, Job Lv. 3"
+    },
+    {
+      "key": "QE_EV_07_04",
+      "value": "Recommended: Unit Lv. 20, Job Lv. 4"
+    },
+    {
+      "key": "QE_EV_07_05",
+      "value": "Recommended: Unit Lv. 20, Job Lv. 5"
+    },
+    {
+      "key": "QE_EV_07_06",
+      "value": "Recommended: Unit Lv. 25, Job Lv. 5"
+    },
+    {
+      "key": "QE_EV_07_07",
+      "value": "Recommended: Unit Lv. 30, Job Lv. 6"
+    },
+    {
+      "key": "QE_EV_07_08",
+      "value": "Recommended: Unit Lv. 35, Job Lv. 7"
+    },
+    {
+      "key": "QE_EV_07_09",
+      "value": "Recommended: Unit Lv. 40, Job Lv. 8"
+    },
+    {
+      "key": "QE_EV_07_10",
+      "value": "Recommended: Unit Lv. 40, Job Lv. 9"
+    },
+    {
+      "key": "QE_EV_07_EX",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 10"
+    },
+    {
+      "key": "QE_EV_07_EX_1",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_EV_07_EX",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 10"
+    },
+    {
+      "key": "QE_MU_EV_07_EX_1",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
       "key": "QE_CHAL_01_01",
       "value": "Recommended: Unit Lv. 60, Job Lv. 10"
     },
@@ -3105,6 +3357,34 @@
       "value": "Recommended: Unit Lv. 50, Job Lv. 9"
     },
     {
+      "key": "QE_EV_ART_CRF_13",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_EV_ART_CRF_14",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_EV_ART_CRF_15",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_EV_ART_CRF_10",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_EV_ART_CRF_11",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_EV_ART_CRF_12",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_SHIV_04",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
       "key": "QE_MU_IFRT_04",
       "value": "Recommended: Unit Lv. 80, Job Lv. 12"
     },
@@ -3201,6 +3481,30 @@
       "value": "Recommended: Unit Lv. 50, Job Lv. 9"
     },
     {
+      "key": "QE_MU_ART_CRF_13",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_14",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_15",
+      "value": "Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_10",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_ART_CRF_11",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_ART_CRF_12",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
       "key": "QE_SB_IFRT_01",
       "value": "Recommended: Unit Lv. 70, Job Lv. 10"
     },
@@ -3278,6 +3582,10 @@
     },
     {
       "key": "QE_SB_CHCB_01",
+      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+    },
+    {
+      "key": "QE_SB_TNBR_01",
       "value": "Recommended: Unit Lv. 60, Job Lv. 10"
     },
     {
@@ -3370,6 +3678,42 @@
     },
     {
       "key": "QE_RAID_EV_10_06",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_11_01",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_11_02",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_11_03",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_12_01",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_12_02",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_12_03",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_12_04",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_12_05",
+      "value": "Raid Boss"
+    },
+    {
+      "key": "QE_RAID_EV_12_06",
       "value": "Raid Boss"
     },
     {
@@ -3717,11 +4061,19 @@
       "value": ""
     },
     {
+      "key": "QE_GVG_00009",
+      "value": ""
+    },
+    {
       "key": "QE_GVG_00010",
       "value": ""
     },
     {
       "key": "QE_GVG_GL_00001",
+      "value": ""
+    },
+    {
+      "key": "QE_GVG_GL_00002",
       "value": ""
     },
     {
@@ -3783,6 +4135,50 @@
     {
       "key": "QE_TEST_FOR",
       "value": ""
+    },
+    {
+      "key": "QE_K_SB_IGNT_02",
+      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+    },
+    {
+      "key": "QE_K_SB_IGNT_03",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_K_SB_CSLI_02",
+      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+    },
+    {
+      "key": "QE_K_SB_CSLI_03",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_K_SB_OCHU_02",
+      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+    },
+    {
+      "key": "QE_K_SB_OCHU_03",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_K_SB_IFRT_02",
+      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+    },
+    {
+      "key": "QE_K_SB_IFRT_03",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_K_SB_FNRR_02",
+      "value": "Recommended: Unit Lv. 60, Job Lv. 10"
+    },
+    {
+      "key": "QE_K_SB_FNRR_03",
+      "value": "Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_SB_LVAT_01",
+      "value": "Recommended: Unit Lv. 70, Job Lv. 10"
     }
   ]
 }

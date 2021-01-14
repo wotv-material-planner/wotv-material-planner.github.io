@@ -1905,6 +1905,391 @@
           "num": 5
         }
       ]
+    },
+    {
+      "iname": "CHARGE_BONUS_GL_0035",
+      "buy_lapis_num": 60,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 2
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 4
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_PI_FF4_ROSA",
+          "num": 15
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        }
+      ],
+      "constant_bonus": [
+        {
+          "type": 0,
+          "item_id": "IT_PI_FF4_ROSA",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "CHARGE_BONUS_GL_0036",
+      "buy_lapis_num": 60,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_JB_MM_ALL_3",
+          "num": 100
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_UN_AW_WATER",
+          "num": 10
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_PI_COM_WATER",
+          "num": 10
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_PI_LW_RAMD_01",
+          "num": 15
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        }
+      ],
+      "constant_bonus": [
+        {
+          "type": 0,
+          "item_id": "IT_PI_LW_RAMD_01",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "CHARGE_BONUS_GL_0037",
+      "buy_lapis_num": 60,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_JB_MM_ALL_3",
+          "num": 100
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_UN_AW_FIRE",
+          "num": 10
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_PI_COM_FIRE",
+          "num": 10
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_PI_LW_MACR_01",
+          "num": 15
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        }
+      ],
+      "constant_bonus": [
+        {
+          "type": 0,
+          "item_id": "IT_PI_LW_MACR_01",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "CHARGE_BONUS_GL_0038",
+      "buy_lapis_num": 60,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 2
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 4
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_PI_LW_DEAN",
+          "num": 15
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        }
+      ],
+      "constant_bonus": [
+        {
+          "type": 0,
+          "item_id": "IT_EC_MEDAL_GF_A",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "CHARGE_BONUS_GL_0039",
+      "buy_lapis_num": 60,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 2
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_PI_COM_ALL",
+          "num": 1
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_PI_COM_ALL",
+          "num": 1
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        }
+      ],
+      "constant_bonus": [
+        {
+          "type": 0,
+          "item_id": "IT_EC_MEDAL_GF_A",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "CHARGE_BONUS_GL_0040",
+      "buy_lapis_num": 60,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_JB_MM_ALL_3",
+          "num": 100
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_UN_AW_THUNDER",
+          "num": 10
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_PI_COM_THUNDER",
+          "num": 10
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_PI_LW_NIVL",
+          "num": 15
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        }
+      ],
+      "constant_bonus": [
+        {
+          "type": 0,
+          "item_id": "IT_PI_LW_NIVL",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "CHARGE_BONUS_GL_0041",
+      "buy_lapis_num": 60,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 1
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_VC_EXP_03",
+          "num": 50
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 2
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_VC_EXP_03",
+          "num": 50
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_SB_EXP_WATER_04",
+          "num": 10
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_SB_EXP_WATER_04",
+          "num": 10
+        }
+      ],
+      "constant_bonus": [
+        {
+          "type": 0,
+          "item_id": "IT_VPI_LW_LVAT",
+          "num": 5
+        }
+      ]
     }
   ]
 }

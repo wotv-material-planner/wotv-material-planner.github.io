@@ -1961,6 +1961,10 @@
       "value": "Deals Dmg (L) to targets within range."
     },
     {
+      "key": "SK_LW_TNCR_M_4_B",
+      "value": "Deals Dmg (L) to targets within range."
+    },
+    {
       "key": "SK_LW_TNCR_M_2",
       "value": "Deals 2-Hit Dmg (S) to target."
     },
@@ -2214,7 +2218,7 @@
     },
     {
       "key": "SK_LW_WGN_M_1",
-      "value": "Significantly raises Missile ATK of allies within range around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+      "value": "Significantly raises Missile ATK of allies within area around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
     },
     {
       "key": "SK_LW_WGN_M_2",
@@ -2266,7 +2270,7 @@
     },
     {
       "key": "SK_LW_WGN_M_1_SUB",
-      "value": "Significantly raises Missile ATK of allies within range around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+      "value": "Significantly raises Missile ATK of allies within area around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
     },
     {
       "key": "SK_LW_WGN_M_2_SUB",
@@ -3353,6 +3357,98 @@
       "value": "Raises AGI & power of Ice Crystal Arrow."
     },
     {
+      "key": "SK_LW_DEAN_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_DEAN_M_1",
+      "value": "Removes Reraise from target, then deals Dmg (L) & reduces AP."
+    },
+    {
+      "key": "SK_LW_DEAN_M_2",
+      "value": "Deals Dmg (M) to targets within range & chance of inflicting Disable for 3 turns."
+    },
+    {
+      "key": "SK_LW_DEAN_M_3",
+      "value": "Significantly raises Slash ATK of allies within area around self for 3 turns & raises own DEF Piercing Rate for 3 turns."
+    },
+    {
+      "key": "SK_LW_DEAN_S_1",
+      "value": "Lowers target's Dark Res for 3 turns, then deals Dmg (S)."
+    },
+    {
+      "key": "SK_LW_DEAN_S_2",
+      "value": "Raises own DEF and SPR for 3 turns & lowers Light Res."
+    },
+    {
+      "key": "SK_LW_DEAN_S_3",
+      "value": "Deals Dmg (M) to target & lowers ATK for 3 turns."
+    },
+    {
+      "key": "SK_LW_DEAN_S_4",
+      "value": "Deals Dmg (M) to target & lowers MAG for 3 turns."
+    },
+    {
+      "key": "SK_LW_DEAN_R_1",
+      "value": "Chance of countering Magic Attacks."
+    },
+    {
+      "key": "SK_LW_DEAN_P_1",
+      "value": "Move +1 & raises Hate."
+    },
+    {
+      "key": "SK_LW_DEAN_P_2",
+      "value": "Raises DEF."
+    },
+    {
+      "key": "SK_LW_ARC_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ARC_M_1",
+      "value": "Deals Dmg (M) to target & lowers Move by 1 for 3 turns."
+    },
+    {
+      "key": "SK_LW_ARC_M_2",
+      "value": "Deals Dmg (L) to targets within range & removes all Buffs."
+    },
+    {
+      "key": "SK_LW_ARC_M_3",
+      "value": "Destroys any barrier that reduces Phys Dmg on target, then deals Dmg (M)."
+    },
+    {
+      "key": "SK_LW_ARC_S_1_INIT",
+      "value": "Deals Dmg (S) to target & lowers AGI for 3 turns."
+    },
+    {
+      "key": "SK_LW_ARC_S_2_INIT",
+      "value": "Raises Range by 1 for 3 turns & raises DEF Piercing Rate."
+    },
+    {
+      "key": "SK_LW_ARC_S_3",
+      "value": "Deals Dmg (Min) to target & chance of inflicting Disable for 3 turns."
+    },
+    {
+      "key": "SK_LW_ARC_S_4",
+      "value": "Chance of inflicting Paralysis on targets within range for 3 turns."
+    },
+    {
+      "key": "SK_LW_ARC_S_5",
+      "value": "Raises ATK of allies within area around self for 3 turns & bestows Esper Killer."
+    },
+    {
+      "key": "SK_LW_ARC_R_1",
+      "value": "Chance of preemptively lowering target's Accuracy Rate for 3 turns when taking Phys Attack Dmg."
+    },
+    {
+      "key": "SK_LW_ARC_P_1",
+      "value": "Range +1"
+    },
+    {
+      "key": "SK_LW_ARC_P_2",
+      "value": "Raises Missile ATK/Luck."
+    },
+    {
       "key": "SK_LW_TU_BLM_ICE",
       "value": "Deals Ice Dmg (S) to targets within range based on caster's MAG stat."
     },
@@ -3977,6 +4073,18 @@
       "value": "Deals Water Dmg (L) to targets within range based on caster's MAG stat & chance of inflicting Sleep for 3 turns."
     },
     {
+      "key": "SK_SIRE_M_01_RA",
+      "value": "Deals Water Dmg (S) to target based on caster's MAG stat."
+    },
+    {
+      "key": "SK_SIRE_M_02_RA",
+      "value": "Deals Water Dmg (S) to targets within range based on caster's MAG stat."
+    },
+    {
+      "key": "SK_SIRE_M_04_RA",
+      "value": "Deals Water Dmg (L) to targets within range based on caster's MAG stat & chance of inflicting Sleep for 3 turns."
+    },
+    {
       "key": "SK_SHIV_ATK",
       "value": ""
     },
@@ -3990,6 +4098,10 @@
     },
     {
       "key": "SK_SHIV_M_03",
+      "value": "Deals Ice Dmg (S) to targets within range based on caster's MAG stat & chance of inflicting Stop."
+    },
+    {
+      "key": "SK_SHIV_M_03_B",
       "value": "Deals Ice Dmg (S) to targets within range based on caster's MAG stat & chance of inflicting Stop."
     },
     {
@@ -4098,6 +4210,10 @@
     },
     {
       "key": "SK_GL_LAMA_M_03",
+      "value": "Deals Dmg (M) to enemies within range & chance of inflicting Confusion for 3 turns."
+    },
+    {
+      "key": "SK_LAMA_M_03_EX",
       "value": "Deals Dmg (M) to enemies within range & chance of inflicting Confusion for 3 turns."
     },
     {
@@ -4233,6 +4349,10 @@
       "value": "Deals Dmg (M) to enemies within range & chance of inflicting Paralysis for 3 turns."
     },
     {
+      "key": "SK_MDFY_M_04_B",
+      "value": "Deals Dmg (M) to enemies within range & chance of inflicting Paralysis for 3 turns."
+    },
+    {
       "key": "SK_FNRR_M_04_2",
       "value": "Deals Ice Magic Dmg (L) to targets within area around self & chance of inflicting Paralysis for 3 turns."
     },
@@ -4290,7 +4410,7 @@
     },
     {
       "key": "SK_BLMN_M_03",
-      "value": "Counters Magic Attacks"
+      "value": "Counters Magic Attacks."
     },
     {
       "key": "SK_BHMT_ATK_02",
@@ -4363,6 +4483,30 @@
     {
       "key": "SK_TNBR_M_04_R",
       "value": "Deals DMG to target based on number of killed allies & Guaranteed Hit."
+    },
+    {
+      "key": "SK_LVAT_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LVAT_M_01",
+      "value": "Deals Dmg (M) to enemies within range & causes Knockback."
+    },
+    {
+      "key": "SK_LVAT_M_02",
+      "value": "Deals Water Magic Dmg (L) to targets within range & high chance of inflicting Slow for 3 turns."
+    },
+    {
+      "key": "SK_LVAT_M_03",
+      "value": "Deals Dmg (Max) to target enemy."
+    },
+    {
+      "key": "SK_LVAT_M_04",
+      "value": "Raises own ATK/MAG for 3 turns."
+    },
+    {
+      "key": "SK_LVAT_R_01",
+      "value": "High chance of Counterattack when taking Dmg & lowers target's Water Res."
     },
     {
       "key": "SK_CHCB2_ATK",
@@ -4471,6 +4615,26 @@
     {
       "key": "SK_GLBZ_M_4",
       "value": "Deals Dmg (L) to targets within range & lowers SPR for 3 turns."
+    },
+    {
+      "key": "SK_CSLI_02_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_CSLI_02_M_01",
+      "value": "Deals Dmg (S) to target."
+    },
+    {
+      "key": "SK_CSLI_02_M_01_RA",
+      "value": "Deals Dmg (S) to target."
+    },
+    {
+      "key": "SK_CSLI_02_M_02",
+      "value": "Deals Dmg (S) to target & absorbs Dmg dealt."
+    },
+    {
+      "key": "SK_CSLI_02_M_03",
+      "value": "Deals Dmg (M) to targets within area around self & chance of inflicting Confusion for 3 turns."
     },
     {
       "key": "SK_LB_LW_MONT",
@@ -4609,6 +4773,14 @@
       "value": "Deals Dmg (XL) to target & significantly lowers Unit Attack Res for 3 turns & significantly raises own Unit Attack Res."
     },
     {
+      "key": "SK_LB_LW_RAMD_01",
+      "value": "Lowers Slash Res of targets within range for 3 turns, then deals Dmg (L)."
+    },
+    {
+      "key": "SK_LB_LW_MACR_01",
+      "value": "Deals 2-Hit Dmg (L) to targets within range & raises own DEF for 3 turns."
+    },
+    {
       "key": "SK_LB_FFT_RAMZ",
       "value": "Deals Non-Elemental Dmg (L) to targets within range based on caster's MAG stat & Guaranteed Hit."
     },
@@ -4697,6 +4869,18 @@
       "value": "Deals Dmg (L) to targets within range & chance of inflicting Slow for 3 turns."
     },
     {
+      "key": "SK_LB_LW_LATH",
+      "value": "Deals 2-Hit Dmg (L) to targets within range & lowers AGI for 3 turns."
+    },
+    {
+      "key": "SK_LB_LW_DEAN",
+      "value": "Deals 2-Hit Dmg (L) to targets within range & absorbs portion of Dmg dealt."
+    },
+    {
+      "key": "SK_LB_LW_NIVL",
+      "value": "Lowers DEF of targets within range for 3 turns, then deals Dmg (M)."
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Evokes Ifrit, deals Fire Dmg (Max) to targets within range & activates temporary Map Effects (raises allies' ATK/MAG & significantly lowers enemies' Fire Res)."
     },
@@ -4731,6 +4915,10 @@
     {
       "key": "SK_SMN_MABR",
       "value": "Evokes Malboro, chance of inflicting status ailments (Poison, Blind, Sleep, Silence, and Confusion) on targets within range for 3 turns."
+    },
+    {
+      "key": "SK_SMN_MOGL",
+      "value": "Evokes Moogle (Winter), recovers HP (S) of allies within range & raises Evasion Rate/Critical Hit Rate for 3 turns."
     },
     {
       "key": "SK_SMN_CACT",
@@ -4807,6 +4995,14 @@
     {
       "key": "SK_SMN_DMNW",
       "value": "Evokes Demon Wall, deals Non-Elemental Dmg (L) to targets within range & activates temporary Map Effects (raises allies' ATK & significantly lowers enemies' Dark Res)."
+    },
+    {
+      "key": "SK_SMN_TNBR",
+      "value": "Evokes Tonberry, deals Non-Elemental Dmg (L) to target & increases in power depending on the number of KO'd allies."
+    },
+    {
+      "key": "SK_SMN_LVAT",
+      "value": "Evokes Leviathan, deals Water Dmg (L) to targets within range & chance of inflicting Slow for 3 turns & activates temporary Map Effects (raises allies' ATK/MAG & increases effect for Water units & significantly lowers enemies' Water Res)."
     },
     {
       "key": "SK_US_POTION",
@@ -4973,6 +5169,10 @@
       "value": "Max HP +10%, Slash ATK +10"
     },
     {
+      "key": "SK_MA_FF14_TNCR_2",
+      "value": "Max HP +20%, Slash ATK +10, ATK +100, removes casting from Blasting Zone only during battle."
+    },
+    {
       "key": "SK_MA_LW_HLNA",
       "value": "MAG +30%, AGI +10%"
     },
@@ -5022,7 +5222,7 @@
     },
     {
       "key": "SK_MA_FF14_YSTL",
-      "value": "Max TP +15%, AP Acquisition Modifier +30%"
+      "value": "Max TP +15%, AP Acquisition Modifier +30%, Magic Attack Res Piercing Rate +30"
     },
     {
       "key": "SK_MA_LW_SZRT",
@@ -5109,8 +5309,24 @@
       "value": "Critical Dmg +15%, Accuracy Rate +10"
     },
     {
+      "key": "SK_MA_LW_P_RAMD_01",
+      "value": "Critical Hit Rate +10, ATK +10%"
+    },
+    {
+      "key": "SK_GL_MA_LW_P_RAMD_01_2",
+      "value": "Water Unit Allies' Max HP +10%/Water Attack +15, own Critical Hit Rate +10, ATK +20%"
+    },
+    {
       "key": "SK_MA_LW_P_NASR",
       "value": "Max HP +25%"
+    },
+    {
+      "key": "SK_MA_LW_P_MACR_01",
+      "value": "Ice Res +10, AGI +10%"
+    },
+    {
+      "key": "SK_GL_MA_LW_P_MACR_01_2",
+      "value": "Fire Unit Allies' Max HP +10%/Fire Attack +15, own Ice Res +10, AGI +10%, DEF Piercing Rate +10"
     },
     {
       "key": "SK_MA_LW_P_ETRE",
@@ -5263,6 +5479,26 @@
     {
       "key": "SK_MA_FF4_KAIN",
       "value": "DEF Piercing Rate +20, Accuracy Rate +10"
+    },
+    {
+      "key": "SK_MA_LW_LATH",
+      "value": "ATK +10%, Ice Eater +15%"
+    },
+    {
+      "key": "SK_MA_LW_TITU",
+      "value": "Pierce/Missile Res +10, AP Consumption -25%"
+    },
+    {
+      "key": "SK_MA_LW_DEAN",
+      "value": "Dark Unit Allies' Max HP +10%/Dark Attack +15, own DEF Piercing Rate +20, ATK +10%"
+    },
+    {
+      "key": "SK_MA_LW_NIVL",
+      "value": "DEF Piercing Rate +20, Missile ATK +5"
+    },
+    {
+      "key": "SK_MA_LW_RVAL",
+      "value": "Healing Power +30, MAG +10%"
     },
     {
       "key": "SK_LW_SLASH_1",
@@ -5473,6 +5709,10 @@
       "value": ""
     },
     {
+      "key": "SK_LW_MAC_009_5",
+      "value": "Recovers target's HP (M)."
+    },
+    {
       "key": "SK_FFT_SWO_002_2",
       "value": ""
     },
@@ -5518,6 +5758,22 @@
     },
     {
       "key": "SK_LW_RNG_007_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_002_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_ACC_002_5",
+      "value": ""
+    },
+    {
+      "key": "SK_FF14_HLM_001_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF14_HLM_001_5",
       "value": ""
     },
     {
@@ -5575,6 +5831,14 @@
     {
       "key": "SK_BLT_LW_YERM_1_1",
       "value": "Significantly raises own ATK/Accuracy Rate for 3 turns."
+    },
+    {
+      "key": "SK_CLT_LW_RAMD_01_1_1",
+      "value": "Raises own ATK for 3 turns & Move +1."
+    },
+    {
+      "key": "SK_ACC_LW_MACR_01_1",
+      "value": "Recovers AP of targets within area around self (excluding self)."
     },
     {
       "key": "SK_ARM_FFT_RAMZ_1_1",
@@ -5695,6 +5959,22 @@
     {
       "key": "SK_HLM_FF4_KAIN_1_1",
       "value": "Raises own Move by 1 for 3 turns & bestows Haste on self."
+    },
+    {
+      "key": "SK_GUN_LW_LATH_2_1",
+      "value": ""
+    },
+    {
+      "key": "SK_SWO_LW_TITU_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_HLM_LW_DEAN_1_1",
+      "value": "Raises own Magic Attack Res for 3 turns."
+    },
+    {
+      "key": "SK_ACC_LW_NIVL_1_1",
+      "value": "Raises Evasion Rate of allies within area around self for 3 turns."
     },
     {
       "key": "SK_ACC_LW_MONT_ARENA",
@@ -5882,6 +6162,10 @@
     },
     {
       "key": "SK_KAT_LW_SIMR_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ROD_LW_RVAL_1_1",
       "value": ""
     },
     {
@@ -6150,6 +6434,14 @@
     },
     {
       "key": "SK_VC_FF14_MV2_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MOGL_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MOGL_GSAW",
       "value": ""
     },
     {
@@ -6565,6 +6857,114 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_XMAS_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FIGHT_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FIGHT_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TNBR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TNBR_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ASSASIN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ASSASIN_GSAW",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_TITN_P",
       "value": ""
     },
@@ -6667,6 +7067,10 @@
     {
       "key": "SK_GL_VC_LW_HALL_P2MAX",
       "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL_PVA",
+      "value": "Lowers target's Evasion Rate for 3 turns, then deals 3-Hit Dmg (M)."
     },
     {
       "key": "SK_VC_LW_BLMN_P",
@@ -7053,6 +7457,22 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_MOGL_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_MOGL_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MOGL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_MOGL_P2AW",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_LAMA_01_P",
       "value": ""
     },
@@ -7098,6 +7518,178 @@
     },
     {
       "key": "SK_VC_LW_CBVPARTY1_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_XMAS_PVA",
+      "value": "Deals Dmg (M) to targets within range based on caster's MAG stat & lowers ATK/MAG for 3 turns & increases potency against targets whose Height is a multiple of 3 & chance of inflicting Immobilize for 3 turns."
+    },
+    {
+      "key": "SK_VC_LW_XMAS_PVA_B",
+      "value": "Deals Dmg (M) to targets within range based on caster's MAG stat & lowers ATK/MAG for 3 turns & increases potency against targets whose Height is a multiple of 2 & chance of inflicting Immobilize for 3 turns."
+    },
+    {
+      "key": "SK_VC_LW_LUCA_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FIGHT_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FIGHT_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DEAN_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_GRSR2_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_PAW3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_GRSR2_PMAX3",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SCAL_PVA",
+      "value": "Deals Non-Elemental Dmg (XL) to target based on caster's MAG stat."
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_PAW3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SCAL_PMAX3",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TNBR_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TNBR_PAW",
       "value": ""
     },
     {
@@ -7338,6 +7930,54 @@
     },
     {
       "key": "SK_VC_LW_ORDR_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF14_MV3_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LVAT_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LVAT_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LVAT_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LVAT_PVA",
+      "value": "Deals Dmg (L) to target & raises Dmg according to amount of own HP lost."
+    },
+    {
+      "key": "SK_VC_LW_ASSASIN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ASSASIN_PAW",
       "value": ""
     },
     {
@@ -8210,6 +8850,14 @@
     },
     {
       "key": "SK_BTL_RESDB_ATK_1_100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_RESDB_SLASH_1_100_U",
+      "value": "Quest-balancing skill"
+    },
+    {
+      "key": "SK_BTL_RESDB_ELEMALL1_1_100_U",
       "value": "Quest-balancing skill"
     },
     {

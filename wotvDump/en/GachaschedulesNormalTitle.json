@@ -297,6 +297,54 @@
       "value": "Rare Summon"
     },
     {
+      "key": "Raregacha_A_gl20201202_01",
+      "value": "Rare Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20201202_10",
+      "value": "Rare 10x Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20201202_P",
+      "value": "Rare Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20201230_01",
+      "value": "Rare Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20201230_10",
+      "value": "Rare 10x Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20201230_P",
+      "value": "Rare Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20210106_01",
+      "value": "Rare Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20210106_10",
+      "value": "Rare 10x Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20210106_P",
+      "value": "Rare Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20210113_01",
+      "value": "Rare Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20210113_10",
+      "value": "Rare 10x Summon"
+    },
+    {
+      "key": "Raregacha_A_gl20210113_P",
+      "value": "Rare Summon"
+    },
+    {
       "key": "global_Normal_gacha_A_20191130",
       "value": "Release Commemoration — Limited Normal Summon"
     },
@@ -587,6 +635,74 @@
     {
       "key": "Campaign_gacha_gl20201125_10",
       "value": "MR+ Guaranteed Unit Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20201209_01",
+      "value": "Limited Normal Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20201209_10",
+      "value": "Limited Normal 10x Summon"
+    },
+    {
+      "key": "AF_Normal_gacha_A_gl20201209_10",
+      "value": "Equipment-Enhancing Material FREE Normal 10x Summon"
+    },
+    {
+      "key": "Campaign_gacha_gl20201209_10",
+      "value": "MR+ Guaranteed Unit Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20201216_01",
+      "value": "Limited Normal Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20201216_10",
+      "value": "Limited Normal 10x Summon"
+    },
+    {
+      "key": "AF_Normal_gacha_A_gl20201216_10",
+      "value": "Equipment-Enhancing Material FREE Normal 10x Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20201223_01",
+      "value": "Limited Normal Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20201223_10",
+      "value": "Limited Normal 10x Summon"
+    },
+    {
+      "key": "AF_Normal_gacha_A_gl20201223_10",
+      "value": "Equipment-Enhancing Material FREE Normal 10x Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20201230_01",
+      "value": "Limited Normal Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20201230_10",
+      "value": "Limited Normal 10x Summon"
+    },
+    {
+      "key": "AF_Normal_gacha_A_gl20201230_10",
+      "value": "Equipment-Enhancing Material FREE Normal 10x Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20210106_01",
+      "value": "Limited Normal Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20210106_10",
+      "value": "Limited Normal 10x Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20210113_01",
+      "value": "Limited Normal Summon"
+    },
+    {
+      "key": "Normal_gacha_A_gl20210113_10",
+      "value": "Limited Normal 10x Summon"
     }
   ]
 }

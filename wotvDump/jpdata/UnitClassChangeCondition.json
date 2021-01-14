@@ -129,6 +129,156 @@
         "s2": 15
       },
       "material_item_id": "JBEX_WATER_N"
+    },
+    {
+      "iname": "JB_LW_VNLA_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SOIL_UR"
+    },
+    {
+      "iname": "JB_LW_RAMD_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WATER_UR"
+    },
+    {
+      "iname": "JB_LW_MACR_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_FIRE_UR"
+    },
+    {
+      "iname": "JB_LW_MDNA_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_ICE_UR"
+    },
+    {
+      "iname": "JB_LW_OOOO_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_THUN_SSR"
+    },
+    {
+      "iname": "JB_LW_PHBE_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SHINE_SR"
+    },
+    {
+      "iname": "JB_LW_VKTR_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WATER_UR"
+    },
+    {
+      "iname": "JB_NIER_N2TB_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WIND_UR"
+    },
+    {
+      "iname": "JB_NIER_N9TS_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_THUN_UR"
+    },
+    {
+      "iname": "JB_LW_SIMR_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_FIRE_SSR"
+    },
+    {
+      "iname": "JB_LW_MONT_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_FIRE_UR"
+    },
+    {
+      "iname": "JB_LW_GLMS_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_ICE_UR"
+    },
+    {
+      "iname": "JB_LW_YERM_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WIND_UR"
+    },
+    {
+      "iname": "JB_LW_NASR_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_ICE_SSR"
+    },
+    {
+      "iname": "JB_LW_ETRE_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SOIL_SSR"
     }
   ]
 }

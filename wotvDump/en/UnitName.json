@@ -345,6 +345,34 @@
       "value": "Kain"
     },
     {
+      "key": "UN_LW_P_RAMD_01",
+      "value": "Ramada (Winter)"
+    },
+    {
+      "key": "UN_LW_P_MACR_01",
+      "value": "Machérie (Winter)"
+    },
+    {
+      "key": "UN_LW_P_LATH",
+      "value": "Luartha"
+    },
+    {
+      "key": "UN_LW_P_TITU",
+      "value": "Tyytas"
+    },
+    {
+      "key": "UN_LW_P_DEAN",
+      "value": "Duane"
+    },
+    {
+      "key": "UN_LW_P_NIVL",
+      "value": "Niv'Lu"
+    },
+    {
+      "key": "UN_LW_P_RVAL",
+      "value": "Livialle"
+    },
+    {
       "key": "UN_LW_E_IRDL",
       "value": "Ildyra"
     },
@@ -567,6 +595,10 @@
     {
       "key": "UN_LW_E_DRIO",
       "value": "Dario Hourne"
+    },
+    {
+      "key": "UN_LW_E_NIVL",
+      "value": "Niv'Lu"
     },
     {
       "key": "UN_FF01_E_WRMC",
@@ -1241,6 +1273,10 @@
       "value": "Water Elemental"
     },
     {
+      "key": "UN_LW_E_ELEM_01_RA",
+      "value": "Water Elemental"
+    },
+    {
       "key": "UN_LW_E_ELEM_02",
       "value": "Earth Elemental"
     },
@@ -1282,6 +1318,10 @@
     },
     {
       "key": "UN_LW_E_FF14_RAID",
+      "value": "Forgiven Dissonance"
+    },
+    {
+      "key": "UN_LW_E_FF14_RAID_01",
       "value": "Forgiven Dissonance"
     },
     {
@@ -1405,6 +1445,10 @@
       "value": "Siren"
     },
     {
+      "key": "UN_LW_E_SIRE_RAID",
+      "value": "Siren"
+    },
+    {
       "key": "UN_LW_E_SHIV",
       "value": "Shiva"
     },
@@ -1457,7 +1501,15 @@
       "value": "Gold Cactuar"
     },
     {
+      "key": "UN_LW_E_CACT_03_RAID",
+      "value": "Gold Cactuar"
+    },
+    {
       "key": "UN_LW_E_CACT_RAID",
+      "value": "Metal Cactuar"
+    },
+    {
+      "key": "UN_LW_E_CACT_RAID_01",
       "value": "Metal Cactuar"
     },
     {
@@ -1595,6 +1647,18 @@
     {
       "key": "UN_LW_E_MDFY_SIREN",
       "value": "Mindflayer"
+    },
+    {
+      "key": "UN_LW_E_TNBR_SIREN",
+      "value": "Tonberry"
+    },
+    {
+      "key": "UN_LW_E_LVAT",
+      "value": "Leviathan"
+    },
+    {
+      "key": "UN_LW_E_LVAT_SIREN",
+      "value": "Leviathan"
     },
     {
       "key": "UN_LW_E_ENBT",
@@ -1771,6 +1835,10 @@
     {
       "key": "UN_LW_E_BHMT_01_WAVE",
       "value": "Behemoth King"
+    },
+    {
+      "key": "UN_LW_E_CSLI_02",
+      "value": "Flan Princess"
     },
     {
       "key": "UN_LW_TU_MONT",
@@ -2299,6 +2367,42 @@
     {
       "key": "UN_FF4_S_DMNW_AW2",
       "value": "Demon Wall"
+    },
+    {
+      "key": "UN_LW_S_MOGL",
+      "value": "Moogle (Winter)"
+    },
+    {
+      "key": "UN_LW_S_MOGL_AW1",
+      "value": "Moogle (Winter)"
+    },
+    {
+      "key": "UN_LW_S_MOGL_AW2",
+      "value": "Moogle (Winter)"
+    },
+    {
+      "key": "UN_LW_S_TNBR",
+      "value": "Tonberry"
+    },
+    {
+      "key": "UN_LW_S_TNBR_AW1",
+      "value": "Tonberry"
+    },
+    {
+      "key": "UN_LW_S_TNBR_AW2",
+      "value": "Tonberry"
+    },
+    {
+      "key": "UN_LW_S_LVAT",
+      "value": "Leviathan"
+    },
+    {
+      "key": "UN_LW_S_LVAT_AW1",
+      "value": "Leviathan"
+    },
+    {
+      "key": "UN_LW_S_LVAT_AW2",
+      "value": "Leviathan"
     },
     {
       "key": "UN_GM_TREASURE",
