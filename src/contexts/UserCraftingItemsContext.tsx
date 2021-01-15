@@ -132,7 +132,7 @@ export const getTotalCraftingIngredients = (items: CraftingItem[], wotvDump: Dum
                 if (!acc.materials[iname]) {
                     acc.materials[iname] = needed;
                 } else {
-                    acc.materials[iname] = needed;
+                    acc.materials[iname] += needed;
                 }
             }
         }
