@@ -23,7 +23,7 @@ export const IngredientEntry: FunctionComponent<Props> = (props: Props) => {
                 <input
                     className="IngredientEntry-values-current"
                     placeholder={props.title}
-                    defaultValue={props.current}
+                    value={props.current || ''}
                     onChange={props.onChange}
                 />
                 {totalAcquired ?
