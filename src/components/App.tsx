@@ -22,7 +22,7 @@ export const App: FunctionComponent = () => {
                     <MaterialsList />
                 </ContentsDrawer>
                 <ContentsDrawer
-                    title="Crafting Plan"
+                    title="Crafting"
                     fixed={true}
                 >
                     <CraftingPlan />

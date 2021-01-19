@@ -8,6 +8,28 @@ import {WotvDumpContext} from '../contexts/WotvDumpContext';
 import './CraftingItemsTable.scss';
 import {IngredientEntry} from './IngredientEntry';
 
+const moveUp = (rawArr: CraftingItem[], startIndex: number): CraftingItem[] => {
+    if (startIndex === 0) {
+        return rawArr;
+    }
+
+    const arr = rawArr.slice();
+    [arr[startIndex], arr[startIndex - 1]] = [arr[startIndex - 1], arr[startIndex]];
+
+    return arr;
+};
+
+const moveDown = (rawArr: CraftingItem[], startIndex: number): CraftingItem[] => {
+    if (startIndex === rawArr.length - 1) {
+        return rawArr
+    }
+
+    const arr = rawArr.slice();
+    [arr[startIndex], arr[startIndex + 1]] = [arr[startIndex + 1], arr[startIndex]];
+
+    return arr;
+};
+
 export const CraftingItemsTable: FunctionComponent = () => {
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
     const [recipes, setRecipes] = useContext(UserRecipesContext);
@@ -184,125 +206,145 @@ export const CraftingItemsTable: FunctionComponent = () => {
                     </div>
                 </div>
                 <div className="CraftingItemsTable-row-contents">
-                    <div>
-                        {recipe &&
-                            <IngredientEntry
-                                title="Recipes"
-                                current={recipes[recipe].current}
-                                totalNeeded={totalIngredients.recipes[recipe]}
-                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                    const newRecipes: RecipeMap = {...recipes};
-
-                                    if (event.target.value === '') {
-                                        newRecipes[recipe].current = null;
-                                    } else {
-                                        newRecipes[recipe].current = +event.target.value;
-                                    }
-
-                                    setRecipes(newRecipes);
-                                }}
-                            />
-                        }
+                    <div className="CraftingItemsTable-row-contents-controls">
+                        <i
+                            className="material-icons CraftingItemsTable-row-contents-controls-arrow up"
+                            onClick={() => {
+                                setCraftingItems(moveUp(craftingItems, itemIndex));
+                            }}
+                        >
+                            arrow_drop_up
+                        </i>
+                        <i
+                            className="material-icons CraftingItemsTable-row-contents-controls-arrow down"
+                            onClick={() => {
+                                setCraftingItems(moveDown(craftingItems, itemIndex));
+                            }}
+                        >
+                            arrow_drop_down
+                        </i>
                     </div>
-                    <div>
-                        {book &&
-                            <IngredientEntry
-                                title={`${bookType} books`}
-                                current={books[book].current}
-                                totalNeeded={totalIngredients.books[book]}
-                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                    const newBooks: BookMap = {...books};
+                    <div className="CraftingItemsTable-row-contents-inputs">
+                        <div>
+                            {recipe &&
+                                <IngredientEntry
+                                    title="Recipes"
+                                    current={recipes[recipe].current}
+                                    totalNeeded={totalIngredients.recipes[recipe]}
+                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                        const newRecipes: RecipeMap = {...recipes};
 
-                                    if (event.target.value === '') {
-                                        newBooks[book].current = null;
-                                    } else {
-                                        newBooks[book].current = +event.target.value;
-                                    }
+                                        if (event.target.value === '') {
+                                            newRecipes[recipe].current = null;
+                                        } else {
+                                            newRecipes[recipe].current = +event.target.value;
+                                        }
 
-                                    setBooks(newBooks);
-                                }}
-                            />
-                        }
-                    </div>
-                    <div>
-                        {material1 &&
-                            <IngredientEntry
-                                title={itemNameMap[material1]}
-                                current={materials[material1].current}
-                                totalNeeded={totalIngredients.materials[material1]}
-                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                    const newMaterials: MaterialMap = {...materials};
+                                        setRecipes(newRecipes);
+                                    }}
+                                />
+                            }
+                        </div>
+                        <div>
+                            {book &&
+                                <IngredientEntry
+                                    title={`${bookType} books`}
+                                    current={books[book].current}
+                                    totalNeeded={totalIngredients.books[book]}
+                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                        const newBooks: BookMap = {...books};
 
-                                    if (event.target.value === '') {
-                                        newMaterials[material1].current = null;
-                                    } else {
-                                        newMaterials[material1].current = +event.target.value;
-                                    }
+                                        if (event.target.value === '') {
+                                            newBooks[book].current = null;
+                                        } else {
+                                            newBooks[book].current = +event.target.value;
+                                        }
 
-                                    setMaterials(newMaterials);
-                                }}
-                            />
-                        }
-                    </div>
-                    <div>
-                        {material2 &&
-                            <IngredientEntry
-                                title={itemNameMap[material2]}
-                                current={materials[material2].current}
-                                totalNeeded={totalIngredients.materials[material2]}
-                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                    const newMaterials: MaterialMap = {...materials};
+                                        setBooks(newBooks);
+                                    }}
+                                />
+                            }
+                        </div>
+                        <div>
+                            {material1 &&
+                                <IngredientEntry
+                                    title={itemNameMap[material1]}
+                                    current={materials[material1].current}
+                                    totalNeeded={totalIngredients.materials[material1]}
+                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                        const newMaterials: MaterialMap = {...materials};
 
-                                    if (event.target.value === '') {
-                                        newMaterials[material2].current = null;
-                                    } else {
-                                        newMaterials[material2].current = +event.target.value;
-                                    }
+                                        if (event.target.value === '') {
+                                            newMaterials[material1].current = null;
+                                        } else {
+                                            newMaterials[material1].current = +event.target.value;
+                                        }
 
-                                    setMaterials(newMaterials);
-                                }}
-                            />
-                        }
-                    </div>
-                    <div>
-                        {material3 &&
-                            <IngredientEntry
-                                title={itemNameMap[material3]}
-                                current={materials[material3].current}
-                                totalNeeded={totalIngredients.materials[material3]}
-                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                    const newMaterials: MaterialMap = {...materials};
+                                        setMaterials(newMaterials);
+                                    }}
+                                />
+                            }
+                        </div>
+                        <div>
+                            {material2 &&
+                                <IngredientEntry
+                                    title={itemNameMap[material2]}
+                                    current={materials[material2].current}
+                                    totalNeeded={totalIngredients.materials[material2]}
+                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                        const newMaterials: MaterialMap = {...materials};
 
-                                    if (event.target.value === '') {
-                                        newMaterials[material3].current = null;
-                                    } else {
-                                        newMaterials[material3].current = +event.target.value;
-                                    }
+                                        if (event.target.value === '') {
+                                            newMaterials[material2].current = null;
+                                        } else {
+                                            newMaterials[material2].current = +event.target.value;
+                                        }
 
-                                    setMaterials(newMaterials);
-                                }}
-                            />
-                        }
-                    </div>
-                    <div>
-                        {material4 &&
-                            <IngredientEntry
-                                title={itemNameMap[material4]}
-                                current={materials[material4].current}
-                                totalNeeded={totalIngredients.materials[material4]}
-                                onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                    const newMaterials: MaterialMap = {...materials};
+                                        setMaterials(newMaterials);
+                                    }}
+                                />
+                            }
+                        </div>
+                        <div>
+                            {material3 &&
+                                <IngredientEntry
+                                    title={itemNameMap[material3]}
+                                    current={materials[material3].current}
+                                    totalNeeded={totalIngredients.materials[material3]}
+                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                        const newMaterials: MaterialMap = {...materials};
 
-                                    if (event.target.value === '') {
-                                        newMaterials[material4].current = null;
-                                    } else {
-                                        newMaterials[material4].current = +event.target.value;
-                                    }
+                                        if (event.target.value === '') {
+                                            newMaterials[material3].current = null;
+                                        } else {
+                                            newMaterials[material3].current = +event.target.value;
+                                        }
 
-                                    setMaterials(newMaterials);
-                                }}
-                            />
-                        }
+                                        setMaterials(newMaterials);
+                                    }}
+                                />
+                            }
+                        </div>
+                        <div>
+                            {material4 &&
+                                <IngredientEntry
+                                    title={itemNameMap[material4]}
+                                    current={materials[material4].current}
+                                    totalNeeded={totalIngredients.materials[material4]}
+                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                        const newMaterials: MaterialMap = {...materials};
+
+                                        if (event.target.value === '') {
+                                            newMaterials[material4].current = null;
+                                        } else {
+                                            newMaterials[material4].current = +event.target.value;
+                                        }
+
+                                        setMaterials(newMaterials);
+                                    }}
+                                />
+                            }
+                        </div>
                     </div>
                 </div>
             </div>

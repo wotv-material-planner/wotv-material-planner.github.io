@@ -74,13 +74,40 @@
                 .CraftingItemsTable-row-head-delete {
                     margin-left: auto;
                     color: $pink;
-                    // text-shadow: $cyan 1px 0 1px;
                 }
             }
 
             .CraftingItemsTable-row-contents {
                 display: flex;
-                flex-wrap: wrap;
+
+                .CraftingItemsTable-row-contents-controls {
+                    display: flex;
+                    flex-direction: column;
+
+                    .CraftingItemsTable-row-contents-controls-arrow {
+                        color: $cyan;
+                        margin-top: 5px;
+                        cursor: pointer;
+
+                        &:active {
+                            color: $pink;
+                        }
+
+                        &.up:hover {
+                            text-shadow: $pink 0 -2px;
+                        }
+
+                        &.down:hover {
+                            text-shadow: $pink 0 2px;
+                        }
+                    }
+                }
+
+                .CraftingItemsTable-row-contents-inputs {
+                    margin-left: 10px;
+                    display: flex;
+                    flex-wrap: wrap;
+                }
             }
         }
     }
