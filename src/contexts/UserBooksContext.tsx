@@ -13,25 +13,26 @@ export interface UserBookValues {
     totalNeeded: number | null;
 };
 
-export interface BookMap {
+export interface UserBookMap {
     [book: string]: UserBookValues;
 };
 
-export const UserBooksContext = createContext<PersistedState<BookMap>>([null, null]);
+export const UserBooksContext = createContext<PersistedState<UserBookMap>>([null, null]);
 
 export const UserBooksProvider = (props) => {
-    const {itemBooks} = useContext(WotvDumpContext);
+    const {itemBookMap} = useContext(WotvDumpContext);
+    const itemBooks = Object.keys(itemBookMap)
 
-    const initialUserBooksMap: BookMap = itemBooks.reduce((acc: BookMap, curr: Book): BookMap => {
-        acc[curr.key] = {
+    const initialUserBooksMap: UserBookMap = itemBooks.reduce((acc: UserBookMap, curr: string): UserBookMap => {
+        acc[curr] = {
             current: null,
             totalNeeded: null,
         };
     
         return acc;
-    }, {}) as BookMap;
+    }, {} as UserBookMap);
 
-    const defaultContext: PersistedState<BookMap> = usePersistedState<BookMap>('userBooks', initialUserBooksMap);
+    const defaultContext: PersistedState<UserBookMap> = usePersistedState<UserBookMap>('userBooks', initialUserBooksMap);
 
     return (
         <UserBooksContext.Provider value={defaultContext}>

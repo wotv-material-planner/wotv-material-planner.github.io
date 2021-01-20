@@ -7,7 +7,8 @@ import {defaultContext} from '~/contexts/WotvDumpContext';
 describe('BooksList', () => {
     it('renders an BooksList', () => {
         renderSubject({});
-        const {itemBooks} = defaultContext;
+        const {itemBookMap} = defaultContext;
+        const itemBooks = Object.keys(itemBookMap);
 
         expect(screen.getAllByRole('textbox')).toHaveLength(itemBooks.length);
     });

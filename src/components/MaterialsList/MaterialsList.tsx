@@ -1,31 +1,32 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {Material, MaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
+import {Material, UserMaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
 import {IngredientEntry} from '~/components/common/IngredientEntry';
 import './MaterialsList.scss'
 
 export const MaterialsList: FunctionComponent = () => {
-    const {itemMaterials} = useContext(WotvDumpContext);
+    const {itemMaterialMap} = useContext(WotvDumpContext);
+    const itemMaterials = Object.keys(itemMaterialMap);
     const [materials, setMaterials] = useContext(UserMaterialsContext);
 
     return (
         <div className="MaterialsList">
             {
-                itemMaterials.map((material: Material, index: number) => {
+                itemMaterials.map((material: string, index: number) => {
                     return (
                         <IngredientEntry
                             key={`materialEntry-${index}`}
-                            title={material.value}
-                            current={materials[material.key].current}
-                            totalNeeded={materials[material.key].totalNeeded}
+                            title={itemMaterialMap[material].name}
+                            current={materials[material].current}
+                            totalNeeded={materials[material].totalNeeded}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                const newMaterials: MaterialMap = {...materials};
+                                const newMaterials: UserMaterialMap = {...materials};
 
                                 if (event.target.value === '') {
-                                    newMaterials[material.key].current = null;
+                                    newMaterials[material].current = null;
                                 } else {
-                                    newMaterials[material.key].current = +event.target.value;
+                                    newMaterials[material].current = +event.target.value;
                                 }
 
                                 setMaterials(newMaterials);

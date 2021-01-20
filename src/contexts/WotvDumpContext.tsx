@@ -32,10 +32,28 @@ export interface DumpContext {
     artifactAwakeMap: object;
     itemMap: object;
     itemNameMap: object;
-    itemBooks: object[];
-    itemMaterials: object[];
-    itemRecipes: object[];
+    itemBookMap: IngredientMap;
+    itemMaterialMap: IngredientMap;
+    itemRecipeMap: IngredientMap;
 };
+
+export interface Ingredient {
+    iname: string;
+    name: string;
+    type?: number;
+    rare: number;
+    steal?: number;
+    coin?: number;
+    ac?: number;
+    mc?: number;
+    buy?: number;
+    sell: number;
+    icon?: string;
+}
+
+export interface IngredientMap {
+    [iname: string]: Ingredient;
+}
 
 interface Stat {
     label: string;
@@ -420,22 +438,61 @@ const getItemNameMap = () => {
     return itemNameMap;
 };
 
-const getItemBooks = () => {
-    return ItemName_en.infos.filter((item) => {
-        return item.key.startsWith('IT_AF_AW_');
-    });
+const getItemBookMap = () => {
+    const itemNameMap = getItemNameMap();
+
+    const itemMap = Item.items.filter((item) => {
+        return item.iname.startsWith('IT_AF_AW_');
+    }).reduce((acc: IngredientMap, curr): IngredientMap => {
+        const ingredient = {
+            ...curr,
+            name: itemNameMap[curr.iname],
+        };
+
+        acc[curr.iname] = ingredient;
+
+        return acc;
+    }, {} as IngredientMap);
+
+    return itemMap;
 };
 
-const getItemMaterials = () => {
-    return ItemName_en.infos.filter((item) => {
-        return item.key.startsWith('IT_AF_MAT_');
-    });
+const getItemMaterialMap = (): IngredientMap => {
+    const itemNameMap = getItemNameMap();
+
+    const itemMap = Item.items.filter((item) => {
+        return item.iname.startsWith('IT_AF_MAT_');
+    }).reduce((acc: IngredientMap, curr): IngredientMap => {
+        const ingredient = {
+            ...curr,
+            name: itemNameMap[curr.iname],
+        };
+
+        acc[curr.iname] = ingredient;
+
+        return acc;
+    }, {} as IngredientMap);
+
+    return itemMap;
 };
 
-const getItemRecipes = () => {
-    return Item.items.filter((item) => {
+const getItemRecipeMap = (): IngredientMap => {
+    const itemNameMap = getItemNameMap();
+
+    const recipeMap: IngredientMap = Item.items.filter((item) => {
         return item.type === 13;
-    });
+    }).reduce((acc: IngredientMap, curr): IngredientMap => {
+        const ingredient = {
+            ...curr,
+            name: itemNameMap[curr.iname],
+        };
+
+        acc[curr.iname] = ingredient;
+
+        return acc;
+    }, {} as IngredientMap);
+
+    return recipeMap;
 };
 
 export const defaultContext: DumpContext = {
@@ -454,9 +511,9 @@ export const defaultContext: DumpContext = {
     artifactAwakeMap: getArtifactAwakeMap(),
     itemMap: getItemMap(),
     itemNameMap: getItemNameMap(),
-    itemBooks: getItemBooks(),
-    itemMaterials: getItemMaterials(),
-    itemRecipes: getItemRecipes(),
+    itemBookMap: getItemBookMap(),
+    itemMaterialMap: getItemMaterialMap(),
+    itemRecipeMap: getItemRecipeMap(),
 };
 
 export const WotvDumpContext = createContext(defaultContext);

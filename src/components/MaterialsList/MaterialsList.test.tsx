@@ -7,7 +7,8 @@ import {defaultContext} from '~/contexts/WotvDumpContext';
 describe('MaterialsList', () => {
     it('renders an MaterialsList', () => {
         renderSubject({});
-        const {itemMaterials} = defaultContext;
+        const {itemMaterialMap} = defaultContext;
+        const itemMaterials = Object.keys(itemMaterialMap);
 
         expect(screen.getAllByRole('textbox')).toHaveLength(itemMaterials.length);
     });

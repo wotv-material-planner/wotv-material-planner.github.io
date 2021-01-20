@@ -5,6 +5,7 @@ import {WotvDumpContext} from './WotvDumpContext';
 
 export interface Recipe {
     iname: string;
+    name: string;
     type: number;
     rare: number;
     steal: number;
@@ -21,25 +22,26 @@ export interface UserRecipeValues {
     totalNeeded: number | null;
 };
 
-export interface RecipeMap {
+export interface UserRecipeMap {
     [recipe: string]: UserRecipeValues;
 };
 
-export const UserRecipesContext = createContext<PersistedState<RecipeMap>>([null, null]);
+export const UserRecipesContext = createContext<PersistedState<UserRecipeMap>>([null, null]);
 
 export const UserRecipesProvider = (props) => {
-    const {itemRecipes} = useContext(WotvDumpContext);
+    const {itemRecipeMap} = useContext(WotvDumpContext);
+    const itemRecipes = Object.keys(itemRecipeMap);
 
-    const initialUserRecipesMap: RecipeMap = itemRecipes.reduce((acc: RecipeMap, curr: Recipe): RecipeMap => {
-        acc[curr.iname] = {
+    const initialUserRecipesMap: UserRecipeMap = itemRecipes.reduce((acc: UserRecipeMap, curr: string): UserRecipeMap => {
+        acc[curr] = {
             current: null,
             totalNeeded: null,
         };
     
         return acc;
-    }, {}) as RecipeMap;
+    }, {} as UserRecipeMap);
 
-    const defaultContext: PersistedState<RecipeMap> = usePersistedState<RecipeMap>('userRecipes', initialUserRecipesMap);
+    const defaultContext: PersistedState<UserRecipeMap> = usePersistedState<UserRecipeMap>('userRecipes', initialUserRecipesMap);
 
     return (
         <UserRecipesContext.Provider value={defaultContext}>

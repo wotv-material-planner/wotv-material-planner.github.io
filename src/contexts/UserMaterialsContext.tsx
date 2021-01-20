@@ -13,25 +13,26 @@ export interface UserMaterialValues {
     totalNeeded: number | null;
 };
 
-export interface MaterialMap {
+export interface UserMaterialMap {
     [material: string]: UserMaterialValues;
 };
 
-export const UserMaterialsContext = createContext<PersistedState<MaterialMap>>([null, null]);
+export const UserMaterialsContext = createContext<PersistedState<UserMaterialMap>>([null, null]);
 
 export const UserMaterialsProvider = (props) => {
-    const {itemMaterials} = useContext(WotvDumpContext);
+    const {itemMaterialMap} = useContext(WotvDumpContext);
+    const itemMaterials = Object.keys(itemMaterialMap);
 
-    const initialUserMaterialsMap: MaterialMap = itemMaterials.reduce((acc: MaterialMap, curr: Material): MaterialMap => {
-        acc[curr.key] = {
+    const initialUserMaterialsMap: UserMaterialMap = itemMaterials.reduce((acc: UserMaterialMap, curr: string): UserMaterialMap => {
+        acc[curr] = {
             current: null,
             totalNeeded: null,
         };
     
         return acc;
-    }, {}) as MaterialMap;
+    }, {} as UserMaterialMap);
 
-    const defaultContext: PersistedState<MaterialMap> = usePersistedState<MaterialMap>('userMaterials', initialUserMaterialsMap);
+    const defaultContext: PersistedState<UserMaterialMap> = usePersistedState<UserMaterialMap>('userMaterials', initialUserMaterialsMap);
 
     return (
         <UserMaterialsContext.Provider value={defaultContext}>

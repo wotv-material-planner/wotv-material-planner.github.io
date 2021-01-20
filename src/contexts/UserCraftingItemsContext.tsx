@@ -1,9 +1,9 @@
 import * as React from 'react';
 import {createContext, FunctionComponent, useContext, useEffect} from 'react';
 import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
-import {BookMap, UserBooksContext} from './UserBooksContext';
-import {MaterialMap, UserMaterialsContext} from './UserMaterialsContext';
-import {Recipe, RecipeMap, UserRecipesContext} from './UserRecipesContext';
+import {UserBookMap, UserBooksContext} from './UserBooksContext';
+import {UserMaterialMap, UserMaterialsContext} from './UserMaterialsContext';
+import {UserRecipeMap, UserRecipesContext} from './UserRecipesContext';
 import {DumpContext, WotvDumpContext} from './WotvDumpContext';
 
 export interface CraftingItem {
@@ -81,10 +81,8 @@ export const getItemCraftingIngredients = (iname: string, level: number, wotvDum
 };
 
 export const getTotalCraftingIngredients = (items: CraftingItem[], wotvDump: DumpContext): TotalCraftingIngredients => {
-    const {itemRecipes} = wotvDump;
-    const allRecipes = itemRecipes.map((recipe: Recipe) => {
-        return recipe.iname;
-    });
+    const {itemRecipeMap} = wotvDump;
+    const allRecipes = Object.keys(itemRecipeMap);
 
     return items.reduce((acc: TotalCraftingIngredients, curr: CraftingItem) => {
         let targetPlusIname = curr.iname;
@@ -152,9 +150,9 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
     const wotvDump = useContext(WotvDumpContext);
 
     useEffect(() => {
-        const newBooks: BookMap = {...books};
-        const newRecipes: RecipeMap = {...recipes};
-        const newMaterials: MaterialMap = {...materials};
+        const newBooks: UserBookMap = {...books};
+        const newRecipes: UserRecipeMap = {...recipes};
+        const newMaterials: UserMaterialMap = {...materials};
 
         const totalElements = getTotalCraftingIngredients(craftingItems, wotvDump);
 

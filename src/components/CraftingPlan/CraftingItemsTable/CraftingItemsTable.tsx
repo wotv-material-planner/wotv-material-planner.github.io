@@ -1,9 +1,9 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {BookMap, UserBooksContext} from '~/contexts/UserBooksContext';
+import {UserBookMap, UserBooksContext} from '~/contexts/UserBooksContext';
 import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '~/contexts/UserCraftingItemsContext';
-import {MaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
-import {RecipeMap, UserRecipesContext} from '~/contexts/UserRecipesContext';
+import {UserMaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
+import {UserRecipeMap, UserRecipesContext} from '~/contexts/UserRecipesContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
 import {IngredientEntry} from '~/components/common/IngredientEntry';
 import './CraftingItemsTable.scss';
@@ -232,7 +232,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     current={recipes[recipe].current}
                                     totalNeeded={totalIngredients.recipes[recipe]}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newRecipes: RecipeMap = {...recipes};
+                                        const newRecipes: UserRecipeMap = {...recipes};
 
                                         if (event.target.value === '') {
                                             newRecipes[recipe].current = null;
@@ -252,7 +252,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     current={books[book].current}
                                     totalNeeded={totalIngredients.books[book]}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newBooks: BookMap = {...books};
+                                        const newBooks: UserBookMap = {...books};
 
                                         if (event.target.value === '') {
                                             newBooks[book].current = null;
@@ -272,7 +272,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     current={materials[material1].current}
                                     totalNeeded={totalIngredients.materials[material1]}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newMaterials: MaterialMap = {...materials};
+                                        const newMaterials: UserMaterialMap = {...materials};
 
                                         if (event.target.value === '') {
                                             newMaterials[material1].current = null;
@@ -292,7 +292,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     current={materials[material2].current}
                                     totalNeeded={totalIngredients.materials[material2]}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newMaterials: MaterialMap = {...materials};
+                                        const newMaterials: UserMaterialMap = {...materials};
 
                                         if (event.target.value === '') {
                                             newMaterials[material2].current = null;
@@ -312,7 +312,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     current={materials[material3].current}
                                     totalNeeded={totalIngredients.materials[material3]}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newMaterials: MaterialMap = {...materials};
+                                        const newMaterials: UserMaterialMap = {...materials};
 
                                         if (event.target.value === '') {
                                             newMaterials[material3].current = null;
@@ -332,7 +332,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     current={materials[material4].current}
                                     totalNeeded={totalIngredients.materials[material4]}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newMaterials: MaterialMap = {...materials};
+                                        const newMaterials: UserMaterialMap = {...materials};
 
                                         if (event.target.value === '') {
                                             newMaterials[material4].current = null;
