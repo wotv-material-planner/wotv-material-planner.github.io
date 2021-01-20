@@ -1,12 +1,12 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {BookMap, UserBooksContext} from '../contexts/UserBooksContext';
-import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '../contexts/UserCraftingItemsContext';
-import {MaterialMap, UserMaterialsContext} from '../contexts/UserMaterialsContext';
-import {RecipeMap, UserRecipesContext} from '../contexts/UserRecipesContext';
-import {WotvDumpContext} from '../contexts/WotvDumpContext';
+import {BookMap, UserBooksContext} from '~/contexts/UserBooksContext';
+import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '~/contexts/UserCraftingItemsContext';
+import {MaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
+import {RecipeMap, UserRecipesContext} from '~/contexts/UserRecipesContext';
+import {WotvDumpContext} from '~/contexts/WotvDumpContext';
+import {IngredientEntry} from '~/components/common/IngredientEntry';
 import './CraftingItemsTable.scss';
-import {IngredientEntry} from './IngredientEntry';
 
 const moveUp = (rawArr: CraftingItem[], startIndex: number): CraftingItem[] => {
     if (startIndex === 0) {

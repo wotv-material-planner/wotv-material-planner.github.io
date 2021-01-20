@@ -1,8 +1,8 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {Book, BookMap, UserBooksContext} from '../contexts/UserBooksContext';
-import {WotvDumpContext} from '../contexts/WotvDumpContext';
-import {IngredientEntry} from './IngredientEntry';
+import {Book, BookMap, UserBooksContext} from '~/contexts/UserBooksContext';
+import {WotvDumpContext} from '~/contexts/WotvDumpContext';
+import {IngredientEntry} from '~/components/common/IngredientEntry';
 import './BooksList.scss'
 
 export const BooksList: FunctionComponent = () => {

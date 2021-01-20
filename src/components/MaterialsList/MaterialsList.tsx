@@ -1,8 +1,8 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {Material, MaterialMap, UserMaterialsContext} from '../contexts/UserMaterialsContext';
-import {WotvDumpContext} from '../contexts/WotvDumpContext';
-import {IngredientEntry} from './IngredientEntry';
+import {Material, MaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
+import {WotvDumpContext} from '~/contexts/WotvDumpContext';
+import {IngredientEntry} from '~/components/common/IngredientEntry';
 import './MaterialsList.scss'
 
 export const MaterialsList: FunctionComponent = () => {

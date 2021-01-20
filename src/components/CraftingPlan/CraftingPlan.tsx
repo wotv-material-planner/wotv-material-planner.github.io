@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, useState} from 'react';
-import {UserCraftingItemsContext, CraftingItem} from '../contexts/UserCraftingItemsContext';
-import {WotvDumpContext, Category, ArtifactListItem} from '../contexts/WotvDumpContext';
+import {UserCraftingItemsContext, CraftingItem} from '~/contexts/UserCraftingItemsContext';
+import {WotvDumpContext, Category, ArtifactListItem} from '~/contexts/WotvDumpContext';
 import {CraftingItemsTable} from './CraftingItemsTable';
 import './CraftingPlan.scss'
 

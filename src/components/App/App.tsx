@@ -1,9 +1,9 @@
 import * as React from 'react';
 import {FunctionComponent, useContext} from 'react';
-import {BooksList} from './BooksList';
-import {MaterialsList} from './MaterialsList';
-import {CraftingPlan} from './CraftingPlan';
-import {ContentsDrawer} from './ContentsDrawer';
+import {BooksList} from '~/components/BooksList';
+import {MaterialsList} from '~/components/MaterialsList';
+import {CraftingPlan} from '~/components/CraftingPlan';
+import {ContentsDrawer} from '~/components/common/ContentsDrawer';
 import './App.scss'
 
 export const App: FunctionComponent = () => {

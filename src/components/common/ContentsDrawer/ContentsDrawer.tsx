@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {FunctionComponent, PropsWithChildren, useState, useEffect} from 'react';
+import {FunctionComponent, PropsWithChildren, useState} from 'react';
 import './ContentsDrawer.scss'
 
 interface Props {

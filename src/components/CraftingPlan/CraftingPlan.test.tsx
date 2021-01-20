@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {render, screen} from '@testing-library/react';
 import {CraftingPlan} from './CraftingPlan';
-import {UserDataProvider} from '../contexts/UserDataProvider';
+import {UserDataProvider} from '~/contexts/UserDataProvider';
 
 describe('CraftingPlan', () => {
     it('renders a CraftingPlan', () => {
