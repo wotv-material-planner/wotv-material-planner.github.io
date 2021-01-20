@@ -96,12 +96,12 @@ export const CraftingItemsTable: FunctionComponent = () => {
                     </div>
                     <div className="CraftingItemsTable-row-head-plusSelects">
                         {artifactMap[`${craftingItem.iname}_1`] &&
-                            <>
+                            <div className="CraftingItemsTable-row-head-plusSelect">
                                 <div className="CraftingItemsTable-row-head-plusLabel">
                                     Current
                                 </div>
                                 <select
-                                    className="CraftingItemsTable-row-head-plusSelect"
+                                    className="CraftingItemsTable-row-head-select"
                                     value={craftingItem.currentPlus ?? ''}
                                     onChange={(event) => {
                                         const newCraftingItems = [...craftingItems];
@@ -127,15 +127,15 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     <option value="4">+4</option>
                                     <option value="5">+5</option>
                                 </select>
-                            </>
+                            </div>
                         }
                         {artifactMap[`${artifact.iname}_1`] &&
-                            <>
+                            <div className="CraftingItemsTable-row-head-plusSelect">
                                 <div className="CraftingItemsTable-row-head-plusLabel">
                                     Target
                                 </div>
                                 <select
-                                    className="CraftingItemsTable-row-head-plusSelect"
+                                    className="CraftingItemsTable-row-head-select"
                                     value={craftingItem.targetPlus ?? ''}
                                     onChange={(event) => {
                                         const newCraftingItems = [...craftingItems];
@@ -156,7 +156,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     <option value="4">+4</option>
                                     <option value="5">+5</option>
                                 </select>
-                            </>
+                            </div>
                         }
                     </div>
                     <div
@@ -231,6 +231,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     title="Recipes"
                                     current={recipes[recipe].current}
                                     totalNeeded={totalIngredients.recipes[recipe]}
+                                    asset={`equipment/${artifact.asset}.png`}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                         const newRecipes: UserRecipeMap = {...recipes};
 
@@ -251,6 +252,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     title={`${bookType} books`}
                                     current={books[book].current}
                                     totalNeeded={totalIngredients.books[book]}
+                                    asset={`items/${book}.png`}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                         const newBooks: UserBookMap = {...books};
 
@@ -271,6 +273,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     title={itemNameMap[material1]}
                                     current={materials[material1].current}
                                     totalNeeded={totalIngredients.materials[material1]}
+                                    asset={`items/${material1}.png`}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                         const newMaterials: UserMaterialMap = {...materials};
 
@@ -291,6 +294,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     title={itemNameMap[material2]}
                                     current={materials[material2].current}
                                     totalNeeded={totalIngredients.materials[material2]}
+                                    asset={`items/${material2}.png`}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                         const newMaterials: UserMaterialMap = {...materials};
 
@@ -311,6 +315,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     title={itemNameMap[material3]}
                                     current={materials[material3].current}
                                     totalNeeded={totalIngredients.materials[material3]}
+                                    asset={`items/${material3}.png`}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                         const newMaterials: UserMaterialMap = {...materials};
 
@@ -331,6 +336,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                     title={itemNameMap[material4]}
                                     current={materials[material4].current}
                                     totalNeeded={totalIngredients.materials[material4]}
+                                    asset={`items/${material4}.png`}
                                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                         const newMaterials: UserMaterialMap = {...materials};
 

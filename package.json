@@ -9,6 +9,10 @@
     "lint": "tsc --noEmit && eslint 'src/**/*.{js,ts,tsx}' --quiet",
     "test": "jest --verbose"
   },
+  "staticFiles": {
+    "staticPath": ["wotvDump/img"],
+    "watcherGlob": "**"
+  },
   "jest": {
     "moduleNameMapper": {
       "~(.*)$": "<rootDir>/src/$1",
@@ -44,6 +48,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.1.0",
     "jest-mock-axios": "^3.2.0",
+    "parcel-plugin-static-files-copy": "^2.5.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "regenerator-runtime": "^0.13.5",

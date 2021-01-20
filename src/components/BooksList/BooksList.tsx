@@ -18,6 +18,7 @@ export const BooksList: FunctionComponent = () => {
                 key={`bookinput-${index}`}
                 title={bookType}
                 current={books[book].current}
+                asset={`items/${book}.png`}
                 totalNeeded={books[book].totalNeeded}
                 onChange={(event: ChangeEvent<HTMLInputElement>) => {
                     const newBooks: UserBookMap = {...books};

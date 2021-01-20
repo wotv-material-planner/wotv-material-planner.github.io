@@ -2,56 +2,73 @@
 
 .IngredientEntry {
     margin-top: 10px;
-    width: 115px;
+    width: 145px;
+    display: flex;
+    align-items: center;
 
-    .IngredientEntry-title {
-        font-size: 0.8em;
-        height: 1.2em;
-        margin-bottom: 5px;
-        text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
-        white-space: nowrap;
-        overflow: hidden;
+    .IngredientEntry-image {
+        margin: 5px;
+        border-radius: 5px;
+        border: 1px solid $light-grey;
+        background-color: rgba($black, 0.5);
+
+        img {
+            height: 30px;
+        }
     }
 
-    .IngredientEntry-values {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        position: relative;
+    .IngredientEntry-content{
+        width: 110px;
 
-        .IngredientEntry-values-status {
-            position: absolute;
-            margin-bottom: 1px;
-            left: 45px;
+        .IngredientEntry-title {
             font-size: 0.8em;
-
-            &.yes {
-                color: $green;
-            }
-
-            &.no {
-                color: $pink;
-            }
+            height: 1.2em;
+            margin-bottom: 5px;
+            text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
+            white-space: nowrap;
+            overflow: hidden;
         }
 
-        .IngredientEntry-values-current {
-            font-size: 0.7em;
-            padding-top: 2px;
-            width: 60px;
-            background-color: $black;
-            border: 1px solid $cyan;
-            color: $white;
+        .IngredientEntry-values {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: relative;
 
-            &:focus {
-                outline-color: $pink;
-                outline-style: inset;
-                outline-width: 1px;
+            .IngredientEntry-values-status {
+                position: absolute;
+                margin-bottom: 1px;
+                left: 40px;
+                font-size: 0.8em;
+
+                &.yes {
+                    color: $green;
+                }
+
+                &.no {
+                    color: $pink;
+                }
             }
-        }
 
-        .IngredientEntry-values-totalNeeded {
-            font-size: 0.7em;
-            width: 45px;
+            .IngredientEntry-values-current {
+                font-size: 0.7em;
+                padding-top: 2px;
+                width: 55px;
+                background-color: $black;
+                border: 1px solid $cyan;
+                color: $white;
+
+                &:focus {
+                    outline-color: $pink;
+                    outline-style: inset;
+                    outline-width: 1px;
+                }
+            }
+
+            .IngredientEntry-values-totalNeeded {
+                font-size: 0.7em;
+                width: 40px;
+            }
         }
     }
 }

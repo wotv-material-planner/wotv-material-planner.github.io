@@ -20,6 +20,7 @@ export const MaterialsList: FunctionComponent = () => {
                             title={itemMaterialMap[material].name}
                             current={materials[material].current}
                             totalNeeded={materials[material].totalNeeded}
+                            asset={`items/${material}.png`}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                 const newMaterials: UserMaterialMap = {...materials};
 
