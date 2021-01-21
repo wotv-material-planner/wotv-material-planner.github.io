@@ -1,15 +1,14 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, useState, ChangeEvent} from 'react';
-import {UserBookMap, UserBooksContext} from '~/contexts/UserBooksContext';
 import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '~/contexts/UserCraftingItemsContext';
 import {UserMaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
-import {UserRecipeMap, UserRecipesContext} from '~/contexts/UserRecipesContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
 import {IngredientEntry} from '~/components/common/IngredientEntry';
 import {RowMovementControls} from './RowMovementContrls';
 import {RowRecipe} from './RowRecipe';
 import './CraftingItemsTable.scss';
 import {RowDelete} from './RowDelete';
+import {RowBook} from './RowBook';
 
 const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number): CraftingItem[] => {
     const arr = rawArr.slice();
@@ -22,7 +21,6 @@ const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number):
 
 export const CraftingItemsTable: FunctionComponent = () => {
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
-    const [books, setBooks] = useContext(UserBooksContext);
     const [materials, setMaterials] = useContext(UserMaterialsContext);
     const [moveItem, setMoveItem] = useState<number>(null);
 
@@ -38,9 +36,6 @@ export const CraftingItemsTable: FunctionComponent = () => {
         }
 
         const totalIngredients = getTotalCraftingIngredients([craftingItem], wotvDump);
-
-        const book = Object.keys(totalIngredients.books)[0];
-        const bookType = itemNameMap[book]?.replace(/.*\(|\).*/g, '');
 
         const craftingMaterials = Object.keys(totalIngredients.materials);
         const material1 = craftingMaterials[0];
@@ -193,27 +188,9 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 totalRecipes={totalIngredients.recipes}
                                 asset={`equipment/${artifact.asset}.png`}
                             />
-                            <div>
-                                {book &&
-                                    <IngredientEntry
-                                        title={`${bookType} books`}
-                                        current={books[book].current}
-                                        totalNeeded={totalIngredients.books[book]}
-                                        asset={`items/${book}.png`}
-                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                            const newBooks: UserBookMap = {...books};
-
-                                            if (event.target.value === '') {
-                                                newBooks[book].current = null;
-                                            } else {
-                                                newBooks[book].current = +event.target.value;
-                                            }
-
-                                            setBooks(newBooks);
-                                        }}
-                                    />
-                                }
-                            </div>
+                            <RowBook
+                                totalBooks={totalIngredients.books}
+                            />
                             <div>
                                 {material1 &&
                                     <IngredientEntry

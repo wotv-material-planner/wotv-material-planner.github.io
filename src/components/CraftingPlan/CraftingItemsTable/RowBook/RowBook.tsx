@@ -1,0 +1,43 @@
+import * as React from 'react';
+import {FunctionComponent, useContext, ChangeEvent} from 'react';
+import {IngredientEntry} from '~components/common/IngredientEntry';
+import {UserBookMap, UserBooksContext} from '~contexts/UserBooksContext';
+import {CraftingIngredientMap} from '~contexts/UserCraftingItemsContext';
+import {WotvDumpContext} from '~contexts/WotvDumpContext';
+import './RowBook.scss'
+
+interface Props {
+    totalBooks: CraftingIngredientMap;
+};
+
+export const RowBook: FunctionComponent<Props> = (props) => {
+    const [books, setBooks] = useContext(UserBooksContext);
+    const {itemNameMap} = useContext(WotvDumpContext);
+
+    const book = Object.keys(props.totalBooks)[0];
+    const bookType = itemNameMap[book]?.replace(/.*\(|\).*/g, '');
+
+    return (
+        <div className="RowBook">
+            {book &&
+                <IngredientEntry
+                    title={`${bookType} books`}
+                    current={books[book].current}
+                    totalNeeded={props.totalBooks[book]}
+                    asset={`items/${book}.png`}
+                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                        const newBooks: UserBookMap = {...books};
+
+                        if (event.target.value === '') {
+                            newBooks[book].current = null;
+                        } else {
+                            newBooks[book].current = +event.target.value;
+                        }
+
+                        setBooks(newBooks);
+                    }}
+                />
+            }
+        </div>
+    );
+};
