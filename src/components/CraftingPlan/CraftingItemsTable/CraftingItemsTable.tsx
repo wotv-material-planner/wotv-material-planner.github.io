@@ -7,6 +7,7 @@ import {UserRecipeMap, UserRecipesContext} from '~/contexts/UserRecipesContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
 import {IngredientEntry} from '~/components/common/IngredientEntry';
 import {RowMovementControls} from './RowMovementContrls';
+import {RowRecipe} from './RowRecipe';
 import './CraftingItemsTable.scss';
 
 const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number): CraftingItem[] => {
@@ -231,27 +232,10 @@ export const CraftingItemsTable: FunctionComponent = () => {
                     </div>
                     <div className="CraftingItemsTable-row-contents">
                         <div className="CraftingItemsTable-row-contents-inputs">
-                            <div>
-                                {recipe &&
-                                    <IngredientEntry
-                                        title="Recipes"
-                                        current={recipes[recipe].current}
-                                        totalNeeded={totalIngredients.recipes[recipe]}
-                                        asset={`equipment/${artifact.asset}.png`}
-                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                            const newRecipes: UserRecipeMap = {...recipes};
-
-                                            if (event.target.value === '') {
-                                                newRecipes[recipe].current = null;
-                                            } else {
-                                                newRecipes[recipe].current = +event.target.value;
-                                            }
-
-                                            setRecipes(newRecipes);
-                                        }}
-                                    />
-                                }
-                            </div>
+                            <RowRecipe
+                                totalRecipes={totalIngredients.recipes}
+                                asset={`equipment/${artifact.asset}.png`}
+                            />
                             <div>
                                 {book &&
                                     <IngredientEntry

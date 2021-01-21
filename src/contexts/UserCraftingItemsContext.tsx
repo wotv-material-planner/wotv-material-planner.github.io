@@ -14,7 +14,7 @@ export interface CraftingItem {
     targetGrowthType: string;
 };
 
-interface CraftingIngredientMap {
+export interface CraftingIngredientMap {
     [num: string]: number;
 };
 
