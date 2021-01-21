@@ -9,6 +9,7 @@ import {IngredientEntry} from '~/components/common/IngredientEntry';
 import {RowMovementControls} from './RowMovementContrls';
 import {RowRecipe} from './RowRecipe';
 import './CraftingItemsTable.scss';
+import {RowDelete} from './RowDelete';
 
 const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number): CraftingItem[] => {
     const arr = rawArr.slice();
@@ -21,7 +22,6 @@ const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number):
 
 export const CraftingItemsTable: FunctionComponent = () => {
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
-    const [recipes, setRecipes] = useContext(UserRecipesContext);
     const [books, setBooks] = useContext(UserBooksContext);
     const [materials, setMaterials] = useContext(UserMaterialsContext);
     const [moveItem, setMoveItem] = useState<number>(null);
@@ -38,8 +38,6 @@ export const CraftingItemsTable: FunctionComponent = () => {
         }
 
         const totalIngredients = getTotalCraftingIngredients([craftingItem], wotvDump);
-
-        const recipe = Object.keys(totalIngredients.recipes)[0];
 
         const book = Object.keys(totalIngredients.books)[0];
         const bookType = itemNameMap[book]?.replace(/.*\(|\).*/g, '');
@@ -184,51 +182,10 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 </div>
                             }
                         </div>
-                        <div
-                            className="CraftingItemsTable-row-head-delete"
-                            onClick={() => {
-                                const newCraftingItems: CraftingItem[] = [...craftingItems];
-                                newCraftingItems.splice(itemIndex, 1);
-
-                                const newBooks = {...books};
-                                const newRecipes = {...recipes};
-                                const newMaterials = {...materials};
-
-                                if (book) {
-                                    newBooks[book].totalNeeded -= totalIngredients.books[book];
-                                }
-
-                                setBooks(newBooks);
-
-                                if (recipe) {
-                                    newRecipes[recipe].totalNeeded -= totalIngredients.recipes[recipe];
-                                }
-
-                                setRecipes(newRecipes);
-
-                                if (material1) {
-                                    newMaterials[material1].totalNeeded -= totalIngredients.materials[material1];
-                                }
-
-                                if (material2) {
-                                    newMaterials[material2].totalNeeded -= totalIngredients.materials[material2];
-                                }
-
-                                if (material3) {
-                                    newMaterials[material3].totalNeeded -= totalIngredients.materials[material3];
-                                }
-
-                                if (material4) {
-                                    newMaterials[material4].totalNeeded -= totalIngredients.materials[material4];
-                                }
-
-                                setMaterials(newMaterials);
-
-                                setCraftingItems(newCraftingItems);
-                            }}
-                        >
-                            <i className="material-icons">delete_forever</i>
-                        </div>
+                        <RowDelete
+                            itemIndex={itemIndex}
+                            totalIngredients={totalIngredients}
+                        />
                     </div>
                     <div className="CraftingItemsTable-row-contents">
                         <div className="CraftingItemsTable-row-contents-inputs">

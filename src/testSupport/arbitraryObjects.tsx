@@ -1,4 +1,4 @@
-import {CraftingItem} from "../contexts/UserCraftingItemsContext";
+import {CraftingItem, TotalCraftingIngredients} from "../contexts/UserCraftingItemsContext";
 
 export const arbitraryCraftingItem = (): CraftingItem => {
     return {
@@ -7,5 +7,13 @@ export const arbitraryCraftingItem = (): CraftingItem => {
         currentPlus: null,
         targetPlus: 0,
         targetGrowthType: ''
+    };
+};
+
+export const arbitraryTotalCraftingIngredients = (): TotalCraftingIngredients => {
+    return {
+        recipes: {},
+        books: {},
+        materials: {},
     };
 };
