@@ -1,31 +1,19 @@
 import * as React from 'react';
-import {FunctionComponent, useContext, ChangeEvent} from 'react';
+import {FunctionComponent, useContext, useState, ChangeEvent} from 'react';
 import {UserBookMap, UserBooksContext} from '~/contexts/UserBooksContext';
 import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '~/contexts/UserCraftingItemsContext';
 import {UserMaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
 import {UserRecipeMap, UserRecipesContext} from '~/contexts/UserRecipesContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
 import {IngredientEntry} from '~/components/common/IngredientEntry';
+import {RowMovementControls} from './RowMovementContrls';
 import './CraftingItemsTable.scss';
 
-const moveUp = (rawArr: CraftingItem[], startIndex: number): CraftingItem[] => {
-    if (startIndex === 0) {
-        return rawArr;
-    }
-
+const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number): CraftingItem[] => {
     const arr = rawArr.slice();
-    [arr[startIndex], arr[startIndex - 1]] = [arr[startIndex - 1], arr[startIndex]];
 
-    return arr;
-};
-
-const moveDown = (rawArr: CraftingItem[], startIndex: number): CraftingItem[] => {
-    if (startIndex === rawArr.length - 1) {
-        return rawArr
-    }
-
-    const arr = rawArr.slice();
-    [arr[startIndex], arr[startIndex + 1]] = [arr[startIndex + 1], arr[startIndex]];
+    const movingElement = arr.splice(movingIndex, 1)[0];
+    arr.splice(targetIndex, 0, movingElement);
 
     return arr;
 };
@@ -35,6 +23,8 @@ export const CraftingItemsTable: FunctionComponent = () => {
     const [recipes, setRecipes] = useContext(UserRecipesContext);
     const [books, setBooks] = useContext(UserBooksContext);
     const [materials, setMaterials] = useContext(UserMaterialsContext);
+    const [moveItem, setMoveItem] = useState<number>(null);
+
     const wotvDump = useContext(WotvDumpContext);
     const {artifactMap, itemNameMap, typeMap} = wotvDump;
 
@@ -64,292 +54,309 @@ export const CraftingItemsTable: FunctionComponent = () => {
                 className="CraftingItemsTable-row"
                 key={`craftingItem-${itemIndex}`}
             >
-                <div className="CraftingItemsTable-row-head">
-                    <div className="CraftingItemsTable-row-head-itemName">
-                        {`${artifact.name}${currentPlusText}`}
-                    </div>
-                    <div className="CraftingItemsTable-row-head-itemType">
-                        {typeMap[artifact.rtype][0].label &&
-                            <select
-                                className="CraftingItemsTable-row-head-itemType-select"
-                                value={craftingItem.targetGrowthType}
-                                onChange={(event) => {
-                                    const newCraftingItems = [...craftingItems];
-                                    craftingItems[itemIndex].targetGrowthType = event.target.value;
-
-                                    setCraftingItems(newCraftingItems);
-                                }}
-                            >
-                                <option value="" />
-                                {typeMap[artifact.rtype].map((typeOptions, index) => {
-                                    return (
-                                        <option
-                                            key={`craftingItem-${itemIndex}-option-${index}`}
-                                            value={typeOptions.value}
-                                        >
-                                            {typeOptions.label}
-                                        </option>
-                                    )
-                                })}
-                            </select>
+                <RowMovementControls
+                    move={(moveItem !== null) && (moveItem !== itemIndex)}
+                    isMoving={moveItem === itemIndex}
+                    onMoveUp={() => {
+                        if ((moveItem !== null)) {
+                            setMoveItem(null);
                         }
-                    </div>
-                    <div className="CraftingItemsTable-row-head-plusSelects">
-                        {artifactMap[`${craftingItem.iname}_1`] &&
-                            <div className="CraftingItemsTable-row-head-plusSelect">
-                                <div className="CraftingItemsTable-row-head-plusLabel">
-                                    Current
-                                </div>
+
+                        if (itemIndex !== 0) {
+                            setCraftingItems(move(craftingItems, itemIndex, itemIndex - 1));
+                        }
+                    }}
+                    onMoveDown={() => {
+                        if (moveItem !== null) {
+                            setMoveItem(null);
+                        }
+
+                        if (itemIndex !== craftingItems.length - 1) {
+                            setCraftingItems(move(craftingItems, itemIndex, itemIndex + 1));
+                        }
+                    }}
+                    onMove={() => {
+                        if (moveItem !== null) {
+                            if (moveItem !== itemIndex) {
+                                setCraftingItems(move(craftingItems, moveItem, itemIndex));
+                            }
+
+                            setMoveItem(null);
+                        } else {
+                            setMoveItem(itemIndex);
+                        }
+                    }}
+                />
+                <div className="CraftingItemsTable-row-main">
+                    <div className="CraftingItemsTable-row-head">
+                        <div className="CraftingItemsTable-row-head-itemName">
+                            {`${artifact.name}${currentPlusText}`}
+                        </div>
+                        <div className="CraftingItemsTable-row-head-itemType">
+                            {typeMap[artifact.rtype][0].label &&
                                 <select
-                                    className="CraftingItemsTable-row-head-select"
-                                    value={craftingItem.currentPlus ?? ''}
+                                    className="CraftingItemsTable-row-head-itemType-select"
+                                    value={craftingItem.targetGrowthType}
                                     onChange={(event) => {
                                         const newCraftingItems = [...craftingItems];
-
-                                        if (event.target.value === '') {
-                                            newCraftingItems[itemIndex].currentPlus = null;
-                                        } else {
-                                            newCraftingItems[itemIndex].currentPlus = +event.target.value;
-                                        }
-
-                                        if (newCraftingItems[itemIndex].targetPlus < +event.target.value) {
-                                            newCraftingItems[itemIndex].targetPlus = +event.target.value
-                                        }
+                                        craftingItems[itemIndex].targetGrowthType = event.target.value;
 
                                         setCraftingItems(newCraftingItems);
                                     }}
                                 >
-                                    <option value=""></option>
-                                    <option value="0">+0</option>
-                                    <option value="1">+1</option>
-                                    <option value="2">+2</option>
-                                    <option value="3">+3</option>
-                                    <option value="4">+4</option>
-                                    <option value="5">+5</option>
+                                    <option value="" />
+                                    {typeMap[artifact.rtype].map((typeOptions, index) => {
+                                        return (
+                                            <option
+                                                key={`craftingItem-${itemIndex}-option-${index}`}
+                                                value={typeOptions.value}
+                                            >
+                                                {typeOptions.label}
+                                            </option>
+                                        )
+                                    })}
                                 </select>
-                            </div>
-                        }
-                        {artifactMap[`${artifact.iname}_1`] &&
-                            <div className="CraftingItemsTable-row-head-plusSelect">
-                                <div className="CraftingItemsTable-row-head-plusLabel">
-                                    Target
+                            }
+                        </div>
+                        <div className="CraftingItemsTable-row-head-plusSelects">
+                            {artifactMap[`${craftingItem.iname}_1`] &&
+                                <div className="CraftingItemsTable-row-head-plusSelect">
+                                    <div className="CraftingItemsTable-row-head-plusLabel">
+                                        Current
+                                    </div>
+                                    <select
+                                        className="CraftingItemsTable-row-head-select"
+                                        value={craftingItem.currentPlus ?? ''}
+                                        onChange={(event) => {
+                                            const newCraftingItems = [...craftingItems];
+
+                                            if (event.target.value === '') {
+                                                newCraftingItems[itemIndex].currentPlus = null;
+                                            } else {
+                                                newCraftingItems[itemIndex].currentPlus = +event.target.value;
+                                            }
+
+                                            if (newCraftingItems[itemIndex].targetPlus < +event.target.value) {
+                                                newCraftingItems[itemIndex].targetPlus = +event.target.value
+                                            }
+
+                                            setCraftingItems(newCraftingItems);
+                                        }}
+                                    >
+                                        <option value=""></option>
+                                        <option value="0">+0</option>
+                                        <option value="1">+1</option>
+                                        <option value="2">+2</option>
+                                        <option value="3">+3</option>
+                                        <option value="4">+4</option>
+                                        <option value="5">+5</option>
+                                    </select>
                                 </div>
-                                <select
-                                    className="CraftingItemsTable-row-head-select"
-                                    value={craftingItem.targetPlus ?? ''}
-                                    onChange={(event) => {
-                                        const newCraftingItems = [...craftingItems];
-                                        newCraftingItems[itemIndex].targetPlus = +event.target.value;
+                            }
+                            {artifactMap[`${artifact.iname}_1`] &&
+                                <div className="CraftingItemsTable-row-head-plusSelect">
+                                    <div className="CraftingItemsTable-row-head-plusLabel">
+                                        Target
+                                    </div>
+                                    <select
+                                        className="CraftingItemsTable-row-head-select"
+                                        value={craftingItem.targetPlus ?? ''}
+                                        onChange={(event) => {
+                                            const newCraftingItems = [...craftingItems];
+                                            newCraftingItems[itemIndex].targetPlus = +event.target.value;
 
-                                        if (newCraftingItems[itemIndex].currentPlus > +event.target.value) {
-                                            newCraftingItems[itemIndex].currentPlus = +event.target.value;
-                                        }
+                                            if (newCraftingItems[itemIndex].currentPlus > +event.target.value) {
+                                                newCraftingItems[itemIndex].currentPlus = +event.target.value;
+                                            }
 
-                                        setCraftingItems(newCraftingItems);
-                                    }}
-                                >
-                                    <option value=""></option>
-                                    <option value="0">+0</option>
-                                    <option value="1">+1</option>
-                                    <option value="2">+2</option>
-                                    <option value="3">+3</option>
-                                    <option value="4">+4</option>
-                                    <option value="5">+5</option>
-                                </select>
+                                            setCraftingItems(newCraftingItems);
+                                        }}
+                                    >
+                                        <option value=""></option>
+                                        <option value="0">+0</option>
+                                        <option value="1">+1</option>
+                                        <option value="2">+2</option>
+                                        <option value="3">+3</option>
+                                        <option value="4">+4</option>
+                                        <option value="5">+5</option>
+                                    </select>
+                                </div>
+                            }
+                        </div>
+                        <div
+                            className="CraftingItemsTable-row-head-delete"
+                            onClick={() => {
+                                const newCraftingItems: CraftingItem[] = [...craftingItems];
+                                newCraftingItems.splice(itemIndex, 1);
+
+                                const newBooks = {...books};
+                                const newRecipes = {...recipes};
+                                const newMaterials = {...materials};
+
+                                if (book) {
+                                    newBooks[book].totalNeeded -= totalIngredients.books[book];
+                                }
+
+                                setBooks(newBooks);
+
+                                if (recipe) {
+                                    newRecipes[recipe].totalNeeded -= totalIngredients.recipes[recipe];
+                                }
+
+                                setRecipes(newRecipes);
+
+                                if (material1) {
+                                    newMaterials[material1].totalNeeded -= totalIngredients.materials[material1];
+                                }
+
+                                if (material2) {
+                                    newMaterials[material2].totalNeeded -= totalIngredients.materials[material2];
+                                }
+
+                                if (material3) {
+                                    newMaterials[material3].totalNeeded -= totalIngredients.materials[material3];
+                                }
+
+                                if (material4) {
+                                    newMaterials[material4].totalNeeded -= totalIngredients.materials[material4];
+                                }
+
+                                setMaterials(newMaterials);
+
+                                setCraftingItems(newCraftingItems);
+                            }}
+                        >
+                            <i className="material-icons">delete_forever</i>
+                        </div>
+                    </div>
+                    <div className="CraftingItemsTable-row-contents">
+                        <div className="CraftingItemsTable-row-contents-inputs">
+                            <div>
+                                {recipe &&
+                                    <IngredientEntry
+                                        title="Recipes"
+                                        current={recipes[recipe].current}
+                                        totalNeeded={totalIngredients.recipes[recipe]}
+                                        asset={`equipment/${artifact.asset}.png`}
+                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                            const newRecipes: UserRecipeMap = {...recipes};
+
+                                            if (event.target.value === '') {
+                                                newRecipes[recipe].current = null;
+                                            } else {
+                                                newRecipes[recipe].current = +event.target.value;
+                                            }
+
+                                            setRecipes(newRecipes);
+                                        }}
+                                    />
+                                }
                             </div>
-                        }
-                    </div>
-                    <div
-                        className="CraftingItemsTable-row-head-delete"
-                        onClick={() => {
-                            const newCraftingItems: CraftingItem[] = [...craftingItems];
-                            newCraftingItems.splice(itemIndex, 1);
+                            <div>
+                                {book &&
+                                    <IngredientEntry
+                                        title={`${bookType} books`}
+                                        current={books[book].current}
+                                        totalNeeded={totalIngredients.books[book]}
+                                        asset={`items/${book}.png`}
+                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                            const newBooks: UserBookMap = {...books};
 
-                            const newBooks = {...books};
-                            const newRecipes = {...recipes};
-                            const newMaterials = {...materials};
+                                            if (event.target.value === '') {
+                                                newBooks[book].current = null;
+                                            } else {
+                                                newBooks[book].current = +event.target.value;
+                                            }
 
-                            if (book) {
-                                newBooks[book].totalNeeded -= totalIngredients.books[book];
-                            }
+                                            setBooks(newBooks);
+                                        }}
+                                    />
+                                }
+                            </div>
+                            <div>
+                                {material1 &&
+                                    <IngredientEntry
+                                        title={itemNameMap[material1]}
+                                        current={materials[material1].current}
+                                        totalNeeded={totalIngredients.materials[material1]}
+                                        asset={`items/${material1}.png`}
+                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                            const newMaterials: UserMaterialMap = {...materials};
 
-                            setBooks(newBooks);
+                                            if (event.target.value === '') {
+                                                newMaterials[material1].current = null;
+                                            } else {
+                                                newMaterials[material1].current = +event.target.value;
+                                            }
 
-                            if (recipe) {
-                                newRecipes[recipe].totalNeeded -= totalIngredients.recipes[recipe];
-                            }
+                                            setMaterials(newMaterials);
+                                        }}
+                                    />
+                                }
+                            </div>
+                            <div>
+                                {material2 &&
+                                    <IngredientEntry
+                                        title={itemNameMap[material2]}
+                                        current={materials[material2].current}
+                                        totalNeeded={totalIngredients.materials[material2]}
+                                        asset={`items/${material2}.png`}
+                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                            const newMaterials: UserMaterialMap = {...materials};
 
-                            setRecipes(newRecipes);
+                                            if (event.target.value === '') {
+                                                newMaterials[material2].current = null;
+                                            } else {
+                                                newMaterials[material2].current = +event.target.value;
+                                            }
 
-                            if (material1) {
-                                newMaterials[material1].totalNeeded -= totalIngredients.materials[material1];
-                            }
+                                            setMaterials(newMaterials);
+                                        }}
+                                    />
+                                }
+                            </div>
+                            <div>
+                                {material3 &&
+                                    <IngredientEntry
+                                        title={itemNameMap[material3]}
+                                        current={materials[material3].current}
+                                        totalNeeded={totalIngredients.materials[material3]}
+                                        asset={`items/${material3}.png`}
+                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                            const newMaterials: UserMaterialMap = {...materials};
 
-                            if (material2) {
-                                newMaterials[material2].totalNeeded -= totalIngredients.materials[material2];
-                            }
+                                            if (event.target.value === '') {
+                                                newMaterials[material3].current = null;
+                                            } else {
+                                                newMaterials[material3].current = +event.target.value;
+                                            }
 
-                            if (material3) {
-                                newMaterials[material3].totalNeeded -= totalIngredients.materials[material3];
-                            }
+                                            setMaterials(newMaterials);
+                                        }}
+                                    />
+                                }
+                            </div>
+                            <div>
+                                {material4 &&
+                                    <IngredientEntry
+                                        title={itemNameMap[material4]}
+                                        current={materials[material4].current}
+                                        totalNeeded={totalIngredients.materials[material4]}
+                                        asset={`items/${material4}.png`}
+                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
+                                            const newMaterials: UserMaterialMap = {...materials};
 
-                            if (material4) {
-                                newMaterials[material4].totalNeeded -= totalIngredients.materials[material4];
-                            }
+                                            if (event.target.value === '') {
+                                                newMaterials[material4].current = null;
+                                            } else {
+                                                newMaterials[material4].current = +event.target.value;
+                                            }
 
-                            setMaterials(newMaterials);
-
-                            setCraftingItems(newCraftingItems);
-                        }}
-                    >
-                        <i className="material-icons">delete_forever</i>
-                    </div>
-                </div>
-                <div className="CraftingItemsTable-row-contents">
-                    <div className="CraftingItemsTable-row-contents-controls">
-                        <i
-                            className="material-icons CraftingItemsTable-row-contents-controls-arrow up"
-                            onClick={() => {
-                                setCraftingItems(moveUp(craftingItems, itemIndex));
-                            }}
-                        >
-                            arrow_drop_up
-                        </i>
-                        <i
-                            className="material-icons CraftingItemsTable-row-contents-controls-arrow down"
-                            onClick={() => {
-                                setCraftingItems(moveDown(craftingItems, itemIndex));
-                            }}
-                        >
-                            arrow_drop_down
-                        </i>
-                    </div>
-                    <div className="CraftingItemsTable-row-contents-inputs">
-                        <div>
-                            {recipe &&
-                                <IngredientEntry
-                                    title="Recipes"
-                                    current={recipes[recipe].current}
-                                    totalNeeded={totalIngredients.recipes[recipe]}
-                                    asset={`equipment/${artifact.asset}.png`}
-                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newRecipes: UserRecipeMap = {...recipes};
-
-                                        if (event.target.value === '') {
-                                            newRecipes[recipe].current = null;
-                                        } else {
-                                            newRecipes[recipe].current = +event.target.value;
-                                        }
-
-                                        setRecipes(newRecipes);
-                                    }}
-                                />
-                            }
-                        </div>
-                        <div>
-                            {book &&
-                                <IngredientEntry
-                                    title={`${bookType} books`}
-                                    current={books[book].current}
-                                    totalNeeded={totalIngredients.books[book]}
-                                    asset={`items/${book}.png`}
-                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newBooks: UserBookMap = {...books};
-
-                                        if (event.target.value === '') {
-                                            newBooks[book].current = null;
-                                        } else {
-                                            newBooks[book].current = +event.target.value;
-                                        }
-
-                                        setBooks(newBooks);
-                                    }}
-                                />
-                            }
-                        </div>
-                        <div>
-                            {material1 &&
-                                <IngredientEntry
-                                    title={itemNameMap[material1]}
-                                    current={materials[material1].current}
-                                    totalNeeded={totalIngredients.materials[material1]}
-                                    asset={`items/${material1}.png`}
-                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newMaterials: UserMaterialMap = {...materials};
-
-                                        if (event.target.value === '') {
-                                            newMaterials[material1].current = null;
-                                        } else {
-                                            newMaterials[material1].current = +event.target.value;
-                                        }
-
-                                        setMaterials(newMaterials);
-                                    }}
-                                />
-                            }
-                        </div>
-                        <div>
-                            {material2 &&
-                                <IngredientEntry
-                                    title={itemNameMap[material2]}
-                                    current={materials[material2].current}
-                                    totalNeeded={totalIngredients.materials[material2]}
-                                    asset={`items/${material2}.png`}
-                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newMaterials: UserMaterialMap = {...materials};
-
-                                        if (event.target.value === '') {
-                                            newMaterials[material2].current = null;
-                                        } else {
-                                            newMaterials[material2].current = +event.target.value;
-                                        }
-
-                                        setMaterials(newMaterials);
-                                    }}
-                                />
-                            }
-                        </div>
-                        <div>
-                            {material3 &&
-                                <IngredientEntry
-                                    title={itemNameMap[material3]}
-                                    current={materials[material3].current}
-                                    totalNeeded={totalIngredients.materials[material3]}
-                                    asset={`items/${material3}.png`}
-                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newMaterials: UserMaterialMap = {...materials};
-
-                                        if (event.target.value === '') {
-                                            newMaterials[material3].current = null;
-                                        } else {
-                                            newMaterials[material3].current = +event.target.value;
-                                        }
-
-                                        setMaterials(newMaterials);
-                                    }}
-                                />
-                            }
-                        </div>
-                        <div>
-                            {material4 &&
-                                <IngredientEntry
-                                    title={itemNameMap[material4]}
-                                    current={materials[material4].current}
-                                    totalNeeded={totalIngredients.materials[material4]}
-                                    asset={`items/${material4}.png`}
-                                    onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                        const newMaterials: UserMaterialMap = {...materials};
-
-                                        if (event.target.value === '') {
-                                            newMaterials[material4].current = null;
-                                        } else {
-                                            newMaterials[material4].current = +event.target.value;
-                                        }
-
-                                        setMaterials(newMaterials);
-                                    }}
-                                />
-                            }
+                                            setMaterials(newMaterials);
+                                        }}
+                                    />
+                                }
+                            </div>
                         </div>
                     </div>
                 </div>

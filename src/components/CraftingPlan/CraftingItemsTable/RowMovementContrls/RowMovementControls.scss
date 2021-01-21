@@ -1,0 +1,42 @@
+@import '~/styles/variables.scss';
+
+.RowMovementControls {
+    width: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    .RowMovementControls-arrow {
+        color: $cyan;
+        cursor: pointer;
+
+        &:active {
+            color: $pink;
+        }
+
+        &.up:hover {
+            text-shadow: $pink 0 -2px;
+        }
+
+        &.down:hover {
+            text-shadow: $pink 0 2px;
+        }
+    }
+
+    .RowMovementControls-move {
+        color: $cyan;
+        cursor: pointer;
+
+        &:active {
+            color: $pink;
+        }
+
+        &:hover {
+            text-shadow: $pink 0 1px, $pink 1px 0, $pink 0 -1px, $pink -1px 0;
+        }
+
+        &.moving {
+            color: $pink;
+        }
+    }
+}

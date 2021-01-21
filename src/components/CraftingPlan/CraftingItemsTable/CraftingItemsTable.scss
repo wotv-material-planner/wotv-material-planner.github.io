@@ -13,56 +13,28 @@
         .CraftingItemsTable-row {
             padding: 10px 0;
             border-bottom: 1px solid $light-grey;
+            display: flex;
 
-            .CraftingItemsTable-row-head {
-                display: flex;
-                flex-wrap: wrap;
-                align-items: center;
-
-                .CraftingItemsTable-row-head-itemName {
-                    font-size: 1em;
-                    font-weight: bold;
-                    height: 1.2em;
-                    text-decoration: underline;
-                    text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
-                }
-
-                .CraftingItemsTable-row-head-itemType {
-                    margin-left: 10px;
-
-                    .CraftingItemsTable-row-head-itemType-select {
-                        font-size: 0.8em;
-                        width: 70px;
-                        background-color: $black;
-                        border: 1px solid $cyan;
-                        color: $white;
-
-                        &:focus {
-                            outline-color: $pink;
-                            outline-style: inset;
-                            outline-width: 1px;
-                        }
-                    }
-                }
-
-                .CraftingItemsTable-row-head-plusSelects {
+            .CraftingItemsTable-row-main {
+                .CraftingItemsTable-row-head {
                     display: flex;
                     flex-wrap: wrap;
+                    align-items: center;
 
-                    .CraftingItemsTable-row-head-plusSelect {
-                        display: flex;
+                    .CraftingItemsTable-row-head-itemName {
+                        font-size: 1em;
+                        font-weight: bold;
+                        height: 1.2em;
+                        text-decoration: underline;
+                        text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
+                    }
 
-                        .CraftingItemsTable-row-head-plusLabel {
-                            margin-left: 10px;
+                    .CraftingItemsTable-row-head-itemType {
+                        margin-left: 10px;
+
+                        .CraftingItemsTable-row-head-itemType-select {
                             font-size: 0.8em;
-                            line-height: 1.2em;
-                            text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
-                        }
-
-                        .CraftingItemsTable-row-head-select {
-                            margin-left: 10px;
-                            font-size: 0.8em;
-                            width: 40px;
+                            width: 70px;
                             background-color: $black;
                             border: 1px solid $cyan;
                             color: $white;
@@ -74,43 +46,51 @@
                             }
                         }
                     }
-                }
 
-                .CraftingItemsTable-row-head-delete {
-                    margin-left: auto;
-                    color: $pink;
-                }
-            }
+                    .CraftingItemsTable-row-head-plusSelects {
+                        display: flex;
+                        flex-wrap: wrap;
 
-            .CraftingItemsTable-row-contents {
-                display: flex;
+                        .CraftingItemsTable-row-head-plusSelect {
+                            display: flex;
 
-                .CraftingItemsTable-row-contents-controls {
-                    display: flex;
-                    flex-direction: column;
+                            .CraftingItemsTable-row-head-plusLabel {
+                                margin-left: 10px;
+                                font-size: 0.8em;
+                                line-height: 1.2em;
+                                text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
+                            }
 
-                    .CraftingItemsTable-row-contents-controls-arrow {
-                        color: $cyan;
-                        margin-top: 5px;
-                        cursor: pointer;
+                            .CraftingItemsTable-row-head-select {
+                                margin-left: 10px;
+                                font-size: 0.8em;
+                                width: 40px;
+                                background-color: $black;
+                                border: 1px solid $cyan;
+                                color: $white;
 
-                        &:active {
-                            color: $pink;
+                                &:focus {
+                                    outline-color: $pink;
+                                    outline-style: inset;
+                                    outline-width: 1px;
+                                }
+                            }
                         }
+                    }
 
-                        &.up:hover {
-                            text-shadow: $pink 0 -2px;
-                        }
-
-                        &.down:hover {
-                            text-shadow: $pink 0 2px;
-                        }
+                    .CraftingItemsTable-row-head-delete {
+                        margin-left: auto;
+                        color: $pink;
                     }
                 }
 
-                .CraftingItemsTable-row-contents-inputs {
+                .CraftingItemsTable-row-contents {
                     display: flex;
-                    flex-wrap: wrap;
+
+                    .CraftingItemsTable-row-contents-inputs {
+                        display: flex;
+                        flex-wrap: wrap;
+                    }
                 }
             }
         }
