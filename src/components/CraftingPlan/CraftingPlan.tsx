@@ -80,7 +80,7 @@ export const CraftingPlan: FunctionComponent = () => {
                                 targetGrowthType: '',
                             };
 
-                            setCraftingItems([...craftingItems, newCraftingItem]);
+                            setCraftingItems([newCraftingItem, ...craftingItems]);
                         }
                     }}
                 >
