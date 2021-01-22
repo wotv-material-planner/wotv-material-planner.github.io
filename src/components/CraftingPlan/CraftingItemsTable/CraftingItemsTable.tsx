@@ -1,14 +1,13 @@
 import * as React from 'react';
-import {FunctionComponent, useContext, useState, ChangeEvent} from 'react';
+import {FunctionComponent, useContext, useState} from 'react';
 import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '~/contexts/UserCraftingItemsContext';
-import {UserMaterialMap, UserMaterialsContext} from '~/contexts/UserMaterialsContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
-import {IngredientEntry} from '~/components/common/IngredientEntry';
 import {RowMovementControls} from './RowMovementContrls';
 import {RowRecipe} from './RowRecipe';
-import './CraftingItemsTable.scss';
 import {RowDelete} from './RowDelete';
 import {RowBook} from './RowBook';
+import {RowMaterials} from './RowMaterials';
+import './CraftingItemsTable.scss';
 
 const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number): CraftingItem[] => {
     const arr = rawArr.slice();
@@ -21,11 +20,10 @@ const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number):
 
 export const CraftingItemsTable: FunctionComponent = () => {
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
-    const [materials, setMaterials] = useContext(UserMaterialsContext);
     const [moveItem, setMoveItem] = useState<number>(null);
 
     const wotvDump = useContext(WotvDumpContext);
-    const {artifactMap, itemNameMap, typeMap} = wotvDump;
+    const {artifactMap, typeMap} = wotvDump;
 
     const buildCraftingItemRow = (craftingItem: CraftingItem, itemIndex) => {
         const artifact = artifactMap[craftingItem.iname];
@@ -36,12 +34,6 @@ export const CraftingItemsTable: FunctionComponent = () => {
         }
 
         const totalIngredients = getTotalCraftingIngredients([craftingItem], wotvDump);
-
-        const craftingMaterials = Object.keys(totalIngredients.materials);
-        const material1 = craftingMaterials[0];
-        const material2 = craftingMaterials[1];
-        const material3 = craftingMaterials[2];
-        const material4 = craftingMaterials[3];
 
         return (
             <div
@@ -191,90 +183,9 @@ export const CraftingItemsTable: FunctionComponent = () => {
                             <RowBook
                                 totalBooks={totalIngredients.books}
                             />
-                            <div>
-                                {material1 &&
-                                    <IngredientEntry
-                                        title={itemNameMap[material1]}
-                                        current={materials[material1].current}
-                                        totalNeeded={totalIngredients.materials[material1]}
-                                        asset={`items/${material1}.png`}
-                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                            const newMaterials: UserMaterialMap = {...materials};
-
-                                            if (event.target.value === '') {
-                                                newMaterials[material1].current = null;
-                                            } else {
-                                                newMaterials[material1].current = +event.target.value;
-                                            }
-
-                                            setMaterials(newMaterials);
-                                        }}
-                                    />
-                                }
-                            </div>
-                            <div>
-                                {material2 &&
-                                    <IngredientEntry
-                                        title={itemNameMap[material2]}
-                                        current={materials[material2].current}
-                                        totalNeeded={totalIngredients.materials[material2]}
-                                        asset={`items/${material2}.png`}
-                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                            const newMaterials: UserMaterialMap = {...materials};
-
-                                            if (event.target.value === '') {
-                                                newMaterials[material2].current = null;
-                                            } else {
-                                                newMaterials[material2].current = +event.target.value;
-                                            }
-
-                                            setMaterials(newMaterials);
-                                        }}
-                                    />
-                                }
-                            </div>
-                            <div>
-                                {material3 &&
-                                    <IngredientEntry
-                                        title={itemNameMap[material3]}
-                                        current={materials[material3].current}
-                                        totalNeeded={totalIngredients.materials[material3]}
-                                        asset={`items/${material3}.png`}
-                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                            const newMaterials: UserMaterialMap = {...materials};
-
-                                            if (event.target.value === '') {
-                                                newMaterials[material3].current = null;
-                                            } else {
-                                                newMaterials[material3].current = +event.target.value;
-                                            }
-
-                                            setMaterials(newMaterials);
-                                        }}
-                                    />
-                                }
-                            </div>
-                            <div>
-                                {material4 &&
-                                    <IngredientEntry
-                                        title={itemNameMap[material4]}
-                                        current={materials[material4].current}
-                                        totalNeeded={totalIngredients.materials[material4]}
-                                        asset={`items/${material4}.png`}
-                                        onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                            const newMaterials: UserMaterialMap = {...materials};
-
-                                            if (event.target.value === '') {
-                                                newMaterials[material4].current = null;
-                                            } else {
-                                                newMaterials[material4].current = +event.target.value;
-                                            }
-
-                                            setMaterials(newMaterials);
-                                        }}
-                                    />
-                                }
-                            </div>
+                            <RowMaterials
+                                totalMaterials={totalIngredients.materials}
+                            />
                         </div>
                     </div>
                 </div>
