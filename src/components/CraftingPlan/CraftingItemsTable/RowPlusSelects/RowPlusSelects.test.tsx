@@ -76,8 +76,8 @@ describe('RowPlusSelects', () => {
 
         renderSubject({value: [craftingItems, setCraftingItems]});
 
-        const plusSelects = screen.getAllByRole('combobox');
-        fireEvent.change(plusSelects[0], {target: {value: 4}});
+        const currentPlusSelect = screen.getByRole('combobox', {name: 'currentPlus'});
+        fireEvent.change(currentPlusSelect, {target: {value: 4}});
 
         expect(setCraftingItems).toHaveBeenCalledWith(expectedCraftingItems);
     });
@@ -98,8 +98,8 @@ describe('RowPlusSelects', () => {
 
         renderSubject({value: [craftingItems, setCraftingItems]});
 
-        const plusSelects = screen.getAllByRole('combobox');
-        fireEvent.change(plusSelects[0], {target: {value: 3}});
+        const currentPlusSelect = screen.getByRole('combobox', {name: 'currentPlus'});
+        fireEvent.change(currentPlusSelect, {target: {value: 3}});
 
         expect(setCraftingItems).toHaveBeenCalledWith(expectedCraftingItems);
     });
@@ -120,8 +120,8 @@ describe('RowPlusSelects', () => {
 
         renderSubject({value: [craftingItems, setCraftingItems]});
 
-        const plusSelects = screen.getAllByRole('combobox');
-        fireEvent.change(plusSelects[1], {target: {value: 5}});
+        const targetPlusSelect = screen.getByRole('combobox', {name: 'targetPlus'});
+        fireEvent.change(targetPlusSelect, {target: {value: 5}});
 
         expect(setCraftingItems).toHaveBeenCalledWith(expectedCraftingItems);
     });
@@ -142,8 +142,8 @@ describe('RowPlusSelects', () => {
 
         renderSubject({value: [craftingItems, setCraftingItems]});
 
-        const plusSelects = screen.getAllByRole('combobox');
-        fireEvent.change(plusSelects[1], {target: {value: 2}});
+        const targetPlusSelect = screen.getByRole('combobox', {name: 'targetPlus'});
+        fireEvent.change(targetPlusSelect, {target: {value: 2}});
 
         expect(setCraftingItems).toHaveBeenCalledWith(expectedCraftingItems);
     });

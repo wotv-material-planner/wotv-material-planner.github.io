@@ -20,6 +20,7 @@ export const RowPlusSelects: FunctionComponent<Props> = (props) => {
                     </div>
                     <select
                         className="CraftingItemsTable-row-head-select"
+                        aria-label="currentPlus"
                         value={craftingItems[props.itemIndex].currentPlus ?? ''}
                         onChange={(event) => {
                             const newCraftingItems = [...craftingItems];
@@ -54,6 +55,7 @@ export const RowPlusSelects: FunctionComponent<Props> = (props) => {
                     </div>
                     <select
                         className="CraftingItemsTable-row-head-select"
+                        aria-label="targetPlus"
                         value={craftingItems[props.itemIndex].targetPlus ?? ''}
                         onChange={(event) => {
                             const newCraftingItems = [...craftingItems];
