@@ -1,0 +1,19 @@
+@import '~/styles/variables.scss';
+
+.RowTypeSelect {
+    margin-left: 10px;
+
+    .RowTypeSelect-select {
+        font-size: 0.8em;
+        width: 70px;
+        background-color: $black;
+        border: 1px solid $cyan;
+        color: $white;
+
+        &:focus {
+            outline-color: $pink;
+            outline-style: inset;
+            outline-width: 1px;
+        }
+    }
+}

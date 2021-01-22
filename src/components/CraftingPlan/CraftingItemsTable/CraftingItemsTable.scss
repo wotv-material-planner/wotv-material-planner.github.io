@@ -16,8 +16,6 @@
             display: flex;
 
             .CraftingItemsTable-row-main {
-                width: 100%;
-
                 .CraftingItemsTable-row-head {
                     display: flex;
                     flex-wrap: wrap;
@@ -29,24 +27,6 @@
                         height: 1.2em;
                         text-decoration: underline;
                         text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
-                    }
-
-                    .CraftingItemsTable-row-head-itemType {
-                        margin-left: 10px;
-
-                        .CraftingItemsTable-row-head-itemType-select {
-                            font-size: 0.8em;
-                            width: 70px;
-                            background-color: $black;
-                            border: 1px solid $cyan;
-                            color: $white;
-
-                            &:focus {
-                                outline-color: $pink;
-                                outline-style: inset;
-                                outline-width: 1px;
-                            }
-                        }
                     }
 
                     .CraftingItemsTable-row-head-plusSelects {

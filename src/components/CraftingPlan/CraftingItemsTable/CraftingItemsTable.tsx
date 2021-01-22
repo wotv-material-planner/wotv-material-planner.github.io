@@ -3,10 +3,11 @@ import {FunctionComponent, useContext, useState} from 'react';
 import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '~/contexts/UserCraftingItemsContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
 import {RowMovementControls} from './RowMovementContrls';
+import {RowTypeSelect} from './RowTypeSelect';
 import {RowRecipe} from './RowRecipe';
-import {RowDelete} from './RowDelete';
 import {RowBook} from './RowBook';
 import {RowMaterials} from './RowMaterials';
+import {RowDelete} from './RowDelete';
 import './CraftingItemsTable.scss';
 
 const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number): CraftingItem[] => {
@@ -78,32 +79,10 @@ export const CraftingItemsTable: FunctionComponent = () => {
                         <div className="CraftingItemsTable-row-head-itemName">
                             {`${artifact.name}${currentPlusText}`}
                         </div>
-                        <div className="CraftingItemsTable-row-head-itemType">
-                            {typeMap[artifact.rtype][0].label &&
-                                <select
-                                    className="CraftingItemsTable-row-head-itemType-select"
-                                    value={craftingItem.targetGrowthType}
-                                    onChange={(event) => {
-                                        const newCraftingItems = [...craftingItems];
-                                        craftingItems[itemIndex].targetGrowthType = event.target.value;
-
-                                        setCraftingItems(newCraftingItems);
-                                    }}
-                                >
-                                    <option value="" />
-                                    {typeMap[artifact.rtype].map((typeOptions, index) => {
-                                        return (
-                                            <option
-                                                key={`craftingItem-${itemIndex}-option-${index}`}
-                                                value={typeOptions.value}
-                                            >
-                                                {typeOptions.label}
-                                            </option>
-                                        )
-                                    })}
-                                </select>
-                            }
-                        </div>
+                        <RowTypeSelect
+                            itemIndex={itemIndex}
+                            typeOptions={typeMap[artifact.rtype]}
+                        />
                         <div className="CraftingItemsTable-row-head-plusSelects">
                             {artifactMap[`${craftingItem.iname}_1`] &&
                                 <div className="CraftingItemsTable-row-head-plusSelect">
@@ -169,10 +148,6 @@ export const CraftingItemsTable: FunctionComponent = () => {
                                 </div>
                             }
                         </div>
-                        <RowDelete
-                            itemIndex={itemIndex}
-                            totalIngredients={totalIngredients}
-                        />
                     </div>
                     <div className="CraftingItemsTable-row-contents">
                         <div className="CraftingItemsTable-row-contents-inputs">
@@ -189,6 +164,10 @@ export const CraftingItemsTable: FunctionComponent = () => {
                         </div>
                     </div>
                 </div>
+                <RowDelete
+                    itemIndex={itemIndex}
+                    totalIngredients={totalIngredients}
+                />
             </div>
         );
     };

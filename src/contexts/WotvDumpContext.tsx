@@ -74,6 +74,15 @@ interface ArtifactRandLotItem {
     lot: LotGrowMap[];
 };
 
+export interface TypeOption {
+    label: string;
+    value: string;
+}
+
+interface TypeMap {
+    [iname: string]: TypeOption[];
+}
+
 const stats: Stat[] = [
     {
         label: "HP",
@@ -129,8 +138,8 @@ const stats: Stat[] = [
     }
 ];
 
-const getTypeMap = () => {
-    const typeMap = {};
+const getTypeMap = (): TypeMap => {
+    const typeMap: TypeMap = {};
     const typeNameMap = {};
 
     ArtifactGrow_en.infos.forEach((info) => {
