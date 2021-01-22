@@ -9,11 +9,9 @@ describe('RowMovementControls', () => {
 });
 
 interface OptionalProps {
-    move?: boolean;
-    isMoving?: boolean;
-    onMove?: () => void;
-    onMoveUp?: () => void;
-    onMoveDown?: () => void;
+    itemIndex?: number;
+    moveItemIndex?: number;
+    setMoveItemIndex?: (index: number) => void;
 };
 
 const renderSubject = (props: OptionalProps) => {
@@ -24,10 +22,8 @@ const renderSubject = (props: OptionalProps) => {
 
 const makeProps = (props: OptionalProps) => {
     return {
-        move: props.move,
-        isMoving: props.isMoving,
-        onMove: props.onMove || (() => {}),
-        onMoveUp: props.onMoveUp || (() => {}),
-        onMoveDown: props.onMoveDown || (() => {}),
+        itemIndex: props.itemIndex ?? 0,
+        moveItemIndex: props.moveItemIndex ?? null,
+        setMoveItemIndex: props.setMoveItemIndex || (() => {}),
     };
 };

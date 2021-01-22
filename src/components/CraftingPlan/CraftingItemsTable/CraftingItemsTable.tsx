@@ -10,18 +10,9 @@ import {RowMaterials} from './RowMaterials';
 import {RowDelete} from './RowDelete';
 import './CraftingItemsTable.scss';
 
-const move = (rawArr: CraftingItem[], movingIndex: number, targetIndex: number): CraftingItem[] => {
-    const arr = rawArr.slice();
-
-    const movingElement = arr.splice(movingIndex, 1)[0];
-    arr.splice(targetIndex, 0, movingElement);
-
-    return arr;
-};
-
 export const CraftingItemsTable: FunctionComponent = () => {
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
-    const [moveItem, setMoveItem] = useState<number>(null);
+    const [moveItemIndex, setMoveItemIndex] = useState<number>(null);
 
     const wotvDump = useContext(WotvDumpContext);
     const {artifactMap, typeMap} = wotvDump;
@@ -42,37 +33,9 @@ export const CraftingItemsTable: FunctionComponent = () => {
                 key={`craftingItem-${itemIndex}`}
             >
                 <RowMovementControls
-                    move={(moveItem !== null) && (moveItem !== itemIndex)}
-                    isMoving={moveItem === itemIndex}
-                    onMoveUp={() => {
-                        if ((moveItem !== null)) {
-                            setMoveItem(null);
-                        }
-
-                        if (itemIndex !== 0) {
-                            setCraftingItems(move(craftingItems, itemIndex, itemIndex - 1));
-                        }
-                    }}
-                    onMoveDown={() => {
-                        if (moveItem !== null) {
-                            setMoveItem(null);
-                        }
-
-                        if (itemIndex !== craftingItems.length - 1) {
-                            setCraftingItems(move(craftingItems, itemIndex, itemIndex + 1));
-                        }
-                    }}
-                    onMove={() => {
-                        if (moveItem !== null) {
-                            if (moveItem !== itemIndex) {
-                                setCraftingItems(move(craftingItems, moveItem, itemIndex));
-                            }
-
-                            setMoveItem(null);
-                        } else {
-                            setMoveItem(itemIndex);
-                        }
-                    }}
+                    itemIndex={itemIndex}
+                    moveItemIndex={moveItemIndex}
+                    setMoveItemIndex={(index) => {setMoveItemIndex(index)}}
                 />
                 <div className="CraftingItemsTable-row-main">
                     <div className="CraftingItemsTable-row-head">
