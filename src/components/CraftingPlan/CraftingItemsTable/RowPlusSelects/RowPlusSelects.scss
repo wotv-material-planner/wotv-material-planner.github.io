@@ -1,0 +1,32 @@
+@import '~/styles/variables.scss';
+
+.RowPlusSelects {
+    display: flex;
+    flex-wrap: wrap;
+
+    .CraftingItemsTable-row-head-plusSelect {
+        display: flex;
+
+        .CraftingItemsTable-row-head-plusLabel {
+            margin-left: 10px;
+            font-size: 0.8em;
+            line-height: 1.2em;
+            text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
+        }
+
+        .CraftingItemsTable-row-head-select {
+            margin-left: 10px;
+            font-size: 0.8em;
+            width: 40px;
+            background-color: $black;
+            border: 1px solid $cyan;
+            color: $white;
+
+            &:focus {
+                outline-color: $pink;
+                outline-style: inset;
+                outline-width: 1px;
+            }
+        }
+    }
+}

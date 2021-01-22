@@ -43,6 +43,6 @@ const renderSubject = (props: OptionalProps) => {
 
 const makeProps = (props: OptionalProps) => {
     return {
-        init: props.init
+        init: props.init || [],
     };
 };

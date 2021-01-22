@@ -88,8 +88,7 @@ export const CraftingPlan: FunctionComponent = () => {
                 </button>
             </div>
 
-
-            <CraftingItemsTable />
+            <CraftingItemsTable/>
         </div>
     );
 };
