@@ -24,11 +24,12 @@ export const RowRecipe: FunctionComponent<Props> = (props: Props) => {
                     asset={props.asset}
                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
                         const newRecipes: UserRecipeMap = {...recipes};
+                        const newCurrentValue = +event.target.value;
 
-                        if (event.target.value === '') {
+                        if (Number.isNaN(newCurrentValue) || event.target.value === '') {
                             newRecipes[recipe].current = null;
                         } else {
-                            newRecipes[recipe].current = +event.target.value;
+                            newRecipes[recipe].current = newCurrentValue;
                         }
 
                         setRecipes(newRecipes);

@@ -27,6 +27,7 @@ export const IngredientEntry: FunctionComponent<Props> = (props: Props) => {
                         className="IngredientEntry-values-current"
                         placeholder={props.title}
                         value={props.current || ''}
+                        aria-label={props.title}
                         onChange={props.onChange}
                     />
                     {totalAcquired ?
