@@ -2,11 +2,9 @@ import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowPlusSelects} from './RowPlusSelects';
 import {CraftingItem, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {arbitraryCraftingItem} from '~testSupport/arbitraryObjects';
-import {UserBooksProvider} from '~contexts/UserBooksContext';
-import {UserRecipesProvider} from '~contexts/UserRecipesContext';
-import {UserMaterialsProvider} from '~contexts/UserMaterialsContext';
+import {UserDataProvider} from '~contexts/UserDataProvider';
 import {PersistedState} from '~hooks/UsePersistedState';
+import {arbitraryCraftingItem} from '~testSupport/arbitraryObjects';
 
 describe('RowPlusSelects', () => {
     it('renders a RowPlusSelects', () => {
@@ -157,15 +155,11 @@ interface OptionalProps {
 
 const renderSubject = (props: OptionalProps) => {
     return render(
-        <UserBooksProvider>
-            <UserRecipesProvider>
-                <UserMaterialsProvider>
-                    <UserCraftingItemsContext.Provider {...makeProps(props)}>
-                        <RowPlusSelects {...makeProps(props)}/>
-                    </UserCraftingItemsContext.Provider>
-                </UserMaterialsProvider>
-            </UserRecipesProvider>``
-        </UserBooksProvider>
+        <UserDataProvider>
+            <UserCraftingItemsContext.Provider {...makeProps(props)}>
+                <RowPlusSelects {...makeProps(props)}/>
+            </UserCraftingItemsContext.Provider>
+        </UserDataProvider>
     );
 };
 

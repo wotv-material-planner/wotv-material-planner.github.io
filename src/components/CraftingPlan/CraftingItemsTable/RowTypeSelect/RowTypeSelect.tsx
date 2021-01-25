@@ -17,6 +17,7 @@ export const RowTypeSelect: FunctionComponent<Props> = (props) => {
             {props.typeOptions[0]?.label &&
                 <select
                     className="RowTypeSelect-select"
+                    aria-label="typeSelect"
                     value={craftingItems[props.itemIndex].targetGrowthType}
                     onChange={(event) => {
                         const newCraftingItems = [...craftingItems];
