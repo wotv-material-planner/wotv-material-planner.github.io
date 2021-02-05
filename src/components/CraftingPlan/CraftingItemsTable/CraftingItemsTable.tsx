@@ -2,7 +2,7 @@ import * as React from 'react';
 import {FunctionComponent, useContext, useState} from 'react';
 import {CraftingItem, getTotalCraftingIngredients, UserCraftingItemsContext} from '~/contexts/UserCraftingItemsContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
-import {RowMovementControls} from './RowMovementContrls';
+import {RowMovementControls} from './RowMovementControls';
 import {RowTypeSelect} from './RowTypeSelect';
 import {RowPlusSelects} from './RowPlusSelects';
 import {RowRecipe} from './RowRecipe';

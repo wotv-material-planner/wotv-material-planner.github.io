@@ -52,7 +52,7 @@ describe('RowTypeSelect', () => {
         const craftingItems: CraftingItem[] = [{
             ...arbitraryCraftingItem(),
             targetGrowthType: 'fstr',
-        }]
+        }];
 
         const setCraftingItems = jest.fn();
 
