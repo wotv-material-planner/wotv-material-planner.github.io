@@ -29,11 +29,12 @@ export const RowMaterials: FunctionComponent<Props> = (props) => {
                             asset={`items/${material}.png`}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                 const newMaterials: UserMaterialMap = {...materials};
+                                const newCurrentValue = +event.target.value;
 
-                                if (event.target.value === '') {
+                                if (Number.isNaN(newCurrentValue) || event.target.value === '') {
                                     newMaterials[material].current = null;
                                 } else {
-                                    newMaterials[material].current = +event.target.value;
+                                    newMaterials[material].current = newCurrentValue;
                                 }
 
                                 setMaterials(newMaterials);
