@@ -1,0 +1,56 @@
+@import '~/styles/variables.scss';
+
+.AddCraftingItems {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    .AddCraftingItems-title {
+        font-size: 1em;
+        height: 1.2em;
+        text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    .AddCraftingItems-categorySelect {
+        margin-left: 10px;
+        font-size: 0.8em;
+        width: 100px;
+        background-color: $black;
+        border: 1px solid $cyan;
+        color: $white;
+
+        &:focus {
+            outline-color: $pink;
+            outline-style: inset;
+            outline-width: 1px;
+        }
+    }
+
+    .AddCraftingItems-artifactSelect {
+        margin-left: 10px;
+        font-size: 0.8em;
+        width: 150px;
+        background-color: $black;
+        border: 1px solid $cyan;
+        color: $white;
+
+        &:focus {
+            outline-color: $pink;
+            outline-style: inset;
+            outline-width: 1px;
+        }
+    }
+
+    .AddCraftingItems-artifactAdd {
+        margin-left: 10px;
+        font-family: 'Audiowide', monospace;
+        font-size: 0.8em;
+        background-color: $black;
+        color: $pink;
+        border: 2px outset $cyan;
+        cursor: pointer;
+    }
+}
