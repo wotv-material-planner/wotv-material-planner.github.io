@@ -222,6 +222,6 @@ const makeProps = (props: OptionalProps) => {
         itemIndex: props.itemIndex ?? 0,
         moveItemIndex: props.moveItemIndex ?? null,
         setMoveItemIndex: props.setMoveItemIndex || (() => {}),
-        value: props.value || [[arbitraryCraftingItem()], null],
+        value: props.value || [[arbitraryCraftingItem()], () => {}],
     };
 };

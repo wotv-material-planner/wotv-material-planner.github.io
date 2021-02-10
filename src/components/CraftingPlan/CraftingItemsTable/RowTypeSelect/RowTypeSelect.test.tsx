@@ -90,6 +90,6 @@ const makeProps = (props: OptionalProps) => {
     return {
         itemIndex: props.itemIndex ?? 0,
         typeOptions: props.typeOptions || [],
-        value: props.value || [[arbitraryCraftingItem()], null],
+        value: props.value || [[arbitraryCraftingItem()], () => {}],
     };
 };

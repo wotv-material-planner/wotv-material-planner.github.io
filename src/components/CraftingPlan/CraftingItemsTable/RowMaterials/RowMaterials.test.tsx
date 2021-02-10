@@ -171,6 +171,6 @@ const renderSubject = (props: OptionalProps) => {
 const makeProps = (props: OptionalProps) => {
     return {
         totalMaterials: props.totalMaterials || {},
-        value: props.value || [{}, null],
+        value: props.value || [{}, () => {}],
     };
 };

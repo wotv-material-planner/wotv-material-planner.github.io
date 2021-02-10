@@ -167,6 +167,6 @@ const makeProps = (props: OptionalProps) => {
     return {
         itemIndex: props.itemIndex ?? 0,
         displaySelect: props.displaySelect ?? true,
-        value: props.value || [[arbitraryCraftingItem()], null],
+        value: props.value || [[arbitraryCraftingItem()], () => {}],
     };
 };

@@ -141,6 +141,6 @@ const makeProps = (props: OptionalProps) => {
     return {
         totalRecipes: props.totalRecipes || {},
         asset: props.asset || '',
-        value: props.value || [{}, null],
+        value: props.value || [{}, () => {}],
     };
 };
