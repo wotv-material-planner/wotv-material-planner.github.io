@@ -72,6 +72,10 @@ const uniqueBuffs = artifacts.items.reduce((allBuffs, artifact) => {
                                 if (buffObj.val4) {
                                     allBuffs[buff] += `,${artifactNameObj.value} buff 4 ${buffObj.val41}`;
                                 }
+
+                                if (buffObj.val5) {
+                                    allBuffs[buff] += `,${artifactNameObj.value} buff 5 ${buffObj.val51}`;
+                                }
                             }
                         }
                     }
