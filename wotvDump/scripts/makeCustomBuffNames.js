@@ -32,8 +32,18 @@ const uniqueBuffs = artifacts.items.reduce((allBuffs, artifact) => {
                 return item.iname === skill;
             });
 
-            if (skillObj.s_buffs) {
-                skillObj.s_buffs.forEach((buff) => {
+            if (skillObj.s_buffs || skillObj.t_buffs) {
+                let concatBuffs = [];
+
+                if (skillObj.s_buffs) {
+                    concatBuffs = concatBuffs.concat(skillObj.s_buffs);
+                }
+
+                if (skillObj.t_buffs) {
+                    concatBuffs = concatBuffs.concat(skillObj.t_buffs);
+                }
+
+                concatBuffs.forEach((buff) => {
                     const buffObj = buffs.items.find((item) => {
                         return item.iname === buff;
                     });
