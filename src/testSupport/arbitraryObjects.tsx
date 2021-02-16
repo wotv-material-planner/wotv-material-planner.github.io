@@ -2,7 +2,7 @@ import {CraftingItem, TotalCraftingIngredients} from "../contexts/UserCraftingIt
 
 export const arbitraryCraftingItem = (): CraftingItem => {
     return {
-        iname: '',
+        iname: 'AF_LW_NKN_001',
         category: 0,
         currentPlus: null,
         targetPlus: 0,

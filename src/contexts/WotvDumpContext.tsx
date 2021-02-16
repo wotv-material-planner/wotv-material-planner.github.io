@@ -85,7 +85,7 @@ interface TypeMap {
     [iname: string]: TypeOption[];
 }
 
-const stats: Stat[] = [
+export const stats: Stat[] = [
     {
         label: "HP",
         value: "hp"
@@ -139,6 +139,14 @@ const stats: Stat[] = [
         value: "crta"
     }
 ];
+
+export const rareMap = {
+    0: 'N',
+    1: 'R',
+    2: 'SR',
+    3: 'MR',
+    4: 'UR',
+};
 
 const getTypeMap = (): TypeMap => {
     const typeMap: TypeMap = {};

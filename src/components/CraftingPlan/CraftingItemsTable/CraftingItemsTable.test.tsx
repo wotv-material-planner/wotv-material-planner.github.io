@@ -9,15 +9,7 @@ import {UserMaterialsProvider} from '~/contexts/UserMaterialsContext';
 
 describe('CraftingItemsTable', () => {
     it('renders a CraftingTableItem', () => {
-        const craftingItems: CraftingItem[] = [
-            {
-                ...arbitraryCraftingItem(),
-                iname: 'AF_LW_NKN_001',
-                currentPlus: null
-            }
-        ];
-        
-        renderSubject({init: craftingItems});
+        renderSubject({});
 
         expect(screen.getByText('Kunai')).toBeTruthy();
     });
@@ -43,6 +35,6 @@ const renderSubject = (props: OptionalProps) => {
 
 const makeProps = (props: OptionalProps) => {
     return {
-        init: props.init || [],
+        init: props.init || [arbitraryCraftingItem()],
     };
 };
