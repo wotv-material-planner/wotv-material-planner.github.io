@@ -135,7 +135,7 @@ export const stats: Stat[] = [
         value: "crt"
     }, 
     {
-        label: "CRIT EVADE",
+        label: "CRIT E",
         value: "crta"
     }
 ];

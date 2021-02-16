@@ -18,16 +18,10 @@ interface Props {
     setMoveItemIndex: (moveItemIndex: number) => void;
 };
 
-const getItemBuffs = (craftingItem: CraftingItem, wotvDump): string[] => {
+const getItemBuffs = (fullIname: string, wotvDump): string[] => {
     const {artifactMap, skillMap, customBuffNames} = wotvDump;
 
     let buffs = [];
-
-    let fullIname = craftingItem.iname;
-
-    if (craftingItem.targetPlus > 0) {
-        fullIname += `_${craftingItem.targetPlus}`;
-    }
 
     if (artifactMap[fullIname].skl5) {
         buffs = artifactMap[fullIname].skl5.reduce((acc, skill) => {
@@ -135,7 +129,13 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
         growthMap,
     } = wotvDump;
 
-    const artifact = artifactMap[props.craftingItem.iname];
+    let fullIname = props.craftingItem.iname;
+
+    if (props.craftingItem.targetPlus > 0) {
+        fullIname += `_${props.craftingItem.targetPlus}`;
+    }
+
+    const artifact = artifactMap[fullIname];
 
     var currentPlusText = '';
     if (props.craftingItem.currentPlus) {
@@ -201,7 +201,10 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
                             <img src={`equipment/${artifact.asset}.png`}/>
                         </div>
                         <div className="CraftingItemRow-info-sidebar-bonus">
-                            {getItemBuffs(props.craftingItem, wotvDump).map((buff, index) => {
+                            <div className="CraftingItemRow-info-sidebar-bonus-title">
+                                Bonus
+                            </div>
+                            {getItemBuffs(fullIname, wotvDump).map((buff, index) => {
                                 return (
                                     <div key={`infoBonus_${index}`}>
                                         {buff}
@@ -211,133 +214,133 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
                         </div>
                     </div>
                     <div className="CraftingItemRow-info-stats">
-                        <div className="CraftingItemRow-info-stats-title">
-                            Stats
-                        </div>
-                        <div className="CraftingItemRow-info-stats-table">
-                            <div className="CraftingItemRow-info-stats-table-row">
-                                <div className="CraftingItemRow-info-stats-table-row-typeCell">
-                                    TYPE
-                                </div>
-                                {stats.map((stat, index) => {
-                                    return (
-                                        <div
-                                            className="CraftingItemRow-info-stats-table-row-statCell"
-                                            key={`row_${index}`}
-                                        >
-                                            {stat.label}
-                                        </div>
-                                    )
-                                })}
+                        <div className="CraftingItemRow-info-stats-table-row">
+                            <div className="CraftingItemRow-info-stats-table-row-typeCell">
+                                TYPE
                             </div>
-                            {
-                                typeMap[artifact.rtype].map((typeOption, index) => {
-                                    let typeGrowth = growthMap[typeOption.value];
-                                    let artifactStats = {};
-                                    let artifactRates = {};
-                                    let averageStats = {};
+                            {stats.map((stat, index) => {
+                                return (
+                                    <div
+                                        className="CraftingItemRow-info-stats-table-row-statCell"
+                                        key={`row_${index}`}
+                                    >
+                                        {stat.label}
+                                    </div>
+                                )
+                            })}
+                        </div>
+                        {
+                            typeMap[artifact.rtype].map((typeOption, index) => {
+                                let typeGrowth = growthMap[typeOption.value];
+                                let artifactStats = {};
+                                let artifactRates = {};
+                                let averageStats = {};
 
-                                    if (typeOption.value === 'ARTIFACT_TRUST' || typeOption.value === 'ARTIFACT_50') {
-                                        artifactStats = artifact.status[1];
-                                        averageStats = artifact.status[1];
-                                    } else {
-                                        artifactStats = getArtifactStats(typeGrowth.curve[0], artifact.status[1]);
-                                        artifactRates = getArtifactRates(typeGrowth.rstatus[0], artifact.randr[0], wotvDump);
-                                        averageStats = {...artifact.status[0]};
+                                if (typeOption.value === 'ARTIFACT_TRUST' || typeOption.value === 'ARTIFACT_50') {
+                                    artifactStats = artifact.status[1];
+                                    averageStats = artifact.status[1];
+                                } else {
+                                    artifactStats = getArtifactStats(typeGrowth.curve[0], artifact.status[1]);
+                                    artifactRates = getArtifactRates(typeGrowth.rstatus[0], artifact.randr[0], wotvDump);
+                                    averageStats = Object.assign({}, artifact.status[0]);
 
-                                        for (let i = 1; i < 50; i++) {
-                                            let pityRate = 1;
-                                            let pityStat = null;
+                                    for (let i = 1; i < 50; i++) {
+                                        let pityRate = 1;
+                                        let pityStat = null;
 
-                                            stats.forEach((stat) => {
-                                                if (!isNaN(artifactRates[stat.value])) {
-                                                    pityRate *= (1 - (artifactRates[stat.value] / 100));
+                                        stats.forEach((stat) => {
+                                            if (!isNaN(artifactRates[stat.value])) {
+                                                pityRate *= (1 - (artifactRates[stat.value] / 100));
 
-                                                    if (!pityStat || artifactRates[stat.value] > artifactRates[pityStat]) {
-                                                        pityStat = stat.value;
-                                                    }
+                                                if (!pityStat || artifactRates[stat.value] > artifactRates[pityStat]) {
+                                                    pityStat = stat.value;
                                                 }
-
-                                                if (
-                                                    !isNaN(artifactStats[stat.value]) &&
-                                                    !isNaN(artifact.randa[0][stat.value]) &&
-                                                    !isNaN(artifactRates[stat.value])
-                                                ) {
-                                                    averageStats[stat.value] += artifact.randa[0][stat.value] * artifactRates[stat.value] / 100;
-
-                                                    if (averageStats[stat.value] > artifactStats[stat.value]) {
-                                                        averageStats[stat.value] = artifactStats[stat.value];
-                                                        artifactRates[stat.value] = 0;
-                                                    }
-                                                }
-
-                                            });
-
-                                            averageStats[pityStat] += pityRate;
-
-                                            if (averageStats[pityStat] > artifactStats[pityStat]) {
-                                                averageStats[pityStat] = artifactStats[pityStat];
-                                                artifactRates[pityStat] = 0;
                                             }
 
-                                            artifactRates = getArtifactRates(typeGrowth.rstatus[0], artifact.randr[0], wotvDump);
+                                            if (
+                                                !isNaN(artifactStats[stat.value]) &&
+                                                !isNaN(artifact.randa[0][stat.value]) &&
+                                                !isNaN(artifactRates[stat.value])
+                                            ) {
+                                                averageStats[stat.value] += artifact.randa[0][stat.value] * artifactRates[stat.value] / 100;
+
+                                                if (averageStats[stat.value] > artifactStats[stat.value]) {
+                                                    averageStats[stat.value] = artifactStats[stat.value];
+                                                    artifactRates[stat.value] = 0;
+                                                }
+                                            }
+
+                                        });
+
+                                        averageStats[pityStat] += pityRate;
+
+                                        if (averageStats[pityStat] > artifactStats[pityStat]) {
+                                            averageStats[pityStat] = artifactStats[pityStat];
+                                            artifactRates[pityStat] = 0;
                                         }
+
                                     }
 
-                                    return (
-                                        <div
-                                            className="CraftingItemRow-info-stats-table-row"
-                                            key={`statsTableRow-${index}`}
-                                        >
-                                            <div className="CraftingItemRow-info-stats-table-row-typeCell">
-                                                {typeOption.label || '-'}
-                                            </div>
-                                            {stats.map((stat, index) => {
-                                                let statText = '-';
+                                    artifactRates = getArtifactRates(typeGrowth.rstatus[0], artifact.randr[0], wotvDump);
+                                }
 
-                                                if (artifactStats[stat.value]) {
-                                                    statText = `${Math.round(averageStats[stat.value])} / ${artifactStats[stat.value]}`
-                                                }
-
-                                                return (
-                                                    <div
-                                                        className="CraftingItemRow-info-stats-table-row-statCell"
-                                                        key={`row_${index}`}
-                                                    >
-                                                        {statText}
-                                                    </div>
-                                                );
-                                            })}
+                                return (
+                                    <div
+                                        className="CraftingItemRow-info-stats-table-row"
+                                        key={`statsTableRow-${index}`}
+                                    >
+                                        <div className="CraftingItemRow-info-stats-table-row-typeCell">
+                                            {typeOption.label || '-'}
                                         </div>
-                                    );
-                                })
-                            }
-                            {typeMap[artifact.rtype][0].value !== 'ARTIFACT_TRUST' && typeMap[artifact.rtype][0].value !== 'ARTIFACT_50' &&
-                                <div className="CraftingItemRow-info-stats-table-row">
-                                    <div className="CraftingItemRow-info-stats-table-row-typeCell">
-                                        Growth
-                                    </div>
-                                    {
-                                        stats.map((stat, index) => {
-                                            let growthText = '-'
+                                        {stats.map((stat, index) => {
+                                            let statText = '-';
 
-                                            if (artifact.randa[0][stat.value]) {
-                                                growthText = `+${artifact.randa[0][stat.value]}`
+                                            if (
+                                                !isNaN(artifact.status[0][stat.value]) &&
+                                                !isNaN(artifact.status[1][stat.value]) &&
+                                                (artifact.status[0][stat.value] != 0 || artifact.status[1][stat.value] != 0)
+                                            ) {
+                                                statText = `${Math.round(averageStats[stat.value])} / ${artifactStats[stat.value]}`
                                             }
 
                                             return (
                                                 <div
                                                     className="CraftingItemRow-info-stats-table-row-statCell"
-                                                    key={`growthCell_${index}`}
+                                                    key={`row_${index}`}
                                                 >
-                                                    {growthText}
+                                                    {statText}
                                                 </div>
                                             );
-                                        })
-                                    }
+                                        })}
+                                    </div>
+                                );
+                            })
+                        }
+                        {typeMap[artifact.rtype][0].value !== 'ARTIFACT_TRUST' && typeMap[artifact.rtype][0].value !== 'ARTIFACT_50' &&
+                            <div className="CraftingItemRow-info-stats-table-row">
+                                <div className="CraftingItemRow-info-stats-table-row-typeCell">
+                                    Growth
                                 </div>
-                            }
-                        </div>
+                                {
+                                    stats.map((stat, index) => {
+                                        let growthText = '-'
+
+                                        if (artifact.randa[0][stat.value]) {
+                                            growthText = `+${artifact.randa[0][stat.value]}`
+                                        }
+
+                                        return (
+                                            <div
+                                                className="CraftingItemRow-info-stats-table-row-statCell"
+                                                key={`growthCell_${index}`}
+                                            >
+                                                {growthText}
+                                            </div>
+                                        );
+                                    })
+                                }
+                            </div>
+                        }
                     </div>
                 </div>
             }
