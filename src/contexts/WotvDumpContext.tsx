@@ -525,7 +525,7 @@ export const defaultContext: DumpContext = {
     itemBookMap: getItemBookMap(),
     itemMaterialMap: getItemMaterialMap(),
     itemRecipeMap: getItemRecipeMap(),
-    customBuffNames: CustomBuffNames;
+    customBuffNames: CustomBuffNames,
 };
 
 export const WotvDumpContext = createContext(defaultContext);
