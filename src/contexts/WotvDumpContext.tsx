@@ -15,6 +15,7 @@ import * as ArtifactRecipe from '../../wotvDump/data/ArtifactRecipe.json';
 import * as ArtifactAwake from '../../wotvDump/data/ArtifactAwake.json';
 import * as Item from '../../wotvDump/data/Item.json';
 import * as ItemName_en from '../../wotvDump/en/ItemName.json';
+import * as CustomBuffNames from '../../wotvDump/CustomBuffNames.json';
 
 export interface DumpContext {
     typeMap: object;
@@ -35,6 +36,7 @@ export interface DumpContext {
     itemBookMap: IngredientMap;
     itemMaterialMap: IngredientMap;
     itemRecipeMap: IngredientMap;
+    customBuffNames: object;
 };
 
 export interface Ingredient {
@@ -523,6 +525,7 @@ export const defaultContext: DumpContext = {
     itemBookMap: getItemBookMap(),
     itemMaterialMap: getItemMaterialMap(),
     itemRecipeMap: getItemRecipeMap(),
+    customBuffNames: CustomBuffNames;
 };
 
 export const WotvDumpContext = createContext(defaultContext);

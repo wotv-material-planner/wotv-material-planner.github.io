@@ -2,33 +2,4 @@
 
 .CraftingItemsTable {
     margin-top: 10px;
-
-    .CraftingItemsTable-row {
-        padding: 10px 0;
-        border-bottom: 1px solid $light-grey;
-        display: flex;
-
-        .CraftingItemsTable-row-head {
-            display: flex;
-            flex-wrap: wrap;
-            align-items: center;
-
-            .CraftingItemsTable-row-head-itemName {
-                font-size: 1em;
-                font-weight: bold;
-                height: 1.2em;
-                text-decoration: underline;
-                text-shadow: $pink 1px 0 1px, $cyan -1px 0 1px;
-            }
-        }
-
-        .CraftingItemsTable-row-contents {
-            display: flex;
-
-            .CraftingItemsTable-row-contents-inputs {
-                display: flex;
-                flex-wrap: wrap;
-            }
-        }
-    }
 }

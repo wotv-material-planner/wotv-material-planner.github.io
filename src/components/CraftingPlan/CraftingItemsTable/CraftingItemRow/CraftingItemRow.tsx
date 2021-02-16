@@ -1,0 +1,78 @@
+import * as React from 'react';
+import {FunctionComponent, useContext, useState} from 'react';
+import {CraftingItem, getTotalCraftingIngredients} from '~contexts/UserCraftingItemsContext';
+import {WotvDumpContext} from '~contexts/WotvDumpContext';
+import {RowBook} from './RowBook';
+import {RowMaterials} from './RowMaterials';
+import {RowRecipe} from './RowRecipe';
+import {RowMovementControls} from './RowMovementControls';
+import {RowPlusSelects} from './RowPlusSelects';
+import {RowTypeSelect} from './RowTypeSelect';
+import './CraftingItemRow.scss';
+import {RowDelete} from './RowDelete';
+
+interface Props {
+    craftingItem: CraftingItem;
+    itemIndex: number;
+    moveItemIndex?: number;
+    setMoveItemIndex: (moveItemIndex: number) => void;
+};
+
+export const CraftingItemRow: FunctionComponent<Props> = (props) => {
+    const wotvDump = useContext(WotvDumpContext);
+    const {artifactMap, typeMap} = wotvDump;
+
+    const artifact = artifactMap[props.craftingItem.iname];
+
+    var currentPlusText = '';
+    if (props.craftingItem.currentPlus) {
+        currentPlusText = ` (+${props.craftingItem.currentPlus})`;
+    }
+
+    const totalIngredients = getTotalCraftingIngredients([props.craftingItem], wotvDump);
+
+    return (
+        <div className="CraftingItemRow">
+            <div className="CraftingItemRow-main">
+                <RowMovementControls
+                    itemIndex={props.itemIndex}
+                    moveItemIndex={props.moveItemIndex}
+                    setMoveItemIndex={props.setMoveItemIndex}
+                />
+                <div>
+                    <div className="CraftingItemRow-main-head">
+                        <div className="CraftingItemRow-main-head-itemName">
+                            {`${artifact.name}${currentPlusText}`}
+                        </div>
+                        <RowTypeSelect
+                            itemIndex={props.itemIndex}
+                            typeOptions={typeMap[artifact.rtype]}
+                        />
+                        <RowPlusSelects
+                            itemIndex={props.itemIndex}
+                            displaySelect={!!artifactMap[`${props.craftingItem.iname}_1`]}
+                        />
+                    </div>
+                    <div className="CraftingItemRow-main-contents">
+                        <div className="CraftingItemRow-main-contents-inputs">
+                            <RowRecipe
+                                totalRecipes={totalIngredients.recipes}
+                                asset={`equipment/${artifact.asset}.png`}
+                            />
+                            <RowBook
+                                totalBooks={totalIngredients.books}
+                            />
+                            <RowMaterials
+                                totalMaterials={totalIngredients.materials}
+                            />
+                        </div>
+                    </div>
+                </div>
+                <RowDelete
+                    itemIndex={props.itemIndex}
+                    totalIngredients={totalIngredients}
+                />
+            </div>
+        </div>
+    );
+};
