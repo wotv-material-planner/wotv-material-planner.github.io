@@ -8,7 +8,7 @@ interface Props {
 }
 
 export const ContentsDrawer: FunctionComponent<PropsWithChildren<Props>> = (props: PropsWithChildren<Props>) => {
-    const [open, setOpen] = useState<boolean>(true);
+    const [open, setOpen] = useState<boolean>(!!props.fixed);
 
     return (
         <div className={`ContentsDrawer ${open ? 'open' : 'closed'} ${props.fixed ? 'fixed' : ''}`}>
