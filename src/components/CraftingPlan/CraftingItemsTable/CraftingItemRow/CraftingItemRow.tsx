@@ -120,7 +120,7 @@ const getArtifactRates = (adjust, base, wotvDump) => {
 };
 
 export const CraftingItemRow: FunctionComponent<Props> = (props) => {
-    const [showInfo, setShowInfo] = useState<boolean>(true);
+    const [showInfo, setShowInfo] = useState<boolean>(false);
 
     const wotvDump = useContext(WotvDumpContext);
     const {
