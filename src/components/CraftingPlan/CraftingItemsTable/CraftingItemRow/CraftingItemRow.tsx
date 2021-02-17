@@ -137,11 +137,6 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
 
     const artifact = artifactMap[fullIname];
 
-    var currentPlusText = '';
-    if (props.craftingItem.currentPlus) {
-        currentPlusText = ` (+${props.craftingItem.currentPlus})`;
-    }
-
     const totalIngredients = getTotalCraftingIngredients([props.craftingItem], wotvDump);
 
     return (
@@ -155,7 +150,7 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
                 <div>
                     <div className="CraftingItemRow-main-head">
                         <div className="CraftingItemRow-main-head-itemName">
-                            {`${artifact.name}${currentPlusText}`}
+                            {artifact.name}
                         </div>
                         <i
                             className="material-icons CraftingItemRow-main-head-itemInfo"
