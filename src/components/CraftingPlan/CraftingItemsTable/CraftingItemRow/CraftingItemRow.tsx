@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, useState} from 'react';
 import {CraftingItem, getTotalCraftingIngredients} from '~contexts/UserCraftingItemsContext';
-import {WotvDumpContext, rareMap, stats} from '~contexts/WotvDumpContext';
+import {WotvDumpContext, stats} from '~contexts/WotvDumpContext';
 import {RowBook} from './RowBook';
 import {RowMaterials} from './RowMaterials';
 import {RowRecipe} from './RowRecipe';
@@ -206,7 +206,10 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
                             </div>
                             {getItemBuffs(fullIname, wotvDump).map((buff, index) => {
                                 return (
-                                    <div key={`infoBonus_${index}`}>
+                                    <div
+                                        className="CraftingItemRow-info-sidebar-bonus-stat"
+                                        key={`infoBonus_${index}`}
+                                    >
                                         {buff}
                                     </div>
                                 );
