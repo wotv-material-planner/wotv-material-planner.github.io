@@ -4,11 +4,40 @@ import {CraftingItem, UserCraftingItemsContext} from '~contexts/UserCraftingItem
 import {ArtifactListItem, Category, WotvDumpContext} from '~contexts/WotvDumpContext';
 import './AddCraftingItems.scss';
 
+const getGroupOptions = (groupCategories: Category[], artifactCategoryList) => {
+    return groupCategories.map((groupCategory: Category) => {
+        const index = artifactCategoryList.findIndex((category) => {
+            return groupCategory.key === category.key;
+        });
+
+        return (
+            <option
+                key={`CraftingPlan-category-${index}`}
+                value={index}
+            >
+                {groupCategory.value}
+            </option>
+        );
+    });
+};
+
 export const AddCraftingItems: FunctionComponent = () => {
-    const [category, setCategory] = useState<number>(0);
+    const [category, setCategory] = useState<number>(1);
     const [artifactId, setArtifactId] = useState<string>('');
     const [craftingItems, setCraftingItems] = useContext(UserCraftingItemsContext);
     const {artifactCategoryList, artifactListByCat} = useContext(WotvDumpContext);
+
+    const weapons = artifactCategoryList.filter((category) => {
+        return category.type === 'weapon';
+    });
+
+    const armors = artifactCategoryList.filter((category) => {
+        return category.type === 'armor';
+    });
+
+    const accessories = artifactCategoryList.filter((category) => {
+        return category.type === 'accessory';
+    });
 
     return (
         <div className="AddCraftingItems">
@@ -21,51 +50,48 @@ export const AddCraftingItems: FunctionComponent = () => {
                     setCategory(+e.target.value);
                 }}
             >
-                {artifactCategoryList.map((category: Category, index) => {
-                    return (
-                        <option
-                            key={`CraftingPlan-category-${index}`}
-                            value={index}
-                        >
-                            {category.value}
-                        </option>
-                    );
-                })}
+                <optgroup label="Weapons">
+                    {getGroupOptions(weapons, artifactCategoryList)}
+                </optgroup>
+                <optgroup label="Armors">
+                    {getGroupOptions(armors, artifactCategoryList)}
+                </optgroup>
+                <optgroup label="Accessories">
+                    {getGroupOptions(accessories, artifactCategoryList)}
+                </optgroup>
             </select>
-            {category !== 0 &&
-                <select
-                    className="AddCraftingItems-artifactSelect"
-                    defaultValue=""
-                    onChange={(e) => {
-                        setArtifactId(e.target.value);
-                    }}
-                >
-                    {artifactListByCat[category] &&
-                        artifactListByCat[category].reduce((acc, artifact: ArtifactListItem, index, arr) => {
-                            if (!artifact.label.includes('+')) {
-                                const plusItem = arr.some((ele) => {
-                                    return ele.label.includes(`${artifact.label} +`);
-                                });
+            <select
+                className="AddCraftingItems-artifactSelect"
+                defaultValue=""
+                onChange={(e) => {
+                    setArtifactId(e.target.value);
+                }}
+            >
+                {artifactListByCat[category] &&
+                    artifactListByCat[category].reduce((acc, artifact: ArtifactListItem, index, arr) => {
+                        if (!artifact.label.includes('+')) {
+                            const plusItem = arr.some((ele) => {
+                                return ele.label.includes(`${artifact.label} +`);
+                            });
 
-                                acc.push(
-                                    <option
-                                        key={`AddCraftingItems-artifact-${index}`}
-                                        value={artifact.value}
-                                    >
-                                        {`${artifact.label}${plusItem ? ' +' : ''}`}
-                                    </option>
-                                );
-                            }
+                            acc.push(
+                                <option
+                                    key={`AddCraftingItems-artifact-${index}`}
+                                    value={artifact.value}
+                                >
+                                    {`${artifact.label}${plusItem ? ' +' : ''}`}
+                                </option>
+                            );
+                        }
 
-                            return acc;
-                        }, [(
-                            <option value="" key="AddCraftingItems-artifact-default">
-                                {`choose ${artifactCategoryList[category].value}`}
-                            </option>
-                        )])
-                    }
-                </select>
-            }
+                        return acc;
+                    }, [(
+                        <option value="" key="AddCraftingItems-artifact-default">
+                            {`choose ${artifactCategoryList[category].value}`}
+                        </option>
+                    )])
+                }
+            </select>
             <button
                 className="AddCraftingItems-artifactAdd"
                 onClick={() => {

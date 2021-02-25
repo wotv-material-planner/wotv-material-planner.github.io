@@ -396,24 +396,51 @@ const getSealGrowthMap = () => {
 export interface Category {
     key: string;
     value: string;
+    type: string;
 };
 
+const categoryExclusionList = [
+    'LIGHTSHIELD',
+    'HEAVYSHIELD',
+    'LIGHTARMOR',
+    'HEAVYARMOR',
+    'ROBE',
+    'SEPARATOR',
+    'LARGESWORD',
+    'STAFF',
+];
+
+const categoryTypeList = {
+    accessory: [
+        'ACCESSORY',
+    ],
+    armor: [
+        'SHIELD',
+        'ARMOR',
+        'HAT',
+        'HELM',
+        'CLOTHES',
+    ],
+}
+
 const getArtifactCategoryList = (): Category[] => {
-    const artifactCategoryList: Category[] = [...ArtifactCategory_en.infos];
-
-    const categoryExclusionList = [
-        'LIGHTSHIELD',
-        'HEAVYSHIELD',
-        'LIGHTARMOR',
-        'HEAVYARMOR',
-        'ROBE',
-        'SEPARATOR',
-        'LARGESWORD',
-        'STAFF',
-    ];
-
-    return artifactCategoryList.filter((category: Category) => {
+    return ArtifactCategory_en.infos.filter((category: Category) => {
         return !categoryExclusionList.includes(category.key);
+    }).map((category) => {
+        let type = '';
+
+        if (categoryTypeList.accessory.includes(category.key)) {
+            type = 'accessory';
+        } else if (categoryTypeList.armor.includes(category.key)) {
+            type = 'armor';
+        } else if (category.key !== 'NONE') {
+            type = 'weapon';
+        }
+
+        return {
+            ...category,
+            type
+        };
     });
 };
 
