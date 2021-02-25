@@ -37,18 +37,18 @@
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-    }
 
-    .App-contents::-webkit-scrollbar {
-        width: 5px;
-        height: 5px;
-    }
+        &::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
 
-    .App-contents::-webkit-scrollbar-track {
-        background: none;
-      }
+        &::-webkit-scrollbar-track {
+            background: none;
+        }
 
-    .App-contents::-webkit-scrollbar-thumb {
-        background-color: $cyan;
+        &::-webkit-scrollbar-thumb {
+            background-color: $cyan;
+        }
     }
 }

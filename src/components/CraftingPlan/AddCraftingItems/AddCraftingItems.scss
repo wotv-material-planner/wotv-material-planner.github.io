@@ -21,11 +21,26 @@
         background-color: $black;
         border: 1px solid $cyan;
         color: $white;
+        scrollbar-width: thin;
+        scrollbar-color: $cyan rgba($black, 0);
 
         &:focus {
             outline-color: $pink;
             outline-style: inset;
             outline-width: 1px;
+        }
+
+        &::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
+
+        &::-webkit-scrollbar-track {
+            background: none;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            background-color: $cyan;
         }
     }
 
@@ -36,11 +51,26 @@
         background-color: $black;
         border: 1px solid $cyan;
         color: $white;
+        scrollbar-width: thin;
+        scrollbar-color: $cyan rgba($black, 0);
 
         &:focus {
             outline-color: $pink;
             outline-style: inset;
             outline-width: 1px;
+        }
+
+        &::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
+
+        &::-webkit-scrollbar-track {
+            background: none;
+        }
+
+        &::-webkit-scrollbar-thumb {
+            background-color: $cyan;
         }
     }
 
