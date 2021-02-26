@@ -60,6 +60,7 @@ export interface IngredientMap {
 interface Stat {
     label: string;
     value: string;
+    passText?: string;
 };
 
 interface LotGrowMap {
@@ -88,7 +89,8 @@ interface TypeMap {
 export const stats: Stat[] = [
     {
         label: "HP",
-        value: "hp"
+        value: "hp",
+        passText: "+15%"
     }, 
     {
         label: "TP",
@@ -100,23 +102,28 @@ export const stats: Stat[] = [
     }, 
     {
         label: "ATK",
-        value: "atk"
+        value: "atk",
+        passText: "+15%"
     }, 
     {
         label: "DEF",
-        value: "def"
+        value: "def",
+        passText: "+3%"
     }, 
     {
         label: "MAG",
-        value: "mag"
+        value: "mag",
+        passText: "+15%"
     }, 
     {
         label: "SPR",
-        value: "mnd"
+        value: "mnd",
+        passText: "+3%"
     }, 
     {
         label: "ACC",
-        value: "hit"
+        value: "hit",
+        passText: "+3%"
     }, 
     {
         label: "DEX",
@@ -128,11 +135,13 @@ export const stats: Stat[] = [
     }, 
     {
         label: "EVA",
-        value: "avd"
+        value: "avd",
+        passText: "+3%"
     }, 
     {
         label: "CRIT",
-        value: "crt"
+        value: "crt",
+        passText: "+3%"
     }, 
     {
         label: "CRIT E",

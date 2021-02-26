@@ -83,8 +83,11 @@
                 font-size: 0.7em;
                 display: flex;
                 justify-content: space-between;
+                align-items: center;
 
                 .CraftingItemRow-info-stats-table-row-typeCell {
+                    display: flex;
+                    align-items: center;
                     width: 60px;
                 }
 
