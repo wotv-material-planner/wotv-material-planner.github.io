@@ -44,11 +44,11 @@
         display: flex;
 
         .CraftingItemRow-info-sidebar {
-            width: 100px;
+            width: 120px;
             font-size: 0.8em;
 
             .CraftingItemRow-info-sidebar-asset {
-                margin: 5px;
+                margin: 10px;
                 border-radius: 10px;
                 border: 1px solid $light-grey;
                 background-color: rgba($black, 0.5);
@@ -59,7 +59,7 @@
             }
 
             .CraftingItemRow-info-sidebar-bonus {
-                margin: 5px;
+                margin: 10px;
                 font-size: 0.9em;
                 white-space: nowrap;
 
@@ -93,11 +93,11 @@
                 .CraftingItemRow-info-stats-table-row-typeCell {
                     display: flex;
                     align-items: center;
-                    width: 60px;
+                    width: 55px;
                 }
 
                 .CraftingItemRow-info-stats-table-row-statCell {
-                    width: 60px;
+                    width: 55px;
                 }
             }
         }
