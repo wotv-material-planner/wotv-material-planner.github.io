@@ -85,6 +85,11 @@
                 justify-content: space-between;
                 align-items: center;
 
+                &.selected {
+                    font-weight: bold;
+                    text-shadow: $pink 0 0 1px;
+                }
+
                 .CraftingItemRow-info-stats-table-row-typeCell {
                     display: flex;
                     align-items: center;

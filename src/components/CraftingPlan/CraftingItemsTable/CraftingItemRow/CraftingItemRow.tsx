@@ -227,6 +227,11 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
                             })}
                         </div>
                         {typeMap[artifact.rtype].map((typeOption, index) => {
+                            const selected = typeOption.value === props.craftingItem.targetGrowthType ?
+                                'selected'
+                                :
+                                '';
+
                             let typeGrowth = growthMap[typeOption.value];
                             let artifactStats = {};
                             let artifactRates = {};
@@ -293,7 +298,7 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
 
                             return (
                                 <div
-                                    className="CraftingItemRow-info-stats-table-row"
+                                    className={`CraftingItemRow-info-stats-table-row ${selected}`}
                                     key={`statsTableRow-${index}`}
                                 >
                                     <div className="CraftingItemRow-info-stats-table-row-typeCell">
