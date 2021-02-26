@@ -356,7 +356,7 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
                                             className="CraftingItemRow-info-stats-table-row-statCell"
                                             key={`sealCell_${index}`}
                                         >
-                                            {artifact.randa[0][stat.value] ?
+                                            {artifact.randa[0][stat.value] && stat.passText ?
                                                 <input
                                                     type="checkbox"
                                                     checked={seals.includes(stat.value)}
