@@ -1,0 +1,67 @@
+@import '~/styles/variables.scss';
+
+.RowItemInfo {
+    margin-top: 10px;
+    display: flex;
+
+    .RowItemInfo-sidebar {
+        width: 120px;
+        font-size: 0.8em;
+
+        .RowItemInfo-sidebar-asset {
+            margin: 10px;
+            border-radius: 10px;
+            border: 1px solid $light-grey;
+            background-color: rgba($black, 0.5);
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .RowItemInfo-sidebar-buffs {
+            margin: 10px;
+            font-size: 0.9em;
+            white-space: nowrap;
+
+            .RowItemInfo-sidebar-buffs-title {
+                margin-bottom: 5px;
+                border-bottom: 1px solid $light-grey;
+                font-weight: bold;
+                line-height: 1.25em;
+            }
+
+            .RowItemInfo-sidebar-buffs-stats {
+                margin-bottom: 3px;
+            }
+        }
+    }
+
+    .RowItemInfo-stats {
+        flex: 1;
+
+        .RowItemInfo-stats-table-row {
+            padding: 3px 0;
+            border-bottom: 1px solid $light-grey;
+            font-size: 0.7em;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            &.selected {
+                font-weight: bold;
+                text-shadow: $pink 0 0 1px;
+            }
+
+            .RowItemInfo-stats-table-row-typeCell {
+                display: flex;
+                align-items: center;
+                width: 55px;
+            }
+
+            .RowItemInfo-stats-table-row-statCell {
+                width: 55px;
+            }
+        }
+    }
+}
