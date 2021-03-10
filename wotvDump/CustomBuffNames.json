@@ -242,5 +242,13 @@
     "BUFF_LW_DF_SPEAR_4_UR": "Pierce Res 5",
     "BUFF_LW_DF_SPEAR_5_UR": "Pierce Res 10",
     "BUFF_LW__ROD_019_5": "Light Att 20,Lightning Att 20",
-    "BUFF_LW_CLK_001_5": "Confuse Res 25"
+    "BUFF_LW_CLK_001_5": "Confuse Res 25",
+    "BUFF_LW_ARW_001_5_S": "Disable Res 25",
+    "BUFF_LW_ARW_001_1": "3T Missle Res 2",
+    "BUFF_LW_ARW_001_2": "3T Missile Res 4",
+    "BUFF_LW_ARW_001_3": "3T Missile Res 7",
+    "BUFF_LW_ARW_001_4": "3T Missle Res 13",
+    "BUFF_LW_ARW_001_5": "3T Missile Res 25",
+    "BUFF_LW_ACC_040_5_S": "Blind Res 15,Paralysis 15",
+    "BUFF_LW_HIT_5_N": "Acc 10"
 }
