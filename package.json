@@ -10,7 +10,9 @@
     "test": "jest --verbose"
   },
   "staticFiles": {
-    "staticPath": ["wotvDump/img"],
+    "staticPath": [
+      "wotvDump/img"
+    ],
     "watcherGlob": "**"
   },
   "jest": {
@@ -33,7 +35,7 @@
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
-    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-env": "7.13.8",
     "@babel/preset-react": "^7.8.3",
     "@babel/preset-typescript": "^7.8.3",
     "@testing-library/react": "^11.2.2",
@@ -43,6 +45,7 @@
     "@typescript-eslint/eslint-plugin": "^2.19.0",
     "@typescript-eslint/parser": "^2.19.0",
     "axios": "^0.19.2",
+    "cssnano": "^4.1.10",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.18.3",
     "identity-obj-proxy": "^3.0.0",
