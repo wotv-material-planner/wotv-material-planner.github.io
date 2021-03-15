@@ -1,12 +1,13 @@
 import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowDelete} from './RowDelete';
-import {UserBookMap, UserBooksContext} from '~contexts/UserBooksContext';
-import {UserRecipeMap, UserRecipesContext} from '~contexts/UserRecipesContext';
-import {UserMaterialMap, UserMaterialsContext} from '~contexts/UserMaterialsContext';
+import {UserBooksContext} from '~contexts/UserBooksContext';
+import {UserRecipesContext} from '~contexts/UserRecipesContext';
+import {UserMaterialsContext} from '~contexts/UserMaterialsContext';
 import {CraftingItem, TotalCraftingIngredients, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
 import {PersistedState} from '~hooks/UsePersistedState';
 import {arbitraryCraftingItem, arbitraryTotalCraftingIngredients} from '~testSupport/arbitraryObjects';
+import {UserIngredientMap} from '~contexts/UserDataProvider';
 
 describe('RowDelete', () => {
     it('renders a RowDelete', () => {
@@ -42,7 +43,7 @@ describe('RowDelete', () => {
     });
 
     it('updates recipes on row delete', () => {
-        const recipes: UserRecipeMap = {
+        const recipes: UserIngredientMap = {
             slothbear_sword_recipe: {
                 current: 4000,
                 totalNeeded: 5000,
@@ -77,7 +78,7 @@ describe('RowDelete', () => {
     });
 
     it('updates books on row delete', () => {
-        const books: UserBookMap = {
+        const books: UserIngredientMap = {
             bear_books: {
                 current: 1,
                 totalNeeded: 3,
@@ -112,7 +113,7 @@ describe('RowDelete', () => {
     });
 
     it('updates materials on row delete', () => {
-        const materials: UserMaterialMap = {
+        const materials: UserIngredientMap = {
             ants: {
                 current: 100,
                 totalNeeded: 300,
@@ -159,9 +160,9 @@ describe('RowDelete', () => {
 interface OptionalProps {
     itemIndex?: number;
     totalIngredients?: TotalCraftingIngredients;
-    booksValue?: PersistedState<UserBookMap>;
-    recipesValue?: PersistedState<UserRecipeMap>;
-    materialsValue?: PersistedState<UserMaterialMap>;
+    booksValue?: PersistedState<UserIngredientMap>;
+    recipesValue?: PersistedState<UserIngredientMap>;
+    materialsValue?: PersistedState<UserIngredientMap>;
     craftingItemsValue?: PersistedState<CraftingItem[]>;
 };
 

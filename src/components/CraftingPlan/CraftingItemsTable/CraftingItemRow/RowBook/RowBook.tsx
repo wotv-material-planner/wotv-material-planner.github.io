@@ -1,8 +1,9 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
 import {IngredientEntry} from '~components/common/IngredientEntry';
-import {UserBookMap, UserBooksContext} from '~contexts/UserBooksContext';
+import {UserBooksContext} from '~contexts/UserBooksContext';
 import {CraftingIngredientMap} from '~contexts/UserCraftingItemsContext';
+import {UserIngredientMap} from '~contexts/UserDataProvider';
 import {WotvDumpContext} from '~contexts/WotvDumpContext';
 import './RowBook.scss'
 
@@ -26,7 +27,7 @@ export const RowBook: FunctionComponent<Props> = (props) => {
                     totalNeeded={props.totalBooks[book]}
                     asset={`items/${book}.png`}
                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                        const newBooks: UserBookMap = {...books};
+                        const newBooks: UserIngredientMap = {...books};
 
                         if (event.target.value === '') {
                             newBooks[book].current = null;

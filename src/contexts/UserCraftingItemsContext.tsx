@@ -1,9 +1,10 @@
 import * as React from 'react';
 import {createContext, FunctionComponent, useContext, useEffect} from 'react';
 import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
-import {UserBookMap, UserBooksContext} from './UserBooksContext';
-import {UserMaterialMap, UserMaterialsContext} from './UserMaterialsContext';
-import {UserRecipeMap, UserRecipesContext} from './UserRecipesContext';
+import {UserIngredientMap} from './UserDataProvider';
+import {UserBooksContext} from './UserBooksContext';
+import {UserMaterialsContext} from './UserMaterialsContext';
+import {UserRecipesContext} from './UserRecipesContext';
 import {DumpContext, WotvDumpContext} from './WotvDumpContext';
 
 export interface CraftingItem {
@@ -150,9 +151,9 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
     const wotvDump = useContext(WotvDumpContext);
 
     useEffect(() => {
-        const newBooks: UserBookMap = {...books};
-        const newRecipes: UserRecipeMap = {...recipes};
-        const newMaterials: UserMaterialMap = {...materials};
+        const newBooks: UserIngredientMap = {...books};
+        const newRecipes: UserIngredientMap = {...recipes};
+        const newMaterials: UserIngredientMap = {...materials};
 
         const totalElements = getTotalCraftingIngredients(craftingItems, wotvDump);
 

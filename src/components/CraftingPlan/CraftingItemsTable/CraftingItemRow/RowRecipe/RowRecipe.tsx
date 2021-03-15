@@ -1,9 +1,10 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
 import {CraftingIngredientMap} from '~/contexts/UserCraftingItemsContext'
-import {UserRecipeMap, UserRecipesContext} from '~contexts/UserRecipesContext';
+import {UserRecipesContext} from '~contexts/UserRecipesContext';
 import {IngredientEntry} from '~components/common/IngredientEntry';
 import './RowRecipe.scss'
+import {UserIngredientMap} from '~contexts/UserDataProvider';
 
 interface Props {
     totalRecipes: CraftingIngredientMap;
@@ -23,7 +24,7 @@ export const RowRecipe: FunctionComponent<Props> = (props: Props) => {
                     totalNeeded={props.totalRecipes[recipe]}
                     asset={props.asset}
                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                        const newRecipes: UserRecipeMap = {...recipes};
+                        const newRecipes: UserIngredientMap = {...recipes};
                         const newCurrentValue = +event.target.value;
 
                         if (Number.isNaN(newCurrentValue) || event.target.value === '') {

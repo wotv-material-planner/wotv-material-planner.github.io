@@ -1,6 +1,7 @@
 import * as React from 'react';
 import {createContext, useContext} from 'react';
 import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
+import {UserIngredientMap} from './UserDataProvider';
 import {WotvDumpContext} from './WotvDumpContext';
 
 export interface Book {
@@ -8,31 +9,22 @@ export interface Book {
     value: string;
 };
 
-export interface UserBookValues {
-    current: number | null;
-    totalNeeded: number | null;
-};
-
-export interface UserBookMap {
-    [book: string]: UserBookValues;
-};
-
-export const UserBooksContext = createContext<PersistedState<UserBookMap>>([null, null]);
+export const UserBooksContext = createContext<PersistedState<UserIngredientMap>>([null, null]);
 
 export const UserBooksProvider = (props) => {
     const {itemBookMap} = useContext(WotvDumpContext);
     const itemBooks = Object.keys(itemBookMap)
 
-    const initialUserBooksMap: UserBookMap = itemBooks.reduce((acc: UserBookMap, curr: string): UserBookMap => {
+    const initialUserBooksMap: UserIngredientMap = itemBooks.reduce((acc: UserIngredientMap, curr: string): UserIngredientMap => {
         acc[curr] = {
             current: null,
             totalNeeded: null,
         };
     
         return acc;
-    }, {} as UserBookMap);
+    }, {});
 
-    const defaultContext: PersistedState<UserBookMap> = usePersistedState<UserBookMap>('userBooks', initialUserBooksMap);
+    const defaultContext: PersistedState<UserIngredientMap> = usePersistedState<UserIngredientMap>('userBooks', initialUserBooksMap);
 
     return (
         <UserBooksContext.Provider value={defaultContext}>

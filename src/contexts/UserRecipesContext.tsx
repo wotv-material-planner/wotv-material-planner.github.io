@@ -1,6 +1,7 @@
 import * as React from 'react';
 import {createContext, useContext, Dispatch, SetStateAction} from 'react';
 import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
+import {UserIngredientMap} from './UserDataProvider';
 import {WotvDumpContext} from './WotvDumpContext';
 
 export interface Recipe {
@@ -17,31 +18,22 @@ export interface Recipe {
     icon: string;
 };
 
-export interface UserRecipeValues {
-    current: number | null;
-    totalNeeded: number | null;
-};
-
-export interface UserRecipeMap {
-    [recipe: string]: UserRecipeValues;
-};
-
-export const UserRecipesContext = createContext<PersistedState<UserRecipeMap>>([null, null]);
+export const UserRecipesContext = createContext<PersistedState<UserIngredientMap>>([null, null]);
 
 export const UserRecipesProvider = (props) => {
     const {itemRecipeMap} = useContext(WotvDumpContext);
     const itemRecipes = Object.keys(itemRecipeMap);
 
-    const initialUserRecipesMap: UserRecipeMap = itemRecipes.reduce((acc: UserRecipeMap, curr: string): UserRecipeMap => {
+    const initialUserRecipesMap: UserIngredientMap = itemRecipes.reduce((acc: UserIngredientMap, curr: string): UserIngredientMap => {
         acc[curr] = {
             current: null,
             totalNeeded: null,
         };
     
         return acc;
-    }, {} as UserRecipeMap);
+    }, {});
 
-    const defaultContext: PersistedState<UserRecipeMap> = usePersistedState<UserRecipeMap>('userRecipes', initialUserRecipesMap);
+    const defaultContext: PersistedState<UserIngredientMap> = usePersistedState<UserIngredientMap>('userRecipes', initialUserRecipesMap);
 
     return (
         <UserRecipesContext.Provider value={defaultContext}>

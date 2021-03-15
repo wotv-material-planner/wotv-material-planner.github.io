@@ -3,8 +3,9 @@ import {fireEvent, render, screen} from '@testing-library/react';
 import {RowMaterials} from './RowMaterials';
 import {CraftingIngredientMap} from '~contexts/UserCraftingItemsContext';
 import {PersistedState} from '~hooks/UsePersistedState';
-import {UserMaterialMap, UserMaterialsContext} from '~contexts/UserMaterialsContext';
+import {UserMaterialsContext} from '~contexts/UserMaterialsContext';
 import {WotvDumpProvider} from '~contexts/WotvDumpContext';
+import {UserIngredientMap} from '~contexts/UserDataProvider';
 
 describe('RowMaterials', () => {
     it('renders a RowMaterials', () => {
@@ -12,7 +13,7 @@ describe('RowMaterials', () => {
     });
 
     it('renders a material ingredient entry when a material exists', () => {
-        const materials: UserMaterialMap = {
+        const materials: UserIngredientMap = {
             IT_AF_MAT_BONE: {
                 current: 300,
                 totalNeeded: 400,
@@ -32,7 +33,7 @@ describe('RowMaterials', () => {
     });
 
     it('renders multiple material ingredient entry when multiple materials exist', () => {
-        const materials: UserMaterialMap = {
+        const materials: UserIngredientMap = {
             IT_AF_MAT_BONE: {
                 current: 300,
                 totalNeeded: 400,
@@ -66,7 +67,7 @@ describe('RowMaterials', () => {
     });
 
     it('sets a recipe current value on change', () => {
-        const materials: UserMaterialMap = {
+        const materials: UserIngredientMap = {
             IT_AF_MAT_BONE: {
                 current: 300,
                 totalNeeded: 400,
@@ -79,7 +80,7 @@ describe('RowMaterials', () => {
             IT_AF_MAT_BONE: 5,
         };
 
-        const expectedMaterials: UserMaterialMap = {
+        const expectedMaterials: UserIngredientMap = {
             IT_AF_MAT_BONE: {
                 current: 350,
                 totalNeeded: 400,
@@ -95,7 +96,7 @@ describe('RowMaterials', () => {
     });
 
     it('sets a material current value to null on empty input', () => {
-        const materials: UserMaterialMap = {
+        const materials: UserIngredientMap = {
             IT_AF_MAT_BONE: {
                 current: 300,
                 totalNeeded: 400,
@@ -108,7 +109,7 @@ describe('RowMaterials', () => {
             IT_AF_MAT_BONE: 5,
         };
 
-        const expectedMaterials: UserMaterialMap = {
+        const expectedMaterials: UserIngredientMap = {
             IT_AF_MAT_BONE: {
                 current: null,
                 totalNeeded: 400,
@@ -124,7 +125,7 @@ describe('RowMaterials', () => {
     });
 
     it('sets a recipe current value to null on invalid number input', () => {
-        const materials: UserMaterialMap = {
+        const materials: UserIngredientMap = {
             IT_AF_MAT_BONE: {
                 current: 300,
                 totalNeeded: 400,
@@ -137,7 +138,7 @@ describe('RowMaterials', () => {
             IT_AF_MAT_BONE: 5,
         };
 
-        const expectedMaterials: UserMaterialMap = {
+        const expectedMaterials: UserIngredientMap = {
             IT_AF_MAT_BONE: {
                 current: null,
                 totalNeeded: 400,
@@ -155,7 +156,7 @@ describe('RowMaterials', () => {
 
 interface OptionalProps {
     totalMaterials?: CraftingIngredientMap;
-    value?: PersistedState<UserMaterialMap>;
+    value?: PersistedState<UserIngredientMap>;
 };
 
 const renderSubject = (props: OptionalProps) => {

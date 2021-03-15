@@ -2,8 +2,9 @@ import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowRecipe} from './RowRecipe';
 import {CraftingIngredientMap} from '~contexts/UserCraftingItemsContext';
-import {UserRecipesContext, UserRecipeMap} from '~contexts/UserRecipesContext';
+import {UserRecipesContext} from '~contexts/UserRecipesContext';
 import {PersistedState} from '~hooks/UsePersistedState';
+import {UserIngredientMap} from '~contexts/UserDataProvider';
 
 describe('RowRecipe', () => {
     it('renders a RowRecipe', () => {
@@ -11,7 +12,7 @@ describe('RowRecipe', () => {
     });
 
     it('renders an recipe ingredient entry when a recipe exists', () => {
-        const recipes: UserRecipeMap = {
+        const recipes: UserIngredientMap = {
             slothbear_sword: {
                 current: 200,
                 totalNeeded: 500,
@@ -39,7 +40,7 @@ describe('RowRecipe', () => {
     });
 
     it('sets a recipe current value on change', () => {
-        const recipes: UserRecipeMap = {
+        const recipes: UserIngredientMap = {
             slothbear_sword: {
                 current: 200,
                 totalNeeded: 500,
@@ -47,7 +48,7 @@ describe('RowRecipe', () => {
         };
         const setRecipes = jest.fn();
 
-        const expectedRecipes: UserRecipeMap = {
+        const expectedRecipes: UserIngredientMap = {
             slothbear_sword: {
                 current: 9001,
                 totalNeeded: 500,
@@ -67,7 +68,7 @@ describe('RowRecipe', () => {
     });
 
     it('sets a recipe current value to null on empty input', () => {
-        const recipes: UserRecipeMap = {
+        const recipes: UserIngredientMap = {
             slothbear_sword: {
                 current: 200,
                 totalNeeded: 500,
@@ -75,7 +76,7 @@ describe('RowRecipe', () => {
         };
         const setRecipes = jest.fn();
 
-        const expectedRecipes: UserRecipeMap = {
+        const expectedRecipes: UserIngredientMap = {
             slothbear_sword: {
                 current: null,
                 totalNeeded: 500,
@@ -95,7 +96,7 @@ describe('RowRecipe', () => {
     });
 
     it('sets a recipe current value to null on invalid number input', () => {
-        const recipes: UserRecipeMap = {
+        const recipes: UserIngredientMap = {
             slothbear_sword: {
                 current: 200,
                 totalNeeded: 500,
@@ -103,7 +104,7 @@ describe('RowRecipe', () => {
         };
         const setRecipes = jest.fn();
 
-        const expectedRecipes: UserRecipeMap = {
+        const expectedRecipes: UserIngredientMap = {
             slothbear_sword: {
                 current: null,
                 totalNeeded: 500,
@@ -126,7 +127,7 @@ describe('RowRecipe', () => {
 interface OptionalProps {
     totalRecipes?: CraftingIngredientMap;
     asset?: string;
-    value?: PersistedState<UserRecipeMap>;
+    value?: PersistedState<UserIngredientMap>;
 };
 
 const renderSubject = (props: OptionalProps) => {

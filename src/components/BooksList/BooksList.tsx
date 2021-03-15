@@ -1,9 +1,10 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {UserBookMap, UserBooksContext} from '~/contexts/UserBooksContext';
+import {UserBooksContext} from '~/contexts/UserBooksContext';
 import {WotvDumpContext} from '~/contexts/WotvDumpContext';
 import {IngredientEntry} from '~/components/common/IngredientEntry';
 import './BooksList.scss'
+import {UserIngredientMap} from '~contexts/UserDataProvider';
 
 export const BooksList: FunctionComponent = () => {
     const {itemBookMap} = useContext(WotvDumpContext);
@@ -21,7 +22,7 @@ export const BooksList: FunctionComponent = () => {
                 asset={`items/${book}.png`}
                 totalNeeded={books[book].totalNeeded}
                 onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                    const newBooks: UserBookMap = {...books};
+                    const newBooks: UserIngredientMap = {...books};
 
                     if (event.target.value === '') {
                         newBooks[book].current = null;

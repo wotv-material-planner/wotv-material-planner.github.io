@@ -2,7 +2,8 @@ import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
 import {IngredientEntry} from '~components/common/IngredientEntry';
 import {CraftingIngredientMap} from '~contexts/UserCraftingItemsContext';
-import {UserMaterialMap, UserMaterialsContext} from '~contexts/UserMaterialsContext';
+import {UserIngredientMap} from '~contexts/UserDataProvider';
+import {UserMaterialsContext} from '~contexts/UserMaterialsContext';
 import {WotvDumpContext} from '~contexts/WotvDumpContext';
 import './RowMaterials.scss'
 
@@ -28,7 +29,7 @@ export const RowMaterials: FunctionComponent<Props> = (props) => {
                             totalNeeded={props.totalMaterials[material]}
                             asset={`items/${material}.png`}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {
-                                const newMaterials: UserMaterialMap = {...materials};
+                                const newMaterials: UserIngredientMap = {...materials};
                                 const newCurrentValue = +event.target.value;
 
                                 if (Number.isNaN(newCurrentValue) || event.target.value === '') {
