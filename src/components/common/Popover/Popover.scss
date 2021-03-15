@@ -1,0 +1,12 @@
+@import '~/styles/variables';
+
+.Popover {
+    position: relative;
+
+    .Popover-content {
+        position: absolute;
+        z-index: 9;
+        left: -37px;
+        top: 1em;
+    }
+}
