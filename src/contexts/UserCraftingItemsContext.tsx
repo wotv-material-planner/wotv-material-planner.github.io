@@ -31,6 +31,16 @@ interface ProviderProps {
 
 export const UserCraftingItemsContext = createContext<PersistedState<CraftingItem[]>>([null, null]);
 
+export const getFullIname = (craftingItem: CraftingItem) => {
+    let fullIname = craftingItem.iname;
+
+    if (craftingItem.targetPlus) {
+        fullIname = `${craftingItem.iname}_${craftingItem.targetPlus}`;
+    }
+
+    return fullIname;
+};
+
 export const getItemCraftingIngredients = (iname: string, level: number, wotvDump: DumpContext): CraftingIngredientMap => {
     const ingredients: CraftingIngredientMap = {};
     const {artifactRecipeMap, artifactAwakeMap} = wotvDump;
@@ -86,12 +96,7 @@ export const getTotalCraftingIngredients = (items: CraftingItem[], wotvDump: Dum
     const allRecipes = Object.keys(itemRecipeMap);
 
     return items.reduce((acc: TotalCraftingIngredients, curr: CraftingItem) => {
-        let targetPlusIname = curr.iname;
-
-        if (curr.targetPlus) {
-            targetPlusIname = `${curr.iname}_${curr.targetPlus}`;
-        }
-
+        const targetPlusIname = getFullIname(curr);
         const targetLevel = (curr.targetPlus ?? 5) * 10;
 
         const targetPlusIngredients = getItemCraftingIngredients(targetPlusIname, targetLevel, wotvDump);

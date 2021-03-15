@@ -1,16 +1,16 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, useState} from 'react';
-import {CraftingItem, getTotalCraftingIngredients} from '~contexts/UserCraftingItemsContext';
-import {WotvDumpContext, stats} from '~contexts/WotvDumpContext';
+import {CraftingItem, getFullIname, getTotalCraftingIngredients} from '~contexts/UserCraftingItemsContext';
+import {WotvDumpContext} from '~contexts/WotvDumpContext';
 import {RowBook} from './RowBook';
 import {RowMaterials} from './RowMaterials';
 import {RowRecipe} from './RowRecipe';
 import {RowMovementControls} from './RowMovementControls';
 import {RowPlusSelects} from './RowPlusSelects';
 import {RowTypeSelect} from './RowTypeSelect';
-import './CraftingItemRow.scss';
 import {RowDelete} from './RowDelete';
 import {RowItemInfo} from './RowItemInfo';
+import './CraftingItemRow.scss';
 
 interface Props {
     craftingItem: CraftingItem;
@@ -21,16 +21,10 @@ interface Props {
 
 export const CraftingItemRow: FunctionComponent<Props> = (props) => {
     const [showInfo, setShowInfo] = useState<boolean>(false);
-
     const wotvDump = useContext(WotvDumpContext);
     const {artifactMap, typeMap} = wotvDump;
 
-    let fullIname = props.craftingItem.iname;
-
-    if (props.craftingItem.targetPlus > 0) {
-        fullIname += `_${props.craftingItem.targetPlus}`;
-    }
-
+    const fullIname = getFullIname(props.craftingItem);
     const artifact = artifactMap[fullIname];
 
     const totalIngredients = getTotalCraftingIngredients([props.craftingItem], wotvDump);

@@ -2,6 +2,7 @@ import * as React from 'react';
 import {FunctionComponent, ChangeEvent} from 'react';
 import {UserIngredientValues} from '~contexts/UserDataProvider';
 import {Popover} from '../Popover';
+import {IngredientPopoverContents} from './IngredientPopoverContents';
 import './IngredientEntry.scss';
 
 interface Props {
@@ -23,7 +24,12 @@ export const IngredientEntry: FunctionComponent<Props> = (props: Props) => {
             </div>
             <div className="IngredientEntry-content">
                 <Popover
-                    content={<div>IPOPPEDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</div>}
+                    content={
+                        <IngredientPopoverContents
+                            ingredient={props.ingredient}
+                            ingredientTotals={props.ingredientTotals}
+                        />
+                    }
                 >
                     <div className="IngredientEntry-title">
                         {props.title}

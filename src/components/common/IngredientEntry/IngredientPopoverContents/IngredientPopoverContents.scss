@@ -1,0 +1,28 @@
+@import '~/styles/variables';
+
+.IngredientPopoverContents {
+    width: 130px;
+    border-radius: 5px;
+    border: 2px ridge $light-grey;
+    background-color: rgba($black, 0.9);
+
+    .IngredientPopoverContents-totals {
+        padding: 5px;
+        border-bottom: 1px solid $light-grey;
+        font-size: 0.75em;
+        font-weight: bold;
+        line-height: 1.5;
+    }
+
+    .IngredientPopoverContents-itemList {
+        padding: 5px;
+
+        .IngredientPopoverContents-itemList-item {
+            font-size: 0.6em;
+            line-height: 1.2;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+    }
+}
