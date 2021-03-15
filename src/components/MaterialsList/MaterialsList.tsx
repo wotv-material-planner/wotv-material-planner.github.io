@@ -18,8 +18,9 @@ export const MaterialsList: FunctionComponent = () => {
                     return (
                         <IngredientEntry
                             key={`materialEntry-${index}`}
+                            ingredient={material}
+                            ingredientTotals={materials[material]}
                             title={itemMaterialMap[material].name}
-                            current={materials[material].current}
                             totalNeeded={materials[material].totalNeeded}
                             asset={`items/${material}.png`}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {

@@ -18,7 +18,8 @@ export const BooksList: FunctionComponent = () => {
             <IngredientEntry
                 key={`bookinput-${index}`}
                 title={bookType}
-                current={books[book].current}
+                ingredient={book}
+                ingredientTotals={books[book]}
                 asset={`items/${book}.png`}
                 totalNeeded={books[book].totalNeeded}
                 onChange={(event: ChangeEvent<HTMLInputElement>) => {

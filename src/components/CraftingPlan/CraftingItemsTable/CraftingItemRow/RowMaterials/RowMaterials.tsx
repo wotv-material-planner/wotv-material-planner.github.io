@@ -24,8 +24,9 @@ export const RowMaterials: FunctionComponent<Props> = (props) => {
                     return (
                         <IngredientEntry
                             key={`rowMaterial-${material}`}
+                            ingredient={material}
+                            ingredientTotals={materials[material]}
                             title={itemNameMap[material]}
-                            current={materials[material].current}
                             totalNeeded={props.totalMaterials[material]}
                             asset={`items/${material}.png`}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {

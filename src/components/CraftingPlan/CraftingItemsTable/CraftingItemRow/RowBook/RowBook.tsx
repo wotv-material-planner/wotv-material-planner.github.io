@@ -22,8 +22,9 @@ export const RowBook: FunctionComponent<Props> = (props) => {
         <div className="RowBook">
             {book &&
                 <IngredientEntry
+                    ingredient={book}
+                    ingredientTotals={books[book]}
                     title={`${bookType} books`}
-                    current={books[book].current}
                     totalNeeded={props.totalBooks[book]}
                     asset={`items/${book}.png`}
                     onChange={(event: ChangeEvent<HTMLInputElement>) => {

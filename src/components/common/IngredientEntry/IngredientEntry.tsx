@@ -1,17 +1,20 @@
 import * as React from 'react';
 import {FunctionComponent, ChangeEvent} from 'react';
+import {UserIngredientValues} from '~contexts/UserDataProvider';
+import {Popover} from '../Popover';
 import './IngredientEntry.scss';
 
 interface Props {
+    ingredient: string;
+    ingredientTotals: UserIngredientValues; 
     title: string;
-    current?: number;
     totalNeeded?: number;
     asset?: string;
     onChange: (event: ChangeEvent<HTMLInputElement>) => void;
 }
 
 export const IngredientEntry: FunctionComponent<Props> = (props: Props) => {
-    const totalAcquired = props.current >= props.totalNeeded;
+    const totalAcquired = props.ingredientTotals.current >= props.totalNeeded;
 
     return (
         <div className="IngredientEntry">
@@ -19,14 +22,18 @@ export const IngredientEntry: FunctionComponent<Props> = (props: Props) => {
                 <img src={props.asset || 'https://via.placeholder.com/35'} />
             </div>
             <div className="IngredientEntry-content">
-                <div className="IngredientEntry-title">
-                    {props.title}
-                </div>
+                <Popover
+                    content={<div>IPOPPEDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</div>}
+                >
+                    <div className="IngredientEntry-title">
+                        {props.title}
+                    </div>
+                </Popover>
                 <div className="IngredientEntry-values">
                     <input
                         className="IngredientEntry-values-current"
                         placeholder={props.title}
-                        value={props.current || ''}
+                        value={props.ingredientTotals.current || ''}
                         aria-label={props.title}
                         onChange={props.onChange}
                     />

@@ -19,8 +19,9 @@ export const RowRecipe: FunctionComponent<Props> = (props: Props) => {
         <div className="RowRecipe">
             {recipe &&
                 <IngredientEntry
+                    ingredient={recipe}
+                    ingredientTotals={recipes[recipe]}
                     title="Recipes"
-                    current={recipes[recipe].current}
                     totalNeeded={props.totalRecipes[recipe]}
                     asset={props.asset}
                     onChange={(event: ChangeEvent<HTMLInputElement>) => {

@@ -1,3 +1,4 @@
+import {UserIngredientValues} from "~contexts/UserDataProvider";
 import {CraftingItem, TotalCraftingIngredients} from "../contexts/UserCraftingItemsContext";
 
 export const arbitraryCraftingItem = (): CraftingItem => {
@@ -15,5 +16,12 @@ export const arbitraryTotalCraftingIngredients = (): TotalCraftingIngredients =>
         recipes: {},
         books: {},
         materials: {},
+    };
+};
+
+export const arbitraryUserIngredientValues = (): UserIngredientValues => {
+    return {
+        current: 0,
+        totalNeeded: 0,
     };
 };
