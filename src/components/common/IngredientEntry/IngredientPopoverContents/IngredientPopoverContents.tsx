@@ -34,16 +34,21 @@ const getIngredientTotal = (ingredient, craftingItem, wotvDump) => {
 export const IngredientPopoverContents: FunctionComponent<Props> = (props) => {
     const [craftingItems] = useContext(UserCraftingItemsContext);
     const wotvDump = useContext(WotvDumpContext);
-    const {artifactAwakeMap, artifactRecipeMap, artifactNameMap} = wotvDump;
+    const {artifactAwakeMap, artifactRecipeMap, artifactNameMap, itemNameMap} = wotvDump;
+
+    const toTarget = Math.max(props.ingredientTotals.totalNeeded - (props.ingredientTotals.current || 0), 0);
 
     return (
         <div className="IngredientPopoverContents">
-            <div className="IngredientPopoverContents-totals">
+            <div className="IngredientPopoverContents-title">
+                {itemNameMap[props.ingredient]}
+            </div>
+            <div className={`IngredientPopoverContents-totals ${toTarget ? 'short' : 'reached'}`}>
                 <div>
-                    {`${props.ingredientTotals.current || 0} / ${props.ingredientTotals.totalNeeded}`}
+                    {`${props.ingredientTotals.current || 0} / ${props.ingredientTotals.totalNeeded || 0}`}
                 </div>
                 <div>
-                    {`${Math.max(props.ingredientTotals.totalNeeded - (props.ingredientTotals.current || 0), 0)} to target`}
+                    {`need ${toTarget}`}
                 </div>
             </div>
             <div className="IngredientPopoverContents-itemList">

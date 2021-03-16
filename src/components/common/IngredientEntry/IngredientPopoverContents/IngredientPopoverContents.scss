@@ -1,17 +1,41 @@
 @import '~/styles/variables';
 
 .IngredientPopoverContents {
-    width: 130px;
+    width: 155px;
     border-radius: 5px;
     border: 2px ridge $light-grey;
     background-color: rgba($black, 0.9);
+    box-shadow: 0 0 20px rgba($black, 0.8);
 
-    .IngredientPopoverContents-totals {
+    .IngredientPopoverContents-title {
         padding: 5px;
         border-bottom: 1px solid $light-grey;
         font-size: 0.75em;
         font-weight: bold;
         line-height: 1.5;
+        text-shadow: $cyan 1px 0 1px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .IngredientPopoverContents-totals {
+        padding: 5px;
+        border-bottom: 1px solid $light-grey;
+        color: $black;
+        font-size: 0.7em;
+        font-weight: bold;
+        line-height: 1.5;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+
+        &.short {
+            background-color: $pink;
+        }
+
+        &.reached {
+            background-color: $green;
+        }
     }
 
     .IngredientPopoverContents-itemList {

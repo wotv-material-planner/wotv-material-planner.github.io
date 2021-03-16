@@ -9,9 +9,18 @@ interface Props {
 
 export const ContentsDrawer: FunctionComponent<PropsWithChildren<Props>> = (props: PropsWithChildren<Props>) => {
     const [open, setOpen] = useState<boolean>(!!props.fixed);
+    const [active, setActive] = useState<boolean>(false);
 
     return (
-        <div className={`ContentsDrawer ${open ? 'open' : 'closed'} ${props.fixed ? 'fixed' : ''}`}>
+        <div
+            className={`ContentsDrawer ${open ? 'open' : 'closed'} ${props.fixed ? 'fixed' : ''} ${active ? 'active' : ''}`}
+            onMouseEnter={() => {
+                setActive(true);
+            }}
+            onMouseLeave={() => {
+                setActive(false);
+            }}
+        >
             <div 
                 className="ContentsDrawer-title"
                 onClick={() => {

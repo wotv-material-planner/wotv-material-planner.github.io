@@ -9,6 +9,11 @@
     border-image-source: linear-gradient(to left, $light-grey, $dark-grey);
     background-color: rgba($dark-grey, 0.2);
     position: relative;
+    z-index: 1;
+
+    &.active {
+        z-index: 2;
+    }
 
     &.open:not(.fixed) {
         max-height: 10000px;
