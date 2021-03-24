@@ -1508,19 +1508,19 @@
       "units": [
         {
           "rate": 100,
-          "iname": "UN_LW_P_GABL"
-        },
-        {
-          "rate": 100,
-          "iname": "UN_LW_P_ELSR"
-        },
-        {
-          "rate": 75,
           "iname": "UN_LW_P_DEAN"
         },
         {
-          "rate": 75,
+          "rate": 100,
           "iname": "UN_LW_P_FRVA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_GABL"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ELSR"
         },
         {
           "rate": 50,
@@ -1529,6 +1529,64 @@
         {
           "rate": 50,
           "iname": "UN_LW_P_ELSI"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00052",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "rate": 100,
+          "iname": "UN_FF10_P_YUNA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_GABL"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ELSR"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_IRDL"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00053",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "rate": 100,
+          "iname": "UN_FF10_P_YUNA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_GABL"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ELSR"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_IRDL"
         }
       ]
     }
