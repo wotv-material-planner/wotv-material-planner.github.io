@@ -260,7 +260,7 @@
     "BUFF_LW_ARW_001_5": "3T Missile Res 25",
     "BUFF_LW_ACC_040_5_S": "Blind Res 15,Paralysis 15",
     "BUFF_LW_HIT_5_N": "Acc 10",
-    "BUFF_FF10_ACCE_001_5": "Crit Dmg 1 15",
+    "BUFF_FF10_ACCE_001_5": "Crit Dmg 15",
     "BUFF_LW_DF_MAGIC_4_UR": "Magic Res 5",
     "BUFF_LW_DF_MAGIC_5_UR": "Magic Res 10"
 }
