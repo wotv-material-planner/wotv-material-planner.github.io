@@ -1722,19 +1722,19 @@
     },
     {
       "key": "IT_JBEX_N",
-      "value": ""
+      "value": "Guild Medal Exchange Shop"
     },
     {
       "key": "IT_JBEX_R",
-      "value": ""
+      "value": "Guild Medal Exchange Shop"
     },
     {
       "key": "IT_JBEX_SR",
-      "value": ""
+      "value": "Guild Medal Exchange Shop"
     },
     {
       "key": "IT_JBEX_SSR",
-      "value": ""
+      "value": "Guild Medal Exchange Shop"
     },
     {
       "key": "IT_JBEX_UR",
@@ -1742,7 +1742,7 @@
     },
     {
       "key": "IT_JBEX_MM",
-      "value": "Special Shop / Friend Medal Exchange Shop / Guild Medal Exchange Shop"
+      "value": "FFX Event Medal Exchange Shop / Special Shop / Guild Medal Exchange Shop"
     },
     {
       "key": "IT_JBEX_FIRE",
@@ -2858,11 +2858,11 @@
     },
     {
       "key": "IT_SP_LW_DEAN",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal Exchange Shop"
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_SP_GL_LW_FRVA",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal Exchange Shop"
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_SP_FF14_UR",
@@ -2886,7 +2886,7 @@
     },
     {
       "key": "IT_SP_FF10_UR",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal Exchange Shop"
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -3275,6 +3275,14 @@
     {
       "key": "IT_SB_AW_BAHM_R3",
       "value": "Beast's Den Bahamut Battle (2)"
+    },
+    {
+      "key": "IT_SB_AW_OMEG_R2",
+      "value": "Beast's Den Omega Battle"
+    },
+    {
+      "key": "IT_SB_AW_OMEG_R3",
+      "value": "Beast's Den Omega Battle (2)"
     },
     {
       "key": "IT_TICKET_STORY",
@@ -3913,6 +3921,10 @@
       "value": ""
     },
     {
+      "key": "IT_AF_LW_CLT_015",
+      "value": ""
+    },
+    {
       "key": "IT_AF_SUP_HP",
       "value": "Arena Medal Exchange Shop / PVP Medal Exchange Shop"
     },
@@ -4245,6 +4257,10 @@
       "value": ""
     },
     {
+      "key": "IT_EC_SUMMON_04_02_A",
+      "value": ""
+    },
+    {
       "key": "IT_EC_SUMMON_1st_GL1",
       "value": ""
     },
@@ -4262,6 +4278,14 @@
     },
     {
       "key": "IT_US_SE_PI_GL_32",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_33",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_34",
       "value": ""
     },
     {
@@ -4302,6 +4326,14 @@
     },
     {
       "key": "IT_US_SE_JB_01_GL_03",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_08",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_09",
       "value": ""
     },
     {
@@ -4549,6 +4581,62 @@
       "value": ""
     },
     {
+      "key": "IT_US_G_1stANV_0407_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_02",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_03",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_04",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_05",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_06",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_07",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_02",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_03",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_04",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_05",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_06",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_07",
+      "value": ""
+    },
+    {
       "key": "IT_US_GL_SE_PI_COM_1",
       "value": ""
     },
@@ -4639,6 +4727,14 @@
     {
       "key": "IT_US_SE_JB_EM_05_01",
       "value": "Guild Medal Exchange Shop"
+    },
+    {
+      "key": "IT_US_SE_JB_EM_4_GL1",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_EM_5_GL1",
+      "value": ""
     },
     {
       "key": "IT_US_SE_SB_AW_01",
@@ -4810,6 +4906,14 @@
     },
     {
       "key": "IT_US_SE_JB_MM_01_GL_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_MM_5_GL2",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_MM_5_GL3",
       "value": ""
     },
     {
@@ -5110,6 +5214,10 @@
     },
     {
       "key": "IT_US_SE_AW-ITEM_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_11",
       "value": ""
     },
     {
@@ -5422,7 +5530,7 @@
     },
     {
       "key": "IT_VPI_LW_HALL",
-      "value": "General Shop"
+      "value": ""
     },
     {
       "key": "IT_VPI_LW_AGON",
@@ -5446,7 +5554,7 @@
     },
     {
       "key": "IT_VPI_LW_XMAS",
-      "value": "General Shop"
+      "value": ""
     },
     {
       "key": "IT_VPI_LW_LUCA",
@@ -5510,15 +5618,15 @@
     },
     {
       "key": "IT_VPI_LW_RAMD",
-      "value": "General Shop"
+      "value": "General Shop / UR Vision Medal Exchange Shop"
     },
     {
       "key": "IT_VPI_LW_OOOO",
-      "value": "General Shop"
+      "value": "General Shop / MR Vision Medal Exchange Shop"
     },
     {
       "key": "IT_VPI_LW_BAHM",
-      "value": "General Shop / Whimsy Shop"
+      "value": "General Shop / UR Vision Medal Exchange Shop"
     },
     {
       "key": "IT_VPI_LW_ART",
@@ -5530,6 +5638,18 @@
     },
     {
       "key": "IT_VPI_FF10_MV2",
+      "value": "General Shop / Whimsy Shop"
+    },
+    {
+      "key": "IT_VPI_LW_ZZAN",
+      "value": "General Shop / Whimsy Shop"
+    },
+    {
+      "key": "IT_VPI_LW_ROBB",
+      "value": "General Shop / Whimsy Shop"
+    },
+    {
+      "key": "IT_VPI_LW_OMEG",
       "value": "General Shop / Whimsy Shop"
     },
     {
@@ -5650,6 +5770,10 @@
     },
     {
       "key": "IT_EC_RAID_10",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_RAID_11",
       "value": ""
     },
     {

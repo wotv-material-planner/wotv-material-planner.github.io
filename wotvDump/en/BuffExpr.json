@@ -705,7 +705,15 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_EC_GLMS_C_02B",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_GLMS_S_2_T",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_GLMS_C_01B",
       "value": ""
     },
     {
@@ -722,6 +730,10 @@
     },
     {
       "key": "BUFF_LW_GLMS_P_2_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_GLMS_A_01",
       "value": ""
     },
     {
@@ -2361,6 +2373,90 @@
       "value": ""
     },
     {
+      "key": "BUFF_SNAK_M_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SNAK_M_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SNAK_M_03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SNAK_M_04",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SNAK_R_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_OMEG_M_01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_OMEG_M_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_OMEG_M_03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_OMEG_M_05",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_M01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_M03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_R02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_R03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_S1_M01",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_S1_M02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_S1_M03",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_S1_M04",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_DEAD1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_DEAD2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_DEAD3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MRGE_DEAD4",
+      "value": ""
+    },
+    {
       "key": "BUFF_DKFN_M_04",
       "value": ""
     },
@@ -2378,6 +2474,10 @@
     },
     {
       "key": "BUFF_YNLS_M_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_YNLS_M_02_PQ",
       "value": ""
     },
     {
@@ -2718,6 +2818,10 @@
     },
     {
       "key": "BUFF_SMN_MRLT",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SMN_OMEG",
       "value": ""
     },
     {
@@ -4377,6 +4481,30 @@
       "value": ""
     },
     {
+      "key": "BUFF_VC_LW_ZZAN_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_GSMAX",
+      "value": ""
+    },
+    {
       "key": "BUFF_VC_LW_GLEM_GS_2",
       "value": ""
     },
@@ -5346,6 +5474,54 @@
     },
     {
       "key": "BUFF_VC_FF10_MV2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_GSMAX_2",
       "value": ""
     },
     {
@@ -6561,6 +6737,78 @@
       "value": ""
     },
     {
+      "key": "BUFF_VC_LW_ZZAN_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_P_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_PAW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ZZAN_PMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_ROBB_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_ROBB_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_ROBB_P2AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_ROBB_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_OMEG_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_OMEG_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_OMEG_PAW2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_OMEG_PMAX2",
+      "value": ""
+    },
+    {
       "key": "BUFF_VC_LW_CACT_P",
       "value": ""
     },
@@ -6854,6 +7102,26 @@
     },
     {
       "key": "BUFF_LW_ARW_001_5_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_CLT_015_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_CLT_015_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_CLT_015_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_CLT_015_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_CLT_015_5",
       "value": ""
     },
     {
@@ -9810,6 +10078,38 @@
     },
     {
       "key": "BUFF_GLEM_33",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_GLEM_34",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_GLEM_35",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_GLEM_36",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_GLEM_37",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_GLEM_38",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_GLEM_39",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_GLEM_40",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_GLEM_41",
       "value": "Raises Stats when equipped to Unit."
     },
     {
@@ -13469,6 +13769,170 @@
       "value": "Raises Stats when equipped to Unit."
     },
     {
+      "key": "BUFF_OMEG_01",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_02",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_03",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_04",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_05",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_06",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_OMEG_07",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_OMEG_08",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_09",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_10",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_11",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_12",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_13",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_14",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_15",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_16",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_17",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_18",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_19",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_OMEG_20",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_21",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_22",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_23",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_24",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_25",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_26",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_27",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_28",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_29",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_30",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_OMEG_31",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_OMEG_32",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_33",
+      "value": "Bestows Ability when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_34",
+      "value": "Boosts Evocation Magic."
+    },
+    {
+      "key": "BUFF_OMEG_35",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_36",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_37",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_38",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_39",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_40",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
+      "key": "BUFF_OMEG_41",
+      "value": "Raises Stats when equipped to Unit."
+    },
+    {
       "key": "BUFF_ARMN_01",
       "value": "Raises Stats when equipped to Unit."
     },
@@ -16237,6 +16701,10 @@
       "value": "Raises Strike ATK."
     },
     {
+      "key": "BUFF_GVG_GL_004",
+      "value": "Raises Dark Res."
+    },
+    {
       "key": "BUFF_CLASSMATCH_001",
       "value": "Cost Limit: 540 or less"
     },
@@ -16255,26 +16723,6 @@
     {
       "key": "BUFF_CLASSMATCH_006",
       "value": "Unit Cost Limit: 220 or Less, Sleep/Charm/Stop/Immobilize/Disable Res +50"
-    },
-    {
-      "key": "BUFF_SNAK_M_01",
-      "value": ""
-    },
-    {
-      "key": "BUFF_SNAK_M_02",
-      "value": ""
-    },
-    {
-      "key": "BUFF_SNAK_M_03",
-      "value": ""
-    },
-    {
-      "key": "BUFF_SNAK_M_04",
-      "value": ""
-    },
-    {
-      "key": "BUFF_SNAK_R_01",
-      "value": ""
     }
   ]
 }

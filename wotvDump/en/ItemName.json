@@ -3277,6 +3277,14 @@
       "value": "Bahamut's Awakening Stone  (3★)"
     },
     {
+      "key": "IT_SB_AW_OMEG_R2",
+      "value": "Omega's Awakening Stone  (2★)"
+    },
+    {
+      "key": "IT_SB_AW_OMEG_R3",
+      "value": "Omega's Awakening Stone  (3★)"
+    },
+    {
       "key": "IT_TICKET_STORY",
       "value": "Story Skip Ticket"
     },
@@ -3913,6 +3921,10 @@
       "value": "Tidus's Necklace Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_CLT_015",
+      "value": "Galmia Coat Crafting Recipe"
+    },
+    {
       "key": "IT_AF_SUP_HP",
       "value": "Life Seal"
     },
@@ -4245,6 +4257,10 @@
       "value": "March Summon Medal A"
     },
     {
+      "key": "IT_EC_SUMMON_04_02_A",
+      "value": "April Summon Medal A"
+    },
+    {
       "key": "IT_EC_SUMMON_1st_GL1",
       "value": "First Anniversary Medal"
     },
@@ -4263,6 +4279,14 @@
     {
       "key": "IT_US_SE_PI_GL_32",
       "value": "[Beginners Only] Select UR Unit Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_33",
+      "value": "Select N–MR Unit Shard x50 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_34",
+      "value": "[First Anniversary Celebration Part IV] Select UR Unit Shard x120 Summon Ticket"
     },
     {
       "key": "IT_US_SE_JB_05_GL_13",
@@ -4303,6 +4327,14 @@
     {
       "key": "IT_US_SE_JB_01_GL_03",
       "value": "[First Anniversary Celebration Part II] Select Jadeite x15 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_08",
+      "value": "[First Anniversary Celebration Part III] Select Spinel x70 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_09",
+      "value": "[First Anniversary Celebration Part IV] Select Spinel x70 Summon Ticket"
     },
     {
       "key": "IT_US_SE_PI_COM_GL_04",
@@ -4549,6 +4581,62 @@
       "value": "First Anniversary Celebration 10x Summon Ticket"
     },
     {
+      "key": "IT_US_G_1stANV_0407_01",
+      "value": "First Anniversary Celebration Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_02",
+      "value": "First Anniversary Celebration 2x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_03",
+      "value": "First Anniversary Celebration 3x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_04",
+      "value": "First Anniversary Celebration 5x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_05",
+      "value": "First Anniversary Celebration 7x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_06",
+      "value": "First Anniversary Celebration 8x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0407_07",
+      "value": "First Anniversary Celebration 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_01",
+      "value": "First Anniversary Celebration Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_02",
+      "value": "First Anniversary Celebration 2x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_03",
+      "value": "First Anniversary Celebration 3x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_04",
+      "value": "First Anniversary Celebration 5x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_05",
+      "value": "First Anniversary Celebration 7x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_06",
+      "value": "First Anniversary Celebration 8x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_1stANV_0414_07",
+      "value": "First Anniversary Celebration 10x Summon Ticket"
+    },
+    {
       "key": "IT_US_GL_SE_PI_COM_1",
       "value": "Select Element Fragment of Thought x10 Summon Ticket"
     },
@@ -4639,6 +4727,14 @@
     {
       "key": "IT_US_SE_JB_EM_05_01",
       "value": "Select Element Alcryst (Red) x70 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_EM_4_GL1",
+      "value": "Select Element Alcryst (Yellow) x50 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_EM_5_GL1",
+      "value": "Select Element Alcryst (Red) x50 Summon Ticket"
     },
     {
       "key": "IT_US_SE_SB_AW_01",
@@ -4811,6 +4907,14 @@
     {
       "key": "IT_US_SE_JB_MM_01_GL_01",
       "value": "[First Anniversary Celebration Part II] Select Job Memory (Green) x1 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_5_GL2",
+      "value": "[First Anniversary Celebration Part III] Select Job Memory (Red) x5 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_5_GL3",
+      "value": "[First Anniversary Celebration Part IV] Select Job Memory (Red) x5 Summon Ticket"
     },
     {
       "key": "IT_US_SE_JB_05_01",
@@ -5111,6 +5215,10 @@
     {
       "key": "IT_US_SE_AW-ITEM_10",
       "value": "Select Awakening Prism x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_11",
+      "value": "Select Awakening Prism x100 Summon Ticket"
     },
     {
       "key": "IT_VPI_LW_GLEM",
@@ -5533,6 +5641,18 @@
       "value": "\"A Place Unknown\" Vision Card Shard"
     },
     {
+      "key": "IT_VPI_LW_ZZAN",
+      "value": "\"Thanks for the Votes!\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_ROBB",
+      "value": "\"Flash of Insight\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_OMEG",
+      "value": "\"Steel Engine of Annihilation, Omega\" Vision Card Shard"
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "Growth Egg (N)"
     },
@@ -5651,6 +5771,10 @@
     {
       "key": "IT_EC_RAID_10",
       "value": "March Raid Medal"
+    },
+    {
+      "key": "IT_EC_RAID_11",
+      "value": "April Raid Medal"
     },
     {
       "key": "IT_US_GL_SE_SB_EXP_1",
