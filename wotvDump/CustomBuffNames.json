@@ -21,6 +21,11 @@
     "BUFF_LW_DF_SLASH_5_SSR": "Slash Res 8",
     "BUFF_FF10_BSW_000_1": "Ice Att 15",
     "BUFF_FF10_BSW_000_5": "Ice Att 30",
+    "BUFF_NIER_KAT_000_1_S": "Slash Att 1,Pierce Att 1",
+    "BUFF_NIER_KAT_000_2_S": "Slash ATt 2,Pierce Att 2",
+    "BUFF_NIER_KAT_000_3_S": "Slash Att 3,Pierce Att 3",
+    "BUFF_NIER_KAT_000_4_S": "Slash Att 5,Pierce Att 5",
+    "BUFF_NIER_KAT_000_5_S": "Slash Att 10,Pierce Att 10",
     "BUFF_LW_BLOW_1": "Strike Att 2",
     "BUFF_LW_BLOW_2": "Strike Att 3",
     "BUFF_LW_BLOW_3": "Strike Att 5",
@@ -41,6 +46,7 @@
     "BUFF_LW_SPEAR_5_SSR": "Pierce Att 15",
     "BUFF_LW_AF_ICE_PA_5_S": "Ice Att 30",
     "BUFF_LW_SPE_006_5_S": "Dragon Killer 30",
+    "BUFF_NIER_SPE_000_5_S": "Lightning Att 30",
     "BUFF_LW_SHOOT_1": "Missle Att 2",
     "BUFF_LW_SHOOT_2": "Missle Att 3",
     "BUFF_LW_SHOOT_3": "Missle Att 5",
@@ -221,6 +227,10 @@
     "BUFF_CLT_FF10_YUNA_1_2": "Smile Practice: 3T AOE Protect,Smile Practice: 3T AOE Shell",
     "BUFF_CLT_FF10_ARON_1_1": "Piercing: 3T Att 50",
     "BUFF_CLT_FF10_ARON_1_2": "Piercing: 3T Nullify Confusion,Piercing: 3T Nullify Petrify",
+    "BUFF_ACC_NIER_N2TB_1_1": "Overclock: 3T Acquired AP 80",
+    "BUFF_ACC_NIER_N2TB_1_2": "Overclock: 3T Agi 25",
+    "BUFF_CLT_NIER_N9TS_1_1": "Curative Field: 3T AOE Regen 10",
+    "BUFF_CLT_NIER_N9TS_1_2": "Curative Field: AOE nullify Sleep,Curative Field: AOE nullify Confusion,Curative Field: AOE nullify Charm",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
@@ -267,5 +277,6 @@
     "BUFF_LW_HIT_5_N": "Acc 10",
     "BUFF_FF10_ACCE_001_5": "Crit Dmg 15",
     "BUFF_LW_DF_MAGIC_4_UR": "Magic Res 5",
-    "BUFF_LW_DF_MAGIC_5_UR": "Magic Res 10"
+    "BUFF_LW_DF_MAGIC_5_UR": "Magic Res 10",
+    "BUFF_NIER_ACC_000_5_S": "Attack Res 8"
 }
