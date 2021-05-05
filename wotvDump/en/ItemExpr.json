@@ -1561,6 +1561,26 @@
       "value": "An item required to enhance a Job (YoRHa No. 9 Type S) at Lv. 15"
     },
     {
+      "key": "IT_JB_MM_MONT_01",
+      "value": "An item required to enhance a Job (Archlord) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_MONT_01_2",
+      "value": "An item required to enhance a Job (Archlord) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_MONT_01_3",
+      "value": "An item required to enhance a Job (Archlord) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_MONT_01_4",
+      "value": "An item required to enhance a Job (Archlord) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_MONT_01_5",
+      "value": "An item required to enhance a Job (Archlord) at Lv. 15"
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "An item required to enhance a fire unit's Job at Lvs. 2<space=1>–<space=1>3"
     },
@@ -2541,6 +2561,10 @@
       "value": "An item required to Limit Break a unit"
     },
     {
+      "key": "IT_PI_LW_MONT_01",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "An item required to enhance Mont Leonis's EX Job"
     },
@@ -2939,6 +2963,10 @@
     {
       "key": "IT_SP_NIER_UR",
       "value": "An item required to enhance the EX Jobs of collaborative NieR units"
+    },
+    {
+      "key": "IT_SP_LW_MONT_01",
+      "value": "An item required to enhance Mont (King of Leonis)'s EX Job"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -3615,6 +3643,10 @@
     {
       "key": "IT_AF_LW_SWO_004",
       "value": "A recipe required to craft an Icebrand"
+    },
+    {
+      "key": "IT_AF_LW_SWO_005",
+      "value": "A recipe required to craft a Flametongue"
     },
     {
       "key": "IT_AF_LW_SWO_006",
@@ -4333,6 +4365,10 @@
       "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 5/4/2021, World Time (PST))"
     },
     {
+      "key": "IT_EC_SUMMON_05_02_A",
+      "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 6/1/2021, World Time (PST))"
+    },
+    {
       "key": "IT_EC_SUMMON_1st_GL1",
       "value": "A medal that can be exchanged for unit and vision card shards released by 4/14/2021, World Time (PST). *Cannot be used for limited or collaborative shards other than Tidus, Yuna, Auron, \"Suteki Da Ne,\" \"A Place Unknown,\" \"Exorcists,\" and \"Winter Holiday Party.\" *Shards for units or vision cards releasing during the Exchange Shop duration will not appear until they are released."
     },
@@ -4434,6 +4470,46 @@
     },
     {
       "key": "IT_US_SE_JB_01_GL_04",
+      "value": "A ticket that allows the user to summon 15 of one type of Jadeite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 1 – 3."
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_11",
+      "value": "A ticket that allows the user to summon 70 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 13 – 15."
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_07",
+      "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 10 – 12."
+    },
+    {
+      "key": "IT_US_SE_JB_03_GL_07",
+      "value": "A ticket that allows the user to summon 30 of one type of Charoite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 7 – 9."
+    },
+    {
+      "key": "IT_US_SE_JB_02_GL_05",
+      "value": "A ticket that allows the user to summon 30 of one type of Azurite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 4 – 6."
+    },
+    {
+      "key": "IT_US_SE_JB_01_GL_05",
+      "value": "A ticket that allows the user to summon 15 of one type of Jadeite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 1 – 3."
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_12",
+      "value": "A ticket that allows the user to summon 70 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 13 – 15."
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_08",
+      "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 10 – 12."
+    },
+    {
+      "key": "IT_US_SE_JB_03_GL_08",
+      "value": "A ticket that allows the user to summon 30 of one type of Charoite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 7 – 9."
+    },
+    {
+      "key": "IT_US_SE_JB_02_GL_06",
+      "value": "A ticket that allows the user to summon 30 of one type of Azurite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 4 – 6."
+    },
+    {
+      "key": "IT_US_SE_JB_01_GL_06",
       "value": "A ticket that allows the user to summon 15 of one type of Jadeite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 1 – 3."
     },
     {
@@ -5033,6 +5109,46 @@
       "value": "A ticket that allows the user to summon one Job Memory (Green) for any one Job released by 3/3/2021 *Cannot be used for collaborative or limited unit Jobs"
     },
     {
+      "key": "IT_US_SE_JB_MM_05_GL_03",
+      "value": "A ticket that allows the user to summon five Job Memories (Red) for any one Job released by 3/3/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_04_GL_03",
+      "value": "A ticket that allows the user to summon four Job Memories (Yellow) for any one Job released by 3/3/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_03_GL_03",
+      "value": "A ticket that allows the user to summon three Job Memories (Purple) for any one Job released by 3/3/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_02_GL_03",
+      "value": "A ticket that allows the user to summon two Job Memories (Blue) for any one Job released by 3/3/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_01_GL_03",
+      "value": "A ticket that allows the user to summon one Job Memory (Green) for any one Job released by 3/3/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_05_GL_04",
+      "value": "A ticket that allows the user to summon five Job Memories (Red) for any one Job released by 5/5/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_04_GL_04",
+      "value": "A ticket that allows the user to summon four Job Memories (Yellow) for any one Job released by 5/5/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_03_GL_04",
+      "value": "A ticket that allows the user to summon three Job Memories (Purple) for any one Job released by 5/5/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_02_GL_04",
+      "value": "A ticket that allows the user to summon two Job Memories (Blue) for any one Job released by 5/5/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_MM_01_GL_04",
+      "value": "A ticket that allows the user to summon one Job Memory (Green) for any one Job released by 5/5/2021 *Cannot be used for collaborative or limited unit Jobs"
+    },
+    {
       "key": "IT_US_SE_JB_MM_5_GL2",
       "value": "A ticket that allows the user to summon five Job Memories (Red) for any one Job released by 3/3/2021 *Cannot be used for collaborative unit Jobs"
     },
@@ -5201,6 +5317,10 @@
       "value": "A Select Unit Summon Ticket for units of R to UR rarity released by 3/3/2021, World Time (PST). *Cannot be used for limited or collaborative units"
     },
     {
+      "key": "IT_US_GL_SE_R_UR_U_2",
+      "value": "A Select Unit Summon Ticket for units of R to UR rarity released by 3/3/2021, World Time (PST). *Cannot be used for limited or collaborative units"
+    },
+    {
       "key": "IT_US_SE_AW-ITEM_01",
       "value": "A ticket that allows the user to select from 8 elements to summon 10 Awakening Prisms"
     },
@@ -5291,6 +5411,10 @@
     {
       "key": "IT_US_SE_R_UR_V_GL07",
       "value": "A Select Vision Card Summon Ticket for vision cards of R to UR rarity released by 3/17/2021, World Time (PST). *Cannot be used for limited or collaborative vision cards"
+    },
+    {
+      "key": "IT_US_SE_R_UR_V_GL08",
+      "value": "A Select Vision Card Summon Ticket for vision cards of R to UR rarity released by 4/14/2021, World Time (PST). *Cannot be used for limited or collaborative vision cards"
     },
     {
       "key": "IT_US_SE_AW-ITEM_04",
@@ -5781,6 +5905,10 @@
       "value": "An item required to awaken a vision card"
     },
     {
+      "key": "IT_VPI_LW_MONT2",
+      "value": "An item required to awaken a vision card"
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "Grants vision card EXP (S)"
     },
@@ -6049,6 +6177,10 @@
       "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by 2/10/2021, World Time (PST). *Cannot be used for limited or collaborative vision cards."
     },
     {
+      "key": "IT_US_SE_VPI_GL_17",
+      "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by 4/14/2021, World Time (PST). *Cannot be used for limited or collaborative vision cards."
+    },
+    {
       "key": "IT_US_SE_VPI_11",
       "value": "A Select UR Vision Card Shard x75 Summon Ticket for vision cards released by November 11. *Cannot be used for limited or collaborative vision cards"
     },
@@ -6075,6 +6207,10 @@
     {
       "key": "IT_US_SE_SSR_U_GL04",
       "value": "A Select MR Unit Shard x50 Summon Ticket for units released by 1/20/2021, World Time (PST). *Cannot be used for limited or collaborative units"
+    },
+    {
+      "key": "IT_US_SE_SSR_U_GL05",
+      "value": "A Select MR Unit Shard x50 Summon Ticket for units released by 2/3/2021, World Time (PST). *Cannot be used for limited or collaborative units"
     },
     {
       "key": "IT_US_SE_PI_15",
@@ -6129,6 +6265,10 @@
       "value": "A Select UR Unit Shard x40 Summon Ticket for units released by 3/3/2021, World Time (PST). *Cannot be used for limited or collaborative unit shards"
     },
     {
+      "key": "IT_US_SE_PI_GL10",
+      "value": "A Select UR Unit Shard x80 Summon Ticket for units released by 3/3/2021, World Time (PST). *Cannot be used for limited or collaborative unit shards."
+    },
+    {
       "key": "IT_US_SE_JBEX_EM_01",
       "value": "A ticket that allows the user to select from 8 elements to summon 300 Alcryst Statues necessary for enhancing EX Jobs"
     },
@@ -6175,6 +6315,10 @@
     {
       "key": "IT_US_GL_SE_AF_AW_08",
       "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Armor, or Accessory) released by 2/10/2021"
+    },
+    {
+      "key": "IT_US_GL_SE_AF_AW_09",
+      "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Armor, Accessory, or Gloves) released by 5/5/2021"
     },
     {
       "key": "IT_US_SE_AF_SUP_01",
@@ -6255,6 +6399,10 @@
     {
       "key": "IT_STAMP_2012",
       "value": "An item required for May's Benefit Exchange"
+    },
+    {
+      "key": "IT_STAMP_2101",
+      "value": "An item required for June's Benefit Exchange"
     },
     {
       "key": "IT_KEY_JP",

@@ -231,6 +231,7 @@
     "BUFF_ACC_NIER_N2TB_1_2": "Overclock: 3T Agi 25",
     "BUFF_CLT_NIER_N9TS_1_1": "Curative Field: 3T AOE Regen 10",
     "BUFF_CLT_NIER_N9TS_1_2": "Curative Field: AOE nullify Sleep,Curative Field: AOE nullify Confusion,Curative Field: AOE nullify Charm",
+    "BUFF_ACC_LW_MONT_01_1": "Boon of the Lion: 3T AOE Area Att Res 25",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
@@ -278,5 +279,6 @@
     "BUFF_FF10_ACCE_001_5": "Crit Dmg 15",
     "BUFF_LW_DF_MAGIC_4_UR": "Magic Res 5",
     "BUFF_LW_DF_MAGIC_5_UR": "Magic Res 10",
-    "BUFF_NIER_ACC_000_5_S": "Attack Res 8"
+    "BUFF_NIER_ACC_000_5_S": "Attack Res 8",
+    "BUFF_LW_SWO_005_5_S": "Fire Att 30"
 }
