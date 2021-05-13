@@ -280,5 +280,10 @@
     "BUFF_LW_DF_MAGIC_4_UR": "Magic Res 5",
     "BUFF_LW_DF_MAGIC_5_UR": "Magic Res 10",
     "BUFF_NIER_ACC_000_5_S": "Attack Res 8",
-    "BUFF_LW_SWO_005_5_S": "Fire Att 30"
+    "BUFF_LW_SWO_005_5_S": "Fire Att 30",
+    "BUFF_LW_ARM_028_1_S": "Area Att Res 1",
+    "BUFF_LW_ARM_028_2_S": "Area Att Res 2",
+    "BUFF_LW_ARM_028_3_S": "Area Att Res 3",
+    "BUFF_LW_ARM_028_4_S": "Area Att Res 5",
+    "BUFF_LW_ARM_028_5_S": "Area Att Res 10"
 }
