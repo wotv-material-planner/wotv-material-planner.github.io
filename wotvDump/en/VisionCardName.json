@@ -201,6 +201,14 @@
       "value": "Encounter of Heroes"
     },
     {
+      "key": "VC_LW_CMLO",
+      "value": "Dreams of Heroism"
+    },
+    {
+      "key": "VC_LW_ROSEFES",
+      "value": "Maidens of the Rose"
+    },
+    {
       "key": "VC_LW_IGNT",
       "value": "Metal Daemon, Iron Giant"
     },
@@ -355,6 +363,10 @@
     {
       "key": "VC_LW_LILS2",
       "value": "A Mighty Obstacle"
+    },
+    {
+      "key": "VC_LW_CORL",
+      "value": "Calamitous Feline, Coeurl"
     },
     {
       "key": "VC_LW_CACT",

@@ -10934,6 +10934,367 @@
       ]
     },
     {
+      "iname": "QM_ST_01140201_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140201_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SHINE_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140201_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140202_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140202_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140202_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140203_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140203_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140203_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140204_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140204_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_ICE_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140204_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140205_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140205_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_WIND_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140205_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_LW_CLT_003",
+          "num": 2
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140206_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140206_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_FIRE_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140206_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140207_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140207_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_THUNDER_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140207_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140208_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140208_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_WATER_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140208_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140209_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140209_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SHINE_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140209_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_US_EXP_03",
+          "num": 3
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140210_1",
+      "type": 104,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_ALL_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140210_2",
+      "type": 60,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_4",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140210_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_LW_HLM_003",
+          "num": 2
+        }
+      ]
+    },
+    {
+      "iname": "QM_ST_01140210_4",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_IM_DRAGON_4",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_ST_US_EXP_01",
       "type": 100,
       "value1": 0,
@@ -15137,6 +15498,18 @@
       ]
     },
     {
+      "iname": "QM_HD_PI_082",
+      "type": 104,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_PI_LW_HLNA_01",
+          "num": 5
+        }
+      ]
+    },
+    {
       "iname": "QM_HD_0001",
       "type": 100,
       "value1": 0,
@@ -17877,6 +18250,18 @@
       ]
     },
     {
+      "iname": "QM_CH_MM_057",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_WIZ_3",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_CH_MM_101",
       "type": 100,
       "value1": 0,
@@ -19485,6 +19870,18 @@
         {
           "type": 0,
           "item": "IT_JB_EM_SOIL_3",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_113",
+      "type": 15,
+      "value1": "UN_LW_P_HLNA_01",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_3",
           "num": 10
         }
       ]
@@ -22093,6 +22490,40 @@
       ]
     },
     {
+      "iname": "QM_SB_RAMU_04",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_RAMU_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_RAMU_05",
+      "type": 105,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_RAMU_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_RAMU_06",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_THUNDER",
+          "num": 10
+        }
+      ]
+    },
+    {
       "iname": "QM_SB_ODIN_01",
       "type": 3,
       "rewards": [
@@ -22195,6 +22626,28 @@
     },
     {
       "iname": "QM_SB_IGNT_02",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_SHINE",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_IGNT_03",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_IGNT_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_IGNT_04",
       "type": 70,
       "rewards": [
         {
@@ -22841,6 +23294,50 @@
           "type": 0,
           "item": "IT_SB_AW_FIRE",
           "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_CORL_01",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_CORL_R2",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_CORL_02",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_THUNDER",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_CORL_03",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_CORL_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_CORL_04",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_THUNDER",
+          "num": 5
         }
       ]
     },
@@ -36575,6 +37072,121 @@
       ]
     },
     {
+      "iname": "QM_EV_ART_CRF_20_M1",
+      "type": 1,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_SAND_03",
+          "num": 30
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_20_M2",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_MYTHRIL",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_20_M3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_AW_STAFF",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_20_M4",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_WIND_01",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_21_M1",
+      "type": 1,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_SAND_03",
+          "num": 30
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_21_M2",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_WIND_01",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_21_M3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_MYTHRIL",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_21_M4",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_AW_STAFF",
+          "num": 50
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_21_M5",
+      "type": 10,
+      "value2": [
+        8
+      ],
+      "rewards": [
+        {
+          "type": 1,
+          "item": "AF_LW_ROD_006_3",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_21_M6",
+      "type": 201,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JBEX_MM",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_EV_WW_01_01",
       "type": 60,
       "value1": 0,
@@ -37385,6 +37997,254 @@
           "type": 0,
           "item": "IT_PI_COM_ALL",
           "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_01_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_STAFF_01",
+          "num": 15
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_01_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_1",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_01_3",
+      "type": 81,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_STAFF_02",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_01_4",
+      "type": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_2",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_01_5",
+      "type": 15,
+      "value1": "UN_LW_P_HLNA_01",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_WIZ_2",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_02_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_STAFF_03",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_02_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_3",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_02_3",
+      "type": 81,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_STAFF_04",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_02_4",
+      "type": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_4",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_02_5",
+      "type": 15,
+      "value1": "UN_LW_P_HLNA_01",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_WIZ_3",
+          "num": 2
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_02_6",
+      "type": 82,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_WIZ_4",
+          "num": 2
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_03_1",
+      "type": 81,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_STAFF_05",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_03_2",
+      "type": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_5",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_03_3",
+      "type": 15,
+      "value1": "UN_LW_P_HLNA_01",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_WIZ_5",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_03_4",
+      "type": 82,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_IM_ANGEL_5",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_04_1",
+      "type": 81,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_STAFF_05",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_04_2",
+      "type": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_5",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_04_3",
+      "type": 15,
+      "value1": "UN_LW_P_HLNA_01",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_WIZ_5",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_04_4",
+      "type": 105,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_WIZ_5",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_04_5",
+      "type": 82,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JBEX_DARK",
+          "num": 75
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_WIZ_04_6",
+      "type": 17,
+      "value1": 4,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JBEX_STAFF",
+          "num": 75
         }
       ]
     }

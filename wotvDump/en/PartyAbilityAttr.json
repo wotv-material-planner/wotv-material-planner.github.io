@@ -169,11 +169,19 @@
       "value": ""
     },
     {
+      "key": "VLC_GL_MONT_MACR_CMLO",
+      "value": ""
+    },
+    {
       "key": "VLC_DEBUG_01",
       "value": ""
     },
     {
       "key": "VLC_GL_2B",
+      "value": ""
+    },
+    {
+      "key": "VLC_VNLA_SDLX",
       "value": ""
     }
   ]
