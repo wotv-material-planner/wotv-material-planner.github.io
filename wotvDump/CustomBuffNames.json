@@ -257,6 +257,7 @@
     "BUFF_CLT_LW_RYEL_1_2": "Wish for Peace: AOE Nullify Blind,Wish for Peace: AOE Nullify Stop",
     "BUFF_SWO_LW_SIRM_1_1": "Slash Res 8",
     "BUFF_ACC_LW_HLNA_01_1": "Grace of Eternal Friendship: Agi 25,Grace of Eternal Friendship: 3X barrier 35",
+    "BUFF_CLT_LW_THLA_01_1_1": "Miracle of Love: 1T Magic Evade",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
@@ -312,5 +313,6 @@
     "BUFF_LW_ARM_028_2_S": "Area Att Res 2",
     "BUFF_LW_ARM_028_3_S": "Area Att Res 3",
     "BUFF_LW_ARM_028_4_S": "Area Att Res 5",
-    "BUFF_LW_ARM_028_5_S": "Area Att Res 10"
+    "BUFF_LW_ARM_028_5_S": "Area Att Res 10",
+    "BUFF_FF1_SWO_000_5": "Light Att 30"
 }
