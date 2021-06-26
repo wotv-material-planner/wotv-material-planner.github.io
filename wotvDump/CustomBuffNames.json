@@ -171,6 +171,7 @@
     "BUFF_ARM_LW_VADM_1_1": "Earth Res 10",
     "BUFF_ARM_LW_PHBE_1_1": "Light Res 10",
     "BUFF_FTW_LW_AYKA_1_1": "Purify: AOE Dispel, Purify: AOE Barrier 20",
+    "BUFF_FTW_LW_AYKA_1_1_2": "Sacred Step buff",
     "BUFF_ACC_LW_MACR_1_1": "Knight's Blessing: AOE Restore HP,Knight's Blessing: 3X AOE Barrier 30",
     "BUFF_CLK_LW_ELDE_1_1": "King's Command: 3T AOE Max HP 35",
     "BUFF_ACC_LW_ZIZA_1_1": "Revitalize: 3T Restore AP 25",
@@ -258,6 +259,7 @@
     "BUFF_SWO_LW_SIRM_1_1": "Slash Res 8",
     "BUFF_ACC_LW_HLNA_01_1": "Grace of Eternal Friendship: Agi 25,Grace of Eternal Friendship: 3X barrier 35",
     "BUFF_CLT_LW_THLA_01_1_1": "Miracle of Love: 1T Magic Evade",
+    "BUFF_ARM_LW_CMLO_1_1": "Dragon Hunter's Presence: 3T AOE Light Att 25,Dragon Hunter's Presence: 3T AOE Acc 20",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
@@ -314,5 +316,11 @@
     "BUFF_LW_ARM_028_3_S": "Area Att Res 3",
     "BUFF_LW_ARM_028_4_S": "Area Att Res 5",
     "BUFF_LW_ARM_028_5_S": "Area Att Res 10",
-    "BUFF_FF1_SWO_000_5": "Light Att 30"
+    "BUFF_FF1_SWO_000_5": "Light Att 30",
+    "BUFF_LW_ACC_039_5_S": "Blind Res 20",
+    "BUFF_LW_PIERCEMDEF_1": "Spi Piercing 2",
+    "BUFF_LW_PIERCEMDEF_2": "Spi Piercing 3",
+    "BUFF_LW_PIERCEMDEF_3": "Spi Piercing 5",
+    "BUFF_LW_PIERCEMDEF_4": "Spi Piercing 10",
+    "BUFF_LW_PIERCEMDEF_5": "Spi Piercing 20"
 }
