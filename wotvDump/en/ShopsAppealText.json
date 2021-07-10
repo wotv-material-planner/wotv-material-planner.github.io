@@ -251,6 +251,14 @@
     {
       "key": "63",
       "value": "<line-height=15>Interlude: Part II, Scene 1<br>Release Shop"
+    },
+    {
+      "key": "64",
+      "value": "<line-height=15>Global Festival Shop"
+    },
+    {
+      "key": "65",
+      "value": "<line-height=15>Story Event Release Shop"
     }
   ]
 }

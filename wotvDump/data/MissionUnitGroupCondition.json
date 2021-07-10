@@ -685,6 +685,24 @@
       "units": [
         "UN_LW_P_CMLO"
       ]
+    },
+    {
+      "iname": "MUG_LW_P_ZZAN_01",
+      "units": [
+        "UN_LW_P_ZZAN_01"
+      ]
+    },
+    {
+      "iname": "MUG_LW_P_MORE",
+      "units": [
+        "UN_LW_P_MORE"
+      ]
+    },
+    {
+      "iname": "MUG_LW_P_CWEL",
+      "units": [
+        "UN_LW_P_CWEL"
+      ]
     }
   ]
 }

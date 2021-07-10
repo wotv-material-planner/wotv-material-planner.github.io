@@ -969,6 +969,14 @@
       "value": "Middle Guard Striker Class<br><br>A bow-wielding job that attacks from a distance, specializing in sabotaging opponents by inflicting debuffs and status ailments."
     },
     {
+      "key": "JB_LW_ARC_ICE",
+      "value": "Middle Guard Striker Class<br><br>A bow-wielding job that attacks from a distance, specializing in sabotaging opponents by inflicting debuffs and status ailments."
+    },
+    {
+      "key": "JB_LW_ARC_WIND",
+      "value": "Middle Guard Striker Class<br><br>A bow-wielding job that attacks from a distance, specializing in sabotaging opponents by inflicting debuffs and status ailments."
+    },
+    {
       "key": "JB_LW_ARC_WATER",
       "value": "Middle Guard Striker Class<br><br>A bow-wielding job that attacks from a distance, specializing in sabotaging opponents by inflicting debuffs and status ailments."
     },
@@ -1049,6 +1057,10 @@
       "value": "Vanguard Striker Class<br><br>A job that facilitates advantages in battle via resistance to multiple attack types and use of draining abilities."
     },
     {
+      "key": "JB_LW_MSW_WIND",
+      "value": "Vanguard Striker Class<br><br>A job that facilitates advantages in battle via resistance to multiple attack types and use of draining abilities."
+    },
+    {
       "key": "JB_LW_MSW_SHINE",
       "value": "Vanguard Striker Class<br><br>A job that facilitates advantages in battle via resistance to multiple attack types and use of draining abilities."
     },
@@ -1103,6 +1115,10 @@
     {
       "key": "JB_FF10_YUNA_M",
       "value": "Rearguard Healer Class<br><br>A Job that is capable not only of healing, but also has the ability to automatically recover KO’d allies once per battle and attack with the unique power of its aeon."
+    },
+    {
+      "key": "JB_LW_ZZAN",
+      "value": "Vanguard Striker Class<br><br>A job that is hard to take down due to its high agility, evasion, and ability to bestow Reraise upon itself."
     },
     {
       "key": "JB_LW_MONT_M",
@@ -1261,14 +1277,6 @@
       "value": "Middle Guard Striker Class<br><br>A job that can employ attacks from a distance and inflict status ailments with skills such as Blackout and Leg Shot."
     },
     {
-      "key": "JB_LW_NIN_EX_M",
-      "value": "Vanguard Striker Class<br><br>A job with extremely agile mobility that can perform Hide, making it difficult to be targeted by the enemy."
-    },
-    {
-      "key": "JB_LW_SDLX_M",
-      "value": "Vanguard Striker Class<br><br>A job with extremely agile mobility that can perform Hide, making it difficult to be targeted by the enemy."
-    },
-    {
       "key": "JB_FF10_ARON",
       "value": "Vanguard Striker Class<br><br>A Job that can handle tank type opponents with high defense by using abilities that destroy physical barriers and support abilities that increase its own DEF piercing rate."
     },
@@ -1351,6 +1359,50 @@
     {
       "key": "JB_LW_DRND_M",
       "value": "Vanguard Striker Class<br><br>A job that can perform Launch, which features a high Critical Hit Rate. The Fighting Spirit Reaction Ability also recovers HP and boosts ATK via Berserk status."
+    },
+    {
+      "key": "JB_LW_ZZAN_01_M",
+      "value": "Vanguard Striker Class<br><br>A job that is hard to take down due to its high agility, evasion, and ability to bestow Reraise upon itself."
+    },
+    {
+      "key": "JB_LW_DEAN_M",
+      "value": "Vanguard Striker Class<br><br>A job that can remove Reraise and inflict status ailments such as Disable while also having the ability to increase the unit's own endurance and Hate in order to take on the role of a tank."
+    },
+    {
+      "key": "JB_LW_NIN_EX_M",
+      "value": "Vanguard Striker Class<br><br>A job with extremely agile mobility that can perform Hide, making it difficult to be targeted by the enemy."
+    },
+    {
+      "key": "JB_LW_KTON_M",
+      "value": "Vanguard Striker Class<br><br>A job with extremely agile mobility that can perform Hide, making it difficult to be targeted by the enemy."
+    },
+    {
+      "key": "JB_LW_SDLX_M",
+      "value": "Vanguard Striker Class<br><br>A job with extremely agile mobility that can perform Hide, making it difficult to be targeted by the enemy."
+    },
+    {
+      "key": "JB_LW_MGK_EX_M",
+      "value": "Vanguard Magic Tank Class<br><br>A job with high magical defense that can draw enemy attacks."
+    },
+    {
+      "key": "JB_LW_FRVA_M",
+      "value": "Vanguard Magic Tank Class<br><br>A job with high magical defense that can draw enemy attacks."
+    },
+    {
+      "key": "JB_LW_MMC_EX_M",
+      "value": "Vanguard Magic Attacker Class<br><br>A job that can aim to deal a large amount of damage with Magic Attacks by using abilities that increase SPR Piercing Rate while defending against enemy Magic Attacks with a barrier bestowed on oneself."
+    },
+    {
+      "key": "JB_LW_MORE_M",
+      "value": "Vanguard Magic Attacker Class<br><br>A job that can aim to deal a large amount of damage with Magic Attacks by using abilities that increase SPR Piercing Rate while defending against enemy Magic Attacks with a barrier bestowed on oneself."
+    },
+    {
+      "key": "JB_LW_ARC_EX_M",
+      "value": "Middle Guard Striker Class<br><br>A bow-wielding job that attacks from a distance, specializing in sabotaging opponents by inflicting debuffs and status ailments."
+    },
+    {
+      "key": "JB_LW_CWEL_M",
+      "value": "Middle Guard Striker Class<br><br>A bow-wielding job that attacks from a distance, specializing in sabotaging opponents by inflicting debuffs and status ailments."
     }
   ]
 }

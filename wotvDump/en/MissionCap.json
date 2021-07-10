@@ -953,6 +953,26 @@
       "value": "[Multi] Brutal Difficulty The Ancient Tome of Leonis [EX]"
     },
     {
+      "key": "MG_EV11_1_01",
+      "value": "Silence of the Songbirds"
+    },
+    {
+      "key": "MG_EV11_1_02",
+      "value": "Silence of the Songbirds [EX]"
+    },
+    {
+      "key": "MG_MU_EV11_1_02",
+      "value": "[Multi] Silence of the Songbirds [EX]"
+    },
+    {
+      "key": "MG_EV11_1_03",
+      "value": "Brutal Difficulty Silence of the Songbirds [EX]"
+    },
+    {
+      "key": "MG_MU_EV11_1_03",
+      "value": "[Multi] Brutal Difficulty Silence of the Songbirds [EX]"
+    },
+    {
       "key": "MG_ETRE01_01",
       "value": "Etre Training Quest"
     },
@@ -995,6 +1015,18 @@
     {
       "key": "MG_MU_CRIS01_01",
       "value": "[Multi] High Difficulty Creysse Acquisition Ex-Quest"
+    },
+    {
+      "key": "MG_CWEL01_01",
+      "value": "Corwell Acquisition Quest"
+    },
+    {
+      "key": "MG_CWEL01_02",
+      "value": "High Difficulty Corwell Acquisition Ex-Quest"
+    },
+    {
+      "key": "MG_MU_CWEL01_01",
+      "value": "[Multi] High Difficulty Corwell Acquisition Ex-Quest"
     },
     {
       "key": "MG_THLA01_01",
@@ -1641,6 +1673,34 @@
       "value": "[Monthly Mission] Guild Statues"
     },
     {
+      "key": "MG_MONTHLY_104_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_104_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_104_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_104_4",
+      "value": "[Monthly Mission] EXP Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_104_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_104_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_104_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
       "key": "MG_LAPS_P_LUCA",
       "value": "Consume Visiore — Limited Period Bonus"
     },
@@ -1934,6 +1994,54 @@
     },
     {
       "key": "MG_ST_2102_12",
+      "value": "Guild Statue"
+    },
+    {
+      "key": "MG_ST_2103_01",
+      "value": "Daily Mission"
+    },
+    {
+      "key": "MG_ST_2103_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2103_03",
+      "value": "Acquire Items"
+    },
+    {
+      "key": "MG_ST_2103_04",
+      "value": "Gil Chamber"
+    },
+    {
+      "key": "MG_ST_2103_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2103_06",
+      "value": "Story Quest"
+    },
+    {
+      "key": "MG_ST_2103_07",
+      "value": "Hard Quest"
+    },
+    {
+      "key": "MG_ST_2103_08",
+      "value": "Multi Quest"
+    },
+    {
+      "key": "MG_ST_2103_09",
+      "value": "EXP Chamber"
+    },
+    {
+      "key": "MG_ST_2103_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2103_11",
+      "value": "Chocobo Expedition"
+    },
+    {
+      "key": "MG_ST_2103_12",
       "value": "Guild Statue"
     }
   ]
