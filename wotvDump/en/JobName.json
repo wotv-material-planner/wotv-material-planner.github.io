@@ -957,6 +957,18 @@
       "value": "Dark Knight of Remorse"
     },
     {
+      "key": "JB_LW_MURG",
+      "value": "Savage King"
+    },
+    {
+      "key": "JB_LW_CRLT",
+      "value": "Knight of the Sacred Shield"
+    },
+    {
+      "key": "JB_LW_CRLT_M",
+      "value": "Guardian of the Sacred Shield"
+    },
+    {
       "key": "JB_LW_ARC",
       "value": "Sniper"
     },
@@ -1193,6 +1205,10 @@
       "value": "Ranger [Balehunt]"
     },
     {
+      "key": "JB_LW_LILS_01_M",
+      "value": "Ranger [Strongdraw]"
+    },
+    {
       "key": "JB_LW_MNK_EX_M",
       "value": "Monk EX"
     },
@@ -1203,6 +1219,10 @@
     {
       "key": "JB_LW_ETRE_M",
       "value": "Monk [Enthraller]"
+    },
+    {
+      "key": "JB_LW_MRLK_M",
+      "value": "Monk [Spiritfist]"
     },
     {
       "key": "JB_LW_WAR_EX_M",
@@ -1405,6 +1425,10 @@
       "value": "Spellblade [Guardian]"
     },
     {
+      "key": "JB_LW_RYER_M",
+      "value": "Spellblade [Divine]"
+    },
+    {
       "key": "JB_LW_MMC_EX_M",
       "value": "Kotodama Wielder EX"
     },
@@ -1413,12 +1437,20 @@
       "value": "Kotodama Wielder [Spiritbane]"
     },
     {
+      "key": "JB_LW_KTON_01_M",
+      "value": "Kotodama Wielder [Steelsoul]"
+    },
+    {
       "key": "JB_LW_THI_EX_M",
       "value": "Thief EX"
     },
     {
       "key": "JB_LW_VSTR_M",
       "value": "Thief [Quickhand]"
+    },
+    {
+      "key": "JB_LW_MURG_M",
+      "value": "King of Fennes"
     },
     {
       "key": "JB_LW_ARC_EX_M",

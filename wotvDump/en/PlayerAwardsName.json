@@ -165,6 +165,18 @@
       "value": "Beast"
     },
     {
+      "key": "LW_PA_00079",
+      "value": "Technician"
+    },
+    {
+      "key": "LW_PA_00080",
+      "value": "Midsummer Adversary"
+    },
+    {
+      "key": "LW_PA_00081",
+      "value": "Seasoned Professional"
+    },
+    {
       "key": "AWD_P_FF04_1",
       "value": "FFIV Collaboration — Trials of Reckoning — Individual Total Score Rank 1"
     },
@@ -243,6 +255,10 @@
     {
       "key": "AWD_P_FF10_6",
       "value": "That's how it's done."
+    },
+    {
+      "key": "AWD_GL_P_Lgnd_G_1",
+      "value": "The Legend Begins"
     },
     {
       "key": "LW_PA_CH_001_1",
@@ -1509,6 +1525,22 @@
       "value": "Immoral Spellblade"
     },
     {
+      "key": "LW_PA_CH_080_1",
+      "value": "Lilyth (Summer) Fan"
+    },
+    {
+      "key": "LW_PA_CH_080_2",
+      "value": "Lilyth (Summer) Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_080_3",
+      "value": "Lilyth (Summer) Devotee"
+    },
+    {
+      "key": "LW_PA_CH_080_4",
+      "value": "Blaze of the Beach"
+    },
+    {
       "key": "LW_PA_CH_081_1",
       "value": "Howlet Fan"
     },
@@ -1619,6 +1651,22 @@
     {
       "key": "LW_PA_CH_087_4",
       "value": "Stronghearted Beauty"
+    },
+    {
+      "key": "LW_PA_CH_088_1",
+      "value": "Kitone (Summer) Fan"
+    },
+    {
+      "key": "LW_PA_CH_088_2",
+      "value": "Kitone (Summer) Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_088_3",
+      "value": "Kitone (Summer) Devotee"
+    },
+    {
+      "key": "LW_PA_CH_088_4",
+      "value": "Shinobi Learning to Swim"
     },
     {
       "key": "LW_PA_CH_089_1",
@@ -2053,6 +2101,38 @@
       "value": "Home-Yearning Rebel"
     },
     {
+      "key": "LW_PA_CH_116_1",
+      "value": "Muraga Fan"
+    },
+    {
+      "key": "LW_PA_CH_116_2",
+      "value": "Muraga Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_116_3",
+      "value": "Muraga Devotee"
+    },
+    {
+      "key": "LW_PA_CH_116_4",
+      "value": "King of the Savages"
+    },
+    {
+      "key": "LW_PA_CH_117_1",
+      "value": "Charlotte Fan"
+    },
+    {
+      "key": "LW_PA_CH_117_2",
+      "value": "Charlotte Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_117_3",
+      "value": "Charlotte Devotee"
+    },
+    {
+      "key": "LW_PA_CH_117_4",
+      "value": "Holy Protector of the Kingdom"
+    },
+    {
       "key": "LW_GL_PA_CH_FRVA_1",
       "value": "Fryevia Fan"
     },
@@ -2083,6 +2163,30 @@
     {
       "key": "WW_PA_CH_001_4",
       "value": "Immortal Beast"
+    },
+    {
+      "key": "AWD_P_PT01_1",
+      "value": "Solitary Greatness"
+    },
+    {
+      "key": "AWD_P_PT01_2",
+      "value": "Battle Hardened"
+    },
+    {
+      "key": "AWD_P_PT01_3",
+      "value": "Stoicism"
+    },
+    {
+      "key": "AWD_P_PT01_4",
+      "value": "God of Reckoning"
+    },
+    {
+      "key": "AWD_P_PT01_5",
+      "value": "Fiend of Reckoning"
+    },
+    {
+      "key": "AWD_P_PT01_6",
+      "value": "Master of Reckoning"
     }
   ]
 }

@@ -1933,10 +1933,6 @@
       "value": "Elegant shoes of the finest quality leather. Slipping them on makes the wearer so light of foot that it is as if they've grown wings, allowing them to dash around to their heart's content."
     },
     {
-      "key": "AF_LW_RNG_006",
-      "value": "An accessory adorned with three red stars. The stars are said to hold the meanings of wisdom, truth, and inquisitiveness. No force can shatter this ring nor separate its stars. The mystical power contained within the stars fully draws out the latent abilities of the wearer."
-    },
-    {
       "key": "AF_LW_ARW_003",
       "value": "An armlet with a red gemstone in the center. It is said that the gem contains the wisdom of a great thief and that just wearing it increases one's chances of pulling off a successful theft."
     },
@@ -2293,6 +2289,10 @@
       "value": "A coat modified by Howlet. Originally a traditional cape handed down from his father, he redrew a design that better suited his aesthetic tastes and placed it in the hands of a tailor. Though the complete and utter change of the cape infuriated his father, Howlet was far from bothered by it."
     },
     {
+      "key": "AF_ACC_LW_LILS_01_1",
+      "value": "Glasses made to protect the eyes from bright light. Though not used in combat, it's an item many consider to be a daily necessity. Ramada discovered them buried within the bag of a weapons merchant and made the purchase, then gifted them to Lilyth. In return, Ramada was gifted with a mysteriously shaped hair ornament."
+    },
+    {
       "key": "AF_ACC_LW_SCAL_1",
       "value": "A gauntlet worn by the previous chieftains of the Saiga clan. Instilled with the magic of each past chieftain, it is impossible for the average shinobi to control its vast magical power. Few have been able to command the gauntlet freely—and Skahal is one of those few."
     },
@@ -2315,6 +2315,10 @@
     {
       "key": "AF_HLM_FF4_KAIN_1",
       "value": "The helm of a dragoon, said to have been found in the ruins on the moon of a distant world. Kain wears this helm at all times, perhaps having sworn never to remove it until peace returns to the world he calls home."
+    },
+    {
+      "key": "AF_ACC_LW_KTON_01_1",
+      "value": "A cute hair accessory made from Kitone's usual ribbon, to which flowers were affixed at Learte's behest. Her original recommendation was apparently to use a different ribbon altogether, but as a result of Kitone's fervent wish, the ribbon itself remains unchanged. Her reason for this is that Mont complimented her on this ribbon the first time she wore it, and so she has not the slightest desire to remove it."
     },
     {
       "key": "AF_SWO_LW_TITU_1",
@@ -2419,6 +2423,14 @@
     {
       "key": "AF_BOW_LW_CWEL_1",
       "value": "A bow crafted from the branch of an enormous tree in Corwell's village. It is said that the souls of prey slain by this bow return to the great tree to rest in peace. This belief is also a sign of the respect and gratitude of the people who live their lives as hunters. The bow is strictly forbidden to be used to kill other human beings, and it is believed that hunts will cease to be bountiful if the bow is misused."
+    },
+    {
+      "key": "AF_AXE_LW_MURG_1",
+      "value": "An axe said to carry the divine protection of the serpent, a symbol of Fennes. Blows unleashed with its overwhelming weight behind them are said to far surpass the force of artillery strikes. Power equals justice in Fennes, and by custom the strongest of the strong governs over the rest. This axe, emblematic of ultimate strength, is passed down as a mark of the Serpent King."
+    },
+    {
+      "key": "AF_SHI_LW_CRLT_1",
+      "value": "A shield awarded to Charlotte by the king of Grandshelt to honor her unwavering loyalty and devotion to the kingdom. The prestige of receiving such a shield is on par with being awarded the knight's medal, and thus the king granted her the title of Knight of the Sacred Shield."
     },
     {
       "key": "AF_SWO_LW_MONT_2",
@@ -2569,6 +2581,10 @@
       "value": "Forged by a renowned swordsmith, this sword possesses simple aesthetics, a beautiful blade, and is infused with powerful magic. The craftsmanship is so exquisite that it never sustains a scratch, not even from clashing violently with other blades or the use of immense magical power. Howlet has deemed the blade worthy of his abilities and takes good care of it."
     },
     {
+      "key": "AF_BOW_LW_LILS_01_2",
+      "value": "A bow made from a uniquely shaped tree, grown on a solitary island in a distant sea. Though it is solid enough to crush rocks, the timber also boasts superior flexibility. It is said that ordinary soldiers cannot pull its string, but Lilyth can do so with ease. While lovely to behold, an arrow let loose from this bow has the power to drive right through a soldier clad in armor."
+    },
+    {
       "key": "AF_ROD_LW_SCAL_2",
       "value": "The staff given to Skahal by the previous chieftain when he was appointed to lead his clan. It is made from a special material that can endure Skahal’s incredible physical prowess and magical power. Well aware that drawing upon the power of the staff could turn it into a weapon of atrocity, Skahal rarely engages in full-fledged battle."
     },
@@ -2583,6 +2599,10 @@
     {
       "key": "AF_SPE_FF4_KAIN_2",
       "value": "A spear imbued with the power of wind, said to unleash whirlwinds from its tip when brandished. It was created using the principles of the spellblades, who instill their blades with magic. As it enhances its user's jumping ability, it is a weapon extremely well suited to dragoons, the specialists of aerial combat."
+    },
+    {
+      "key": "AF_MAC_LW_KTON_01_2",
+      "value": "A strange mace with a bee ornament at the tip. It is said that because the bee ornament holds a certain amount of magical power, the wielder feels almost no heft at all. A perplexing weapon, while it is durable enough to crush steel and should accordingly be quite heavy, it somehow floats on water."
     },
     {
       "key": "AF_ROD_FF4_GLBZ_2",
@@ -2675,6 +2695,14 @@
     {
       "key": "AF_MAC_LW_MORE_2",
       "value": "A mace of legend in a distant world. It is said to have been used by a great sage who lead many people to their salvation. It has been kept safe in the sacred lands of the astrologers for many generations, but mystery still shrouds its existence. The mace emits a eerie magical energy, and even Moore is still yet to attain full mastery over its power."
+    },
+    {
+      "key": "AF_SWO_LW_CRLT_2",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_SHI_005",
+      "value": ""
     },
     {
       "key": "AF_LW_RNG_005",
@@ -3447,6 +3475,30 @@
     {
       "key": "AF_LW_ARM_028_5",
       "value": "Armor made of leather and cloth that has been reinforced with small metal plates, tempered and folded a hundred times over. The armor is trimmed in different areas to match the layout of the plates, improving both maneuverability and protective coverage of the body. Though it is lighter than armors using large plates of metal and easier to maintain, it also provides greater levels of protection against certain attack types than these bulkier armors."
+    },
+    {
+      "key": "AF_LW_RNG_006",
+      "value": "An accessory adorned with three red stars. The stars are said to respectively signify \"Wisdom,\" \"Truth,\" and \"Inquiry.\" No force is strong enough to sever the circlet, rendering it impossible to separate the stars from one another. It is said that the mysterious power contained within the stars will awaken the wearer's magical powers to their utmost limit."
+    },
+    {
+      "key": "AF_LW_RNG_006_1",
+      "value": "An accessory adorned with three red stars. The stars are said to respectively signify \"Wisdom,\" \"Truth,\" and \"Inquiry.\" No force is strong enough to sever the circlet, rendering it impossible to separate the stars from one another. It is said that the mysterious power contained within the stars will awaken the wearer's magical powers to their utmost limit."
+    },
+    {
+      "key": "AF_LW_RNG_006_2",
+      "value": "An accessory adorned with three red stars. The stars are said to respectively signify \"Wisdom,\" \"Truth,\" and \"Inquiry.\" No force is strong enough to sever the circlet, rendering it impossible to separate the stars from one another. It is said that the mysterious power contained within the stars will awaken the wearer's magical powers to their utmost limit."
+    },
+    {
+      "key": "AF_LW_RNG_006_3",
+      "value": "An accessory adorned with three red stars. The stars are said to respectively signify \"Wisdom,\" \"Truth,\" and \"Inquiry.\" No force is strong enough to sever the circlet, rendering it impossible to separate the stars from one another. It is said that the mysterious power contained within the stars will awaken the wearer's magical powers to their utmost limit."
+    },
+    {
+      "key": "AF_LW_RNG_006_4",
+      "value": "An accessory adorned with three red stars. The stars are said to respectively signify \"Wisdom,\" \"Truth,\" and \"Inquiry.\" No force is strong enough to sever the circlet, rendering it impossible to separate the stars from one another. It is said that the mysterious power contained within the stars will awaken the wearer's magical powers to their utmost limit."
+    },
+    {
+      "key": "AF_LW_RNG_006_5",
+      "value": "An accessory adorned with three red stars. The stars are said to respectively signify \"Wisdom,\" \"Truth,\" and \"Inquiry.\" No force is strong enough to sever the circlet, rendering it impossible to separate the stars from one another. It is said that the mysterious power contained within the stars will awaken the wearer's magical powers to their utmost limit."
     }
   ]
 }

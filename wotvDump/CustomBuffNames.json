@@ -226,6 +226,7 @@
     "BUFF_ACC_LW_RYER_01_1_2": "Full Moon Style: 3T Def -10,Full Moon Style: 3T Spr -10",
     "BUFF_ACC_LW_RIRY_01_1_1": "Zombie Transformation: Auto-Revive HP 20",
     "BUFF_CLT_LW_HWLT_1_1": "Fresh Blood Rune: Consume HP 1T Evade",
+    "BUFF_ACC_LW_LILS_01_1_1": "Summer Sharpshooter: Range 2,Summer Sharpshooter: Att 40",
     "BUFF_ACC_LW_SCAL_1_1": "Magic Surge: Consume HP 3T AOE Mag 80",
     "BUFF_SWO_LW_MRAL_1_1": "Spr Down",
     "BUFF_ROD_LW_CHEL_1_1": "Magic Att 10,Spi Piercing 15",
@@ -233,6 +234,7 @@
     "BUFF_ACC_FF4_ROSA_1_1": "Elegant Archer: 3T Mag 50,Elegant Archer: 3T Att 50",
     "BUFF_HLM_FF4_KAIN_1_1_1": "Dragoon's Pride: 3T Haste 42",
     "BUFF_HLM_FF4_KAIN_1_1_2": "Dragoon's Pride: 3T Move 1",
+    "BUFF_ACC_LW_KTON_01_1_1": "Steady Summer Flower: 3T AOE Missile Res 15,Summer Steady Flower: AOE Nullify Silence,Summer Steady Flower: AOE Nullify Charm,Summer Steady Flower: AOE Nullify Immobilize",
     "BUFF_SWO_LW_TITU_1_1": "Att Down",
     "BUFF_HLM_LW_DEAN_1_1": "Magic Prevention: 3T Magic Res 25",
     "BUFF_ACC_LW_NIVL_1_1": "Inherited Bewitching Art: 3T AOE Evade 30",
@@ -265,6 +267,8 @@
     "BUFF_ACC_LW_MORE_1_2": "Starry Veil: Faith 6",
     "BUFF_ACC_LW_MORE_1_1": "Starry Veil: 3T AOE Spr 15,Starry Veil: 3T AOE Nullify Sleep,Starry Veil: 3T AOE Nullify Stop,Starry Veil: 3T AOE Nullify Berserk",
     "BUFF_BOW_LW_CWEL_1_1": "20% chance 3T Evade -40",
+    "BUFF_AXE_LW_MURG_1_1": "Initial AP 25",
+    "BUFF_SHI_LW_CRLT_1_1": "Grandshelt's Protection: Restore AP 15,Grandshelt's Protection: 3X 305% Barrier",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
@@ -327,5 +331,10 @@
     "BUFF_LW_ARM_028_2_S": "Area Att Res 2",
     "BUFF_LW_ARM_028_3_S": "Area Att Res 3",
     "BUFF_LW_ARM_028_4_S": "Area Att Res 5",
-    "BUFF_LW_ARM_028_5_S": "Area Att Res 10"
+    "BUFF_LW_ARM_028_5_S": "Area Att Res 10",
+    "BUFF_LW_RNG_006_1": "AP Consumption Down 2",
+    "BUFF_LW_RNG_006_2": "AP Consumption Down 3",
+    "BUFF_LW_RNG_006_3": "AP Consumption Down 5",
+    "BUFF_LW_RNG_006_4": "AP Consumption Down 10",
+    "BUFF_LW_RNG_006_5": "AP Consumption Down 20"
 }
