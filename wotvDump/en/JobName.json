@@ -1069,6 +1069,14 @@
       "value": "Nightblade"
     },
     {
+      "key": "JB_LW_MSW_ICE",
+      "value": "Nightblade"
+    },
+    {
+      "key": "JB_LW_MSW_WATER",
+      "value": "Nightblade"
+    },
+    {
       "key": "JB_LW_MSW_WIND",
       "value": "Nightblade"
     },
@@ -1205,6 +1213,10 @@
       "value": "Ranger [Balehunt]"
     },
     {
+      "key": "JB_LW_UNII_M",
+      "value": "Ranger [Interceptor]"
+    },
+    {
       "key": "JB_LW_LILS_01_M",
       "value": "Ranger [Strongdraw]"
     },
@@ -1321,6 +1333,14 @@
       "value": "Assassin [Everlife]"
     },
     {
+      "key": "JB_LW_MSW_EX_M",
+      "value": "Nightblade EX"
+    },
+    {
+      "key": "JB_LW_VLRC_M",
+      "value": "Nightblade [Successor]"
+    },
+    {
       "key": "JB_LW_CLR_EX_M",
       "value": "Cleric EX"
     },
@@ -1421,12 +1441,16 @@
       "value": "Spellblade EX"
     },
     {
-      "key": "JB_LW_FRVA_M",
-      "value": "Spellblade [Guardian]"
-    },
-    {
       "key": "JB_LW_RYER_M",
       "value": "Spellblade [Divine]"
+    },
+    {
+      "key": "JB_LW_DRIO_M",
+      "value": "Spellblade [Liferend]"
+    },
+    {
+      "key": "JB_LW_FRVA_M",
+      "value": "Spellblade [Guardian]"
     },
     {
       "key": "JB_LW_MMC_EX_M",
@@ -1459,6 +1483,46 @@
     {
       "key": "JB_LW_CWEL_M",
       "value": "Sniper [Deadeye]"
+    },
+    {
+      "key": "JB_LW_AXD_FIRE",
+      "value": "Strider"
+    },
+    {
+      "key": "JB_LW_AXD_ICE",
+      "value": "Strider"
+    },
+    {
+      "key": "JB_LW_AXD_WIND",
+      "value": "Strider"
+    },
+    {
+      "key": "JB_LW_AXD_SOIL",
+      "value": "Strider"
+    },
+    {
+      "key": "JB_LW_AXD_THUN",
+      "value": "Strider"
+    },
+    {
+      "key": "JB_LW_AXD_WATER",
+      "value": "Strider"
+    },
+    {
+      "key": "JB_LW_AXD_SHINE",
+      "value": "Strider"
+    },
+    {
+      "key": "JB_LW_AXD_DARK",
+      "value": "Strider"
+    },
+    {
+      "key": "JB_LW_AXD_EX_M",
+      "value": "Strider EX"
+    },
+    {
+      "key": "JB_LW_QILF_01_M",
+      "value": "Strider [Bravura]"
     }
   ]
 }

@@ -228,7 +228,8 @@
         "JB_LW_MGK_FIRE",
         "JB_LW_RDM_FIRE",
         "JB_LW_MKN_FIRE",
-        "JB_FFT_ORND"
+        "JB_FFT_ORND",
+        "JB_LW_CRLT"
       ],
       "elem": [
         5,
@@ -394,6 +395,12 @@
       "units": [
         "UN_LW_P_MORE",
         "UN_LW_P_RAMD"
+      ]
+    },
+    {
+      "iname": "VLC_VLRC",
+      "units": [
+        "UN_LW_P_VLRC"
       ]
     }
   ]

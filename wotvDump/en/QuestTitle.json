@@ -2177,6 +2177,46 @@
       "value": "Mont Awaits"
     },
     {
+      "key": "QE_ST_02010101",
+      "value": "Assault on Valdor Castle I"
+    },
+    {
+      "key": "QE_ST_02010102",
+      "value": "Assault on Valdor Castle II"
+    },
+    {
+      "key": "QE_ST_02010103",
+      "value": "Raid of Epita Castle I"
+    },
+    {
+      "key": "QE_ST_02010104",
+      "value": "Raid of Epita Castle II"
+    },
+    {
+      "key": "QE_ST_02010105",
+      "value": "«Calorum» Advances"
+    },
+    {
+      "key": "QE_ST_02010106",
+      "value": "Wielder of the Ring"
+    },
+    {
+      "key": "QE_ST_02010107",
+      "value": "Heindler's Resolve"
+    },
+    {
+      "key": "QE_ST_02010108",
+      "value": "Time to Honor That Debt I"
+    },
+    {
+      "key": "QE_ST_02010109",
+      "value": "Time to Honor That Debt II"
+    },
+    {
+      "key": "QE_ST_02010110",
+      "value": "A Strategic Retreat"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Shard Quest: Zazan"
     },
@@ -2515,6 +2555,10 @@
     {
       "key": "QE_HA_LW_CRLT",
       "value": "Shard Quest: Charlotte"
+    },
+    {
+      "key": "QE_HA_LW_VLRC",
+      "value": "Shard Quest: Velric"
     },
     {
       "key": "QE_CH_LW_ZZAN",
@@ -3009,6 +3053,14 @@
       "value": "Charlotte"
     },
     {
+      "key": "QE_CH_LW_VLRC",
+      "value": "Velric"
+    },
+    {
+      "key": "QE_CH_LW_QILF_01",
+      "value": "Kilphe (Summer)"
+    },
+    {
       "key": "QE_EV_GL_CDOWN_01_9",
       "value": "Countdown Quest"
     },
@@ -3295,6 +3347,18 @@
     {
       "key": "QE_EV_VC_KRKN_3",
       "value": "Nightmare Difficulty \"Terror from the Deep, Kraken\" Enhancement Quest"
+    },
+    {
+      "key": "QE_EV_VC_DMCM_1",
+      "value": "High Difficulty \"Fused Monstrosity, Demon Chimera\" Enhancement Quest"
+    },
+    {
+      "key": "QE_EV_VC_DMCM_2",
+      "value": "Brutal Difficulty \"Fused Monstrosity, Demon Chimera\" Enhancement Quest"
+    },
+    {
+      "key": "QE_EV_VC_DMCM_3",
+      "value": "Nightmare Difficulty \"Fused Monstrosity, Demon Chimera\" Enhancement Quest"
     },
     {
       "key": "QE_EV_FF1_01",
@@ -4597,6 +4661,62 @@
       "value": "Brutal Difficulty Silence of the Songbirds [EX]"
     },
     {
+      "key": "QE_EV_12_01",
+      "value": "Ep. 1: Lemuré"
+    },
+    {
+      "key": "QE_EV_12_02",
+      "value": "Ep. 2: Unexpected Reunion"
+    },
+    {
+      "key": "QE_EV_12_03",
+      "value": "Ep. 3: What You Fear"
+    },
+    {
+      "key": "QE_EV_12_04",
+      "value": "Ep. 4: The Journey West I"
+    },
+    {
+      "key": "QE_EV_12_05",
+      "value": "Ep. 5: The Journey West II"
+    },
+    {
+      "key": "QE_EV_12_06",
+      "value": "Ep. 6: An Approaching Presence I"
+    },
+    {
+      "key": "QE_EV_12_07",
+      "value": "Ep. 7: An Approaching Presence II"
+    },
+    {
+      "key": "QE_EV_12_08",
+      "value": "Ep. 8: An Approaching Presence III"
+    },
+    {
+      "key": "QE_EV_12_09",
+      "value": "Ep. 9: The Final Matchup"
+    },
+    {
+      "key": "QE_EV_12_10",
+      "value": "Ep. 10: Neither Riches Nor Fame"
+    },
+    {
+      "key": "QE_EV_12_EX",
+      "value": "Dreams of the Swordsmiths [EX]"
+    },
+    {
+      "key": "QE_EV_12_EX_1",
+      "value": "Brutal Difficulty Dreams of the Swordsmiths [EX]"
+    },
+    {
+      "key": "QE_MU_EV_12_EX",
+      "value": "Dreams of the Swordsmiths [EX]"
+    },
+    {
+      "key": "QE_MU_EV_12_EX_1",
+      "value": "Brutal Difficulty Dreams of the Swordsmiths [EX]"
+    },
+    {
       "key": "QE_EV_WIZ_04",
       "value": "Brutal Difficulty Black-Robed Witch Training Quest #4"
     },
@@ -4921,6 +5041,14 @@
       "value": "Brutal Difficulty Equipment Training Quest (Cypress Pile)"
     },
     {
+      "key": "QE_EV_ART_CRF_24",
+      "value": "Brutal Difficulty Equipment Training Quest (Golden Axe)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_24",
+      "value": "Brutal Difficulty Equipment Training Quest (Golden Axe)"
+    },
+    {
       "key": "QE_MU_SHIV_04",
       "value": "Brutal Difficulty Shiva Challenge"
     },
@@ -5237,6 +5365,10 @@
       "value": "Lamia Queen Battle"
     },
     {
+      "key": "QE_SB_LAMA_02",
+      "value": "Lamia Queen Battle (2)"
+    },
+    {
       "key": "QE_SB_OCHU_01",
       "value": "Ochu Battle"
     },
@@ -5363,6 +5495,14 @@
     {
       "key": "QE_SB_KRKN_02",
       "value": "Kraken Battle (2)"
+    },
+    {
+      "key": "QE_SB_DMCM_01",
+      "value": "Demon Chimera Battle"
+    },
+    {
+      "key": "QE_SB_DMCM_02",
+      "value": "Demon Chimera Battle (2)"
     },
     {
       "key": "QE_RAID_EV_06_01",
@@ -5635,6 +5775,30 @@
     {
       "key": "QE_RAID_EV_19_06",
       "value": "Kraken Raid"
+    },
+    {
+      "key": "QE_RAID_EV_20_01",
+      "value": "Leviathan Raid"
+    },
+    {
+      "key": "QE_RAID_EV_20_02",
+      "value": "Leviathan Raid"
+    },
+    {
+      "key": "QE_RAID_EV_20_03",
+      "value": "Leviathan Raid"
+    },
+    {
+      "key": "QE_RAID_EV_20_04",
+      "value": "Demon Chimera Raid"
+    },
+    {
+      "key": "QE_RAID_EV_20_05",
+      "value": "Demon Chimera Raid"
+    },
+    {
+      "key": "QE_RAID_EV_20_06",
+      "value": "Demon Chimera Raid"
     },
     {
       "key": "QE_MU_AW_FIRE_01",
@@ -6017,6 +6181,10 @@
       "value": "Graveyard III"
     },
     {
+      "key": "QE_ARENA_00017",
+      "value": "Mines Entrance"
+    },
+    {
       "key": "QE_ARENA_GL_00001",
       "value": "Forest"
     },
@@ -6113,6 +6281,10 @@
       "value": "Castle Interior Ⅱ"
     },
     {
+      "key": "QE_GVG_GL_00008",
+      "value": "Coastline"
+    },
+    {
       "key": "QE_PVP_FRE_0001",
       "value": "Plains"
     },
@@ -6127,6 +6299,10 @@
     {
       "key": "QE_PVP_FRE_GL_0001",
       "value": "Coastline"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0002",
+      "value": "Mines Entrance"
     },
     {
       "key": "QE_PVP_FRI_0001",
@@ -6195,6 +6371,10 @@
     {
       "key": "QE_PVP_FRI_0029",
       "value": "Mines II"
+    },
+    {
+      "key": "QE_PVP_FRI_0033",
+      "value": "Mines Entrance"
     },
     {
       "key": "QE_PVP_RANK_0001",
@@ -6499,6 +6679,10 @@
     {
       "key": "QE_VC_LW_MORE",
       "value": "Shard Quest: Guidance from the Stars"
+    },
+    {
+      "key": "QE_VC_GL_LW_STFES",
+      "value": "Shard Quest: Starlit Tryst"
     },
     {
       "key": "QE_VC_GL_LW_NEWYEAR",

@@ -349,6 +349,10 @@
       "value": "Unit [Charlotte] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_LW_VLRC",
+      "value": "Unit [Velric] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -841,6 +845,14 @@
       "value": "Unit [Charlotte] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_VLRC",
+      "value": "Unit [Velric] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_QILF_01",
+      "value": "Unit [Kilphe (Summer)] is at least Lv. 40"
+    },
+    {
       "key": "COND_VC_LW_GLEM",
       "value": "Vision card [Rock Cliff Titan, Golem] is at least Lv. 1"
     },
@@ -1011,6 +1023,10 @@
     {
       "key": "COND_VC_LW_MORE",
       "value": "Vision card [Guidance from the Stars] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_GL_LW_STFES",
+      "value": "Vision card [Starlit Tryst] is at least Lv. 1"
     },
     {
       "key": "COND_VC_GL_LW_NEWYEAR",
@@ -1223,6 +1239,10 @@
     {
       "key": "COND_VC_LW_DYN",
       "value": "Vision card [Dynverk Cathedral] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_DMCM",
+      "value": "Vision card [Fused Monstrosity, Demon Chimera]"
     }
   ]
 }
