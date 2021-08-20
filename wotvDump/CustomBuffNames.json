@@ -274,6 +274,8 @@
     "BUFF_ARM_LW_VLRC_1_1": "Tempered Focus: 3T AOE Def 15,Tempered Focus: Bravery 10",
     "BUFF_ACC_LW_QILF_01_1_1": "Midsummer Refreshment: AP 20",
     "BUFF_ACC_LW_QILF_01_1_2": "Midsummer Refreshment: 3T Shell 25",
+    "BUFF_ACC_LW_ELSR_01_1": "Beachside Rejuvenation: AOE Restore HP",
+    "BUFF_ROD_LW_LMRE_1_1": "Single Att Res 10",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
