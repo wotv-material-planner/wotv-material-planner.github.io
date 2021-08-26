@@ -276,6 +276,10 @@
     "BUFF_ACC_LW_QILF_01_1_2": "Midsummer Refreshment: 3T Shell 25",
     "BUFF_ACC_LW_ELSR_01_1": "Beachside Rejuvenation: AOE Restore HP",
     "BUFF_ROD_LW_LMRE_1_1": "Single Att Res 10",
+    "BUFF_ACC_LW_GRGS_1_1": "Demonic Roar: 3T AOE Mag Att 25",
+    "BUFF_ACC_FF7_CLUD_1": "Night on the Town: 3T AP Consumption Down 25",
+    "BUFF_ACC_FF7_TIFA_1_1": "Concentration: 3T AOE Att 40",
+    "BUFF_ACC_FF7_TIFA_1_2": "Concentration: 3T AOE Wind Strike Att 30",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
@@ -346,5 +350,7 @@
     "BUFF_LW_ACC_038_2": "2T Agi 3",
     "BUFF_LW_ACC_038_3": "2T Agi 5",
     "BUFF_LW_ACC_038_4": "2T Agi 6",
-    "BUFF_LW_ACC_038_5": "2T Agi 8"
+    "BUFF_LW_ACC_038_5": "2T Agi 8",
+    "BUFF_FF7_BSW_000_1": "Lightning Att 15",
+    "BUFF_FF7_BSW_000_5": "Lightning Att 30"
 }
