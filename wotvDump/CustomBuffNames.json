@@ -283,6 +283,8 @@
     "BUFF_CLT_FF7_AERT_1": "Flowers' Protection: 3T AOE Single Att Res 25",
     "BUFF_CLT_FF7_BART_1_1": "Fury Boost: Crit 30",
     "BUFF_CLT_FF7_BART_1_2": "Fury Boost: Crit Evade 30",
+    "BUFF_CLT_LW_GRSR_01_1_S": "Royal Wezette Dress buff 1 20",
+    "BUFF_CLT_LW_GRSR_01_1_T": "Royal Wezette Dress buff 1 40",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
@@ -354,6 +356,12 @@
     "BUFF_LW_ACC_038_3": "2T Agi 5",
     "BUFF_LW_ACC_038_4": "2T Agi 6",
     "BUFF_LW_ACC_038_5": "2T Agi 8",
+    "BUFF_LW_CRI_5": "Crit Dmg 15",
+    "BUFF_LW_DEFPIERCE_1": "Def Pen 1",
+    "BUFF_LW_DEFPIERCE_2": "Def Pen 2",
+    "BUFF_LW_DEFPIERCE_3": "Def Pen 1 3",
+    "BUFF_LW_DEFPIERCE_4": "Def Pen 5",
+    "BUFF_LW_DEFPIERCE_5": "Def Pen 10",
     "BUFF_FF7_BSW_000_1": "Lightning Att 15",
     "BUFF_FF7_BSW_000_5": "Lightning Att 30"
 }
