@@ -181,19 +181,6 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
         }
 
         setMaterials(newMaterials);
-
-        const craftingItemsWithIds = craftingItems.map((craftingItem) => {
-            if (!craftingItem.id) {
-                return {
-                    id: uuidv4(),
-                    ...craftingItem
-                };
-            }
-
-            return craftingItem;
-        });
-
-        setCraftingItems(craftingItemsWithIds);
     }, [craftingItems]);
 
     return (
