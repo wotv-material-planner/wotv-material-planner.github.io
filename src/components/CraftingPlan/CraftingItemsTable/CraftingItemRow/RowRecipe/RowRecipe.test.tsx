@@ -1,10 +1,10 @@
 import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowRecipe} from './RowRecipe';
-import {CraftingIngredientMap} from '~contexts/UserCraftingItemsContext';
-import {UserRecipesContext} from '~contexts/UserRecipesContext';
-import {PersistedState} from '~hooks/UsePersistedState';
-import {UserIngredientMap} from '~contexts/UserDataProvider';
+import {CraftingIngredientMap} from '../../../../../contexts/UserCraftingItemsContext';
+import {UserRecipesContext} from '../../../../../contexts/UserRecipesContext';
+import {PersistedState} from '../../../../../hooks/UsePersistedState';
+import {UserIngredientMap} from '../../../../../contexts/UserDataProvider';
 
 describe('RowRecipe', () => {
     it('renders a RowRecipe', () => {

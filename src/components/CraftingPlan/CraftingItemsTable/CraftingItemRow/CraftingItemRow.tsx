@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, useState} from 'react';
-import {CraftingItem, getFullIname, getTotalCraftingIngredients} from '~contexts/UserCraftingItemsContext';
-import {WotvDumpContext} from '~contexts/WotvDumpContext';
+import {CraftingItem, getFullIname, getTotalCraftingIngredients} from '../../../../contexts/UserCraftingItemsContext';
+import {WotvDumpContext} from '../../../../contexts/WotvDumpContext';
 import {RowBook} from './RowBook';
 import {RowMaterials} from './RowMaterials';
 import {RowRecipe} from './RowRecipe';

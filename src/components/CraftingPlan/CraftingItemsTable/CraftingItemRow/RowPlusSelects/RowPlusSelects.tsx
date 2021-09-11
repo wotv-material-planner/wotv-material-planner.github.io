@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {FunctionComponent, useContext} from 'react';
-import {UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
+import {UserCraftingItemsContext} from '../../../../../contexts/UserCraftingItemsContext';
 import './RowPlusSelects.scss';
 
 interface Props {

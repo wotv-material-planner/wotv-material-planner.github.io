@@ -1,13 +1,13 @@
 import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowDelete} from './RowDelete';
-import {UserBooksContext} from '~contexts/UserBooksContext';
-import {UserRecipesContext} from '~contexts/UserRecipesContext';
-import {UserMaterialsContext} from '~contexts/UserMaterialsContext';
-import {CraftingItem, TotalCraftingIngredients, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {PersistedState} from '~hooks/UsePersistedState';
-import {arbitraryCraftingItem, arbitraryTotalCraftingIngredients} from '~testSupport/arbitraryObjects';
-import {UserIngredientMap} from '~contexts/UserDataProvider';
+import {UserBooksContext} from '../../../../../contexts/UserBooksContext';
+import {UserRecipesContext} from '../../../../../contexts/UserRecipesContext';
+import {UserMaterialsContext} from '../../../../../contexts/UserMaterialsContext';
+import {CraftingItem, TotalCraftingIngredients, UserCraftingItemsContext} from '../../../../../contexts/UserCraftingItemsContext';
+import {PersistedState} from '../../../../../hooks/UsePersistedState';
+import {arbitraryCraftingItem, arbitraryTotalCraftingIngredients} from '../../../../../testSupport/arbitraryObjects';
+import {UserIngredientMap} from '../../../../../contexts/UserDataProvider';
 
 describe('RowDelete', () => {
     it('renders a RowDelete', () => {

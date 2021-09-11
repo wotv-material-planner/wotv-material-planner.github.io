@@ -2,10 +2,9 @@
   "name": "wotv-material-planner.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html --out-dir build/debug",
-    "build": "parcel build src/index.html --out-dir build/release --public-url ./",
+    "dev": "parcel src/index.html --dist-dir build/debug",
+    "build": "parcel build src/index.html --dist-dir build/release --public-url ./",
     "lint": "tsc --noEmit && eslint 'src/**/*.{js,ts,tsx}' --quiet",
     "test": "jest --verbose",
     "preinstall": "npx npm-force-resolutions"
@@ -18,7 +17,6 @@
   },
   "jest": {
     "moduleNameMapper": {
-      "~(.*)$": "<rootDir>/src/$1",
       "\\.(css|scss)$": "identity-obj-proxy"
     }
   },
@@ -33,15 +31,16 @@
     "url": "https://github.com/wotv-material-planner/wotv-material-planner.github.io/issues"
   },
   "homepage": "/",
-  "resolutions": {
-    "@babel/preset-env": "7.13.8"
-  },
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/plugin-proposal-class-properties": "^7.14.5",
-    "@babel/preset-env": "7.13.8",
+    "@babel/preset-env": "^7.15.6",
     "@babel/preset-react": "^7.14.5",
     "@babel/preset-typescript": "^7.15.0",
+    "@parcel/packager-raw-url": "^2.0.0-rc.0",
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
+    "@parcel/transformer-webmanifest": "^2.0.0-rc.0",
     "@testing-library/react": "^11.2.7",
     "@types/jest": "^25.1.1",
     "@types/react": "^16.14.15",
@@ -55,7 +54,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.1.0",
     "jest-mock-axios": "^3.2.0",
-    "parcel": "1.12.3",
+    "parcel": "^2.0.0-rc.0",
     "parcel-plugin-static-files-copy": "^2.6.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",

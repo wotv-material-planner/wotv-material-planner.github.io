@@ -1,8 +1,8 @@
 import * as React from 'react';
 import {FunctionComponent, useContext} from 'react';
-import {CraftingIngredientMap, getFullIname, getItemCraftingIngredients, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {UserIngredientValues} from '~contexts/UserDataProvider';
-import {WotvDumpContext} from '~contexts/WotvDumpContext';
+import {CraftingIngredientMap, getFullIname, getItemCraftingIngredients, UserCraftingItemsContext} from '../../../../contexts/UserCraftingItemsContext';
+import {UserIngredientValues} from '../../../../contexts/UserDataProvider';
+import {WotvDumpContext} from '../../../../contexts/WotvDumpContext';
 import './IngredientPopoverContents.scss'
 
 interface Props {

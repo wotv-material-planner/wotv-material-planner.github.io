@@ -1,10 +1,10 @@
 import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowPlusSelects} from './RowPlusSelects';
-import {CraftingItem, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {UserDataProvider} from '~contexts/UserDataProvider';
-import {PersistedState} from '~hooks/UsePersistedState';
-import {arbitraryCraftingItem} from '~testSupport/arbitraryObjects';
+import {CraftingItem, UserCraftingItemsContext} from '../../../../../contexts/UserCraftingItemsContext';
+import {UserDataProvider} from '../../../../../contexts/UserDataProvider';
+import {PersistedState} from '../../../../../hooks/UsePersistedState';
+import {arbitraryCraftingItem} from '../../../../../testSupport/arbitraryObjects';
 
 describe('RowPlusSelects', () => {
     it('renders a RowPlusSelects', () => {

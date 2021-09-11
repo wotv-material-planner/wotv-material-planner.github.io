@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import {FunctionComponent, useContext, useState} from 'react';
-import {CraftingItem, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {ArtifactListItem, Category, WotvDumpContext} from '~contexts/WotvDumpContext';
+import {CraftingItem, UserCraftingItemsContext} from '../../../contexts/UserCraftingItemsContext';
+import {ArtifactListItem, Category, WotvDumpContext} from '../../../contexts/WotvDumpContext';
 import './AddCraftingItems.scss';
 
 const getGroupOptions = (groupCategories: Category[], artifactCategoryList) => {

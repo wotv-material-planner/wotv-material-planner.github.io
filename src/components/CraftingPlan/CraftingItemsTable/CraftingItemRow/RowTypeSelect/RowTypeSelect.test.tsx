@@ -1,11 +1,11 @@
 import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowTypeSelect} from './RowTypeSelect';
-import {TypeOption} from '~contexts/WotvDumpContext';
-import {CraftingItem, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {UserDataProvider} from '~contexts/UserDataProvider';
-import {PersistedState} from '~hooks/UsePersistedState';
-import {arbitraryCraftingItem} from '~testSupport/arbitraryObjects';
+import {TypeOption} from '../../../../../contexts/WotvDumpContext';
+import {CraftingItem, UserCraftingItemsContext} from '../../../../../contexts/UserCraftingItemsContext';
+import {UserDataProvider} from '../../../../../contexts/UserDataProvider';
+import {PersistedState} from '../../../../../hooks/UsePersistedState';
+import {arbitraryCraftingItem} from '../../../../../testSupport/arbitraryObjects';
 
 describe('RowTypeSelect', () => {
     it('renders a RowTypeSelect', () => {

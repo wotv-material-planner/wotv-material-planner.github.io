@@ -1,10 +1,10 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {IngredientEntry} from '~components/common/IngredientEntry';
-import {CraftingIngredientMap} from '~contexts/UserCraftingItemsContext';
-import {UserIngredientMap} from '~contexts/UserDataProvider';
-import {UserMaterialsContext} from '~contexts/UserMaterialsContext';
-import {WotvDumpContext} from '~contexts/WotvDumpContext';
+import {IngredientEntry} from '../../../../common/IngredientEntry';
+import {CraftingIngredientMap} from '../../../../../contexts/UserCraftingItemsContext';
+import {UserIngredientMap} from '../../../../../contexts/UserDataProvider';
+import {UserMaterialsContext} from '../../../../../contexts/UserMaterialsContext';
+import {WotvDumpContext} from '../../../../../contexts/WotvDumpContext';
 import './RowMaterials.scss'
 
 interface Props {

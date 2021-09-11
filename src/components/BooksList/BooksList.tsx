@@ -1,10 +1,10 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {UserBooksContext} from '~/contexts/UserBooksContext';
-import {WotvDumpContext} from '~/contexts/WotvDumpContext';
-import {IngredientEntry} from '~/components/common/IngredientEntry';
+import {UserBooksContext} from '../../contexts/UserBooksContext';
+import {WotvDumpContext} from '../../contexts/WotvDumpContext';
+import {IngredientEntry} from '../common/IngredientEntry';
 import './BooksList.scss'
-import {UserIngredientMap} from '~contexts/UserDataProvider';
+import {UserIngredientMap} from '../../contexts/UserDataProvider';
 
 export const BooksList: FunctionComponent = () => {
     const {itemBookMap} = useContext(WotvDumpContext);

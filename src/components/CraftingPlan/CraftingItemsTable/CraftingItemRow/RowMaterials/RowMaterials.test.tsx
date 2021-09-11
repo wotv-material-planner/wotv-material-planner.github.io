@@ -1,11 +1,11 @@
 import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowMaterials} from './RowMaterials';
-import {CraftingIngredientMap} from '~contexts/UserCraftingItemsContext';
-import {PersistedState} from '~hooks/UsePersistedState';
-import {UserMaterialsContext} from '~contexts/UserMaterialsContext';
-import {WotvDumpProvider} from '~contexts/WotvDumpContext';
-import {UserIngredientMap} from '~contexts/UserDataProvider';
+import {CraftingIngredientMap} from '../../../../../contexts/UserCraftingItemsContext';
+import {PersistedState} from '../../../../../hooks/UsePersistedState';
+import {UserMaterialsContext} from '../../../../../contexts/UserMaterialsContext';
+import {WotvDumpProvider} from '../../../../../contexts/WotvDumpContext';
+import {UserIngredientMap} from '../../../../../contexts/UserDataProvider';
 
 describe('RowMaterials', () => {
     it('renders a RowMaterials', () => {

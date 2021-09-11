@@ -1,10 +1,10 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, ChangeEvent} from 'react';
-import {CraftingIngredientMap} from '~/contexts/UserCraftingItemsContext'
-import {UserRecipesContext} from '~contexts/UserRecipesContext';
-import {IngredientEntry} from '~components/common/IngredientEntry';
+import {CraftingIngredientMap} from '../../../../../contexts/UserCraftingItemsContext'
+import {UserRecipesContext} from '../../../../../contexts/UserRecipesContext';
+import {IngredientEntry} from '../../../../common/IngredientEntry';
 import './RowRecipe.scss'
-import {UserIngredientMap} from '~contexts/UserDataProvider';
+import {UserIngredientMap} from '../../../../../contexts/UserDataProvider';
 
 interface Props {
     totalRecipes: CraftingIngredientMap;

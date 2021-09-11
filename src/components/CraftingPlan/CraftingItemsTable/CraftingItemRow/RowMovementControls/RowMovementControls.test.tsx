@@ -1,10 +1,10 @@
 import * as React from 'react';
 import {fireEvent, render, screen} from '@testing-library/react';
 import {RowMovementControls} from './RowMovementControls';
-import {UserDataProvider} from '~contexts/UserDataProvider';
-import {CraftingItem, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {PersistedState} from '~hooks/UsePersistedState';
-import {arbitraryCraftingItem} from '~testSupport/arbitraryObjects';
+import {UserDataProvider} from '../../../../../contexts/UserDataProvider';
+import {CraftingItem, UserCraftingItemsContext} from '../../../../../contexts/UserCraftingItemsContext';
+import {PersistedState} from '../../../../../hooks/UsePersistedState';
+import {arbitraryCraftingItem} from '../../../../../testSupport/arbitraryObjects';
 
 describe('RowMovementControls', () => {
     it('renders a RowMovementControls', () => {

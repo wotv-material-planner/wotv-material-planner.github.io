@@ -1,9 +1,9 @@
 import * as React from 'react';
 import {FunctionComponent, useContext} from 'react';
-import {UserBooksContext} from '~contexts/UserBooksContext';
-import {CraftingItem, TotalCraftingIngredients, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {UserMaterialsContext} from '~contexts/UserMaterialsContext';
-import {UserRecipesContext} from '~contexts/UserRecipesContext';
+import {UserBooksContext} from '../../../../../contexts/UserBooksContext';
+import {CraftingItem, TotalCraftingIngredients, UserCraftingItemsContext} from '../../../../../contexts/UserCraftingItemsContext';
+import {UserMaterialsContext} from '../../../../../contexts/UserMaterialsContext';
+import {UserRecipesContext} from '../../../../../contexts/UserRecipesContext';
 import './RowDelete.scss'
 
 interface Props {

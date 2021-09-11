@@ -1,8 +1,8 @@
 import * as React from 'react';
 import {render, screen} from '@testing-library/react';
 import {IngredientEntry} from './IngredientEntry';
-import {UserIngredientValues} from '~contexts/UserDataProvider';
-import {arbitraryUserIngredientValues} from '~testSupport/arbitraryObjects';
+import {UserIngredientValues} from '../../../contexts/UserDataProvider';
+import {arbitraryUserIngredientValues} from '../../../testSupport/arbitraryObjects';
 
 describe('IngredientEntry', () => {
     it('renders an IngredientEntry', () => {

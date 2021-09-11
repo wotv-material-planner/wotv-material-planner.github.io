@@ -1,10 +1,10 @@
 import * as React from 'react';
 import {render, screen} from '@testing-library/react';
 import {IngredientPopoverContents} from './IngredientPopoverContents';
-import {UserDataProvider, UserIngredientValues} from '~contexts/UserDataProvider';
-import {CraftingItem, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {PersistedState} from '~hooks/UsePersistedState';
-import {arbitraryCraftingItem, arbitraryUserIngredientValues} from '~testSupport/arbitraryObjects';
+import {UserDataProvider, UserIngredientValues} from '../../../../contexts/UserDataProvider';
+import {CraftingItem, UserCraftingItemsContext} from '../../../../contexts/UserCraftingItemsContext';
+import {PersistedState} from '../../../../hooks/UsePersistedState';
+import {arbitraryCraftingItem, arbitraryUserIngredientValues} from '../../../../testSupport/arbitraryObjects';
 
 describe('IngredientPopoverContents', () => {
     it('renders an IngredientPopoverContents', () => {

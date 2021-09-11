@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {FunctionComponent, useContext} from 'react';
-import {UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
-import {TypeOption} from '~contexts/WotvDumpContext';
+import {UserCraftingItemsContext} from '../../../../../contexts/UserCraftingItemsContext';
+import {TypeOption} from '../../../../../contexts/WotvDumpContext';
 import './RowTypeSelect.scss';
 
 interface Props {

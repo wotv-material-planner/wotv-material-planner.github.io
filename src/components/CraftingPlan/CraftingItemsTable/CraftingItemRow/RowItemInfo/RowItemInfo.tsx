@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {FunctionComponent, useContext, useState} from 'react';
-import {WotvDumpContext, stats} from '~contexts/WotvDumpContext';
+import {WotvDumpContext, stats} from '../../../../../contexts/WotvDumpContext';
 import './RowItemInfo.scss';
 
 interface Props {

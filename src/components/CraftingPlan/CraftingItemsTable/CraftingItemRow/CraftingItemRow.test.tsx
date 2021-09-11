@@ -1,11 +1,11 @@
 import * as React from 'react';
 import {render, screen} from '@testing-library/react';
 import {CraftingItemRow} from './CraftingItemRow';
-import {arbitraryCraftingItem, arbitraryTotalCraftingIngredients} from '~/testSupport/arbitraryObjects';
-import {CraftingItem, UserCraftingItemsProvider} from '~/contexts/UserCraftingItemsContext';
-import {UserBooksProvider} from '~/contexts/UserBooksContext';
-import {UserRecipesProvider} from '~/contexts/UserRecipesContext';
-import {UserMaterialsProvider} from '~/contexts/UserMaterialsContext';
+import {arbitraryCraftingItem, arbitraryTotalCraftingIngredients} from '../../../../testSupport/arbitraryObjects';
+import {CraftingItem, UserCraftingItemsProvider} from '../../../../contexts/UserCraftingItemsContext';
+import {UserBooksProvider} from '../../../../contexts/UserBooksContext';
+import {UserRecipesProvider} from '../../../../contexts/UserRecipesContext';
+import {UserMaterialsProvider} from '../../../../contexts/UserMaterialsContext';
 
 describe('CraftingItemRow', () => {
     it('renders a CraftingTableItem', () => {

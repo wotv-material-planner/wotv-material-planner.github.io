@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {FunctionComponent, ChangeEvent} from 'react';
-import {UserIngredientValues} from '~contexts/UserDataProvider';
+import {UserIngredientValues} from '../../../contexts/UserDataProvider';
 import {Popover} from '../Popover';
 import {IngredientPopoverContents} from './IngredientPopoverContents';
 import './IngredientEntry.scss';
