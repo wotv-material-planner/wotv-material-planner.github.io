@@ -13,7 +13,7 @@ export const CraftingItemsTable: FunctionComponent = () => {
             {craftingItems.map((craftingItem: CraftingItem, itemIndex: number) => {
                 return (
                     <CraftingItemRow
-                        key={`${craftingItem.iname}-${craftingItem.targetGrowthType}`}
+                        key={craftingItem.id}
                         craftingItem={craftingItem}
                         itemIndex={itemIndex}
                         moveItemIndex={moveItemIndex}

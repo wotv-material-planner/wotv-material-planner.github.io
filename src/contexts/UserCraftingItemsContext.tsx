@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { v4 as uuidv4 } from 'uuid';
 import {createContext, FunctionComponent, useContext, useEffect} from 'react';
 import {usePersistedState, PersistedState} from '../hooks/UsePersistedState';
 import {UserIngredientMap} from './UserDataProvider';
@@ -8,6 +9,7 @@ import {UserRecipesContext} from './UserRecipesContext';
 import {DumpContext, WotvDumpContext} from './WotvDumpContext';
 
 export interface CraftingItem {
+    id: string;
     iname: string;
     category: number;
     currentPlus: number | null;
@@ -179,6 +181,19 @@ export const UserCraftingItemsProvider: FunctionComponent<ProviderProps> = (prop
         }
 
         setMaterials(newMaterials);
+
+        const craftingItemsWithIds = craftingItems.map((craftingItem) => {
+            if (!craftingItem.id) {
+                return {
+                    id: uuidv4(),
+                    ...craftingItem
+                };
+            }
+
+            return craftingItem;
+        });
+
+        setCraftingItems(craftingItemsWithIds);
     }, [craftingItems]);
 
     return (

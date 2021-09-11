@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { v4 as uuidv4 } from 'uuid';
 import {FunctionComponent, useContext, useState} from 'react';
 import {CraftingItem, UserCraftingItemsContext} from '~contexts/UserCraftingItemsContext';
 import {ArtifactListItem, Category, WotvDumpContext} from '~contexts/WotvDumpContext';
@@ -97,6 +98,7 @@ export const AddCraftingItems: FunctionComponent = () => {
                 onClick={() => {
                     if (artifactId) {
                         const newCraftingItem: CraftingItem = {
+                            id: uuidv4(),
                             iname: artifactId,
                             category: category,
                             currentPlus: null,
