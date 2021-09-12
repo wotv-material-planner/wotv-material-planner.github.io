@@ -9,12 +9,6 @@
     "test": "jest --verbose",
     "preinstall": "npx npm-force-resolutions"
   },
-  "staticFiles": {
-    "staticPath": [
-      "wotvDump/img"
-    ],
-    "watcherGlob": "**"
-  },
   "jest": {
     "moduleNameMapper": {
       "\\.(css|scss)$": "identity-obj-proxy"
@@ -55,7 +49,7 @@
     "jest": "^25.1.0",
     "jest-mock-axios": "^3.2.0",
     "parcel": "^2.0.0-rc.0",
-    "parcel-plugin-static-files-copy": "^2.6.0",
+    "parcel-reporter-static-files-copy": "^1.3.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "regenerator-runtime": "^0.13.9",

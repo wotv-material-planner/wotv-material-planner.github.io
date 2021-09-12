@@ -22,7 +22,7 @@ export const MaterialsList: FunctionComponent = () => {
                             ingredientTotals={materials[material]}
                             title={itemMaterialMap[material].name}
                             totalNeeded={materials[material].totalNeeded}
-                            asset={`items/${material}.png`}
+                            asset={`img/items/${material}.png`}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                 const newMaterials: UserIngredientMap = {...materials};
 

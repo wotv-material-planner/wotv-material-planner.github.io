@@ -63,7 +63,7 @@ export const CraftingItemRow: FunctionComponent<Props> = (props) => {
                         <div className="CraftingItemRow-main-contents-inputs">
                             <RowRecipe
                                 totalRecipes={totalIngredients.recipes}
-                                asset={`equipment/${artifact.asset}.png`}
+                                asset={`img/equipment/${artifact.asset}.png`}
                             />
                             <RowBook
                                 totalBooks={totalIngredients.books}

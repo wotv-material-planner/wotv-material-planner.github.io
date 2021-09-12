@@ -20,7 +20,7 @@ export const BooksList: FunctionComponent = () => {
                 title={bookType}
                 ingredient={book}
                 ingredientTotals={books[book]}
-                asset={`items/${book}.png`}
+                asset={`img/items/${book}.png`}
                 totalNeeded={books[book].totalNeeded}
                 onChange={(event: ChangeEvent<HTMLInputElement>) => {
                     const newBooks: UserIngredientMap = {...books};
