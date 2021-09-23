@@ -517,12 +517,20 @@
       "value": "Princess of the People"
     },
     {
+      "key": "UN_TOMB_P_LARA",
+      "value": "Seeker of Forgotten Myth"
+    },
+    {
       "key": "UN_LW_E_IRDL",
       "value": "Enemy/NPC"
     },
     {
       "key": "UN_LW_E_MONT",
       "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_TOMB_E_NTLA",
+      "value": "Enemy"
     },
     {
       "key": "UN_LW_E_LILS",
@@ -1241,6 +1249,10 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_00_BLM_RV",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_00_WHM",
       "value": "Enemy/NPC"
     },
@@ -1517,6 +1529,18 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_HY_06_CAL",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_HY_07_TIM",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_HY_06_TIM",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_OW_07",
       "value": "Enemy/NPC"
     },
@@ -1713,6 +1737,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_WOLF_02_RV",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_ZUUU",
       "value": "Enemy"
     },
@@ -1821,6 +1849,22 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_SLIM_RV",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_CSLI_RV",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_CSLI_01_RV",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_TH_RDM_RV",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_FF14_RAID",
       "value": "Enemy"
     },
@@ -1926,6 +1970,10 @@
     },
     {
       "key": "UN_LW_E_BHMT_02",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_BHMT_01_RV",
       "value": "Enemy"
     },
     {
@@ -2170,6 +2218,10 @@
     },
     {
       "key": "UN_LW_E_ODIN_SIREN",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_IFRT_RV",
       "value": "Enemy"
     },
     {

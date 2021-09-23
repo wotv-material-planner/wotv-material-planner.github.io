@@ -271,6 +271,16 @@
       "material_item_id": "JBEX_FIRE_UR"
     },
     {
+      "iname": "JB_LW_LSWL_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_ICE_UR"
+    },
+    {
       "iname": "JB_LW_FDRC_M",
       "lv": {
         "unit": 99,
@@ -719,6 +729,56 @@
         "s2": 15
       },
       "material_item_id": "JBEX_FIRE_UR"
+    },
+    {
+      "iname": "JB_TOMB_LARA_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WATER_UR"
+    },
+    {
+      "iname": "JB_LW_VNLA_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SOIL_UR"
+    },
+    {
+      "iname": "JB_LW_RAMD_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WATER_UR"
+    },
+    {
+      "iname": "JB_LW_MACR_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_FIRE_UR"
+    },
+    {
+      "iname": "JB_LW_VKTR_01_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_WATER_UR"
     }
   ]
 }

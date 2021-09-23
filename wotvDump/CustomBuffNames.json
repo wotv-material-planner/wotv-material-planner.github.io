@@ -283,10 +283,11 @@
     "BUFF_CLT_FF7_AERT_1": "Flowers' Protection: 3T AOE Single Att Res 25",
     "BUFF_CLT_FF7_BART_1_1": "Fury Boost: Crit 30",
     "BUFF_CLT_FF7_BART_1_2": "Fury Boost: Crit Evade 30",
-    "BUFF_CLT_LW_GRSR_01_1_S": "Royal Wezette Dress buff 1 20",
-    "BUFF_CLT_LW_GRSR_01_1_T": "Royal Wezette Dress buff 1 40",
+    "BUFF_CLT_LW_GRSR_01_1_S": "March of the Wolf Princess: 3T Magic Att Res Piercing 20",
+    "BUFF_CLT_LW_GRSR_01_1_T": "March of the Wolf Princess: 3T AOE Magic 40",
     "BUFF_GUN_LW_LATH_2_1": "Stun",
     "BUFF_GUN_LW_CRIS_1_1": "Hate -6",
+    "BUFF_ACC_TOMB_LARA_1": "Tracker: 3T Range 1,Tracker: 3T Crit Dmg 35",
     "BUFF_LW_RNG_005_5_S": "All Element Res 5",
     "BUFF_LW_RNG_007_5_S": "Fire Res 20,Water Res 15,Evade -20",
     "BUFF_LW_ARW_005_5_S": "Dark Res 20,Light Res 15,Poison Res -25,Doom Res -25",
@@ -363,5 +364,13 @@
     "BUFF_LW_DEFPIERCE_4": "Def Pen 5",
     "BUFF_LW_DEFPIERCE_5": "Def Pen 10",
     "BUFF_FF7_BSW_000_1": "Lightning Att 15",
-    "BUFF_FF7_BSW_000_5": "Lightning Att 30"
+    "BUFF_FF7_BSW_000_5": "Lightning Att 30",
+    "BUFF_LW_ACC_042_1_1": "Hate 3,Luck 77",
+    "BUFF_LW_ACC_042_1_2": "Move -1",
+    "BUFF_LW_CLT_027_1_S": "Acquired JP 50",
+    "BUFF_GL_TOMB_LARA_1": "Crit 5,Crit Dmg 8",
+    "BUFF_GL_TOMB_LARA_2": "Crit 7,Crit Dmg 10",
+    "BUFF_GL_TOMB_LARA_3": "Crit 9,Crit Dmg 12",
+    "BUFF_GL_TOMB_LARA_4": "Crit 12,Crit Dmg 15",
+    "BUFF_GL_TOMB_LARA_5": "Crit 15,Crit Dmg 20"
 }
