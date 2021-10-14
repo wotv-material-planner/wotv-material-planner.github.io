@@ -3137,6 +3137,26 @@
       "value": ""
     },
     {
+      "key": "SK_LW_EC_STRN_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_STRN_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_STRN_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_STRN_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_STRN_C_02B",
+      "value": ""
+    },
+    {
       "key": "SK_LW_GRSR_ATK",
       "value": ""
     },
@@ -3174,6 +3194,26 @@
     },
     {
       "key": "SK_LW_GRSR_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRSR_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRSR_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRSR_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRSR_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRSR_C_02B",
       "value": ""
     },
     {
@@ -5121,6 +5161,70 @@
       "value": ""
     },
     {
+      "key": "SK_LW_JEDN_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_M_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_M_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_M_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_S_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_S_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_S_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_R_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_JEDN_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_JEDN_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_JEDN_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_JEDN_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_JEDN_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_JEDN_C_02B",
+      "value": ""
+    },
+    {
       "key": "SK_LW_AXD_ATK",
       "value": ""
     },
@@ -5238,6 +5342,70 @@
     },
     {
       "key": "SK_TOMB_EC_LARA_C_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_M_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_M_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_M_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_S_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_S_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_S_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_S_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_R_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_P_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SLEN_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SLEN_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SLEN_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SLEN_C_01B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SLEN_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_SLEN_C_02B",
       "value": ""
     },
     {
@@ -5909,6 +6077,14 @@
       "value": ""
     },
     {
+      "key": "SK_SNAK_M_01_TW",
+      "value": ""
+    },
+    {
+      "key": "SK_SNAK_R_01_TW",
+      "value": ""
+    },
+    {
       "key": "SK_IFRT_ATK",
       "value": ""
     },
@@ -6405,6 +6581,10 @@
       "value": ""
     },
     {
+      "key": "SK_AGON_R_01_B",
+      "value": ""
+    },
+    {
       "key": "SK_TNBR_ATK",
       "value": ""
     },
@@ -6426,6 +6606,10 @@
     },
     {
       "key": "SK_TNBR_M_04_R",
+      "value": ""
+    },
+    {
+      "key": "SK_TNBR_M_04_BR",
       "value": ""
     },
     {
@@ -6622,6 +6806,18 @@
     },
     {
       "key": "SK_OMEG_M_05",
+      "value": ""
+    },
+    {
+      "key": "SK_OMEG_M_02_R",
+      "value": ""
+    },
+    {
+      "key": "SK_OMEG_M_03_R",
+      "value": ""
+    },
+    {
+      "key": "SK_OMEG_M_05_R",
       "value": ""
     },
     {
@@ -7625,6 +7821,14 @@
       "value": ""
     },
     {
+      "key": "SK_LB_LW_SLEN",
+      "value": ""
+    },
+    {
+      "key": "SK_LB_LW_JEDN",
+      "value": ""
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "<span=0.03>Beast of Volcanic Conflagration! <wait=0.35><br><span=0.03>Let Forth Thy Raging Hellflame—<wait=0.7><span=0.02>Ifrit!<wait=0.5>"
     },
@@ -7970,6 +8174,26 @@
     },
     {
       "key": "SK_LW_EC_LAN_C_08B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_LAN_A_05",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_LAN_C_09",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_LAN_C_09B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_LAN_C_10",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_LAN_C_10B",
       "value": ""
     },
     {
@@ -8493,6 +8717,26 @@
       "value": ""
     },
     {
+      "key": "SK_LW_EC_PLD_A_03",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_PLD_C_05",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_PLD_C_05B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_PLD_C_06",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_PLD_C_06B",
+      "value": ""
+    },
+    {
       "key": "SK_LW_EC_LIB_A_01",
       "value": ""
     },
@@ -8610,6 +8854,46 @@
     },
     {
       "key": "SK_LW_EC_GUN_C_02B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_A_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_03",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_03B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_04",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_04B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_A_03",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_05",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_05B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_06",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GUN_C_06B",
       "value": ""
     },
     {
@@ -8773,6 +9057,26 @@
       "value": ""
     },
     {
+      "key": "SK_LW_EC_DRG_A_03",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_05",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_05B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_06",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_06B",
+      "value": ""
+    },
+    {
       "key": "SK_LW_EC_NIN_A_01_SOIL",
       "value": ""
     },
@@ -8910,6 +9214,26 @@
     },
     {
       "key": "SK_LW_EC_MGK_C_04B",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRM_A_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRM_C_01",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRM_C_01B",
+      "value": "<span=0.03>Be Stayed, Piercing Gales! <wait=0.35><br><span=0.03>Wall of Wind—<wait=0.7><span=0.02>Baraerora!<wait=0.5>"
+    },
+    {
+      "key": "SK_LW_EC_GRM_C_02",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_EC_GRM_C_02B",
       "value": ""
     },
     {
@@ -9578,6 +9902,18 @@
     },
     {
       "key": "SK_MA_TOMB_LARA",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_SLEN",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_VERN",
+      "value": ""
+    },
+    {
+      "key": "SK_MA_LW_JEDN",
       "value": ""
     },
     {
@@ -10502,6 +10838,18 @@
     },
     {
       "key": "SK_ACC_TOMB_LARA_1",
+      "value": ""
+    },
+    {
+      "key": "SK_CLT_LW_SLEN_1",
+      "value": ""
+    },
+    {
+      "key": "SK_SPE_LW_VERN_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_ACC_LW_JEDN_1",
       "value": ""
     },
     {
@@ -11797,6 +12145,30 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_JEDN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_GSMAX",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_CMLO_GS",
       "value": ""
     },
@@ -11866,6 +12238,14 @@
     },
     {
       "key": "SK_VC_LW_DMCM_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_IGEN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_IGEN_GSAW",
       "value": ""
     },
     {
@@ -11998,6 +12378,54 @@
     },
     {
       "key": "SK_VC_TOMB_MV1_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_GSMAX_2",
       "value": ""
     },
     {
@@ -13137,6 +13565,30 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_JEDN_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_GSMAX_2",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_CMLO_GS_2",
       "value": ""
     },
@@ -13218,6 +13670,18 @@
     },
     {
       "key": "SK_VC_LW_DMCM_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_IGEN_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_IGEN_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_IGEN_GSMAX",
       "value": ""
     },
     {
@@ -13778,6 +14242,54 @@
     },
     {
       "key": "SK_VC_TOMB_MV1_P_2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_P_2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SLEN_P_2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_P_2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_USER1_P_2MAX",
       "value": ""
     },
     {
@@ -14785,6 +15297,54 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_JEDN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN_PMAX2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LUCA2_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA2_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA2_PAW2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_LUCA2_PMAX2",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_CMLO_P",
       "value": ""
     },
@@ -14918,6 +15478,14 @@
     },
     {
       "key": "SK_VC_LW_DMCM_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_IGEN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_IGEN_PAW",
       "value": ""
     },
     {
@@ -15249,6 +15817,10 @@
       "value": ""
     },
     {
+      "key": "SK_BTL_STR_MAGIC_1_999_U",
+      "value": ""
+    },
+    {
       "key": "SK_BTL_STR_SLASH_1_100_U",
       "value": ""
     },
@@ -15545,6 +16117,10 @@
       "value": ""
     },
     {
+      "key": "SK_BTL_AAP_1-999_U",
+      "value": ""
+    },
+    {
       "key": "SK_BTL_RES_MAGIC_1_80_U_KISO",
       "value": ""
     },
@@ -15805,6 +16381,10 @@
       "value": ""
     },
     {
+      "key": "SK_BTL_KILLER_AQA_1-100_U",
+      "value": ""
+    },
+    {
       "key": "SK_BTL_MKILLER_MAN_1-100_U",
       "value": ""
     },
@@ -15894,6 +16474,10 @@
     },
     {
       "key": "SK_BTL_SLOW_1-100_U",
+      "value": ""
+    },
+    {
+      "key": "SK_BTL_STOP_1-100_U",
       "value": ""
     },
     {
@@ -16046,6 +16630,10 @@
     },
     {
       "key": "SK_BTL_RESDB_ELEMALL1_1_100_U",
+      "value": ""
+    },
+    {
+      "key": "SK_BTL_RESDB_TYPEALL1_1_100_U",
       "value": ""
     },
     {
@@ -16225,6 +16813,10 @@
       "value": ""
     },
     {
+      "key": "SK_GMK_ATK_BOMB",
+      "value": ""
+    },
+    {
       "key": "SK_LW_ACC_042_1",
       "value": ""
     },
@@ -16234,6 +16826,10 @@
     },
     {
       "key": "SK_FF7_BSW_000_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SWO_031",
       "value": ""
     },
     {
@@ -16337,7 +16933,23 @@
       "value": ""
     },
     {
-      "key": "SK_GMK_ATK_BOMB",
+      "key": "SK_LW_CLT_019_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_CLT_019_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_CLT_019_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_CLT_019_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_CLT_019_5",
       "value": ""
     }
   ]

@@ -1786,19 +1786,19 @@
     },
     {
       "key": "IT_JB_MM_GRSR_01_2",
-      "value": ""
+      "value": "R Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_GRSR_01_3",
-      "value": ""
+      "value": "SR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_GRSR_01_4",
-      "value": ""
+      "value": "MR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_GRSR_01_5",
-      "value": ""
+      "value": "UR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_TOMB_LARA",
@@ -1819,6 +1819,26 @@
     {
       "key": "IT_JB_MM_TOMB_LARA_5",
       "value": ""
+    },
+    {
+      "key": "IT_JB_MM_JEDN",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_JEDN_2",
+      "value": "R Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_3",
+      "value": "SR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_4",
+      "value": "MR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_5",
+      "value": "UR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_EM_FIRE_1",
@@ -2042,7 +2062,7 @@
     },
     {
       "key": "IT_JBEX_MM",
-      "value": "Special Shop / Guild Medal Exchange Shop"
+      "value": "Guild Medal Exchange Shop"
     },
     {
       "key": "IT_JBEX_FIRE",
@@ -2638,11 +2658,11 @@
     },
     {
       "key": "IT_PI_LW_FRVA",
-      "value": "Chocobo Expedition"
+      "value": ""
     },
     {
       "key": "IT_PI_LW_VNLA",
-      "value": "General Shop / Whimsy Shop / Chocobo Expedition / UR Soul Medal Exchange Shop"
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition / UR Soul Medal Exchange Shop / Soul Star Exchange Shop"
     },
     {
       "key": "IT_PI_LW_DRIO",
@@ -2758,7 +2778,7 @@
     },
     {
       "key": "IT_PI_LW_DEAN",
-      "value": "Chocobo Expedition"
+      "value": ""
     },
     {
       "key": "IT_PI_LW_NIVL",
@@ -2850,7 +2870,7 @@
     },
     {
       "key": "IT_PI_LW_ZZAN_01",
-      "value": "Chocobo Expedition"
+      "value": ""
     },
     {
       "key": "IT_PI_LW_MORE",
@@ -2921,6 +2941,10 @@
       "value": ""
     },
     {
+      "key": "IT_PI_LW_JEDN",
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition / Soul Star Exchange Shop"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/N Soul Medal – Mindsphere Exchange Shop"
     },
@@ -2986,7 +3010,7 @@
     },
     {
       "key": "IT_SP_LW_HLNA",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/MR Soul Medal – Mindsphere Exchange Shop"
     },
     {
       "key": "IT_SP_LW_LILS",
@@ -3170,7 +3194,7 @@
     },
     {
       "key": "IT_SP_LW_LVES",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/MR Soul Medal – Mindsphere Exchange Shop"
     },
     {
       "key": "IT_SP_LW_IRDL",
@@ -3178,11 +3202,11 @@
     },
     {
       "key": "IT_SP_LW_STRN_01",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal – Mindsphere Exchange Shop"
     },
     {
       "key": "IT_SP_LW_GRSR",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal – Mindsphere Exchange Shop"
     },
     {
       "key": "IT_SP_LW_RRIR",
@@ -3278,11 +3302,11 @@
     },
     {
       "key": "IT_SP_LW_DEAN",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+      "value": ""
     },
     {
       "key": "IT_SP_GL_LW_FRVA",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+      "value": ""
     },
     {
       "key": "IT_SP_FF14_UR",
@@ -3338,7 +3362,7 @@
     },
     {
       "key": "IT_SP_LW_ZZAN_01",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+      "value": ""
     },
     {
       "key": "IT_SP_LW_MORE",
@@ -3391,6 +3415,10 @@
     {
       "key": "IT_SP_LW_HALL_UR",
       "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+    },
+    {
+      "key": "IT_SP_LW_JEDN",
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal – Mindsphere Exchange Shop"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -3738,7 +3766,7 @@
     },
     {
       "key": "IT_SB_AW_TNBR_R3",
-      "value": ""
+      "value": "Beast's Den Tonberry Battle (2)"
     },
     {
       "key": "IT_SB_AW_LVAT_R2",
@@ -4122,6 +4150,10 @@
     },
     {
       "key": "IT_AF_MAT_YARN_01",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_MAT_YARN_02",
       "value": ""
     },
     {
@@ -4582,7 +4614,15 @@
     },
     {
       "key": "IT_AF_GL_TOMB_GUN_000",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_LW_GUN_011",
       "value": "General Shop"
+    },
+    {
+      "key": "IT_AF_LW_CLT_019",
+      "value": ""
     },
     {
       "key": "IT_AF_SUP_HP",
@@ -4790,6 +4830,10 @@
     },
     {
       "key": "IT_EC_MEDAL_GF_C",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_MEDAL_GF_D",
       "value": ""
     },
     {
@@ -5005,6 +5049,10 @@
       "value": ""
     },
     {
+      "key": "IT_EC_SUMMON_10_02_A",
+      "value": ""
+    },
+    {
       "key": "IT_EC_SUMMON_1st_GL1",
       "value": ""
     },
@@ -5062,6 +5110,18 @@
     },
     {
       "key": "IT_US_SE_PI_GL_38",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_39",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_40",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_41",
       "value": ""
     },
     {
@@ -5381,6 +5441,66 @@
       "value": ""
     },
     {
+      "key": "IT_US_SE_JB_05_GL_26",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_22",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_03_GL_19",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_02_GL_16",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_01_GL_16",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_27",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_23",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_03_GL_20",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_02_GL_17",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_01_GL_17",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_28",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_24",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_03_GL_21",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_02_GL_19",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_JB_01_GL_19",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_UR_U_BG_01",
       "value": ""
     },
@@ -5390,6 +5510,14 @@
     },
     {
       "key": "IT_US_GL_SE_UR_U_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_U_COMP_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_COMP_GL_01",
       "value": ""
     },
     {
@@ -5430,6 +5558,10 @@
     },
     {
       "key": "IT_EC_TOWER_002",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_TOWER_003",
       "value": ""
     },
     {
@@ -5474,6 +5606,10 @@
     },
     {
       "key": "IT_EC_EV12_1",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_EV13_1",
       "value": ""
     },
     {
@@ -6233,6 +6369,10 @@
       "value": ""
     },
     {
+      "key": "IT_US_G_U_99UR_GL_02",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_R_UR_U_03",
       "value": ""
     },
@@ -6402,6 +6542,10 @@
     },
     {
       "key": "IT_US_SE_AW-ITEM_GL_06",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_GL_07",
       "value": ""
     },
     {
@@ -6893,6 +7037,14 @@
       "value": "General Shop / UR Vision Medal Exchange Shop / Vision Star Exchange Shop"
     },
     {
+      "key": "IT_VPI_LW_JEDN",
+      "value": "General Shop / UR Vision Medal Exchange Shop / Vision Star Exchange Shop"
+    },
+    {
+      "key": "IT_VPI_LW_LUCA2",
+      "value": "General Shop / Whimsy Shop / Vision Star Exchange Shop"
+    },
+    {
       "key": "IT_VPI_LW_CMLO",
       "value": "General Shop / UR Vision Medal Exchange Shop / Vision Star Exchange Shop"
     },
@@ -6925,6 +7077,10 @@
       "value": ""
     },
     {
+      "key": "IT_VPI_LW_IGEN",
+      "value": ""
+    },
+    {
       "key": "IT_VPI_LW_STFES",
       "value": "General Shop / UR Vision Medal Exchange Shop / Vision Star Exchange Shop"
     },
@@ -6938,11 +7094,55 @@
     },
     {
       "key": "IT_VPI_LW_LSWL",
-      "value": "General Shop / Whimsy Shop / Vision Star Exchange Shop"
+      "value": "General Shop / UR Vision Medal Exchange Shop / Vision Star Exchange Shop"
     },
     {
       "key": "IT_VPI_TOMB_MV1",
       "value": ""
+    },
+    {
+      "key": "IT_PI_LW_VERN",
+      "value": ""
+    },
+    {
+      "key": "IT_SP_LW_VERN",
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+    },
+    {
+      "key": "IT_JB_MM_SLEN",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_SLEN_2",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_SLEN_3",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_SLEN_4",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_SLEN_5",
+      "value": ""
+    },
+    {
+      "key": "IT_PI_LW_SLEN",
+      "value": ""
+    },
+    {
+      "key": "IT_SP_LW_SLEN",
+      "value": ""
+    },
+    {
+      "key": "IT_VPI_LW_SLEN",
+      "value": ""
+    },
+    {
+      "key": "IT_VPI_LW_USER1",
+      "value": "General Shop / Whimsy Shop / Vision Star Exchange Shop"
     },
     {
       "key": "IT_VC_EXP_01",
@@ -7113,6 +7313,10 @@
       "value": ""
     },
     {
+      "key": "IT_EC_RAID_18",
+      "value": ""
+    },
+    {
       "key": "IT_US_GL_SE_SB_EXP_1",
       "value": ""
     },
@@ -7277,6 +7481,10 @@
       "value": ""
     },
     {
+      "key": "IT_US_GL_SE_VPI_31",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_PI_GL_21",
       "value": ""
     },
@@ -7358,6 +7566,10 @@
     },
     {
       "key": "IT_US_SE_SSR_U_GL08",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_SSR_U_GL09",
       "value": ""
     },
     {
@@ -7609,6 +7821,10 @@
       "value": ""
     },
     {
+      "key": "IT_STAMP_2106",
+      "value": ""
+    },
+    {
       "key": "IT_KEY_JP",
       "value": ""
     },
@@ -7753,6 +7969,38 @@
       "value": ""
     },
     {
+      "key": "IT_US_G_PU_U_SLEN",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_SLEN_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_SLEN_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_LUCA2",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_LUCA2_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_JEDN",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_JEDN_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_JEDN_10",
+      "value": ""
+    },
+    {
       "key": "IT_EC_FF7_1",
       "value": ""
     },
@@ -7782,6 +8030,14 @@
     },
     {
       "key": "IT_US_SE_AF_AW_19",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_COM_08",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_AF_SUP_04",
       "value": ""
     }
   ]

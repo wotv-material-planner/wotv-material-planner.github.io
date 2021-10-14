@@ -897,7 +897,15 @@
       "value": "Vanguard Striker Class<br><br>A job with a range of high-powered attacking abilities such as combos and post-movement strikes."
     },
     {
+      "key": "JB_LW_STRN_01_M",
+      "value": "Vanguard Striker Class<br><br>A job with a range of high-powered attacking abilities such as combos and post-movement strikes."
+    },
+    {
       "key": "JB_LW_GRSR",
+      "value": "Vanguard Striker Class<br><br>A job with attacking abilities that enable strikes in many directions, from two-panel piercing spear attacks to three-panel perpendicular attacks and cross-shaped area attacks."
+    },
+    {
+      "key": "JB_LW_GRSR_M",
       "value": "Vanguard Striker Class<br><br>A job with attacking abilities that enable strikes in many directions, from two-panel piercing spear attacks to three-panel perpendicular attacks and cross-shaped area attacks."
     },
     {
@@ -1337,6 +1345,10 @@
       "value": "Vanguard Physical Tank Class<br><br>A job that specializes in defense and can protect allies by drawing enemy attacks."
     },
     {
+      "key": "JB_LW_LVES_M",
+      "value": "Vanguard Physical Tank Class<br><br>A job that specializes in defense and can protect allies by drawing enemy attacks."
+    },
+    {
       "key": "JB_LW_LIB_EX_M",
       "value": "Vanguard Spellcaster Class<br><br>A job that can bolster its defense and debuff resistances to take advantage of its high physical attack resistance while fighting on the front lines."
     },
@@ -1374,6 +1386,14 @@
     },
     {
       "key": "JB_LW_FDRC_M",
+      "value": "Middle Guard Striker Class<br><br>A job that can employ attacks from a distance and inflict status ailments with skills such as Blackout and Leg Shot."
+    },
+    {
+      "key": "JB_LW_RIRY_M",
+      "value": "Middle Guard Striker Class<br><br>A job that can employ attacks from a distance and inflict status ailments with skills such as Blackout and Leg Shot."
+    },
+    {
+      "key": "JB_LW_CRIS_M",
       "value": "Middle Guard Striker Class<br><br>A job that can employ attacks from a distance and inflict status ailments with skills such as Blackout and Leg Shot."
     },
     {
@@ -1470,6 +1490,10 @@
     },
     {
       "key": "JB_LW_CMLO_M",
+      "value": "Vanguard Striker Class<br><br>A spear-wielding job that compounds on two-panel piercing attacks with the Jump skill. The Dragon's Blade Reaction Ability further enhances fighting sustainability."
+    },
+    {
+      "key": "JB_LW_VKTR_M",
       "value": "Vanguard Striker Class<br><br>A spear-wielding job that compounds on two-panel piercing attacks with the Jump skill. The Dragon's Blade Reaction Ability further enhances fighting sustainability."
     },
     {
@@ -1617,8 +1641,24 @@
       "value": "Rearguard Spellcaster Class<br><br>A job that possesses abilities that inflict greater damage to targets under certain status conditions and can annihilate multiple targets at once over a wide range with magic attacks."
     },
     {
+      "key": "JB_LW_JEDN",
+      "value": "Middle Guard Spellcaster Class<br><br>A job that can perform long-distance attacks based on its magic stat and can inflict steady damage via Guaranteed Hit, SPR Piercing, and by raising its Missile Res Piercing."
+    },
+    {
+      "key": "JB_LW_JEDN_M",
+      "value": "Middle Guard Spellcaster Class<br><br>A job that can perform long-distance attacks based on its magic stat and can inflict steady damage via Guaranteed Hit, SPR Piercing, and by raising its Missile Res Piercing."
+    },
+    {
       "key": "JB_LW_FINA_M",
       "value": "Rearguard Healer Class<br><br>A job that can restore allies' HP and perform bow attacks."
+    },
+    {
+      "key": "JB_LW_GRM_EX_M",
+      "value": "Rearguard Supporter Class<br><br>A support-type job that can enhance allies' elemental resistances and lower the enemy's DEF/SPR, making it easier to deal damage."
+    },
+    {
+      "key": "JB_LW_HLNA_M",
+      "value": "Rearguard Supporter Class<br><br>A support-type job that can enhance allies' elemental resistances and lower the enemy's DEF/SPR, making it easier to deal damage."
     },
     {
       "key": "JB_TOMB_LARA",
@@ -1627,6 +1667,18 @@
     {
       "key": "JB_TOMB_LARA_M",
       "value": "Middle Guard Striker Class<br><br>A job that attacks from range with the ability to destroy physical barriers and use defense-piercing attacks to inflict heavy damage even on enemies that have high resistances."
+    },
+    {
+      "key": "JB_LW_SLEN",
+      "value": "Vanguard Striker Class<br><br>A job specializing in attacks that depend on the MAG stat of the user, capable of dealing large amounts of damage by using abilities that raise its Slash Attack Res Piercing Rate or deal multiple consecutive hits."
+    },
+    {
+      "key": "JB_LW_SLEN_M",
+      "value": "Vanguard Striker Class<br><br>A job specializing in attacks that depend on the MAG stat of the user, capable of dealing large amounts of damage by using abilities that raise its Slash Attack Res Piercing Rate or deal multiple consecutive hits."
+    },
+    {
+      "key": "JB_LW_VERN_M",
+      "value": "Vanguard Striker Class<br><br>A spear-wielding job that employs two-panel piercing attacks. Critical Hit rates can be boosted for even greater damage."
     }
   ]
 }

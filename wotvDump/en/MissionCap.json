@@ -437,6 +437,34 @@
       "value": "Raid Support Daily Mission"
     },
     {
+      "key": "MG_GL_DAILY_RAID_59",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_60",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_61",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_62",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_63",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_64",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_65",
+      "value": "Raid Support Daily Mission"
+    },
+    {
       "key": "MG_GL_DY_RAID_01",
       "value": "Raid Participation Daily Mission"
     },
@@ -791,6 +819,14 @@
     {
       "key": "MG_GL_LW_SNS_01",
       "value": "Livestream Milestones"
+    },
+    {
+      "key": "MG_GL_LW_SNS_02",
+      "value": "Take Part in the Solve the Puzzles Campaign"
+    },
+    {
+      "key": "MG_GL_LW_SNS_03",
+      "value": "Starlight Elena Release Milestones"
     },
     {
       "key": "MG_EV_SHIV_01",
@@ -1173,6 +1209,26 @@
       "value": "[Multi] Brutal Difficulty Dreams of the Swordsmiths [EX]"
     },
     {
+      "key": "MG_EV13_1_01",
+      "value": "In Search of Thunderedge"
+    },
+    {
+      "key": "MG_EV13_1_02",
+      "value": "In Search of Thunderedge [EX]"
+    },
+    {
+      "key": "MG_MU_EV13_1_02",
+      "value": "[Multi] In Search of Thunderedge [EX]"
+    },
+    {
+      "key": "MG_EV13_1_03",
+      "value": "Brutal Difficulty In Search of Thunderedge [EX]"
+    },
+    {
+      "key": "MG_MU_EV13_1_03",
+      "value": "[Multi] Brutal Difficulty In Search of Thunderedge [EX]"
+    },
+    {
       "key": "MG_ETRE01_01",
       "value": "Etre Training Quest"
     },
@@ -1347,6 +1403,10 @@
     {
       "key": "MG_MU_SCR_07",
       "value": "[Multi] High Difficulty Secret Book Reward Quest (Book, Staff, Armor)"
+    },
+    {
+      "key": "MG_BR_THUNDER",
+      "value": "Selection Quest (Lightning Edition)"
     },
     {
       "key": "MG_BR_WIND",
@@ -2057,6 +2117,34 @@
       "value": "[Monthly Mission] Guild Statues"
     },
     {
+      "key": "MG_MONTHLY_107_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_107_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_107_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_107_4",
+      "value": "[Monthly Mission] EXP Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_107_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_107_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_107_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
       "key": "MG_LAPS_P_LUCA",
       "value": "Consume Visiore — Limited Period Bonus"
     },
@@ -2098,6 +2186,10 @@
     },
     {
       "key": "MG_P_GRSR",
+      "value": "Consume Visiore — Limited Period Bonus"
+    },
+    {
+      "key": "MG_P_GL_JEDN",
       "value": "Consume Visiore — Limited Period Bonus"
     },
     {
@@ -2494,6 +2586,54 @@
     },
     {
       "key": "MG_ST_2105_12",
+      "value": "Guild Statue"
+    },
+    {
+      "key": "MG_ST_2106_01",
+      "value": "Daily Mission"
+    },
+    {
+      "key": "MG_ST_2106_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2106_03",
+      "value": "Acquire Items"
+    },
+    {
+      "key": "MG_ST_2106_04",
+      "value": "Gil Chamber"
+    },
+    {
+      "key": "MG_ST_2106_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2106_06",
+      "value": "Story Quest"
+    },
+    {
+      "key": "MG_ST_2106_07",
+      "value": "Hard Quest"
+    },
+    {
+      "key": "MG_ST_2106_08",
+      "value": "Multi Quest"
+    },
+    {
+      "key": "MG_ST_2106_09",
+      "value": "EXP Chamber"
+    },
+    {
+      "key": "MG_ST_2106_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2106_11",
+      "value": "Chocobo Expedition"
+    },
+    {
+      "key": "MG_ST_2106_12",
       "value": "Guild Statue"
     },
     {

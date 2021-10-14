@@ -201,6 +201,10 @@
       "value": "Sisters of Different Paths"
     },
     {
+      "key": "SE_ST_020202",
+      "value": "Varied Expectations"
+    },
+    {
       "key": "SE_WD_010101",
       "value": "Lion's Great Forest"
     },
@@ -279,6 +283,22 @@
     {
       "key": "SE_EV_CRL_01",
       "value": "Knight of the Sacred Shield Training Quest"
+    },
+    {
+      "key": "SE_EV_13_01",
+      "value": "In Search of Thunderedge"
+    },
+    {
+      "key": "SE_EV_13_EX_01",
+      "value": "In Search of Thunderedge [EX]"
+    },
+    {
+      "key": "SE_MU_EV_13_EX",
+      "value": "[Multi] In Search of Thunderedge [EX]"
+    },
+    {
+      "key": "SE_EV_JDN_01",
+      "value": "King of the Stags Training Quest"
     },
     {
       "key": "SE_EV_12_01",
@@ -381,6 +401,10 @@
       "value": "NieR:Automata Event Quest [EX1]"
     },
     {
+      "key": "SE_EV_VC_IGEN_01",
+      "value": "Tranquil Warmth Enhancement Quest"
+    },
+    {
       "key": "SE_EV_GL_TOMB_01",
       "value": "Tomb Raider Event Quest"
     },
@@ -391,6 +415,18 @@
     {
       "key": "SE_MU_GL_TOMB_EX",
       "value": "Tomb Raider Event Quest [EX]"
+    },
+    {
+      "key": "SE_EV_CRIS",
+      "value": "Creysse Acquisition Quest"
+    },
+    {
+      "key": "SE_EV_CRIS_EX",
+      "value": "High Difficulty Creysse Acquisition Ex-Quest"
+    },
+    {
+      "key": "SE_MU_EV_CRIS_EX",
+      "value": "[Multi] High Difficulty Creysse Acquisition Ex-Quest"
     },
     {
       "key": "SE_EV_1_5ANV_1",
@@ -609,18 +645,6 @@
       "value": "[Multi] To Burn with Life [EX]"
     },
     {
-      "key": "SE_EV_CRIS",
-      "value": "Creysse Acquisition Quest"
-    },
-    {
-      "key": "SE_EV_CRIS_EX",
-      "value": "High Difficulty Creysse Acquisition Ex-Quest"
-    },
-    {
-      "key": "SE_MU_EV_CRIS_EX",
-      "value": "[Multi] High Difficulty Creysse Acquisition Ex-Quest"
-    },
-    {
       "key": "SE_EV_CWEL",
       "value": "Corwell Acquisition Quest"
     },
@@ -783,6 +807,10 @@
     {
       "key": "SE_MU_CHAL_03",
       "value": "[Multi] Challenge Quest III"
+    },
+    {
+      "key": "SE_BR_THUNDER",
+      "value": "Selection Quests (Lightning)"
     },
     {
       "key": "SE_BR_WIND",
