@@ -344,9 +344,7 @@ export interface ArtifactListItem {
     value: string;
 };
 
-export const artifactExlusionList = [
-    'AF_LW_SPE_003'
-];
+export const artifactExlusionList = [];
 
 const getArtifactListByCat = (): ArtifactListItem[][] => {
     const artifactListByCat = [];
