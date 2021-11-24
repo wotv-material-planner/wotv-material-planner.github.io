@@ -521,6 +521,18 @@
       "begin_at": "2021/11/10",
       "end_at": "2021/11/16 17:59:59",
       "bonus_set_id": "BONUS_GL_082"
+    },
+    {
+      "iname": "GL_PERIOD_086",
+      "begin_at": "2021/11/16 18:30:00",
+      "end_at": "2021/11/23 21:59:59",
+      "bonus_set_id": "BONUS_GL_083"
+    },
+    {
+      "iname": "GL_PERIOD_087",
+      "begin_at": "2021/11/23 22:30:00",
+      "end_at": "2021/11/30 23:59:59",
+      "bonus_set_id": "BONUS_GL_084"
     }
   ]
 }

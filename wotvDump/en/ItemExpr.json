@@ -1713,6 +1713,46 @@
       "value": "An item required to enhance a Job (Strider) at Lv. 15"
     },
     {
+      "key": "IT_JB_MM_FF15_NCTS",
+      "value": "An item required to enhance a Job (Prince of Lucis) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_FF15_NCTS_2",
+      "value": "An item required to enhance a Job (Prince of Lucis) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_FF15_NCTS_3",
+      "value": "An item required to enhance a Job (Prince of Lucis) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_FF15_NCTS_4",
+      "value": "An item required to enhance a Job (Prince of Lucis) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_FF15_NCTS_5",
+      "value": "An item required to enhance a Job (Prince of Lucis) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_FF15_PRMP",
+      "value": "An item required to enhance a Job (Crownsguard Marksman) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_FF15_PRMP_2",
+      "value": "An item required to enhance a Job (Crownsguard Marksman) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_FF15_PRMP_3",
+      "value": "An item required to enhance a Job (Crownsguard Marksman) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_FF15_PRMP_4",
+      "value": "An item required to enhance a Job (Crownsguard Marksman) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_FF15_PRMP_5",
+      "value": "An item required to enhance a Job (Crownsguard Marksman) at Lv. 15"
+    },
+    {
       "key": "IT_JB_MM_FF7_CLUD",
       "value": "An item required to enhance a Job (SOLDIER (FFVIIR)) at Lv. 3"
     },
@@ -1911,6 +1951,26 @@
     {
       "key": "IT_JB_MM_OBRN_5",
       "value": "An item required to enhance a Job (Young Dragon King) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_SCR",
+      "value": "An item required to enhance a Job (Devout) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_SCR_2",
+      "value": "An item required to enhance a Job (Devout) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_SCR_3",
+      "value": "An item required to enhance a Job (Devout) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_SCR_4",
+      "value": "An item required to enhance a Job (Devout) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_SCR_5",
+      "value": "An item required to enhance a Job (Devout) at Lv. 15"
     },
     {
       "key": "IT_JB_EM_FIRE_1",
@@ -3033,6 +3093,22 @@
       "value": "An item required to Limit Break a unit"
     },
     {
+      "key": "IT_PI_LW_FALM",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_FF15_NCTS",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_FF15_PRMP",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_MINU",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "An item required to enhance Mont Leonis's EX Job"
     },
@@ -3519,6 +3595,18 @@
     {
       "key": "IT_SP_LW_OBRN",
       "value": "An item required to enhance Oberon Heindler's EX Job"
+    },
+    {
+      "key": "IT_SP_LW_FALM",
+      "value": "An item required to enhance Pharm's EX Job"
+    },
+    {
+      "key": "IT_SP_FF15_UR",
+      "value": "An item required to enhance the EX Jobs of collaborative FFXV units of UR rarity"
+    },
+    {
+      "key": "IT_SP_LW_MINU",
+      "value": "An item required to enhance Minwu's EX Job"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -4753,6 +4841,14 @@
       "value": "A recipe required to craft Azure Dragon Armor"
     },
     {
+      "key": "IT_AF_FF15_SWO_000",
+      "value": "A recipe required to craft an Engine Blade"
+    },
+    {
+      "key": "IT_AF_FF15_GUN_000",
+      "value": "A recipe required to craft a Valiant"
+    },
+    {
       "key": "IT_AF_SUP_HP",
       "value": "Raises chance of HP increasing when equipment is leveled up"
     },
@@ -4939,6 +5035,14 @@
     {
       "key": "IT_EC_MEDAL_BF",
       "value": "A medal that can be purchased in the Black Friday Medal Pack and exchanged for UR unit shards in the Black Friday Medal Exchange Shop. *Cannot be used for limited or collaborative units"
+    },
+    {
+      "key": "IT_EC_MEDAL_BF_2",
+      "value": "A medal that can be acquired during the Black Friday Celebration — 5 UR Units Guaranteed 10x Summon, the Black Friday Celebration — Select UR Unit Shards Guaranteed Step Up 10x Summon, and the Black Friday Celebration — Select UR Vision Card Shards Guaranteed Step Up 10x Summon and exchanged for various items at the Black Friday Summon Medal Exchange Shop (Expires 17:59, 12/7/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_MEDAL_BF2",
+      "value": "A medal that can be acquired during the Black Friday Celebration — Raid Equipment Material 10x Summon and exchanged for various items at the Black Friday Equipment Summon Medal Exchange Shop (Expires 17:59, 12/7/2021, World Time (PST))"
     },
     {
       "key": "IT_EC_MEDAL_WH",
@@ -5187,6 +5291,10 @@
     {
       "key": "IT_EC_SUMMON_11_02_A",
       "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 11/30/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_11_02_B",
+      "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 23:59, 12/7/2021, World Time (PST))"
     },
     {
       "key": "IT_EC_SUMMON_1st_GL1",
@@ -5679,6 +5787,34 @@
     {
       "key": "IT_US_SE_JB_04_GL_27",
       "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 10 – 12."
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_32",
+      "value": "A ticket that allows the user to summon 220 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 13 – 15."
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_33",
+      "value": "A ticket that allows the user to summon 30 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 13 – 15."
+    },
+    {
+      "key": "IT_US_SE_JB_05_GL_34",
+      "value": "A ticket that allows the user to summon 70 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 13 – 15."
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_28",
+      "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 10 – 12."
+    },
+    {
+      "key": "IT_US_SE_JB_03_GL_23",
+      "value": "A ticket that allows the user to summon 30 of one type of Charoite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 7 – 9."
+    },
+    {
+      "key": "IT_US_SE_JB_02_GL_21",
+      "value": "A ticket that allows the user to summon 30 of one type of Azurite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 4 – 6."
+    },
+    {
+      "key": "IT_US_SE_JB_01_GL_21",
+      "value": "A ticket that allows the user to summon 15 of one type of Jadeite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 1 – 3."
     },
     {
       "key": "IT_US_SE_UR_U_BG_01",
@@ -6765,6 +6901,10 @@
       "value": "A ticket that allows the user to select from 8 elements to summon 100 Awakening Prisms"
     },
     {
+      "key": "IT_US_SE_AW-ITEM_12",
+      "value": "A ticket that allows the user to select from 8 elements to summon 370 Awakening Prisms"
+    },
+    {
       "key": "IT_VPI_LW_GLEM",
       "value": "An item required to awaken a vision card"
     },
@@ -7341,6 +7481,10 @@
       "value": "An item required to awaken a vision card"
     },
     {
+      "key": "IT_VPI_FF15_MV1",
+      "value": "An item required to awaken a vision card"
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "Grants vision card EXP (S)"
     },
@@ -7379,6 +7523,22 @@
     {
       "key": "IT_GU_FOOD_06",
       "value": "Replenishes provisions at the Guild Barracks (10,000) & boosts acquired JP (L)"
+    },
+    {
+      "key": "IT_GU_FOOD_07",
+      "value": "Reduces unit shard acquisition time (1 hour) & replenishes Provisions (1,000)"
+    },
+    {
+      "key": "IT_GU_FOOD_08",
+      "value": "Reduces unit shard acquisition time (2 hours) & replenishes Provisions (2,000)"
+    },
+    {
+      "key": "IT_GU_FOOD_09",
+      "value": "Reduces unit shard acquisition time (6 hours) & replenishes Provisions (3,000)"
+    },
+    {
+      "key": "IT_GU_FOOD_10",
+      "value": "Reduces unit shard acquisition time (12 hours) & replenishes Provisions (5,000)"
     },
     {
       "key": "IT_GU_FOOD_13",
@@ -7741,6 +7901,34 @@
       "value": "A ticket that allows the user to select and summon one recommended UR unit. *If you summon a unit you already possess, it will be converted into 40 unit shards"
     },
     {
+      "key": "IT_US_WINTER_SE_GL01",
+      "value": "A Select R–UR Unit Shard x5 Summon Ticket for units released by 11/17/2021, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_BF_SE_UR_U_01",
+      "value": "A Select UR Unit Summon Ticket for units released by 10/20/2021, World Time (PST). *Cannot be used for Pharm, 100-cost, limited, or collaborative units."
+    },
+    {
+      "key": "IT_US_BF_SE_PI_01",
+      "value": "A Select UR Unit Shard x600 Summon Ticket for units released by 10/20/2021, World Time (PST). *Cannot be used for Pharm, 100-cost, limited, or collaborative units."
+    },
+    {
+      "key": "IT_US_BF_SE_MS_01",
+      "value": "A Select UR Unit Mindsphere x400 Summon Ticket for units released by 10/20/2021, World Time (PST). *Cannot be used for Pharm, 100-cost, limited, or collaborative units."
+    },
+    {
+      "key": "IT_US_BF_SE_UR_V_01",
+      "value": "A Select UR Vision Card Summon Ticket for vision cards released by 11/10/2021, World Time (PST). *Cannot be used for \"Dragon King Advent, Bahamut,\" limited, or collaborative vision cards."
+    },
+    {
+      "key": "IT_US_BF_SE_VPI_01",
+      "value": "A Select UR Vision Card Shard x275 Summon Ticket for vision cards released by 11/10/2021, World Time (PST). *Cannot be used for \"Dragon King Advent, Bahamut,\" limited, or collaborative vision cards."
+    },
+    {
+      "key": "IT_US_BF_SE_UR_V_02",
+      "value": "A Select UR Esper/Vision Card Combo Summon Ticket for vision cards released by 11/10/2021, World Time (PST). *Cannot be used for \"Dragon King Advent, Bahamut,\" limited, or collaborative vision cards."
+    },
+    {
       "key": "IT_US_SE_SSR_U_01",
       "value": "A ticket that allows the user to select and summon one recommended MR unit. *If you summon a unit you already possess, it will be converted into 20 unit shards"
     },
@@ -7779,6 +7967,10 @@
     {
       "key": "IT_US_SE_SSR_U_GL09",
       "value": "A Select MR Unit Summon Ticket for units released by 2/3/2021, World Time (PST). *Cannot be used for limited or collaborative units"
+    },
+    {
+      "key": "IT_US_SE_SSR_U_GL10",
+      "value": "A Select MR Unit Shard x50 Summon Ticket for units released by 2/3/2021, World Time (PST). *Cannot be used for limited or collaborative units"
     },
     {
       "key": "IT_US_SE_PI_15",
@@ -8037,6 +8229,10 @@
       "value": "An item required for December's Benefit Exchange"
     },
     {
+      "key": "IT_STAMP_2108",
+      "value": "An item required for January's Benefit Exchange"
+    },
+    {
       "key": "IT_KEY_JP",
       "value": "Unlocks a specified Key Quest once"
     },
@@ -8071,6 +8267,10 @@
     {
       "key": "IT_US_SE_JB_EM_05_03",
       "value": "A ticket that allows the user to select from 8 elements to summon 200 Alcrysts (Red) necessary for enhancing Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_EM_05_05",
+      "value": "A ticket that allows the user to select from 8 elements to summon 300 Alcrysts (Red) necessary for enhancing Jobs"
     },
     {
       "key": "IT_US_SE_JB_05_ANNIV_01",
@@ -8237,12 +8437,28 @@
       "value": "A ticket that can be used to perform a Featured New Unit 10x Summon (Expires 17:59, 11/16/2021, World Time (PST))"
     },
     {
+      "key": "IT_US_G_PU_U_FALM",
+      "value": "A ticket that can be used to perform a Featured New Unit Summon (Expires 23:59, 11/30/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_FALM_10",
+      "value": "A ticket that can be used to perform a Featured New Unit 10x Summon (Expires 23:59, 11/30/2021, World Time (PST))"
+    },
+    {
       "key": "IT_US_G_PU_V_EFKS",
       "value": "A ticket that can be used to perform a Featured New Vision Card Summon (Expires 21:59, 11/23/2021, World Time (PST))"
     },
     {
       "key": "IT_US_G_PU_V_EFKS_10",
       "value": "A ticket that can be used to perform a Featured New Vision Card 10x Summon (Expires 21:59, 11/23/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_FFXV",
+      "value": "A ticket that can be used to perform a FINAL FANTASY XV Collaborative Summon — Noctis (from 11/24/2021), a FINAL FANTASY XV Collaborative Summon — Prompto (from 11/24/2021), a FINAL FANTASY XV Collaborative Summon — \"Oath of Salvation\" (from 11/24/2021), a FINAL FANTASY XV Collaborative Summon — Aranea (from 12/1/2021), or a FINAL FANTASY XV Collaborative Summon — \"MA-X Maniple\" (from 12/8/2021) (Expires 23:59, 12/28/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_FFXV_10",
+      "value": "A ticket that can be used to perform a 10x Summon for the FINAL FANTASY XV Collaborative Summon — Noctis (from 11/24/2021), the FINAL FANTASY XV Collaborative Summon — Prompto (from 11/24/2021), the FINAL FANTASY XV Collaborative Summon — \"Oath of Salvation\" (from 11/24/2021), the FINAL FANTASY XV Collaborative Summon — Aranea (from 12/1/2021), or the FINAL FANTASY XV Collaborative Summon — \"MA-X Maniple\" (from 12/8/2021) (Expires 23:59, 12/28/2021, World Time (PST))"
     },
     {
       "key": "IT_EC_FF7_1",
@@ -8273,6 +8489,18 @@
       "value": "A ticket that can be used to challenge a FFVIIR Collaboration — Trials of Reckoning Boss"
     },
     {
+      "key": "IT_EC_FF15_2_A_2",
+      "value": "A medal that can be acquired during the FINAL FANTASY XV Collaborative Summon — Noctis, the FINAL FANTASY XV Collaborative Summon — Prompto, the FINAL FANTASY XV Collaborative Summon — \"Oath of Salvation,\" the FINAL FANTASY XV Collaboration — \"Oath of Salvation\" Guaranteed 5-Step 10x Summon, the FINAL FANTASY XV Collaborative 9-Step 10x Summon — Noctis, the FINAL FANTASY XV Collaborative 9-Step 10x Summon — Prompto, the FINAL FANTASY XV Collaboration — Noctis Featured 5-Step 10x Summon, and the FINAL FANTASY XV Collaboration — Prompto Featured 5-Step 10x Summon and exchanged for various items at the FFXV Summon Medal (A) Exchange Shop (Expires 23:59, 1/11/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_FF15_5_B_2",
+      "value": "A medal that can be acquired during the FINAL FANTASY XV Collaborative Summon — Aranea, the FINAL FANTASY XV Collaborative 9-Step 10x Summon — Aranea, the FINAL FANTASY XV Collaboration — Aranea Featured 5-Step 10x Summon, the FINAL FANTASY XV Collaborative Summon — \"MA-X Maniple,\" and the FINAL FANTASY XV Collaboration — \"MA-X Maniple\" Guaranteed 5-Step 10x Summon and exchanged for various items at the FFXV Summon Medal (B) Exchange Shop (Expires 23:59, 1/11/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_FF15_1",
+      "value": "An item that can be acquired in FFXV Collaborative Events and exchanged for various items at the FFXV Event Medal Exchange Shop"
+    },
+    {
       "key": "IT_US_SE_AF_AW_19",
       "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Armor, Accessory, Gloves, or Book) released by 9/22/2021"
     },
@@ -8295,6 +8523,42 @@
     {
       "key": "IT_EC_SUMMON_HALL_02",
       "value": "A medal that can be acquired during the Halloween Festival 2021 — Featured New Unit Summon, the Halloween Festival 2021 — Featured New Vision Card Summon, the Halloween Festival 2021 — \"Halloween Monsters\" Guaranteed 5-Step 10x Summon, the Halloween Festival 2021 — \"Exorcists\" Guaranteed 5-Step 10x Summon, and the Halloween Festival 2021 — Frederika (Halloween) Featured 5-Step 10x Summon. (Expires 21:59, 11/23/2021, World Time (PST)) "
+    },
+    {
+      "key": "IT_US_SE_JB_EM_05_04",
+      "value": "A ticket that allows the user to select from 8 elements to summon 10 Alcryst (Red) necessary for enhancing Jobs"
+    },
+    {
+      "key": "IT_US_SE_JB_05_20",
+      "value": "A ticket that allows the user to summon 10 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 13 – 15."
+    },
+    {
+      "key": "IT_US_G_JB_01",
+      "value": "A ticket that allows the user to randomly summon 2 of one type of Jadeite (necessary to enhance a Job at Lv. 2 – 3), 2 of one type of Azurite (necessary to enhance a Job at Lv. 4 – 6), or 2 of one type of Charoite (necessary to enhance a Job at Lv. 7 – 9)."
+    },
+    {
+      "key": "IT_US_G_JB_02",
+      "value": "A ticket that allows the user to randomly summon 2 of one type of Citrine (necessary to enhance a Job at Lv. 10 – 12) or 2 of one type of Spinel (necessary to enhance a Job at Lv. 13 – 15)."
+    },
+    {
+      "key": "IT_US_G_JB_EM_01",
+      "value": "A ticket that allows the user to summon 2 Alcrysts of a random color (Green, Blue, or Purple) necessary for enhancing Jobs"
+    },
+    {
+      "key": "IT_US_G_JB_EM_02",
+      "value": "A ticket that allows the user to summon 2 Alcrysts of a random color (Yellow or Red) necessary for enhancing Jobs"
+    },
+    {
+      "key": "IT_US_G_SB_EXP_01",
+      "value": "A ticket that summons 50 Magicite (L) of one random element necessary for enhancing espers"
+    },
+    {
+      "key": "IT_US_G_AF_SUP_01",
+      "value": "A ticket that allows the user to summon 1 Equipment Seal of a random type (Life, Attack, Magic, Spirit, Defense, Evasion, Skill, Damage)."
+    },
+    {
+      "key": "IT_US_G_AF_AW_01",
+      "value": "A ticket that allows the user to summon 5 Secret Books of Refinement of a random type (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book, Armor, or Accessory)"
     }
   ]
 }
