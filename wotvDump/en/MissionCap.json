@@ -185,6 +185,10 @@
       "value": "Story Quest Pack Part 2 II"
     },
     {
+      "key": "MG_MP_QEST_18",
+      "value": "Story Quest Pack Part 2 III"
+    },
+    {
       "key": "MG_MP_GL_RANK_01",
       "value": "Player Rank Pack I"
     },
@@ -785,6 +789,10 @@
       "value": "FFXV Character Quest"
     },
     {
+      "key": "MG_GL_FF15_CH_02",
+      "value": "FFXV Character Quest"
+    },
+    {
       "key": "MG_GL_FF7_SNS_1",
       "value": "Take Part in the Social Media Campaign"
     },
@@ -869,6 +877,22 @@
       "value": "[Multi] Brutal Difficulty FINAL FANTASY XV [EX2]"
     },
     {
+      "key": "MG_FF15_1_06",
+      "value": "FINAL FANTASY XV [EX3]"
+    },
+    {
+      "key": "MG_MU_FF15_1_06",
+      "value": "[Multi] FINAL FANTASY XV [EX3]"
+    },
+    {
+      "key": "MG_FF15_1_07",
+      "value": "Brutal Difficulty FINAL FANTASY XV [EX3]"
+    },
+    {
+      "key": "MG_MU_FF15_1_07",
+      "value": "[Multi] Brutal Difficulty FINAL FANTASY XV [EX3]"
+    },
+    {
       "key": "MG_GL_HALL_CH_01",
       "value": "Halloween Mission"
     },
@@ -931,6 +955,10 @@
     {
       "key": "MG_GL_LW_SNS_09",
       "value": "Check the FFXV Collaboration Info"
+    },
+    {
+      "key": "MG_GL_LW_SNS_10",
+      "value": "Take Part in the Social Media Mission"
     },
     {
       "key": "MG_EV_SHIV_01",
@@ -1593,11 +1621,23 @@
       "value": "Raid Boss Revival"
     },
     {
+      "key": "MG_MU_RAID_RV_02",
+      "value": "Raid Boss Revival"
+    },
+    {
       "key": "MG_PT_FF7_01_1",
       "value": "Trials of Reckoning Quest — Normal"
     },
     {
       "key": "MG_PT_FF7_01_2",
+      "value": "Trials of Reckoning Quest — Hard"
+    },
+    {
+      "key": "MG_PT_FF15_01_1",
+      "value": "Trials of Reckoning Quest — Normal"
+    },
+    {
+      "key": "MG_PT_FF15_01_2",
       "value": "Trials of Reckoning Quest — Hard"
     },
     {
@@ -1762,6 +1802,34 @@
     },
     {
       "key": "MG_GL_DAILY_026_7",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_030_1",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_030_2",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_030_3",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_030_4",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_030_5",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_030_6",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_030_7",
       "value": "Trials of Reckoning Support Daily Mission"
     },
     {

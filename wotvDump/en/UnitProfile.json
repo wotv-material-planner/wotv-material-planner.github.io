@@ -565,6 +565,10 @@
       "value": "Wandering Healer"
     },
     {
+      "key": "UN_FF15_P_ARNA",
+      "value": "Dragoon of Niflheim"
+    },
+    {
       "key": "UN_LW_E_IRDL",
       "value": "Enemy/NPC"
     },
@@ -962,6 +966,10 @@
     },
     {
       "key": "UN_LW_E_VLRC",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_RNEL",
       "value": "Enemy/NPC"
     },
     {
@@ -2213,6 +2221,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_ELEM_01_RV",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_ELEM_01_R_01",
       "value": "Enemy"
     },
@@ -2222,6 +2234,10 @@
     },
     {
       "key": "UN_LW_E_ELEM_02_R",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_ELEM_02_RV",
       "value": "Enemy"
     },
     {
@@ -2249,11 +2265,19 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_ELEM_06_RV",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_ELEM_07",
       "value": "Enemy"
     },
     {
       "key": "UN_LW_E_ELEM_07_R",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_ELEM_07_RV",
       "value": "Enemy"
     },
     {
@@ -2433,6 +2457,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_SIRE_RV",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_SHIV",
       "value": "Enemy"
     },
@@ -2446,6 +2474,10 @@
     },
     {
       "key": "UN_LW_E_GLEM_RAID",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_GLEM_RV",
       "value": "Enemy"
     },
     {
@@ -2534,6 +2566,10 @@
     },
     {
       "key": "UN_LW_E_THDG_RAID",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_THDG_RV",
       "value": "Enemy"
     },
     {
@@ -2630,6 +2666,10 @@
     },
     {
       "key": "UN_LW_E_DABL_RAID",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_DABL_RV",
       "value": "Enemy"
     },
     {
@@ -2874,6 +2914,10 @@
     },
     {
       "key": "UN_LW_E_CORL_02",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_ICGM",
       "value": "Enemy"
     },
     {
@@ -3150,6 +3194,14 @@
     },
     {
       "key": "UN_FF15_E_MNPL",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF15_E_MNPL_NO",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF15_E_MNPL_HA",
       "value": "Enemy"
     },
     {
@@ -3798,6 +3850,18 @@
     },
     {
       "key": "UN_LW_S_EFKS_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_S_MNPL",
+      "value": "Esper"
+    },
+    {
+      "key": "UN_FF15_S_MNPL_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_S_MNPL_AW2",
       "value": ""
     },
     {

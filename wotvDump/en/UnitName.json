@@ -565,6 +565,10 @@
       "value": "Minwu"
     },
     {
+      "key": "UN_FF15_P_ARNA",
+      "value": "Aranea"
+    },
+    {
       "key": "UN_LW_E_IRDL",
       "value": "Ildyra"
     },
@@ -963,6 +967,10 @@
     {
       "key": "UN_LW_E_VLRC",
       "value": "Velric"
+    },
+    {
+      "key": "UN_LW_E_RNEL",
+      "value": "Ranell"
     },
     {
       "key": "UN_LW_E_ALIA",
@@ -2213,6 +2221,10 @@
       "value": "Water Elemental"
     },
     {
+      "key": "UN_LW_E_ELEM_01_RV",
+      "value": "Water Elemental"
+    },
+    {
       "key": "UN_LW_E_ELEM_01_R_01",
       "value": "Water Elemental"
     },
@@ -2222,6 +2234,10 @@
     },
     {
       "key": "UN_LW_E_ELEM_02_R",
+      "value": "Earth Elemental"
+    },
+    {
+      "key": "UN_LW_E_ELEM_02_RV",
       "value": "Earth Elemental"
     },
     {
@@ -2249,11 +2265,19 @@
       "value": "Light Elemental"
     },
     {
+      "key": "UN_LW_E_ELEM_06_RV",
+      "value": "Light Elemental"
+    },
+    {
       "key": "UN_LW_E_ELEM_07",
       "value": "Dark Elemental"
     },
     {
       "key": "UN_LW_E_ELEM_07_R",
+      "value": "Dark Elemental"
+    },
+    {
+      "key": "UN_LW_E_ELEM_07_RV",
       "value": "Dark Elemental"
     },
     {
@@ -2433,6 +2457,10 @@
       "value": "Siren"
     },
     {
+      "key": "UN_LW_E_SIRE_RV",
+      "value": "Siren"
+    },
+    {
       "key": "UN_LW_E_SHIV",
       "value": "Shiva"
     },
@@ -2446,6 +2474,10 @@
     },
     {
       "key": "UN_LW_E_GLEM_RAID",
+      "value": "Golem"
+    },
+    {
+      "key": "UN_LW_E_GLEM_RV",
       "value": "Golem"
     },
     {
@@ -2534,6 +2566,10 @@
     },
     {
       "key": "UN_LW_E_THDG_RAID",
+      "value": "Two-Headed Dragon"
+    },
+    {
+      "key": "UN_LW_E_THDG_RV",
       "value": "Two-Headed Dragon"
     },
     {
@@ -2630,6 +2666,10 @@
     },
     {
       "key": "UN_LW_E_DABL_RAID",
+      "value": "Diabolos"
+    },
+    {
+      "key": "UN_LW_E_DABL_RV",
       "value": "Diabolos"
     },
     {
@@ -2875,6 +2915,10 @@
     {
       "key": "UN_LW_E_CORL_02",
       "value": "Bandercoeurl "
+    },
+    {
+      "key": "UN_LW_E_ICGM",
+      "value": "Ice Golem"
     },
     {
       "key": "UN_LW_E_CORL_SIREN",
@@ -3150,6 +3194,14 @@
     },
     {
       "key": "UN_FF15_E_MNPL",
+      "value": "MA-X Maniple"
+    },
+    {
+      "key": "UN_FF15_E_MNPL_NO",
+      "value": "MA-X Maniple"
+    },
+    {
+      "key": "UN_FF15_E_MNPL_HA",
       "value": "MA-X Maniple"
     },
     {
@@ -3799,6 +3851,18 @@
     {
       "key": "UN_LW_S_EFKS_AW2",
       "value": "Elafikeras"
+    },
+    {
+      "key": "UN_FF15_S_MNPL",
+      "value": "MA-X Maniple"
+    },
+    {
+      "key": "UN_FF15_S_MNPL_AW1",
+      "value": "MA-X Maniple"
+    },
+    {
+      "key": "UN_FF15_S_MNPL_AW2",
+      "value": "MA-X Maniple"
     },
     {
       "key": "UN_LW_S_OMEG_AW1",

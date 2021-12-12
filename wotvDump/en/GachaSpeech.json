@@ -565,6 +565,10 @@
       "value": "Actually, I wondered... Might I...join you?"
     },
     {
+      "key": "UN_FF15_P_ARNA",
+      "value": "Quittin' time. Sorry, but this girl doesn't work after hours."
+    },
+    {
       "key": "UN_LW_E_IRDL",
       "value": ""
     },
@@ -962,6 +966,10 @@
     },
     {
       "key": "UN_LW_E_VLRC",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RNEL",
       "value": ""
     },
     {
@@ -2213,6 +2221,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_ELEM_01_RV",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_ELEM_01_R_01",
       "value": ""
     },
@@ -2222,6 +2234,10 @@
     },
     {
       "key": "UN_LW_E_ELEM_02_R",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_ELEM_02_RV",
       "value": ""
     },
     {
@@ -2249,11 +2265,19 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_ELEM_06_RV",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_ELEM_07",
       "value": ""
     },
     {
       "key": "UN_LW_E_ELEM_07_R",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_ELEM_07_RV",
       "value": ""
     },
     {
@@ -2433,6 +2457,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_SIRE_RV",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_SHIV",
       "value": ""
     },
@@ -2446,6 +2474,10 @@
     },
     {
       "key": "UN_LW_E_GLEM_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GLEM_RV",
       "value": ""
     },
     {
@@ -2534,6 +2566,10 @@
     },
     {
       "key": "UN_LW_E_THDG_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_THDG_RV",
       "value": ""
     },
     {
@@ -2630,6 +2666,10 @@
     },
     {
       "key": "UN_LW_E_DABL_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_DABL_RV",
       "value": ""
     },
     {
@@ -2874,6 +2914,10 @@
     },
     {
       "key": "UN_LW_E_CORL_02",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_ICGM",
       "value": ""
     },
     {
@@ -3150,6 +3194,14 @@
     },
     {
       "key": "UN_FF15_E_MNPL",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_E_MNPL_NO",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_E_MNPL_HA",
       "value": ""
     },
     {
@@ -3798,6 +3850,18 @@
     },
     {
       "key": "UN_LW_S_EFKS_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_S_MNPL",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_S_MNPL_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_S_MNPL_AW2",
       "value": ""
     },
     {

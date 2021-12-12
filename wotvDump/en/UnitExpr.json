@@ -565,6 +565,10 @@
       "value": "A white mage Mont's group encounters in a destitute frontier village. Moved by Mont's desperate efforts to save the village, she asks to join him and guide his group to Wezette. A girl of few words, there is likely more to her than meets the eye..."
     },
     {
+      "key": "UN_FF15_P_ARNA",
+      "value": "Imperial airborne division commodore of Niflheim, an empire in the distant world of Eos. Specializing in aerial assaults using a magitek lance, she is also referred to as a dragoon. She has earned the respect and loyalty of her troops thanks to her prowess in combat and her caring attitude."
+    },
+    {
       "key": "UN_LW_E_IRDL",
       "value": ""
     },
@@ -962,6 +966,10 @@
     },
     {
       "key": "UN_LW_E_VLRC",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RNEL",
       "value": ""
     },
     {
@@ -2213,6 +2221,10 @@
       "value": "Assign Stats Equivalent to R Green Mage"
     },
     {
+      "key": "UN_LW_E_ELEM_01_RV",
+      "value": "Assign Stats Equivalent to R Green Mage"
+    },
+    {
       "key": "UN_LW_E_ELEM_01_R_01",
       "value": "Assign Stats Equivalent to R Green Mage"
     },
@@ -2222,6 +2234,10 @@
     },
     {
       "key": "UN_LW_E_ELEM_02_R",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_ELEM_02_RV",
       "value": ""
     },
     {
@@ -2249,11 +2265,19 @@
       "value": "Assign Stats Equivalent to R Green Mage"
     },
     {
+      "key": "UN_LW_E_ELEM_06_RV",
+      "value": "Assign Stats Equivalent to R Green Mage"
+    },
+    {
       "key": "UN_LW_E_ELEM_07",
       "value": "Assign Stats Equivalent to R Green Mage"
     },
     {
       "key": "UN_LW_E_ELEM_07_R",
+      "value": "Assign Stats Equivalent to R Green Mage"
+    },
+    {
+      "key": "UN_LW_E_ELEM_07_RV",
       "value": "Assign Stats Equivalent to R Green Mage"
     },
     {
@@ -2433,6 +2457,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_SIRE_RV",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_SHIV",
       "value": ""
     },
@@ -2446,6 +2474,10 @@
     },
     {
       "key": "UN_LW_E_GLEM_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GLEM_RV",
       "value": ""
     },
     {
@@ -2534,6 +2566,10 @@
     },
     {
       "key": "UN_LW_E_THDG_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_THDG_RV",
       "value": ""
     },
     {
@@ -2630,6 +2666,10 @@
     },
     {
       "key": "UN_LW_E_DABL_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_DABL_RV",
       "value": ""
     },
     {
@@ -2874,6 +2914,10 @@
     },
     {
       "key": "UN_LW_E_CORL_02",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_ICGM",
       "value": ""
     },
     {
@@ -3150,6 +3194,14 @@
     },
     {
       "key": "UN_FF15_E_MNPL",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_E_MNPL_NO",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_E_MNPL_HA",
       "value": ""
     },
     {
@@ -3798,6 +3850,18 @@
     },
     {
       "key": "UN_LW_S_EFKS_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_S_MNPL",
+      "value": "Magitek armor developed by the Niflheim Empire, a military state in a distant world. <br>It is equipped with tremendously powerful weapons, such as a machine gun at the bottom of the cockpit and a javelin that it plunges into the ground to electroshock surrounding enemies."
+    },
+    {
+      "key": "UN_FF15_S_MNPL_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF15_S_MNPL_AW2",
       "value": ""
     },
     {
