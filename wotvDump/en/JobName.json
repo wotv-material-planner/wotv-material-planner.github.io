@@ -1257,6 +1257,10 @@
       "value": "Knight [Strongblade]"
     },
     {
+      "key": "JB_LW_LILS_M",
+      "value": "Knight [Devastator]"
+    },
+    {
       "key": "JB_LW_BYLO_M",
       "value": "Knight [Stalwart]"
     },
@@ -1545,6 +1549,10 @@
       "value": "Dragoon [Frostlance]"
     },
     {
+      "key": "JB_LW_SCIA_M",
+      "value": "Dragoon [Banelance]"
+    },
+    {
       "key": "JB_LW_SZRT_M",
       "value": "Soldier [Soulrend]"
     },
@@ -1675,6 +1683,14 @@
     {
       "key": "JB_LW_QILF_M",
       "value": "Oathkeeper Staff Mage"
+    },
+    {
+      "key": "JB_LW_WGN_EX_M",
+      "value": "Dual Gunner EX"
+    },
+    {
+      "key": "JB_LW_LUCA_M",
+      "value": "Dual Gunner [Malice]"
     },
     {
       "key": "JB_FF7_AERT",
@@ -1891,6 +1907,14 @@
     {
       "key": "JB_LW_LCIO",
       "value": "Warrior of the Kindlelight"
+    },
+    {
+      "key": "JB_LW_JUME",
+      "value": "Warrior of the Crystals (Wind)"
+    },
+    {
+      "key": "JB_LW_JUME_M",
+      "value": "Warrior of the Dancing Winds"
     },
     {
       "key": "JB_LW_LLN_FIRE",

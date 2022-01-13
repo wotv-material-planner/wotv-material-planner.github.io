@@ -2601,6 +2601,46 @@
       "value": "I Don't Need Your Thanks"
     },
     {
+      "key": "QE_ST_02040201",
+      "value": "What \"Whisper\" Seeks"
+    },
+    {
+      "key": "QE_ST_02040202",
+      "value": "Oelde's Diary I"
+    },
+    {
+      "key": "QE_ST_02040203",
+      "value": "Oelde's Diary II"
+    },
+    {
+      "key": "QE_ST_02040204",
+      "value": "Crush These Miserable Worms I"
+    },
+    {
+      "key": "QE_ST_02040205",
+      "value": "Crush These Miserable Worms II"
+    },
+    {
+      "key": "QE_ST_02040206",
+      "value": "Dissipation"
+    },
+    {
+      "key": "QE_ST_02040207",
+      "value": "To the Forest I"
+    },
+    {
+      "key": "QE_ST_02040208",
+      "value": "To the Forest II"
+    },
+    {
+      "key": "QE_ST_02040209",
+      "value": "To the Forest III"
+    },
+    {
+      "key": "QE_ST_02040210",
+      "value": "Gunfire"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Shard Quest: Zazan"
     },
@@ -2967,6 +3007,10 @@
     {
       "key": "QE_HA_LW_FALM",
       "value": "Shard Quest: Pharm"
+    },
+    {
+      "key": "QE_HA_LW_JUME",
+      "value": "Shard Quest: Jeume"
     },
     {
       "key": "QE_CH_LW_ZZAN",
@@ -3557,6 +3601,10 @@
       "value": "Lucio"
     },
     {
+      "key": "QE_CH_LW_JUME",
+      "value": "Jeume"
+    },
+    {
       "key": "QE_CH_LW_LATH_01",
       "value": "Luartha (Winter)"
     },
@@ -4011,6 +4059,18 @@
     {
       "key": "QE_EV_VC_WHDG_3",
       "value": "Nightmare Difficulty \"Luminous Serpent, White Dragon\" Enhancement Quest"
+    },
+    {
+      "key": "QE_EV_VC_LICH_1",
+      "value": "High Difficulty \"Undead King of Putrefaction, Lich\" Enhancement Quest"
+    },
+    {
+      "key": "QE_EV_VC_LICH_2",
+      "value": "Brutal Difficulty \"Undead King of Putrefaction, Lich\" Enhancement Quest"
+    },
+    {
+      "key": "QE_EV_VC_LICH_3",
+      "value": "Nightmare Difficulty \"Undead King of Putrefaction, Lich\" Enhancement Quest"
     },
     {
       "key": "QE_EV_FF1_01",
@@ -4957,6 +5017,14 @@
       "value": "Elafikeras Battle (2)"
     },
     {
+      "key": "QE_SB_ARMN_03_01",
+      "value": "Golden Ahriman Battle"
+    },
+    {
+      "key": "QE_SB_ARMN_03_02",
+      "value": "Golden Ahriman Battle (2)"
+    },
+    {
       "key": "QE_SB_CSLI_03",
       "value": "Brutal Difficulty Chocolate Flan Challenge"
     },
@@ -5815,6 +5883,22 @@
     {
       "key": "QE_EV_AST_010110",
       "value": "The Weakpoint"
+    },
+    {
+      "key": "QE_EV_AEX_111_1",
+      "value": "Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
+      "key": "QE_EV_AEX_111_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_111_1",
+      "value": "Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_111_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 1 [EX]"
     },
     {
       "key": "QE_EV_AST_DUEL_1",
@@ -6873,6 +6957,10 @@
       "value": "Chocobo Battle"
     },
     {
+      "key": "QE_SB_CHCB_02",
+      "value": "Chocobo Battle (2)"
+    },
+    {
       "key": "QE_SB_TNBR_01",
       "value": "Tonberry Battle"
     },
@@ -6923,6 +7011,14 @@
     {
       "key": "QE_SB_WHDG_02",
       "value": "White Dragon Battle (2)"
+    },
+    {
+      "key": "QE_SB_LICH_01",
+      "value": "Lich Battle"
+    },
+    {
+      "key": "QE_SB_LICH_02",
+      "value": "Lich Battle (2)"
     },
     {
       "key": "QE_GRA_EV_01_1",
@@ -7351,6 +7447,30 @@
     {
       "key": "QE_RAID_EV_22_06",
       "value": "White Dragon Raid"
+    },
+    {
+      "key": "QE_RAID_EV_23_01",
+      "value": "Elafikeras Raid"
+    },
+    {
+      "key": "QE_RAID_EV_23_02",
+      "value": "Elafikeras Raid"
+    },
+    {
+      "key": "QE_RAID_EV_23_03",
+      "value": "Elafikeras Raid"
+    },
+    {
+      "key": "QE_RAID_EV_23_04",
+      "value": "Lich Raid"
+    },
+    {
+      "key": "QE_RAID_EV_23_05",
+      "value": "Lich Raid"
+    },
+    {
+      "key": "QE_RAID_EV_23_06",
+      "value": "Lich Raid"
     },
     {
       "key": "QE_RAID_RV_01_01",
@@ -7937,6 +8057,10 @@
       "value": "Execution Ground"
     },
     {
+      "key": "QE_GVG_00021",
+      "value": "Mines Entrance II"
+    },
+    {
       "key": "QE_GVG_GL_00001",
       "value": "Ancient Ruins"
     },
@@ -8073,6 +8197,10 @@
       "value": "Beast's Den"
     },
     {
+      "key": "QE_PVP_FRE_GL_0014",
+      "value": "Leonis Castle Vicinity"
+    },
+    {
       "key": "QE_PVP_FRI_0001",
       "value": "Plains"
     },
@@ -8183,6 +8311,10 @@
     {
       "key": "QE_PVP_FRI_0045",
       "value": "Castle Exterior II"
+    },
+    {
+      "key": "QE_PVP_FRI_0047",
+      "value": "Mines Entrance II"
     },
     {
       "key": "QE_PVP_FRI_GL_0001",
@@ -8531,6 +8663,10 @@
     {
       "key": "QE_VC_LW_MRND",
       "value": "Shard Quest: A Vow to Meet Again"
+    },
+    {
+      "key": "QE_VC_LW_ARMN_03",
+      "value": "Shard Quest: Evil Eye, Golden Ahriman"
     },
     {
       "key": "QE_VC_GL_LW_NEWYEAR",

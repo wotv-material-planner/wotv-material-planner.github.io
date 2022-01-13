@@ -55,7 +55,8 @@
         "JB_LW_MSM_FIRE",
         "JB_LW_OBRN",
         "JB_FF15_ARNA",
-        "JB_LW_LCIO"
+        "JB_LW_LCIO",
+        "JB_LW_JUME"
       ]
     },
     {
@@ -84,7 +85,8 @@
         "JB_LW_CRLT",
         "JB_FF7_CLUD",
         "JB_LW_MSM_FIRE",
-        "JB_LW_LCIO"
+        "JB_LW_LCIO",
+        "JB_LW_JUME"
       ]
     },
     {
@@ -140,7 +142,8 @@
         "JB_LW_MSM_FIRE",
         "JB_LW_OBRN",
         "JB_FF15_ARNA",
-        "JB_LW_LCIO"
+        "JB_LW_LCIO",
+        "JB_LW_JUME"
       ]
     },
     {
@@ -161,7 +164,8 @@
         "JB_LW_CRLT",
         "JB_LW_MSM_FIRE",
         "JB_LW_OBRN",
-        "JB_FF15_ARNA"
+        "JB_FF15_ARNA",
+        "JB_LW_JUME"
       ]
     },
     {
@@ -369,6 +373,32 @@
       ]
     },
     {
+      "iname": "AEC_CLOTH_SLA",
+      "jobs": [
+        "JB_LW_WAR_FIRE",
+        "JB_LW_THI_FIRE",
+        "JB_LW_NIN_FIRE",
+        "JB_LW_WAR",
+        "JB_FF14_TNCR",
+        "JB_LW_VIK_FIRE",
+        "JB_FFT_RAMZ",
+        "JB_FFT_ORND",
+        "JB_LW_ASS_FIRE",
+        "JB_LW_RAIN",
+        "JB_FFT_DELT",
+        "JB_LW_LSWL",
+        "JB_LW_MKN_FIRE",
+        "JB_FF10_TIDU",
+        "JB_FF10_ARON",
+        "JB_NIER_N2TB",
+        "JB_LW_ZZAN",
+        "JB_LW_AXD_FIRE",
+        "JB_LW_SLEN",
+        "JB_LW_RAB_FIRE",
+        "JB_FF15_NCTS"
+      ]
+    },
+    {
       "iname": "AEC_ACCE",
       "jobs": [
         "JB_LW_WAR_FIRE",
@@ -451,7 +481,8 @@
         "JB_FF15_ARNA",
         "JB_LW_LCIO",
         "JB_LW_LLN_FIRE",
-        "JB_LW_IBRA"
+        "JB_LW_IBRA",
+        "JB_LW_JUME"
       ]
     },
     {
@@ -507,7 +538,8 @@
         "JB_LW_SCR_FIRE",
         "JB_FF15_ARNA",
         "JB_LW_LLN_FIRE",
-        "JB_LW_IBRA"
+        "JB_LW_IBRA",
+        "JB_LW_JUME"
       ],
       "sex": 2
     },
@@ -703,7 +735,8 @@
         "JB_LW_STRN",
         "JB_LW_MSW_FIRE",
         "JB_FF10_ARON",
-        "JB_FF7_CLUD"
+        "JB_FF7_CLUD",
+        "JB_LW_JUME"
       ]
     },
     {

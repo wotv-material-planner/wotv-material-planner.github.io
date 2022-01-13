@@ -169,12 +169,6 @@
       "rewards": [
         {
           "type": 0,
-          "iname": "IT_PI_LW_VNLA_01",
-          "num": 1,
-          "rate": 1000
-        },
-        {
-          "type": 0,
           "iname": "IT_PI_LW_ZZAN_01",
           "num": 1,
           "rate": 1000
@@ -603,7 +597,7 @@
       "rewards": [
         {
           "type": 0,
-          "iname": "IT_PI_LW_LATH_01",
+          "iname": "IT_PI_LW_JUME",
           "num": 1,
           "rate": 1000
         }
@@ -612,6 +606,12 @@
     {
       "drop_id": 8,
       "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JUME",
+          "num": 1,
+          "rate": 100
+        },
         {
           "type": 0,
           "iname": "IT_PI_LW_VLUC",
@@ -1413,7 +1413,7 @@
           "type": 0,
           "iname": "IT_SB_EXP_SOIL_01",
           "num": 1,
-          "rate": 26700
+          "rate": 27700
         },
         {
           "type": 0,
@@ -2378,7 +2378,7 @@
           "type": 0,
           "iname": "IT_SB_EXP_WIND_01",
           "num": 1,
-          "rate": 28800
+          "rate": 28700
         },
         {
           "type": 0,
@@ -2413,7 +2413,7 @@
           "type": 0,
           "iname": "IT_SB_EXP_WIND_01",
           "num": 1,
-          "rate": 27800
+          "rate": 27700
         },
         {
           "type": 0,

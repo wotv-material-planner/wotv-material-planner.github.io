@@ -2013,6 +2013,26 @@
       "value": "Despite its mostly spherical shape, this red stone occurs in nature and is not man-made. It contains the memories of a former warrior of the kindlelight, and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
     },
     {
+      "key": "IT_JB_MM_JUME",
+      "value": "Despite its mostly spherical shape, this green stone occurs in nature and is not man-made. It contains the memories of a former warrior of the crystals (wind), and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+    },
+    {
+      "key": "IT_JB_MM_JUME_2",
+      "value": "Despite its mostly spherical shape, this blue stone occurs in nature and is not man-made. It contains the memories of a former warrior of the crystals (wind), and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+    },
+    {
+      "key": "IT_JB_MM_JUME_3",
+      "value": "Despite its mostly spherical shape, this purple stone occurs in nature and is not man-made. It contains the memories of a former warrior of the crystals (wind), and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+    },
+    {
+      "key": "IT_JB_MM_JUME_4",
+      "value": "Despite its mostly spherical shape, this yellow stone occurs in nature and is not man-made. It contains the memories of a former warrior of the crystals (wind), and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+    },
+    {
+      "key": "IT_JB_MM_JUME_5",
+      "value": "Despite its mostly spherical shape, this red stone occurs in nature and is not man-made. It contains the memories of a former warrior of the crystals (wind), and it is believed to have been located near the actual site where they manifested their powers. Training with it will allow one to obtain the memories within."
+    },
+    {
       "key": "IT_JB_MM_LLN",
       "value": "Despite its mostly spherical shape, this green stone occurs in nature and is not man-made. It contains the memories of a former Trick Lancer, and it is believed to have been located near the actual site where they trained and eventually unleashed their powers. Training with it will allow one to obtain memories based on the color of the stone."
     },
@@ -3209,6 +3229,10 @@
       "value": ""
     },
     {
+      "key": "IT_PI_LW_JUME",
+      "value": ""
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": ""
     },
@@ -3721,6 +3745,10 @@
       "value": ""
     },
     {
+      "key": "IT_SP_LW_JUME",
+      "value": ""
+    },
+    {
       "key": "IT_SB_EXP_FIRE_01",
       "value": "A special crystal that emits a faint, fiery red glow. Bathing an esper blessed with the protection of fire in this light will awaken its dormant powers. The strength awakened by this light changes depending on the size of the crystal and the intensity of its glow, but the power contained within has remained a mystery."
     },
@@ -4181,6 +4209,22 @@
       "value": "A special type of awakening stone that further strengthens one's bonds with White Dragon. It will become necessary as White Dragon's awakening progresses. When used, an explosion of light too bright to look at directly will burst forth. Once this subsides, the esper will have awakened, and the stone will be nothing more than dust."
     },
     {
+      "key": "IT_SB_AW_ARMN_03_R2",
+      "value": "A special type of awakening stone necessary to awaken the esper Golden Ahriman. It is unknown what exactly is responsible for the light that shines when this stone is used, but it seems to incapacitate the esper momentarily."
+    },
+    {
+      "key": "IT_SB_AW_ARMN_03_R3",
+      "value": "A special type of awakening stone that further strengthens one's bonds with Golden Ahriman. It will become necessary as Golden Golden Ahriman's awakening progresses. When used, an explosion of light too bright to look at directly will burst forth. Once this subsides, the esper will have awakened, and the stone will be nothing more than dust."
+    },
+    {
+      "key": "IT_SB_AW_LICH_R2",
+      "value": "A special type of awakening stone necessary to awaken the esper Lich. It is unknown what exactly is responsible for the light that shines when this stone is used, but it seems to incapacitate the esper momentarily."
+    },
+    {
+      "key": "IT_SB_AW_LICH_R3",
+      "value": "A special type of awakening stone that further strengthens one's bonds with Lich. It will become necessary as Lich's awakening progresses. When used, an explosion of light too bright to look at directly will burst forth. Once this subsides, the esper will have awakened, and the stone will be nothing more than dust."
+    },
+    {
       "key": "IT_TICKET_STORY",
       "value": "An item that allows one to reexperience the rigors of a battle already fought through image training. The same items and rewards received from the actual battle will be obtained after use."
     },
@@ -4519,6 +4563,10 @@
     {
       "key": "IT_AF_LW_BSW_004",
       "value": "A recipe that describes how to combine materials in order to craft a Golden Blade. If one possesses the correct type and quantity of materials, it is possible to craft the item simply by following the recipe. This method is practiced all over the world as it does not require the expertise or skill of a blacksmith."
+    },
+    {
+      "key": "IT_AF_LW_BSW_016",
+      "value": "A recipe that describes how to combine materials in order to craft a Sable Storm. If one possesses the correct type and quantity of materials, it is possible to craft the item simply by following the recipe. This method is practiced all over the world as it does not require the expertise or skill of a blacksmith."
     },
     {
       "key": "IT_AF_LW_KAT_001",
@@ -4949,6 +4997,10 @@
       "value": "A recipe that describes how to combine materials in order to craft a Diamond Coat. If one possesses the correct type and quantity of materials, it is possible to craft the item simply by following the recipe. This method is practiced all over the world as it does not require the expertise or skill of a blacksmith."
     },
     {
+      "key": "IT_AF_LW_CLT_021",
+      "value": "A recipe that describes how to combine materials in order to craft a Black Garb. If one possesses the correct type and quantity of materials, it is possible to craft the item simply by following the recipe. This method is practiced all over the world as it does not require the expertise or skill of a blacksmith."
+    },
+    {
       "key": "IT_AF_LW_ACC_048",
       "value": "A recipe that describes how to combine materials in order to craft a Tourmaline Ring. If one possesses the correct type and quantity of materials, it is possible to craft the item simply by following the recipe. This method is practiced all over the world as it does not require the expertise or skill of a blacksmith."
     },
@@ -5269,6 +5321,10 @@
       "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
     },
     {
+      "key": "IT_EC_SUMMON_FES_01",
+      "value": ""
+    },
+    {
       "key": "IT_EC_SUMMON_03_A",
       "value": ""
     },
@@ -5433,11 +5489,19 @@
       "value": ""
     },
     {
+      "key": "IT_EC_SUMMON_01_03_A",
+      "value": ""
+    },
+    {
       "key": "IT_EC_SUMMON_1st_GL1",
       "value": ""
     },
     {
       "key": "IT_EC_MEDAL_9MDL",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_JUME_01",
       "value": ""
     },
     {
@@ -5993,6 +6057,26 @@
       "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
     },
     {
+      "key": "IT_US_SE_JB_05_GL_38",
+      "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_32",
+      "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+    },
+    {
+      "key": "IT_US_SE_JB_03_GL_25",
+      "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+    },
+    {
+      "key": "IT_US_SE_JB_02_GL_23",
+      "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+    },
+    {
+      "key": "IT_US_SE_JB_01_GL_23",
+      "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+    },
+    {
       "key": "IT_US_SE_UR_U_BG_01",
       "value": "A very rare ticket that allows the user to select and summon an exceptional vision from the many that are contained within the crystals, regardless of era or realm. This ticket, like all others, is made not from paper but from a slice of thin, strippable ore."
     },
@@ -6146,6 +6230,10 @@
     },
     {
       "key": "IT_EC_FF4_3",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_FF4_GL1",
       "value": ""
     },
     {
@@ -7593,6 +7681,10 @@
       "value": ""
     },
     {
+      "key": "IT_VPI_LW_LICH",
+      "value": ""
+    },
+    {
       "key": "IT_VPI_LW_STFES",
       "value": ""
     },
@@ -7618,6 +7710,10 @@
     },
     {
       "key": "IT_VPI_LW_MRND",
+      "value": ""
+    },
+    {
+      "key": "IT_VPI_LW_ARMN_03",
       "value": ""
     },
     {
@@ -7874,6 +7970,10 @@
     },
     {
       "key": "IT_EC_RAID_20",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_RAID_21",
       "value": ""
     },
     {
@@ -8369,6 +8469,14 @@
       "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
     },
     {
+      "key": "IT_US_GL_SE_AF_AW_13",
+      "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+    },
+    {
+      "key": "IT_US_GL_SE_AF_AW_14",
+      "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
+    },
+    {
       "key": "IT_US_SE_AF_SUP_01",
       "value": "A ticket that can draw out the memories engraved in the crystals via an intricate summoning ritual—though an item such as this that allows selection during the ritual is quite rare. Much like other select tickets, an examination of its design and color will provide some aid in guessing what can be summoned."
     },
@@ -8741,6 +8849,22 @@
       "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
     },
     {
+      "key": "IT_US_G_PU_U_JUME",
+      "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
+    },
+    {
+      "key": "IT_US_G_PU_U_JUME_10",
+      "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
+    },
+    {
+      "key": "IT_US_G_PU_V_ARMN",
+      "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
+    },
+    {
+      "key": "IT_US_G_PU_V_ARMN_10",
+      "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
+    },
+    {
       "key": "IT_EC_FF7_1",
       "value": ""
     },
@@ -8871,10 +8995,6 @@
     {
       "key": "IT_US_G_AF_AW_01",
       "value": "A ticket that can draw out the memories engraved in crystals via an intricate summoning ritual. What will be summoned depends entirely on the spirit strands housed within the ticket, though the outer design, color, and shape do allow for a fair bit of educated guesswork."
-    },
-    {
-      "key": "IT_EC_JUME_01",
-      "value": ""
     }
   ]
 }

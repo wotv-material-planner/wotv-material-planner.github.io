@@ -537,6 +537,34 @@
       "value": "Raid Support Daily Mission"
     },
     {
+      "key": "MG_GL_DAILY_RAID_80",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_81",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_82",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_83",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_84",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_85",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_86",
+      "value": "Raid Support Daily Mission"
+    },
+    {
       "key": "MG_GL_DY_RAID_01",
       "value": "Raid Participation Daily Mission"
     },
@@ -1007,6 +1035,10 @@
     {
       "key": "MG_GL_LW_SNS_13",
       "value": "Updates #15 Livestream Milestones"
+    },
+    {
+      "key": "MG_GL_LW_SNS_14",
+      "value": "Check Out the Jeume PV"
     },
     {
       "key": "MG_EV_SHIV_01",
@@ -1699,6 +1731,22 @@
     {
       "key": "MG_EV_AST_0101",
       "value": "Another Story Chapter 1, Scene 1"
+    },
+    {
+      "key": "MG_EV_AEX_0101_1",
+      "value": "Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
+      "key": "MG_EV_AEX_0101_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
+      "key": "MG_MU_AEX_0101_1",
+      "value": "[Multi] Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
+      "key": "MG_MU_AEX_0101_2",
+      "value": "[Multi] Brutal Difficulty Another Story Chapter 1, Scene 1 [EX]"
     },
     {
       "key": "MG_EV14_1_01",

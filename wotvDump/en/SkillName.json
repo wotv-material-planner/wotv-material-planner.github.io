@@ -5809,6 +5809,70 @@
       "value": "Tri-Calibration: Strike"
     },
     {
+      "key": "SK_LW_JUME_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_JUME_M_1",
+      "value": "Galeforce Rend"
+    },
+    {
+      "key": "SK_LW_JUME_M_2",
+      "value": "Wind Blessing"
+    },
+    {
+      "key": "SK_LW_JUME_M_3",
+      "value": "Stormsiphon"
+    },
+    {
+      "key": "SK_LW_JUME_S_1",
+      "value": "Air Incisor"
+    },
+    {
+      "key": "SK_LW_JUME_S_2",
+      "value": "Vacuum Veil"
+    },
+    {
+      "key": "SK_LW_JUME_S_3",
+      "value": "Domain of Wind"
+    },
+    {
+      "key": "SK_LW_JUME_S_4",
+      "value": "Enervating Edge"
+    },
+    {
+      "key": "SK_LW_JUME_R_1",
+      "value": "Aura of Wind"
+    },
+    {
+      "key": "SK_LW_JUME_P_1",
+      "value": "Windhaven"
+    },
+    {
+      "key": "SK_LW_JUME_P_2",
+      "value": "Swiftwind Conditioning"
+    },
+    {
+      "key": "SK_LW_EC_JUME_A_01",
+      "value": "Dance of the Whirlwind"
+    },
+    {
+      "key": "SK_LW_EC_JUME_C_01",
+      "value": "Windhaven Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_JUME_C_01B",
+      "value": "Windhaven II"
+    },
+    {
+      "key": "SK_LW_EC_JUME_C_02",
+      "value": "Galeforce Rend Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_JUME_C_02B",
+      "value": "Stormwind Rend"
+    },
+    {
       "key": "SK_LW_LLN_ATK",
       "value": "Normal Attack"
     },
@@ -6455,6 +6519,34 @@
     {
       "key": "SK_ARMN_M_03",
       "value": "Doom"
+    },
+    {
+      "key": "SK_ARMN_03_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_ARMN_03_M_01",
+      "value": "Cura"
+    },
+    {
+      "key": "SK_ARMN_03_M_02",
+      "value": "Demonic Gaze"
+    },
+    {
+      "key": "SK_ARMN_03_M_03",
+      "value": "Ultrasonic Blast"
+    },
+    {
+      "key": "SK_ARMN_03_M_04",
+      "value": "Doom"
+    },
+    {
+      "key": "SK_ARMN_03_M_05",
+      "value": "Terrifying Gaze"
+    },
+    {
+      "key": "SK_ARMN_03_M_06",
+      "value": "Seismic Shock"
     },
     {
       "key": "SK_OGRE_ATK",
@@ -8333,6 +8425,10 @@
       "value": "Shining Antlers"
     },
     {
+      "key": "SK_EFKS_M_03_R",
+      "value": "Shining Antlers"
+    },
+    {
       "key": "SK_EFKS_M_04",
       "value": "Rockfall"
     },
@@ -8343,6 +8439,34 @@
     {
       "key": "SK_EFKS_R_01",
       "value": "Stompede"
+    },
+    {
+      "key": "SK_LICH_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LICH_M_01",
+      "value": "Earthen Disaster"
+    },
+    {
+      "key": "SK_LICH_M_02",
+      "value": "Hellpyre"
+    },
+    {
+      "key": "SK_LICH_M_03",
+      "value": "Hellfrost"
+    },
+    {
+      "key": "SK_LICH_M_04",
+      "value": "Hellshock"
+    },
+    {
+      "key": "SK_LICH_M_05",
+      "value": "Soul Reaver"
+    },
+    {
+      "key": "SK_LICH_M_06",
+      "value": "Second Coming"
     },
     {
       "key": "SK_AGON_M_01_R",
@@ -8761,6 +8885,10 @@
       "value": "Highwind"
     },
     {
+      "key": "SK_LB_LW_JUME",
+      "value": "Stormdance of Vacuity"
+    },
+    {
       "key": "SK_LB_LW_LATH_01",
       "value": "Explosive Express"
     },
@@ -8945,6 +9073,10 @@
       "value": "Tangling Tempest"
     },
     {
+      "key": "SK_SMN_LICH",
+      "value": "Earthen Disaster"
+    },
+    {
       "key": "SK_SMN_FF7_SCPN",
       "value": "Tail Laser"
     },
@@ -8955,6 +9087,10 @@
     {
       "key": "SK_SMN_FF15_MNPL",
       "value": "Cascading Missiles"
+    },
+    {
+      "key": "SK_SMN_ARMN_03",
+      "value": "Demonic Gaze"
     },
     {
       "key": "SK_UN_BD_EC_HP_200",
@@ -10189,6 +10325,26 @@
       "value": "Dragon's Fang"
     },
     {
+      "key": "SK_LW_EC_DRG_A_04",
+      "value": "Jamming Dive"
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_07",
+      "value": "Horizontal Jump Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_07B",
+      "value": "Silencing Jump"
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_08",
+      "value": "Dragon's Kin Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_08B",
+      "value": "Dragon's Might"
+    },
+    {
       "key": "SK_LW_EC_NIN_A_01_SOIL",
       "value": "Debilitator"
     },
@@ -10427,6 +10583,26 @@
     {
       "key": "SK_LW_EC_MST_C_02B",
       "value": "Oathkeeper's Conviction"
+    },
+    {
+      "key": "SK_LW_EC_WGN_A_01",
+      "value": "Spiteful Blast"
+    },
+    {
+      "key": "SK_LW_EC_WGN_C_01",
+      "value": "Firing Stance Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_WGN_C_01B",
+      "value": "Sharpshooting Stance"
+    },
+    {
+      "key": "SK_LW_EC_WGN_C_02",
+      "value": "Tune-Up Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_WGN_C_02B",
+      "value": "Custom Tune-Up"
     },
     {
       "key": "SK_US_POTION",
@@ -11141,6 +11317,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_JUME",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_LATH_01",
       "value": "Master Ability"
     },
@@ -11431,6 +11611,14 @@
     {
       "key": "SK_LW_AF_SOIL_PA_5",
       "value": "Earth Attack Up Passive"
+    },
+    {
+      "key": "SK_LW_AF_WIND_PA_1",
+      "value": "Wind Attack Up Passive"
+    },
+    {
+      "key": "SK_LW_AF_WIND_PA_5",
+      "value": "Wind Attack Up Passive"
     },
     {
       "key": "SK_LW_SPE_006_1",
@@ -12219,6 +12407,10 @@
     {
       "key": "SK_CLT_LW_RFAL_1",
       "value": "Vow of Vengeance"
+    },
+    {
+      "key": "SK_ACC_LW_JUME_1",
+      "value": "Swiftwind Defense"
     },
     {
       "key": "SK_CLT_LW_LATH_01_1",
@@ -15129,6 +15321,34 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_LICH_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LICH_GSAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LICH_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LICH_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LICH_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LICH_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LICH_PAW",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_STFES_GS_2",
       "value": ""
     },
@@ -15258,6 +15478,42 @@
     },
     {
       "key": "SK_VC_LW_MRND_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_03_PMAX",
       "value": ""
     },
     {
@@ -16017,27 +16273,27 @@
       "value": ""
     },
     {
-      "key": "SK_VC_LW_MRND_P_2",
+      "key": "SK_GL_VC_LW_MRND_P_2",
       "value": ""
     },
     {
-      "key": "SK_VC_LW_MRND_PAW_2",
+      "key": "SK_GL_VC_LW_MRND_PAW_2",
       "value": ""
     },
     {
-      "key": "SK_VC_LW_MRND_PMAX_2",
+      "key": "SK_GL_VC_LW_MRND_PMAX_2",
       "value": ""
     },
     {
-      "key": "SK_VC_LW_MRND_P_3",
+      "key": "SK_GL_VC_LW_MRND_P_3",
       "value": ""
     },
     {
-      "key": "SK_VC_LW_MRND_PAW_3",
+      "key": "SK_GL_VC_LW_MRND_PAW_3",
       "value": ""
     },
     {
-      "key": "SK_VC_LW_MRND_PMAX_3",
+      "key": "SK_GL_VC_LW_MRND_PMAX_3",
       "value": ""
     },
     {
@@ -18319,6 +18575,38 @@
     {
       "key": "SK_BTL_RESMGPIERCE_1-100_U_KISO",
       "value": "Magic Res Piercing Rate 1-100 Up (Base)"
+    },
+    {
+      "key": "SK_LW_PIERCE_SHOOT_1_100U",
+      "value": "Missile Res Piercing Rate 1-100 Up"
+    },
+    {
+      "key": "SK_LW_PIERCE_SHOOT_1_100U_KISO",
+      "value": "Missile Res Piercing Rate 1-100 Up (Base)"
+    },
+    {
+      "key": "SK_LW_PIERCE_SLASH_1_100U",
+      "value": "Slash Res Piercing Rate 1-100 Up"
+    },
+    {
+      "key": "SK_LW_PIERCE_SLASH_1_100U_KISO",
+      "value": "Slash Res Piercing Rate 1-100 Up (Base)"
+    },
+    {
+      "key": "SK_LW_PIERCE_SPEAR_1_100U",
+      "value": "Pierce Res Piercing Rate 1-100 Up"
+    },
+    {
+      "key": "SK_LW_PIERCE_SPEAR_1_100U_KISO",
+      "value": "Pierce Res Piercing Rate 1-100 Up (Base)"
+    },
+    {
+      "key": "SK_LW_PIERCE_BLOW_1_100U",
+      "value": "Strike Res Piercing Rate 1-100 Up"
+    },
+    {
+      "key": "SK_LW_PIERCE_BLOW_1_100U_KISO",
+      "value": "Strike Res Piercing Rate 1-100 Up (Base)"
     },
     {
       "key": "SK_BTL_RES_STUN_1_100_D2",

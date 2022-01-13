@@ -225,6 +225,10 @@
       "value": "Part 2, Chapter 4, Scene 1"
     },
     {
+      "key": "SE_ST_020402",
+      "value": "Part 2, Chapter 4, Scene 2"
+    },
+    {
       "key": "SE_WD_010101",
       "value": "Lion's Great Forest"
     },
@@ -303,6 +307,14 @@
     {
       "key": "SE_EV_AST_010101",
       "value": "Another Story Chapter 1, Scene 1"
+    },
+    {
+      "key": "SE_EV_AEX_010101",
+      "value": "Another Story Chapter 1, Scene 1 Ex-Quest"
+    },
+    {
+      "key": "SE_MU_AEX_010101",
+      "value": "[Multi] Another Story Chapter 1, Scene 1 Ex-Quest"
     },
     {
       "key": "SE_EV_AST_DUEL_1",
@@ -539,6 +551,10 @@
     {
       "key": "SE_EV_VC_WHDG_01",
       "value": "White Dragon Enhancement Quest"
+    },
+    {
+      "key": "SE_EV_VC_LICH_01",
+      "value": "Lich Enhancement Quest"
     },
     {
       "key": "SE_EV_ETRE",

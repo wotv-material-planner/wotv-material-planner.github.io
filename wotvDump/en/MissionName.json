@@ -4501,6 +4501,78 @@
       "value": "Level Up a Specific Vision Card VIII"
     },
     {
+      "key": "CM_PRO_GL_JUME_01",
+      "value": "Level Up a Specific Unit I"
+    },
+    {
+      "key": "CM_PRO_GL_JUME_02",
+      "value": "Limit Break a Specific Unit"
+    },
+    {
+      "key": "CM_PRO_GL_JUME_03",
+      "value": "Level Up a Specific Unit II"
+    },
+    {
+      "key": "CM_PRO_GL_JUME_04",
+      "value": "Level Up a Specific Unit's Job I"
+    },
+    {
+      "key": "CM_PRO_GL_JUME_05",
+      "value": "Level Up a Specific Unit III"
+    },
+    {
+      "key": "CM_PRO_GL_JUME_06",
+      "value": "Level Up a Specific Unit's Job II"
+    },
+    {
+      "key": "CM_PRO_GL_JUME_07",
+      "value": "Level Up a Specific Unit IV"
+    },
+    {
+      "key": "CM_PRO_GL_JUME_08",
+      "value": "Level Up a Specific Unit V"
+    },
+    {
+      "key": "CM_PRO_GL_JUME_09",
+      "value": "Level Up a Specific Unit VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_01",
+      "value": "Level Up a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_02",
+      "value": "Level Up a Specific Vision Card II"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_03",
+      "value": "Level Up a Specific Vision Card III"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_04",
+      "value": "Level Up a Specific Vision Card IV"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_05",
+      "value": "Awaken a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_06",
+      "value": "Level Up a Specific Vision Card V"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_07",
+      "value": "Level Up a Specific Vision Card VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_08",
+      "value": "Level Up a Specific Vision Card VII"
+    },
+    {
+      "key": "CM_PRO_GL_V_ARMN_03_09",
+      "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
       "key": "GM_0001",
       "value": "Recruit More Guild Members I"
     },
@@ -5203,6 +5275,14 @@
     {
       "key": "M_ST_0204_01_02",
       "value": "Clear Chapter 4, Scene 1 [I Don't Need Your Thanks]"
+    },
+    {
+      "key": "M_ST_0204_02",
+      "value": "Clear Chapter 4, Scene 2 [Crush These Miserable Worms II]"
+    },
+    {
+      "key": "M_ST_0204_02_02",
+      "value": "Clear Chapter 4, Scene 2 [Gunfire]"
     },
     {
       "key": "M_VIP_LOGB_001",
@@ -6053,6 +6133,54 @@
       "value": "Level Up Lucio"
     },
     {
+      "key": "M_EV_AEX_0101_01",
+      "value": "Clear Another Story Chapter 1, Scene 1 [EX] (1/5)"
+    },
+    {
+      "key": "M_EV_AEX_0101_02",
+      "value": "Clear Another Story Chapter 1, Scene 1 [EX] (3/5)"
+    },
+    {
+      "key": "M_EV_AEX_0101_03",
+      "value": "Clear Another Story Chapter 1, Scene 1 [EX] (5/5)"
+    },
+    {
+      "key": "M_EV_AEX_0101_04",
+      "value": "Clear Brutal Difficulty Another Story Chapter 1, Scene 1 [EX] (1/10)"
+    },
+    {
+      "key": "M_EV_AEX_0101_05",
+      "value": "Clear Brutal Difficulty Another Story Chapter 1, Scene 1 [EX] (3/10)"
+    },
+    {
+      "key": "M_EV_AEX_0101_06",
+      "value": "Clear Brutal Difficulty Another Story Chapter 1, Scene 1 [EX] (5/10)"
+    },
+    {
+      "key": "M_EV_AEX_0101_07",
+      "value": "Clear Brutal Difficulty Another Story Chapter 1, Scene 1 [EX] (10/10)"
+    },
+    {
+      "key": "M_EV_AEX_0101_08",
+      "value": "[Multi] Clear Another Story Chapter 1, Scene 1 [EX] (1/5)"
+    },
+    {
+      "key": "M_EV_AEX_0101_09",
+      "value": "[Multi] Clear Another Story Chapter 1, Scene 1 [EX] (3/5)"
+    },
+    {
+      "key": "M_EV_AEX_0101_10",
+      "value": "[Multi] Clear Another Story Chapter 1, Scene 1 [EX] (5/5)"
+    },
+    {
+      "key": "M_EV_AEX_0101_11",
+      "value": "[Multi] Clear Brutal Difficulty Another Story Chapter 1, Scene 1 [EX] (1/3)"
+    },
+    {
+      "key": "M_EV_AEX_0101_12",
+      "value": "[Multi] Clear Brutal Difficulty Another Story Chapter 1, Scene 1 [EX] (3/3)"
+    },
+    {
       "key": "M_FF1_1_02",
       "value": "Clear FINAL FANTASY I Battle #1 (2/3)"
     },
@@ -6898,6 +7026,62 @@
     },
     {
       "key": "M_GL_DAILY_RAID_79_2",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_80_1",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_80_2",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_81_1",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_81_2",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_82_1",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_82_2",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_83_1",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_83_2",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_84_1",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_84_2",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_85_1",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_85_2",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_86_1",
+      "value": "[Limited] Raid Support Daily Mission"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_86_2",
       "value": "[Limited] Raid Support Daily Mission"
     },
     {
@@ -8843,6 +9027,10 @@
     {
       "key": "M_GL_LW_SNS_13",
       "value": "Updates #15 Livestream Milestones"
+    },
+    {
+      "key": "M_GL_LW_SNS_14",
+      "value": "Check Out the Jeume PV"
     },
     {
       "key": "M_ART_CRF_01_01",
@@ -33791,6 +33979,22 @@
     {
       "key": "M_LW_PA_CH_139_4",
       "value": "Red Blade of Vengeance"
+    },
+    {
+      "key": "M_LW_PA_CH_140_1",
+      "value": "Jeume Fan"
+    },
+    {
+      "key": "M_LW_PA_CH_140_2",
+      "value": "Jeume Enthusiast"
+    },
+    {
+      "key": "M_LW_PA_CH_140_3",
+      "value": "Jeume Devotee"
+    },
+    {
+      "key": "M_LW_PA_CH_140_4",
+      "value": "Impassive Prodigy"
     },
     {
       "key": "M_LW_PA_CH_150_1",

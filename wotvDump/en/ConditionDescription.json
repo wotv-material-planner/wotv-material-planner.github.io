@@ -377,6 +377,10 @@
       "value": "Unit [Pharm] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_LW_JUME",
+      "value": "Unit [Jeume] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -965,6 +969,10 @@
       "value": "Unit [Lucio] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_JUME",
+      "value": "Unit [Jeume] is at least Lv. 40"
+    },
+    {
       "key": "COND_CH_LATH_01",
       "value": "Unit [Luartha (Winter)] is at least Lv. 40"
     },
@@ -1395,6 +1403,14 @@
     {
       "key": "COND_VC_LW_EFKS",
       "value": "Vision card [Rampaging Orebeast, Elafikeras] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_ARM03",
+      "value": "Vision Card [Evil Eye, Golden Ahriman] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_LICH",
+      "value": "Vision card [Undead King of Putrefaction, Lich] is at least Lv. 1"
     }
   ]
 }
