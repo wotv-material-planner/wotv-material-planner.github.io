@@ -117,6 +117,10 @@
       "value": "[High Difficulty] Training Chamber Lv. 2"
     },
     {
+      "key": "QE_EV_AW_H09_6",
+      "value": "[High Difficulty] Training Chamber (Yellow) F"
+    },
+    {
       "key": "QE_EV_AW_H09_5",
       "value": "[High Difficulty] Training Chamber (Yellow) E"
     },
@@ -137,6 +141,10 @@
       "value": "[High Difficulty] Training Chamber (Yellow) A"
     },
     {
+      "key": "QE_EV_AW_H13_6",
+      "value": "[High Difficulty] Training Chamber (Red) F"
+    },
+    {
       "key": "QE_EV_AW_H13_5",
       "value": "[High Difficulty] Training Chamber (Red) E"
     },
@@ -155,6 +163,10 @@
     {
       "key": "QE_EV_AW_H13_1",
       "value": "[High Difficulty] Training Chamber (Red) A"
+    },
+    {
+      "key": "QE_EV_AW_H15_6",
+      "value": "[Brutal Difficulty] Training Chamber (Red) F"
     },
     {
       "key": "QE_EV_AW_H15_5",
@@ -2681,6 +2693,126 @@
       "value": "Naivety"
     },
     {
+      "key": "QE_ST_02050101",
+      "value": "Shrouded Stars I"
+    },
+    {
+      "key": "QE_ST_02050102",
+      "value": "Shrouded Stars II"
+    },
+    {
+      "key": "QE_ST_02050103",
+      "value": "Our Cursed Blood"
+    },
+    {
+      "key": "QE_ST_02050104",
+      "value": "Unforeseen Rain"
+    },
+    {
+      "key": "QE_ST_02050105",
+      "value": "Lowering the Water"
+    },
+    {
+      "key": "QE_ST_02050106",
+      "value": "The Source of Miracles"
+    },
+    {
+      "key": "QE_ST_02050107",
+      "value": "Miasma in the Forest"
+    },
+    {
+      "key": "QE_ST_02050108",
+      "value": "The «Royal Thorns» I"
+    },
+    {
+      "key": "QE_ST_02050109",
+      "value": "The «Royal Thorns» II"
+    },
+    {
+      "key": "QE_ST_02050110",
+      "value": "To Learn the Truth"
+    },
+    {
+      "key": "QE_ST_02050201",
+      "value": "An Unshared Reunion"
+    },
+    {
+      "key": "QE_ST_02050202",
+      "value": "Duty and Conflict"
+    },
+    {
+      "key": "QE_ST_02050203",
+      "value": "Altercation I"
+    },
+    {
+      "key": "QE_ST_02050204",
+      "value": "Altercation II"
+    },
+    {
+      "key": "QE_ST_02050205",
+      "value": "The Spear of Oberon I"
+    },
+    {
+      "key": "QE_ST_02050206",
+      "value": "The Spear of Oberon II"
+    },
+    {
+      "key": "QE_ST_02050207",
+      "value": "Oberon's Resolve"
+    },
+    {
+      "key": "QE_ST_02050208",
+      "value": "A Chance Encounter I"
+    },
+    {
+      "key": "QE_ST_02050209",
+      "value": "A Chance Encounter II"
+    },
+    {
+      "key": "QE_ST_02050210",
+      "value": "Mont Arrives"
+    },
+    {
+      "key": "QE_ST_02050301",
+      "value": "Jayden and Oberon I"
+    },
+    {
+      "key": "QE_ST_02050302",
+      "value": "Jayden and Oberon II"
+    },
+    {
+      "key": "QE_ST_02050303",
+      "value": "You Be the One to Choose"
+    },
+    {
+      "key": "QE_ST_02050304",
+      "value": "Awaiting an Awakening"
+    },
+    {
+      "key": "QE_ST_02050305",
+      "value": "In Pursuit I"
+    },
+    {
+      "key": "QE_ST_02050306",
+      "value": "Oberon's Heart"
+    },
+    {
+      "key": "QE_ST_02050307",
+      "value": "In Pursuit II"
+    },
+    {
+      "key": "QE_ST_02050308",
+      "value": "The Complicit"
+    },
+    {
+      "key": "QE_ST_02050309",
+      "value": "Warrior Monks Amass"
+    },
+    {
+      "key": "QE_ST_02050310",
+      "value": "Our Common Enemy"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Shard Quest: Zazan"
     },
@@ -3053,12 +3185,24 @@
       "value": "Shard Quest: Jeume"
     },
     {
+      "key": "QE_HA_LW_STIA",
+      "value": "Shard Quest: Cetia"
+    },
+    {
+      "key": "QE_HA_LW_LNAN",
+      "value": "Shard Quest: Ranan"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "Zazan"
     },
     {
       "key": "QE_CH_LW_RART",
       "value": "Learte"
+    },
+    {
+      "key": "QE_CH_LW_RART2",
+      "value": "Learte (2)"
     },
     {
       "key": "QE_CH_LW_MICE",
@@ -3115,6 +3259,10 @@
     {
       "key": "QE_CH_LW_MONT",
       "value": "Mont Leonis"
+    },
+    {
+      "key": "QE_CH_LW_MONT2",
+      "value": "Mont Leonis (2)"
     },
     {
       "key": "QE_CH_LW_HLNA",
@@ -3193,12 +3341,24 @@
       "value": "Sterne Leonis"
     },
     {
+      "key": "QE_CH_LW_STRN2",
+      "value": "Sterne Leonis (2)"
+    },
+    {
       "key": "QE_CH_LW_ELDE",
       "value": "Oelde Leonis"
     },
     {
+      "key": "QE_CH_LW_ELDE2",
+      "value": "Oelde Leonis (2)"
+    },
+    {
       "key": "QE_CH_LW_ROBB",
       "value": "Robb Hourne"
+    },
+    {
+      "key": "QE_CH_LW_ROBB2",
+      "value": "Robb Hourne (2)"
     },
     {
       "key": "QE_CH_LW_ENBT",
@@ -3209,8 +3369,16 @@
       "value": "Xiza"
     },
     {
+      "key": "QE_CH_LW_ZIZA2",
+      "value": "Xiza (2)"
+    },
+    {
       "key": "QE_CH_LW_AILN",
       "value": "Aileen"
+    },
+    {
+      "key": "QE_CH_LW_AILN2",
+      "value": "Aileen (2)"
     },
     {
       "key": "QE_CH_LW_MDNA",
@@ -3299,6 +3467,10 @@
     {
       "key": "QE_CH_LW_ORDR",
       "value": "Oldoa"
+    },
+    {
+      "key": "QE_CH_LW_ORDR2",
+      "value": "Oldoa (2)"
     },
     {
       "key": "QE_CH_LW_LVES",
@@ -3663,6 +3835,18 @@
     {
       "key": "QE_CH_LW_RFAL",
       "value": "Rafale"
+    },
+    {
+      "key": "QE_CH_GL_LW_MORE_01",
+      "value": "Moore the Merrier"
+    },
+    {
+      "key": "QE_CH_LW_STIA",
+      "value": "Cetia"
+    },
+    {
+      "key": "QE_CH_LW_LNAN",
+      "value": "Ranan"
     },
     {
       "key": "QE_EV_GL_CDOWN_01_9",
@@ -4801,6 +4985,54 @@
       "value": "Brutal Difficulty In the Name of Hope [EX]"
     },
     {
+      "key": "QE_EV_16_01",
+      "value": "Ep. 1: Returning to Ruin I"
+    },
+    {
+      "key": "QE_EV_16_02",
+      "value": "Ep. 2: Returning to Ruin II"
+    },
+    {
+      "key": "QE_EV_16_03",
+      "value": "Ep: 3: No Lying"
+    },
+    {
+      "key": "QE_EV_16_04",
+      "value": "Ep: 4: Sad Eyes I"
+    },
+    {
+      "key": "QE_EV_16_05",
+      "value": "Ep: 5: Sad Eyes II"
+    },
+    {
+      "key": "QE_EV_16_06",
+      "value": "Ep: 6: Shared Demise I"
+    },
+    {
+      "key": "QE_EV_16_07",
+      "value": "Ep: 7: Shared Demise II"
+    },
+    {
+      "key": "QE_EV_16_08",
+      "value": "Ep: 8: More Than a Reason I"
+    },
+    {
+      "key": "QE_EV_16_09",
+      "value": "Ep: 9: More Than a Reason II"
+    },
+    {
+      "key": "QE_EV_16_10",
+      "value": "Ep: 10: A Reason to Live"
+    },
+    {
+      "key": "QE_EV_16_EX",
+      "value": "For the Love of a Smile [EX]"
+    },
+    {
+      "key": "QE_EV_16_EX_1",
+      "value": "Brutal Difficulty For the Love of a Smile [EX]"
+    },
+    {
       "key": "QE_EV_GL_TOMB_01",
       "value": "Tomb Raider Battle #1"
     },
@@ -5135,6 +5367,14 @@
     {
       "key": "QE_SB_ARMN_03_02",
       "value": "Golden Ahriman Battle (2)"
+    },
+    {
+      "key": "QE_SB_BCRD_01",
+      "value": "Brachiosaur Battle"
+    },
+    {
+      "key": "QE_SB_BCRD_02",
+      "value": "Brachiosaur Battle (2)"
     },
     {
       "key": "QE_SB_CSLI_03",
@@ -5957,6 +6197,34 @@
       "value": "Brutal Difficulty In Search of Thunderedge [EX]"
     },
     {
+      "key": "QE_EV_RC_DEM_01",
+      "value": "High Difficulty Demon Purge Quest"
+    },
+    {
+      "key": "QE_EV_RC_DEM_02",
+      "value": "Brutal Difficulty Demon Purge Quest"
+    },
+    {
+      "key": "QE_EV_RC_DEM_03",
+      "value": "Nightmare Difficulty Demon Purge Quest"
+    },
+    {
+      "key": "QE_MU_RC_DEM_01",
+      "value": "High Difficulty Demon Purge Quest"
+    },
+    {
+      "key": "QE_MU_RC_DEM_02",
+      "value": "Brutal Difficulty Demon Purge Quest"
+    },
+    {
+      "key": "QE_MU_ART_CRF_29",
+      "value": "Equipment Training Quest (Tyrfing)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_30",
+      "value": "Brutal Difficulty Equipment Training Quest (Tyrfing)"
+    },
+    {
       "key": "QE_EV_AST_010101",
       "value": "First of Many I"
     },
@@ -6035,6 +6303,86 @@
     {
       "key": "QE_EV_AST_010210",
       "value": "Duty Calls"
+    },
+    {
+      "key": "QE_EV_AST_010301",
+      "value": "Kingdom in Despair I"
+    },
+    {
+      "key": "QE_EV_AST_010302",
+      "value": "Kingdom in Despair II"
+    },
+    {
+      "key": "QE_EV_AST_010303",
+      "value": "Crossing the Snow Plains I"
+    },
+    {
+      "key": "QE_EV_AST_010304",
+      "value": "Crossing the Snow Plains II"
+    },
+    {
+      "key": "QE_EV_AST_010305",
+      "value": "Ranan's Mistake I"
+    },
+    {
+      "key": "QE_EV_AST_010306",
+      "value": "Ranan's Mistake II"
+    },
+    {
+      "key": "QE_EV_AST_010307",
+      "value": "Pushing On"
+    },
+    {
+      "key": "QE_EV_AST_010308",
+      "value": "Back to the Snow Plains"
+    },
+    {
+      "key": "QE_EV_AST_010309",
+      "value": "«Spirare» Strikes Back I"
+    },
+    {
+      "key": "QE_EV_AST_010310",
+      "value": "«Spirare» Strikes Back II"
+    },
+    {
+      "key": "QE_EV_AEX_113_1",
+      "value": "Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "QE_EV_AEX_113_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_113_1",
+      "value": "Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_113_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "QE_MU_EV_16_EX",
+      "value": "For the Love of a Smile [EX]"
+    },
+    {
+      "key": "QE_MU_EV_16_EX_1",
+      "value": "Brutal Difficulty For the Love of a Smile [EX]"
+    },
+    {
+      "key": "QE_EV_AEX_112_1",
+      "value": "Another Story Chapter 1, Scene 2 [EX]"
+    },
+    {
+      "key": "QE_EV_AEX_112_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 2 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_112_1",
+      "value": "Another Story Chapter 1, Scene 2 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_112_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 2 [EX]"
     },
     {
       "key": "QE_EV_AEX_111_1",
@@ -6425,6 +6773,22 @@
       "value": "Brutal Difficulty Equipment Training Quest (Seiten)"
     },
     {
+      "key": "QE_EV_ART_CRF_27",
+      "value": "Equipment Training Quest (Gigantaxe)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_28",
+      "value": "Brutal Difficulty Equipment Training Quest (Gigantaxe)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_29",
+      "value": "Equipment Training Quest (Tyrfing)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_30",
+      "value": "Brutal Difficulty Equipment Training Quest (Tyrfing)"
+    },
+    {
       "key": "QE_MU_ART_CRF_20",
       "value": "Equipment Training Quest (Cypress Pile)"
     },
@@ -6447,6 +6811,30 @@
     {
       "key": "QE_MU_ART_CRF_26",
       "value": "Brutal Difficulty Equipment Training Quest (Seiten)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_27",
+      "value": "Equipment Training Quest (Gigantaxe)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_28",
+      "value": "Brutal Difficulty Equipment Training Quest (Gigantaxe)"
+    },
+    {
+      "key": "QE_EV_GL_ART_CRF_01",
+      "value": "Equipment Training Quest (Pious Gloves)"
+    },
+    {
+      "key": "QE_EV_GL_ART_CRF_02",
+      "value": "Brutal Difficulty Equipment Training Quest (Pious Gloves)"
+    },
+    {
+      "key": "QE_MU_GL_ART_CRF_01",
+      "value": "Equipment Training Quest (Pious Gloves)"
+    },
+    {
+      "key": "QE_MU_GL_ART_CRF_02",
+      "value": "Brutal Difficulty Equipment Training Quest (Pious Gloves)"
     },
     {
       "key": "QE_MU_SHIV_04",
@@ -6663,6 +7051,18 @@
     {
       "key": "QE_BR_SHINE_10",
       "value": "Selection Quest (Light) #10"
+    },
+    {
+      "key": "QE_BR_SHINE_11",
+      "value": "Selection Quest (Light) #11"
+    },
+    {
+      "key": "QE_BR_SHINE_12",
+      "value": "Selection Quest (Light) #12"
+    },
+    {
+      "key": "QE_BR_SHINE_13",
+      "value": "Selection Quest (Light) #13"
     },
     {
       "key": "QE_BR_SOIL_01",
@@ -7037,6 +7437,10 @@
       "value": "Aigaion Battle"
     },
     {
+      "key": "QE_SB_AGON_02",
+      "value": "Aigaion Battle (2)"
+    },
+    {
       "key": "QE_SB_LVAT_01",
       "value": "Leviathan Battle"
     },
@@ -7177,6 +7581,10 @@
       "value": "Marilith Battle"
     },
     {
+      "key": "QE_SB_MRLT_02",
+      "value": "Marilith Battle (2)"
+    },
+    {
       "key": "QE_SB_CORL_01",
       "value": "Coeurl Battle"
     },
@@ -7275,6 +7683,66 @@
     {
       "key": "QE_GRA_EV_05_3",
       "value": "Ramuh Raid"
+    },
+    {
+      "key": "QE_GRA_EV_06_1",
+      "value": "Demon Chimera Raid"
+    },
+    {
+      "key": "QE_GRA_EV_06_2",
+      "value": "Demon Chimera Raid"
+    },
+    {
+      "key": "QE_GRA_EV_06_3",
+      "value": "Demon Chimera Raid"
+    },
+    {
+      "key": "QE_GRA_EV_07_1",
+      "value": "Two-Headed Dragon Raid"
+    },
+    {
+      "key": "QE_GRA_EV_07_2",
+      "value": "Two-Headed Dragon Raid"
+    },
+    {
+      "key": "QE_GRA_EV_07_3",
+      "value": "Two-Headed Dragon Raid"
+    },
+    {
+      "key": "QE_GRA_EV_08_1",
+      "value": "Siren Raid"
+    },
+    {
+      "key": "QE_GRA_EV_08_2",
+      "value": "Siren Raid"
+    },
+    {
+      "key": "QE_GRA_EV_08_3",
+      "value": "Siren Raid"
+    },
+    {
+      "key": "QE_GRA_EV_09_1",
+      "value": "Typhon Raid"
+    },
+    {
+      "key": "QE_GRA_EV_09_2",
+      "value": "Typhon Raid"
+    },
+    {
+      "key": "QE_GRA_EV_09_3",
+      "value": "Typhon Raid"
+    },
+    {
+      "key": "QE_GRA_EV_10_1",
+      "value": "Shiva Raid"
+    },
+    {
+      "key": "QE_GRA_EV_10_2",
+      "value": "Shiva Raid"
+    },
+    {
+      "key": "QE_GRA_EV_10_3",
+      "value": "Shiva Raid"
     },
     {
       "key": "QE_RAID_EV_06_01",
@@ -7901,6 +8369,10 @@
       "value": "[High Difficulty] Training Chamber Lv. 2"
     },
     {
+      "key": "QE_MU_AW_H09_6",
+      "value": "[High Difficulty] Training Chamber (Yellow) F"
+    },
+    {
       "key": "QE_MU_AW_H09_5",
       "value": "[High Difficulty] Training Chamber (Yellow) E"
     },
@@ -7921,6 +8393,10 @@
       "value": "[High Difficulty] Training Chamber (Yellow) A"
     },
     {
+      "key": "QE_MU_AW_H13_6",
+      "value": "[High Difficulty] Training Chamber (Red) F"
+    },
+    {
       "key": "QE_MU_AW_H13_5",
       "value": "[High Difficulty] Training Chamber (Red) E"
     },
@@ -7939,6 +8415,10 @@
     {
       "key": "QE_MU_AW_H13_1",
       "value": "[High Difficulty] Training Chamber (Red) A"
+    },
+    {
+      "key": "QE_MU_AW_H15_6",
+      "value": "[Brutal Difficulty] Training Chamber (Red) F"
     },
     {
       "key": "QE_MU_AW_H15_5",
@@ -8170,7 +8650,7 @@
     },
     {
       "key": "QE_ARENA_GL_00004",
-      "value": "Castle Interior Ⅱ"
+      "value": "Castle Interior II"
     },
     {
       "key": "QE_ARENA_GL_00005",
@@ -8191,6 +8671,26 @@
     {
       "key": "QE_ARENA_GL_00009",
       "value": "Cave"
+    },
+    {
+      "key": "QE_ARENA_GL_00010",
+      "value": "Bamboo Grove II"
+    },
+    {
+      "key": "QE_ARENA_GL_00011",
+      "value": "Mines II"
+    },
+    {
+      "key": "QE_ARENA_GL_00012",
+      "value": "Coastline"
+    },
+    {
+      "key": "QE_ARENA_GL_00013",
+      "value": "Graveyard III"
+    },
+    {
+      "key": "QE_ARENA_GL_00014",
+      "value": "Mountain Road II"
     },
     {
       "key": "QE_GVG_00001",
@@ -8261,6 +8761,10 @@
       "value": "Mines Entrance II"
     },
     {
+      "key": "QE_LGVG_00021",
+      "value": "Arena III"
+    },
+    {
       "key": "QE_GVG_GL_00001",
       "value": "Ancient Ruins"
     },
@@ -8286,7 +8790,7 @@
     },
     {
       "key": "QE_GVG_GL_00007",
-      "value": "Castle Interior Ⅱ"
+      "value": "Castle Interior II"
     },
     {
       "key": "QE_GVG_GL_00008",
@@ -8331,6 +8835,30 @@
     {
       "key": "QE_GVG_GL_00018",
       "value": "Beast's Den"
+    },
+    {
+      "key": "QE_GVG_GL_00019",
+      "value": "Mines Entrance II"
+    },
+    {
+      "key": "QE_GVG_GL_00020",
+      "value": "Arena III"
+    },
+    {
+      "key": "QE_GVG_GL_00021",
+      "value": "Arena III"
+    },
+    {
+      "key": "QE_GVG_GL_00022",
+      "value": "Coastline II"
+    },
+    {
+      "key": "QE_GVG_GL_00023",
+      "value": "Graveyard"
+    },
+    {
+      "key": "QE_GVG_GL_00024",
+      "value": "Leonis Castle Vicinity"
     },
     {
       "key": "QE_PVP_FRE_0001",
@@ -8407,6 +8935,26 @@
     {
       "key": "QE_PVP_FRE_GL_0015",
       "value": "Cave"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0016",
+      "value": "Bamboo Grove II"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0017",
+      "value": "Mines II"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0018",
+      "value": "Coastline"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0019",
+      "value": "Graveyard III"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0020",
+      "value": "Mountain Road II"
     },
     {
       "key": "QE_PVP_FRI_0001",
@@ -8525,12 +9073,28 @@
       "value": "Mines Entrance II"
     },
     {
+      "key": "QE_PVP_FRI_0048",
+      "value": "Bamboo Grove II"
+    },
+    {
+      "key": "QE_PVP_FRI_0050",
+      "value": "Arena III"
+    },
+    {
+      "key": "QE_PVP_FRI_0052",
+      "value": "Mountain Road II"
+    },
+    {
       "key": "QE_PVP_FRI_GL_0001",
       "value": "Wastelands"
     },
     {
       "key": "QE_PVP_FRI_GL_0002",
       "value": "Snowy Mountains II"
+    },
+    {
+      "key": "QE_PVP_FRI_GL_0003",
+      "value": "Coastline II"
     },
     {
       "key": "QE_PVP_RANK_0001",
@@ -8589,6 +9153,10 @@
       "value": "Ancient Ruins IV"
     },
     {
+      "key": "QE_PVP_DRFT_0002",
+      "value": "Graveyard II"
+    },
+    {
       "key": "QE_TEST_FOR",
       "value": "Debug"
     },
@@ -8643,6 +9211,22 @@
     {
       "key": "QE_K_SB_FNRR_03",
       "value": "Brutal Difficulty Fenrir Challenge"
+    },
+    {
+      "key": "QE_K_SB_GLEM_03",
+      "value": "High Difficulty Golem Challenge"
+    },
+    {
+      "key": "QE_K_SB_GLEM_04",
+      "value": "Brutal Difficulty Golem Challenge"
+    },
+    {
+      "key": "QE_K_SB_TYPN_02",
+      "value": "High Difficulty Typhon Challenge"
+    },
+    {
+      "key": "QE_K_SB_TYPN_03",
+      "value": "Brutal Difficulty Typhon Challenge"
     },
     {
       "key": "QE_K_SB_EXP_FIR",
@@ -8883,6 +9467,10 @@
     {
       "key": "QE_VC_LW_GABL",
       "value": "Shard Quest: A Loyal Companion"
+    },
+    {
+      "key": "QE_VC_LW_BCRD",
+      "value": "Shard Quest: Great Reptile of Antiquity, Brachiosaur"
     },
     {
       "key": "QE_VC_GL_LW_NEWYEAR",

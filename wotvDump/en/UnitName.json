@@ -589,12 +589,24 @@
       "value": "Rayches"
     },
     {
+      "key": "UN_LW_P_MORE_01",
+      "value": "Moore the Merrier"
+    },
+    {
       "key": "UN_LW_P_LATH_01",
       "value": "Luartha (Winter)"
     },
     {
       "key": "UN_LW_P_IBRA",
       "value": "Ibara"
+    },
+    {
+      "key": "UN_LW_P_STIA",
+      "value": "Cetia"
+    },
+    {
+      "key": "UN_LW_P_LNAN",
+      "value": "Ranan"
     },
     {
       "key": "UN_LW_E_IRDL",
@@ -1741,6 +1753,26 @@
       "value": "Sanctum Monk"
     },
     {
+      "key": "UN_LW_E_PR_01_MSW",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_01_ASS",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_01_VIK",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_01_BEA",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_01_WGN",
+      "value": "Sanctum Monk"
+    },
+    {
       "key": "UN_LW_E_PR_02_CLR",
       "value": "Sanctum Monk"
     },
@@ -1770,6 +1802,22 @@
     },
     {
       "key": "UN_LW_E_PR_02_LIB",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_02_CAL",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_02_MMC",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_02_PSI",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_02_MKN",
       "value": "Sanctum Monk"
     },
     {
@@ -2885,6 +2933,26 @@
       "value": "Ramuh"
     },
     {
+      "key": "UN_LW_E_DMCM_GR1",
+      "value": "Demon Chimera"
+    },
+    {
+      "key": "UN_LW_E_THDG_GR1",
+      "value": "Two-Headed Dragon"
+    },
+    {
+      "key": "UN_LW_E_SIRE_GR1",
+      "value": "Siren"
+    },
+    {
+      "key": "UN_LW_E_TYPN_GR1",
+      "value": "Typhon"
+    },
+    {
+      "key": "UN_LW_E_SHIV_GR1",
+      "value": "Shiva"
+    },
+    {
       "key": "UN_LW_E_OCHU_QE",
       "value": "Ochu"
     },
@@ -3071,6 +3139,14 @@
     {
       "key": "UN_LW_E_LICH",
       "value": "Lich"
+    },
+    {
+      "key": "UN_LW_E_BCRD",
+      "value": "Brachiosaur"
+    },
+    {
+      "key": "UN_LW_E_BCRD_SIREN",
+      "value": "Brachiosaur"
     },
     {
       "key": "UN_LW_E_GLMS_ARENA",
@@ -3965,6 +4041,18 @@
       "value": "Golden Ahriman"
     },
     {
+      "key": "UN_LW_S_BCRD",
+      "value": "Brachiosaur"
+    },
+    {
+      "key": "UN_LW_S_BCRD_AW1",
+      "value": "Brachiosaur"
+    },
+    {
+      "key": "UN_LW_S_BCRD_AW2",
+      "value": "Brachiosaur"
+    },
+    {
       "key": "UN_LW_S_OMEG_AW1",
       "value": "Omega"
     },
@@ -4211,6 +4299,10 @@
     {
       "key": "UN_GM_PPOT",
       "value": "Poison Pot"
+    },
+    {
+      "key": "UN_GM_CRSPOT_01",
+      "value": "Healing Point (Enemy)"
     },
     {
       "key": "UN_LW_E_RU_01_WGN",

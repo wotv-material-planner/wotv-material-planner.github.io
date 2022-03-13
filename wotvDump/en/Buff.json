@@ -626,7 +626,7 @@
     },
     {
       "key": "BUFF_OtherCastTime",
-      "value": "Reduces Non-Attack Ability Activation Time"
+      "value": "Non-Attack Ability Activation Time"
     },
     {
       "key": "BUFF_OtherAttackCastTime",
@@ -1486,11 +1486,11 @@
     },
     {
       "key": "BUFF_CastTimeBuff",
-      "value": "Reduction"
+      "value": " Reduction "
     },
     {
       "key": "BUFF_CastTimeDebuff",
-      "value": "Extension"
+      "value": " Extension "
     },
     {
       "key": "BUFF_Sp",

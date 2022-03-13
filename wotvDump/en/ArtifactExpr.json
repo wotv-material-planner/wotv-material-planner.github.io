@@ -281,6 +281,30 @@
       "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_LW_SWO_025",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_025_1",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_025_2",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_025_3",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_025_4",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_SWO_025_5",
+      "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
       "key": "AF_LW_SWO_029",
       "value": "Equipment type: Sword <br>Appropriate Weapon Proficiency: B or better"
     },
@@ -921,6 +945,10 @@
       "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_LW_SPE_018",
+      "value": "Equipment type: Spear <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
       "key": "AF_LW_DAG_000",
       "value": "Equipment type: Dagger <br>Appropriate Weapon Proficiency: E or better"
     },
@@ -1194,6 +1222,30 @@
     },
     {
       "key": "AF_LW_BOW_012_5",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_014",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_014_1",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_014_2",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_014_3",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_014_4",
+      "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_BOW_014_5",
       "value": "Equipment type: Bow <br>Appropriate Weapon Proficiency: B or better"
     },
     {
@@ -1473,6 +1525,30 @@
       "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_LW_ROD_029",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ROD_029_1",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ROD_029_2",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ROD_029_3",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ROD_029_4",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ROD_029_5",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
       "key": "AF_FF10_ROD_000",
       "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: B or better"
     },
@@ -1646,6 +1722,30 @@
     },
     {
       "key": "AF_LW_AXE_003_5",
+      "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_AXE_004",
+      "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: C or better"
+    },
+    {
+      "key": "AF_LW_AXE_004_1",
+      "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_AXE_004_2",
+      "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_AXE_004_3",
+      "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_AXE_004_4",
+      "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_AXE_004_5",
       "value": "Equipment type: Axe <br>Appropriate Weapon Proficiency: B or better"
     },
     {
@@ -3277,6 +3377,30 @@
       "value": "Equipment type: Armor <br>Appropriate Armor Proficiency: A or better"
     },
     {
+      "key": "AF_CLT_LW_MORE_01_1",
+      "value": "Equipment type: Clothing <br>Appropriate Armor Proficiency: A or better"
+    },
+    {
+      "key": "AF_GLO_LW_MORE_01_2",
+      "value": ""
+    },
+    {
+      "key": "AF_ACC_LW_STIA_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_BOW_LW_STIA_2",
+      "value": ""
+    },
+    {
+      "key": "AF_ACC_LW_LNAN_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_ROD_LW_LNAN_2",
+      "value": "Equipment type: Staff <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
       "key": "AF_LW_RNG_005",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
@@ -3306,6 +3430,10 @@
     },
     {
       "key": "AF_LW_ARW_005",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_RNG_008",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
     },
     {
@@ -3901,6 +4029,30 @@
       "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: B or better"
     },
     {
+      "key": "AF_LW_GLO_007",
+      "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_GLO_007_1",
+      "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_GLO_007_2",
+      "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_GLO_007_3",
+      "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_GLO_007_4",
+      "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_GLO_007_5",
+      "value": "Equipment type: Gloves <br>Appropriate Weapon Proficiency: A or better"
+    },
+    {
       "key": "AF_LW_BOK_000",
       "value": "Equipment type: Book <br>Appropriate Weapon Proficiency: E or better"
     },
@@ -4175,6 +4327,54 @@
     {
       "key": "AF_FF15_ACC_001_5",
       "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: A or better"
+    },
+    {
+      "key": "AF_LW_ACC_054",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_054_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_054_2",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_054_3",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_054_4",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_054_5",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_037",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_037_1",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_037_2",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_037_3",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_037_4",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
+    },
+    {
+      "key": "AF_LW_ACC_037_5",
+      "value": "Equipment type: Accessory <br>Appropriate Accessory Proficiency: B or better"
     },
     {
       "key": "AF_LW_CLT_027",

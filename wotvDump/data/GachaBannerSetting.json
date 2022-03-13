@@ -599,6 +599,161 @@
       "id": 120,
       "banner_id": "GachaBanner_Global_0716",
       "gname": "1only-gacha_10unitvc_gl20220126_10"
+    },
+    {
+      "id": 121,
+      "banner_id": "GachaBanner_Global_0725",
+      "gname": "1only-gacha_5unitvc_gl20220202_10"
+    },
+    {
+      "id": 122,
+      "banner_id": "GachaBanner_Global_0726",
+      "gname": "3only-5step-gacha_gl20220202_10"
+    },
+    {
+      "id": 123,
+      "banner_id": "GachaBanner_Global_0731",
+      "gname": "1only-gacha_10unitvc_gl20220202_01_10"
+    },
+    {
+      "id": 124,
+      "banner_id": "GachaBanner_Global_0732",
+      "gname": "1only-gacha_10unitvc_gl20220202_02_10"
+    },
+    {
+      "id": 125,
+      "banner_id": "GachaBanner_Global_0733",
+      "gname": "1only-gacha_10unit_gl20220202_10"
+    },
+    {
+      "id": 126,
+      "banner_id": "GachaBanner_Global_0734",
+      "gname": "1only-gacha_10vc_gl20220202_10"
+    },
+    {
+      "id": 127,
+      "banner_id": "GachaBanner_Global_0739",
+      "gname": "1only-gacha_5unitvc_gl20220209_10"
+    },
+    {
+      "id": 128,
+      "banner_id": "GachaBanner_Global_0736",
+      "gname": "5step-gacha_gl20220209_10"
+    },
+    {
+      "id": 129,
+      "banner_id": "GachaBanner_Global_0737",
+      "gname": "1only_80unit_gacha_gl20220209_10"
+    },
+    {
+      "id": 130,
+      "banner_id": "GachaBanner_Global_0744",
+      "gname": "1only-gacha_5unitvc_gl20220216_10"
+    },
+    {
+      "id": 131,
+      "banner_id": "GachaBanner_Global_0745",
+      "gname": "gacha_ELEMENTAL_gl20220216_a_01"
+    },
+    {
+      "id": 132,
+      "banner_id": "GachaBanner_Global_0746",
+      "gname": "gacha_ELEMENTAL_gl20220216_b_01"
+    },
+    {
+      "id": 133,
+      "banner_id": "GachaBanner_Global_0747",
+      "gname": "gacha_ELEMENTAL_gl20220216_c_01"
+    },
+    {
+      "id": 134,
+      "banner_id": "GachaBanner_Global_0748",
+      "gname": "gacha_ELEMENTAL_gl20220216_d_01"
+    },
+    {
+      "id": 135,
+      "banner_id": "GachaBanner_Global_0759",
+      "gname": "1only_5unitvc_gacha_gl20220223_10"
+    },
+    {
+      "id": 136,
+      "banner_id": "GachaBanner_Global_0760",
+      "gname": "3only-5step-gacha_KTON_01_gl20220223_10"
+    },
+    {
+      "id": 137,
+      "banner_id": "GachaBanner_Global_0761",
+      "gname": "3only-5step-gacha_LILS_01_gl20220223_10"
+    },
+    {
+      "id": 138,
+      "banner_id": "GachaBanner_Global_0762",
+      "gname": "3only-5step-gacha_QILF_01_gl20220223_10"
+    },
+    {
+      "id": 139,
+      "banner_id": "GachaBanner_Global_0763",
+      "gname": "3only-5step-gacha_ELSR_01_gl20220223_10"
+    },
+    {
+      "id": 140,
+      "banner_id": "GachaBanner_Global_0764",
+      "gname": "1only_80unit_gacha_gl20220223_10"
+    },
+    {
+      "id": 141,
+      "banner_id": "GachaBanner_Global_0765",
+      "gname": "3step-gacha_SUMMER_gl20220223_a_10"
+    },
+    {
+      "id": 142,
+      "banner_id": "GachaBanner_Global_0766",
+      "gname": "3step-gacha_SUMMER_gl20220223_b_10"
+    },
+    {
+      "id": 143,
+      "banner_id": "GachaBanner_Global_0777",
+      "gname": "3only-5step-gacha_reissue_FDRC_01_gl20220302_10"
+    },
+    {
+      "id": 144,
+      "banner_id": "GachaBanner_Global_0778",
+      "gname": "3only-5step-gacha_reissue_RYER_01_gl20220302_10"
+    },
+    {
+      "id": 145,
+      "banner_id": "GachaBanner_Global_0779",
+      "gname": "3only-5step-gacha_reissue_RIRY_01_gl20220302_10"
+    },
+    {
+      "id": 146,
+      "banner_id": "GachaBanner_Global_0780",
+      "gname": "1only_80unit_gacha_gl20220302_10"
+    },
+    {
+      "id": 147,
+      "banner_id": "GachaBanner_Global_0781",
+      "gname": "3step-gacha_gl20220302_10"
+    },
+    {
+      "id": 148,
+      "banner_id": "GachaBanner_Global_0782",
+      "gname": "1only-gacha_5unitvc_gl20220302_10"
+    },
+    {
+      "id": 149,
+      "banner_id": "GachaBanner_Global_0787",
+      "gname": "1only-gacha_5unitvc_gl20220309_10"
+    },
+    {
+      "id": 150,
+      "banner_id": "GachaBanner_Global_0788",
+      "gname": "3only-5step-gacha_LNAN_gl20220309_10"
+    },
+    {
+      "id": 151,
+      "banner_id": "GachaBanner_Global_0789",
+      "gname": "1only_80unit_gacha_gl20220309_10"
     }
   ]
 }

@@ -281,6 +281,30 @@
       "value": ""
     },
     {
+      "key": "AF_LW_SWO_025",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_SWO_025_1",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_SWO_025_2",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_SWO_025_3",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_SWO_025_4",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_SWO_025_5",
+      "value": ""
+    },
+    {
       "key": "AF_LW_SWO_029",
       "value": ""
     },
@@ -921,6 +945,10 @@
       "value": ""
     },
     {
+      "key": "AF_LW_SPE_018",
+      "value": ""
+    },
+    {
       "key": "AF_LW_DAG_000",
       "value": "General Shop"
     },
@@ -1194,6 +1222,30 @@
     },
     {
       "key": "AF_LW_BOW_012_5",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_BOW_014",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_BOW_014_1",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_BOW_014_2",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_BOW_014_3",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_BOW_014_4",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_BOW_014_5",
       "value": ""
     },
     {
@@ -1473,6 +1525,30 @@
       "value": ""
     },
     {
+      "key": "AF_LW_ROD_029",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ROD_029_1",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ROD_029_2",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ROD_029_3",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ROD_029_4",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ROD_029_5",
+      "value": ""
+    },
+    {
       "key": "AF_FF10_ROD_000",
       "value": ""
     },
@@ -1646,6 +1722,30 @@
     },
     {
       "key": "AF_LW_AXE_003_5",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_AXE_004",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_AXE_004_1",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_AXE_004_2",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_AXE_004_3",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_AXE_004_4",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_AXE_004_5",
       "value": ""
     },
     {
@@ -3277,6 +3377,30 @@
       "value": ""
     },
     {
+      "key": "AF_CLT_LW_MORE_01_1",
+      "value": ""
+    },
+    {
+      "key": "AF_GLO_LW_MORE_01_2",
+      "value": ""
+    },
+    {
+      "key": "AF_ACC_LW_STIA_1",
+      "value": ""
+    },
+    {
+      "key": "AF_BOW_LW_STIA_2",
+      "value": ""
+    },
+    {
+      "key": "AF_ACC_LW_LNAN_1",
+      "value": ""
+    },
+    {
+      "key": "AF_ROD_LW_LNAN_2",
+      "value": ""
+    },
+    {
       "key": "AF_LW_RNG_005",
       "value": ""
     },
@@ -3306,6 +3430,10 @@
     },
     {
       "key": "AF_LW_ARW_005",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_RNG_008",
       "value": ""
     },
     {
@@ -3901,6 +4029,30 @@
       "value": ""
     },
     {
+      "key": "AF_LW_GLO_007",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_GLO_007_1",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_GLO_007_2",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_GLO_007_3",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_GLO_007_4",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_GLO_007_5",
+      "value": ""
+    },
+    {
       "key": "AF_LW_BOK_000",
       "value": "General Shop"
     },
@@ -4174,6 +4326,54 @@
     },
     {
       "key": "AF_FF15_ACC_001_5",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_054",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_054_1",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_054_2",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_054_3",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_054_4",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_054_5",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_037",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_037_1",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_037_2",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_037_3",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_037_4",
+      "value": ""
+    },
+    {
+      "key": "AF_LW_ACC_037_5",
       "value": ""
     },
     {

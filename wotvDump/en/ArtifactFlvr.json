@@ -281,6 +281,30 @@
       "value": "A sword brought from a distant world. The design upon its elegant blade conjures images of a golden light piercing through the clouds. The sword is said to have been wielded by a legendary warrior, who brandished it to sever a loop in time and battle Chaos."
     },
     {
+      "key": "AF_LW_SWO_025",
+      "value": "A sharp sword known as a fey blade. It is said to have been forged by a smith of great skill, but the truth to that claim remains unknown. Legend has it the Tyrfing never misses its mark, and can cut through steel as if it were nothing. While this weapon does not posses the exact qualities mentioned in the legends, it is an exceptional creation well deserving of such tales to be told in its name."
+    },
+    {
+      "key": "AF_LW_SWO_025_1",
+      "value": "A sharp sword known as a fey blade. It is said to have been forged by a smith of great skill, but the truth to that claim remains unknown. Legend has it the Tyrfing never misses its mark, and can cut through steel as if it were nothing. While this weapon does not posses the exact qualities mentioned in the legends, it is an exceptional creation well deserving of such tales to be told in its name."
+    },
+    {
+      "key": "AF_LW_SWO_025_2",
+      "value": "A sharp sword known as a fey blade. It is said to have been forged by a smith of great skill, but the truth to that claim remains unknown. Legend has it the Tyrfing never misses its mark, and can cut through steel as if it were nothing. While this weapon does not posses the exact qualities mentioned in the legends, it is an exceptional creation well deserving of such tales to be told in its name."
+    },
+    {
+      "key": "AF_LW_SWO_025_3",
+      "value": "A sharp sword known as a fey blade. It is said to have been forged by a smith of great skill, but the truth to that claim remains unknown. Legend has it the Tyrfing never misses its mark, and can cut through steel as if it were nothing. While this weapon does not posses the exact qualities mentioned in the legends, it is an exceptional creation well deserving of such tales to be told in its name."
+    },
+    {
+      "key": "AF_LW_SWO_025_4",
+      "value": "A sharp sword known as a fey blade. It is said to have been forged by a smith of great skill, but the truth to that claim remains unknown. Legend has it the Tyrfing never misses its mark, and can cut through steel as if it were nothing. While this weapon does not posses the exact qualities mentioned in the legends, it is an exceptional creation well deserving of such tales to be told in its name."
+    },
+    {
+      "key": "AF_LW_SWO_025_5",
+      "value": "A sharp sword known as a fey blade. It is said to have been forged by a smith of great skill, but the truth to that claim remains unknown. Legend has it the Tyrfing never misses its mark, and can cut through steel as if it were nothing. While this weapon does not posses the exact qualities mentioned in the legends, it is an exceptional creation well deserving of such tales to be told in its name."
+    },
+    {
       "key": "AF_LW_SWO_029",
       "value": "A sinister blade curved in the shape of a human spine. While it can be brandished in the manner of a typical sword, its primary use as a weapon is to tear through flesh with its saw-toothed blade via thrust attacks. It features a mechanism in the tip designed for applying poison, and because it can inflict lethal damage with the slightest of scratches, there are many who would ridicule it as a dishonorable weapon."
     },
@@ -921,6 +945,10 @@
       "value": "A spear used by Commodore Highwind of Niflheim, an empire in a distant world. In the right hands, this magiteknological weapon can allow its wielder to soar through the air. However, only exceptionally skilled combatants are able to unleash this lance's full potential."
     },
     {
+      "key": "AF_LW_SPE_018",
+      "value": "The spear Camillo has been using for many years since his time in Heindler. Once a standard-model spear supplied to new recruits, Camillo has taken Rundall craftsmanship to apply unique modifications to the weapon. The result: the exchange of its original ease-of-use for an increase in weight and destructive power. The old cloth wrapped along the shaft is another item he wore while in service of Heindler. Camillo treats the spear with the utmost of care, never forgetting his pride as a dragoon."
+    },
+    {
       "key": "AF_LW_DAG_000",
       "value": "A single-edged dagger made of bronze. Designed to be small and easy to carry, it isn't the most practical of weapons, but its reasonable price and the fact that no special training is required to handle it makes it ideal for daily tasks and short journeys."
     },
@@ -1195,6 +1223,30 @@
     {
       "key": "AF_LW_BOW_012_5",
       "value": "A bow made of platinum. The inherently dense nature of platinum makes it extremely unsuitable as a material for crafting, as a bow must be drawn and aimed swiftly. However, through the tireless efforts of the craftsmen, this bow's weight was reduced to a level acceptable for usage. The bowstring is also reinforced with a fine layer of platinum to make it more robust, but in return it demands a certain physicality to draw such a string."
+    },
+    {
+      "key": "AF_LW_BOW_014",
+      "value": "The bow belonging to Cetia, a Warrior of the Crystals. Though it appears radiant, the frame of this weapon is a dark, metallic black. Within it dwells the power of flame, which produces a fiery crimson glow when the bow is in Cetia's hands. Its flaming arrows are a force to be reckoned with, searing through everything in their path once they take flight. It bears a strong sentience that, unlike Cetia—who burns with passion, drawing others to her as she acts—is ever cool and collected. Though they seem like complete opposites, they are somehow one in spirit and harmony."
+    },
+    {
+      "key": "AF_LW_BOW_014_1",
+      "value": "The bow belonging to Cetia, a Warrior of the Crystals. Though it appears radiant, the frame of this weapon is a dark, metallic black. Within it dwells the power of flame, which produces a fiery crimson glow when the bow is in Cetia's hands. Its flaming arrows are a force to be reckoned with, searing through everything in their path once they take flight. It bears a strong sentience that, unlike Cetia—who burns with passion, drawing others to her as she acts—is ever cool and collected. Though they seem like complete opposites, they are somehow one in spirit and harmony."
+    },
+    {
+      "key": "AF_LW_BOW_014_2",
+      "value": "The bow belonging to Cetia, a Warrior of the Crystals. Though it appears radiant, the frame of this weapon is a dark, metallic black. Within it dwells the power of flame, which produces a fiery crimson glow when the bow is in Cetia's hands. Its flaming arrows are a force to be reckoned with, searing through everything in their path once they take flight. It bears a strong sentience that, unlike Cetia—who burns with passion, drawing others to her as she acts—is ever cool and collected. Though they seem like complete opposites, they are somehow one in spirit and harmony."
+    },
+    {
+      "key": "AF_LW_BOW_014_3",
+      "value": "The bow belonging to Cetia, a Warrior of the Crystals. Though it appears radiant, the frame of this weapon is a dark, metallic black. Within it dwells the power of flame, which produces a fiery crimson glow when the bow is in Cetia's hands. Its flaming arrows are a force to be reckoned with, searing through everything in their path once they take flight. It bears a strong sentience that, unlike Cetia—who burns with passion, drawing others to her as she acts—is ever cool and collected. Though they seem like complete opposites, they are somehow one in spirit and harmony."
+    },
+    {
+      "key": "AF_LW_BOW_014_4",
+      "value": "The bow belonging to Cetia, a Warrior of the Crystals. Though it appears radiant, the frame of this weapon is a dark, metallic black. Within it dwells the power of flame, which produces a fiery crimson glow when the bow is in Cetia's hands. Its flaming arrows are a force to be reckoned with, searing through everything in their path once they take flight. It bears a strong sentience that, unlike Cetia—who burns with passion, drawing others to her as she acts—is ever cool and collected. Though they seem like complete opposites, they are somehow one in spirit and harmony."
+    },
+    {
+      "key": "AF_LW_BOW_014_5",
+      "value": "The bow belonging to Cetia, a Warrior of the Crystals. Though it appears radiant, the frame of this weapon is a dark, metallic black. Within it dwells the power of flame, which produces a fiery crimson glow when the bow is in Cetia's hands. Its flaming arrows are a force to be reckoned with, searing through everything in their path once they take flight. It bears a strong sentience that, unlike Cetia—who burns with passion, drawing others to her as she acts—is ever cool and collected. Though they seem like complete opposites, they are somehow one in spirit and harmony."
     },
     {
       "key": "AF_LW_GUN_000",
@@ -1473,6 +1525,30 @@
       "value": "A staff in the shape of a black dragon. It is said that Golbez, a mage from a distant world, used this very staff to summon the Shadow Dragon. However, while it can greatly amplify magical power, the staff alone does not grant command over monsters."
     },
     {
+      "key": "AF_LW_ROD_029",
+      "value": "The staff used by Ranan, a Warrior of the Crystals. Notable for its beautiful adornment of a feathered serpent, this staff is capable of manipulating the faint electrical currents that permeate the air to conjure lightning at the command of its wielder. Enhanced further by Ranan's own incredible magical prowess, this lightning only betrays a slight flash before it blasts through its target. The staff itself possesses a strong sentience and personality that is similar to that of its ever-composed, foresightful owner. While it is cool to the touch, it grows warmer when Ranan gets angry."
+    },
+    {
+      "key": "AF_LW_ROD_029_1",
+      "value": "The staff used by Ranan, a Warrior of the Crystals. Notable for its beautiful adornment of a feathered serpent, this staff is capable of manipulating the faint electrical currents that permeate the air to conjure lightning at the command of its wielder. Enhanced further by Ranan's own incredible magical prowess, this lightning only betrays a slight flash before it blasts through its target. The staff itself possesses a strong sentience and personality that is similar to that of its ever-composed, foresightful owner. While it is cool to the touch, it grows warmer when Ranan gets angry."
+    },
+    {
+      "key": "AF_LW_ROD_029_2",
+      "value": "The staff used by Ranan, a Warrior of the Crystals. Notable for its beautiful adornment of a feathered serpent, this staff is capable of manipulating the faint electrical currents that permeate the air to conjure lightning at the command of its wielder. Enhanced further by Ranan's own incredible magical prowess, this lightning only betrays a slight flash before it blasts through its target. The staff itself possesses a strong sentience and personality that is similar to that of its ever-composed, foresightful owner. While it is cool to the touch, it grows warmer when Ranan gets angry."
+    },
+    {
+      "key": "AF_LW_ROD_029_3",
+      "value": "The staff used by Ranan, a Warrior of the Crystals. Notable for its beautiful adornment of a feathered serpent, this staff is capable of manipulating the faint electrical currents that permeate the air to conjure lightning at the command of its wielder. Enhanced further by Ranan's own incredible magical prowess, this lightning only betrays a slight flash before it blasts through its target. The staff itself possesses a strong sentience and personality that is similar to that of its ever-composed, foresightful owner. While it is cool to the touch, it grows warmer when Ranan gets angry."
+    },
+    {
+      "key": "AF_LW_ROD_029_4",
+      "value": "The staff used by Ranan, a Warrior of the Crystals. Notable for its beautiful adornment of a feathered serpent, this staff is capable of manipulating the faint electrical currents that permeate the air to conjure lightning at the command of its wielder. Enhanced further by Ranan's own incredible magical prowess, this lightning only betrays a slight flash before it blasts through its target. The staff itself possesses a strong sentience and personality that is similar to that of its ever-composed, foresightful owner. While it is cool to the touch, it grows warmer when Ranan gets angry."
+    },
+    {
+      "key": "AF_LW_ROD_029_5",
+      "value": "The staff used by Ranan, a Warrior of the Crystals. Notable for its beautiful adornment of a feathered serpent, this staff is capable of manipulating the faint electrical currents that permeate the air to conjure lightning at the command of its wielder. Enhanced further by Ranan's own incredible magical prowess, this lightning only betrays a slight flash before it blasts through its target. The staff itself possesses a strong sentience and personality that is similar to that of its ever-composed, foresightful owner. While it is cool to the touch, it grows warmer when Ranan gets angry."
+    },
+    {
       "key": "AF_FF10_ROD_000",
       "value": "A summoner's staff brought from the distant world of Spira. A number of weapons of similar design to the Magistral Rod are rumored to exist. This comes from the custom of modifying weapons and armor in accordance to the users’ needs. Despite sharing similar appearances, the weapons seem to all have different characteristics."
     },
@@ -1647,6 +1723,30 @@
     {
       "key": "AF_LW_AXE_003_5",
       "value": "An axe bestowed upon a righteous soul by the spirits of a long-forgotten wellspring. Although it may appear to be a normal golden axe at first glance, its blade will never chip. Legend says that it possesses the strength to cut down great trees with the slightest swing. Merchants revere the golden axe as a charm that brings good fortune, and thus many stores bear its image as a symbol of respectable business."
+    },
+    {
+      "key": "AF_LW_AXE_004",
+      "value": "This axe is so named because of a legend that says it was once wielded by a giant. Many doubt this legend, however, because the axe—though large—is still wieldable by normal humans. That said, it is so incredibly heavy that giant-like strength is necessary just to pick it up."
+    },
+    {
+      "key": "AF_LW_AXE_004_1",
+      "value": "This axe is so named because of a legend that says it was once wielded by a giant. Many doubt this legend, however, because the axe—though large—is still wieldable by normal humans. That said, it is so incredibly heavy that giant-like strength is necessary just to pick it up."
+    },
+    {
+      "key": "AF_LW_AXE_004_2",
+      "value": "This axe is so named because of a legend that says it was once wielded by a giant. Many doubt this legend, however, because the axe—though large—is still wieldable by normal humans. That said, it is so incredibly heavy that giant-like strength is necessary just to pick it up."
+    },
+    {
+      "key": "AF_LW_AXE_004_3",
+      "value": "This axe is so named because of a legend that says it was once wielded by a giant. Many doubt this legend, however, because the axe—though large—is still wieldable by normal humans. That said, it is so incredibly heavy that giant-like strength is necessary just to pick it up."
+    },
+    {
+      "key": "AF_LW_AXE_004_4",
+      "value": "This axe is so named because of a legend that says it was once wielded by a giant. Many doubt this legend, however, because the axe—though large—is still wieldable by normal humans. That said, it is so incredibly heavy that giant-like strength is necessary just to pick it up."
+    },
+    {
+      "key": "AF_LW_AXE_004_5",
+      "value": "This axe is so named because of a legend that says it was once wielded by a giant. Many doubt this legend, however, because the axe—though large—is still wieldable by normal humans. That said, it is so incredibly heavy that giant-like strength is necessary just to pick it up."
     },
     {
       "key": "AF_LW_SHI_000",
@@ -3277,6 +3377,30 @@
       "value": "Armor made of woven plate overlaid with the traditional pure white cloth of Hourne. Even on the bloodiest of battlefields, the white of its cloth stays brilliant and pure. A variety of unique improvements have been made to this armor, including the removal of all pieces which impaired mobility: Rayches wished to be able to employ the techniques of the East to the fullest, as well as to be ready to embrace Adelard at a moment's notice."
     },
     {
+      "key": "AF_CLT_LW_MORE_01_1",
+      "value": "A crimson cheongsam Moore had specially tailored for auspicious occasions. When Moore wears this dress, its enchantment combines with her own magical powers, enabling her to control a set of lanterns of differing shapes and sizes which are said to bring good fortune. In truth, Moore has given names to each of these lanterns and dotes on them, but she is far too embarrassed to tell anyone."
+    },
+    {
+      "key": "AF_GLO_LW_MORE_01_2",
+      "value": ""
+    },
+    {
+      "key": "AF_ACC_LW_STIA_1",
+      "value": "A mantle belonging to Cetia, a Warrior of the Crystals. The wearer is granted the blessing of ardent flame, and with its blistering heat ordinary attacks are warded off before they even land. This mantle was imbued with the Will of Light's wishes for Cetia to become a dauntless warrior whose spirit emboldens her allies, inspiring them to rise above even the most fearsome of obstacles. Cetia keeps these expectations always in her mind, and performs her duties with a confident smile."
+    },
+    {
+      "key": "AF_BOW_LW_STIA_2",
+      "value": ""
+    },
+    {
+      "key": "AF_ACC_LW_LNAN_1",
+      "value": "A mantle belonging to Ranan, a Warrior of the Crystals. The wearer is granted the blessing of teeming thunder. Faint traces of lightning emit from the fabric, which enable the efficient transmission of magical energy. This allows for not only greater magic, but also heightened speed of thought—the embodiment of the powerful, instantaneous nature of lightning. This mantle was imbued with the Will of Light's wishes for Ranan to become a warrior who can be depended on to lead his allies through any manner of tribulation. Ranan does just that, guiding his companions with clarity and completing his duties with perfection."
+    },
+    {
+      "key": "AF_ROD_LW_LNAN_2",
+      "value": "The staff used by Ranan, a Warrior of the Crystals. Notable for its beautiful adornment of a feathered serpent, this staff is capable of manipulating the faint electrical currents that permeate the air to conjure lightning at the command of its wielder. Enhanced further by Ranan's own incredible magical prowess, this lightning only betrays a slight flash before it blasts through its target. The staff itself possesses a strong sentience and personality that is similar to that of its ever-composed, foresightful owner. While it is cool to the touch, it grows warmer when Ranan gets angry."
+    },
+    {
       "key": "AF_LW_RNG_005",
       "value": "A ring inlaid with a curiously radiant piece of alexandrite. This gemstone characteristically changes color depending on the light that strikes it, a beauty from which it has been called the king of precious stones. Specimens with high degrees of clarity and color variability are exceedingly rare, thus trading at extremely high prices."
     },
@@ -3307,6 +3431,10 @@
     {
       "key": "AF_LW_ARW_005",
       "value": "A golden armlet inlaid with a stone emitting a dazzling light. Wearing it allows one to command the great power of light. However, the act of coercing a power that belongs in nature always has some form of repercussion for the wearer. This armlet is only to be worn by those prepared to bear it."
+    },
+    {
+      "key": "AF_LW_RNG_008",
+      "value": "A small ring inlaid with a stone the color of umber. Wearing it allows one to command the great power of earth. However, the act of coercing a power that belongs in nature always has some form of repercussion for the wearer. This ring is only to be worn by those prepared to bear it."
     },
     {
       "key": "AF_LW_RNG_009",
@@ -3901,6 +4029,30 @@
       "value": "Jet-black gloves designed to cover the forearm. They are made from the hide of a unique monster, allowing for minimal air resistance in order to maximize the wearer's potential. It is said that strikes from those who wear these gloves tear silently through the air to land precise blows upon an enemy's vital points"
     },
     {
+      "key": "AF_LW_GLO_007",
+      "value": "A pair of silken gloves lovingly sewn by none other than Moore herself, as she prayed for world peace and familial happiness. Normally not one to wear her heart upon her sleeve, it is said that Moore's smile was always tranquil and gentle while she made these."
+    },
+    {
+      "key": "AF_LW_GLO_007_1",
+      "value": "A pair of silken gloves lovingly sewn by none other than Moore herself, as she prayed for world peace and familial happiness. Normally not one to wear her heart upon her sleeve, it is said that Moore's smile was always tranquil and gentle while she made these."
+    },
+    {
+      "key": "AF_LW_GLO_007_2",
+      "value": "A pair of silken gloves lovingly sewn by none other than Moore herself, as she prayed for world peace and familial happiness. Normally not one to wear her heart upon her sleeve, it is said that Moore's smile was always tranquil and gentle while she made these."
+    },
+    {
+      "key": "AF_LW_GLO_007_3",
+      "value": "A pair of silken gloves lovingly sewn by none other than Moore herself, as she prayed for world peace and familial happiness. Normally not one to wear her heart upon her sleeve, it is said that Moore's smile was always tranquil and gentle while she made these."
+    },
+    {
+      "key": "AF_LW_GLO_007_4",
+      "value": "A pair of silken gloves lovingly sewn by none other than Moore herself, as she prayed for world peace and familial happiness. Normally not one to wear her heart upon her sleeve, it is said that Moore's smile was always tranquil and gentle while she made these."
+    },
+    {
+      "key": "AF_LW_GLO_007_5",
+      "value": "A pair of silken gloves lovingly sewn by none other than Moore herself, as she prayed for world peace and familial happiness. Normally not one to wear her heart upon her sleeve, it is said that Moore's smile was always tranquil and gentle while she made these."
+    },
+    {
       "key": "AF_LW_BOK_000",
       "value": "A historic record on battles no matter how big or small, from all ages and locales. Not only does it include basic army formations, it also details cases of climate and geographical conditions being used in the shifts to offense or defense, cases of psychology being used to cause confusion and disarray, and other strategies that were definitive in deciding the outcomes of various battles. It is one of the first books studied by those who aspire to become scholars, mages, or strategists."
     },
@@ -4175,6 +4327,54 @@
     {
       "key": "AF_FF15_ACC_001_5",
       "value": "A wristband loved by a young man from Lucis, a kingdom in a distant world. Made from an intricate combination of lustrous black-dyed leather and metal chains and studs, it enhances not only the wearer's defensive capabilities, but their fashionability as well."
+    },
+    {
+      "key": "AF_LW_ACC_054",
+      "value": "A pendant with the visage of an Ahriman carved into the medallion. The carving itself contains traces of monster fibers, which perhaps explains why the pendant slightly protects its wearer from demonic attacks, while also bolstering the damage they can inflict on demonkind. Surprisingly heavy for its size, it is recommended that one takes regular breaks when wearing this accessory for extended periods of time."
+    },
+    {
+      "key": "AF_LW_ACC_054_1",
+      "value": "A pendant with the visage of an Ahriman carved into the medallion. The carving itself contains traces of monster fibers, which perhaps explains why the pendant slightly protects its wearer from demonic attacks, while also bolstering the damage they can inflict on demonkind. Surprisingly heavy for its size, it is recommended that one takes regular breaks when wearing this accessory for extended periods of time."
+    },
+    {
+      "key": "AF_LW_ACC_054_2",
+      "value": "A pendant with the visage of an Ahriman carved into the medallion. The carving itself contains traces of monster fibers, which perhaps explains why the pendant slightly protects its wearer from demonic attacks, while also bolstering the damage they can inflict on demonkind. Surprisingly heavy for its size, it is recommended that one takes regular breaks when wearing this accessory for extended periods of time."
+    },
+    {
+      "key": "AF_LW_ACC_054_3",
+      "value": "A pendant with the visage of an Ahriman carved into the medallion. The carving itself contains traces of monster fibers, which perhaps explains why the pendant slightly protects its wearer from demonic attacks, while also bolstering the damage they can inflict on demonkind. Surprisingly heavy for its size, it is recommended that one takes regular breaks when wearing this accessory for extended periods of time."
+    },
+    {
+      "key": "AF_LW_ACC_054_4",
+      "value": "A pendant with the visage of an Ahriman carved into the medallion. The carving itself contains traces of monster fibers, which perhaps explains why the pendant slightly protects its wearer from demonic attacks, while also bolstering the damage they can inflict on demonkind. Surprisingly heavy for its size, it is recommended that one takes regular breaks when wearing this accessory for extended periods of time."
+    },
+    {
+      "key": "AF_LW_ACC_054_5",
+      "value": "A pendant with the visage of an Ahriman carved into the medallion. The carving itself contains traces of monster fibers, which perhaps explains why the pendant slightly protects its wearer from demonic attacks, while also bolstering the damage they can inflict on demonkind. Surprisingly heavy for its size, it is recommended that one takes regular breaks when wearing this accessory for extended periods of time."
+    },
+    {
+      "key": "AF_LW_ACC_037",
+      "value": "A pure-white cape made of a lustrous fabric that is pleasant to the touch, carefully sewn with gold thread. As this opulent accessory is so light that it does not impede its wearer's movement in any way, it is a favorite among mages who need to focus on their incantations when casting magic."
+    },
+    {
+      "key": "AF_LW_ACC_037_1",
+      "value": "A pure-white cape made of a lustrous fabric that is pleasant to the touch, carefully sewn with gold thread. As this opulent accessory is so light that it does not impede its wearer's movement in any way, it is a favorite among mages who need to focus on their incantations when casting magic."
+    },
+    {
+      "key": "AF_LW_ACC_037_2",
+      "value": "A pure-white cape made of a lustrous fabric that is pleasant to the touch, carefully sewn with gold thread. As this opulent accessory is so light that it does not impede its wearer's movement in any way, it is a favorite among mages who need to focus on their incantations when casting magic."
+    },
+    {
+      "key": "AF_LW_ACC_037_3",
+      "value": "A pure-white cape made of a lustrous fabric that is pleasant to the touch, carefully sewn with gold thread. As this opulent accessory is so light that it does not impede its wearer's movement in any way, it is a favorite among mages who need to focus on their incantations when casting magic."
+    },
+    {
+      "key": "AF_LW_ACC_037_4",
+      "value": "A pure-white cape made of a lustrous fabric that is pleasant to the touch, carefully sewn with gold thread. As this opulent accessory is so light that it does not impede its wearer's movement in any way, it is a favorite among mages who need to focus on their incantations when casting magic."
+    },
+    {
+      "key": "AF_LW_ACC_037_5",
+      "value": "A pure-white cape made of a lustrous fabric that is pleasant to the touch, carefully sewn with gold thread. As this opulent accessory is so light that it does not impede its wearer's movement in any way, it is a favorite among mages who need to focus on their incantations when casting magic."
     },
     {
       "key": "AF_LW_CLT_027",

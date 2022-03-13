@@ -1297,6 +1297,10 @@
       "value": "Ranger [Strongdraw]"
     },
     {
+      "key": "JB_LW_RRIR_M",
+      "value": "Ranger [Fiercefletch]"
+    },
+    {
       "key": "JB_LW_MNK_EX_M",
       "value": "Monk EX"
     },
@@ -1357,6 +1361,14 @@
       "value": "Black Mage [Suppressor]"
     },
     {
+      "key": "JB_LW_SCAL_M",
+      "value": "Black Mage [Disposer]"
+    },
+    {
+      "key": "JB_LW_RVAL_M",
+      "value": "Black Mage [Poisonfang]"
+    },
+    {
       "key": "JB_LW_TIM_EX_M",
       "value": "Time Mage EX"
     },
@@ -1367,6 +1379,10 @@
     {
       "key": "JB_LW_LMRE_M",
       "value": "Time Mage [Farseer]"
+    },
+    {
+      "key": "JB_LW_MGRT_M",
+      "value": "Time Mage [Wildstar]"
     },
     {
       "key": "JB_LW_VIK_EX_M",
@@ -1489,6 +1505,10 @@
       "value": "Cleric [Dauntless]"
     },
     {
+      "key": "JB_LW_KADI_M",
+      "value": "Cleric [Brightward]"
+    },
+    {
       "key": "JB_FF10_ARON_M",
       "value": "Legendary Guardian"
     },
@@ -1565,6 +1585,10 @@
       "value": "Dragoon [Banelance]"
     },
     {
+      "key": "JB_LW_LRNZ_M",
+      "value": "Dragoon [Breachlance]"
+    },
+    {
       "key": "JB_LW_SZRT_M",
       "value": "Soldier [Soulrend]"
     },
@@ -1607,6 +1631,10 @@
     {
       "key": "JB_LW_DRIO_M",
       "value": "Spellblade [Liferend]"
+    },
+    {
+      "key": "JB_LW_MRAL_M",
+      "value": "Spellblade [Ironheart]"
     },
     {
       "key": "JB_LW_FRVA_M",
@@ -1711,6 +1739,10 @@
     {
       "key": "JB_LW_LUCA_M",
       "value": "Dual Gunner [Malice]"
+    },
+    {
+      "key": "JB_LW_LATH_M",
+      "value": "Dual Gunner [Rapidfire]"
     },
     {
       "key": "JB_FF7_AERT",
@@ -1897,6 +1929,10 @@
       "value": "Rune Knight [Harbinger]"
     },
     {
+      "key": "JB_LW_HWLT_M",
+      "value": "Rune Knight [Augmentor]"
+    },
+    {
       "key": "JB_FF15_NCTS",
       "value": "Prince of Lucis"
     },
@@ -1957,6 +1993,14 @@
       "value": "Dark Mage"
     },
     {
+      "key": "JB_LW_MORE",
+      "value": "Apothecary"
+    },
+    {
+      "key": "JB_LW_MORE_01_M",
+      "value": "Fortuitous Apothecary"
+    },
+    {
       "key": "JB_LW_LLN_FIRE",
       "value": "Trick Lancer"
     },
@@ -1979,6 +2023,26 @@
     {
       "key": "JB_LW_IBRA_M",
       "value": "Delightful Demon"
+    },
+    {
+      "key": "JB_LW_STIA",
+      "value": "Warrior of the Crystals (Fire)"
+    },
+    {
+      "key": "JB_LW_STIA_M",
+      "value": "Warrior of the Surging Flames"
+    },
+    {
+      "key": "JB_LW_LNAN",
+      "value": "Warrior of the Crystals (Lightning)"
+    },
+    {
+      "key": "JB_LW_LNAN_M",
+      "value": "Warrior of the Reverberant Thunder"
+    },
+    {
+      "key": "JB_LW_SCR_THUN",
+      "value": "Devout"
     }
   ]
 }

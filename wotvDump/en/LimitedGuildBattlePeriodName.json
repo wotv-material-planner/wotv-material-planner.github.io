@@ -7,6 +7,14 @@
     {
       "key": "LGBP_GL_2111",
       "value": "November 2021 Limited Guild Battle"
+    },
+    {
+      "key": "LGBP_GL_2202",
+      "value": "February 2022 Limited Guild Battle"
+    },
+    {
+      "key": "LGBP_GL_2203",
+      "value": "March 2022 Limited Guild Battle"
     }
   ]
 }

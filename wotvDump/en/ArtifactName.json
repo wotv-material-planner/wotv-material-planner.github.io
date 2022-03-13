@@ -281,6 +281,30 @@
       "value": "Sword of Light +5"
     },
     {
+      "key": "AF_LW_SWO_025",
+      "value": "Tyrfing"
+    },
+    {
+      "key": "AF_LW_SWO_025_1",
+      "value": "Tyrfing +1"
+    },
+    {
+      "key": "AF_LW_SWO_025_2",
+      "value": "Tyrfing +2"
+    },
+    {
+      "key": "AF_LW_SWO_025_3",
+      "value": "Tyrfing +3"
+    },
+    {
+      "key": "AF_LW_SWO_025_4",
+      "value": "Tyrfing +4"
+    },
+    {
+      "key": "AF_LW_SWO_025_5",
+      "value": "Tyrfing +5"
+    },
+    {
       "key": "AF_LW_SWO_029",
       "value": "Spine Blade"
     },
@@ -921,6 +945,10 @@
       "value": "Stoss Spear +5"
     },
     {
+      "key": "AF_LW_SPE_018",
+      "value": "Customized Lance"
+    },
+    {
       "key": "AF_LW_DAG_000",
       "value": "Bronze Knife"
     },
@@ -1195,6 +1223,30 @@
     {
       "key": "AF_LW_BOW_012_5",
       "value": "Platinum Bow +5"
+    },
+    {
+      "key": "AF_LW_BOW_014",
+      "value": "Bow of the Divine Flame: Dilla"
+    },
+    {
+      "key": "AF_LW_BOW_014_1",
+      "value": "Bow of the Divine Flame: Dilla +1"
+    },
+    {
+      "key": "AF_LW_BOW_014_2",
+      "value": "Bow of the Divine Flame: Dilla +2"
+    },
+    {
+      "key": "AF_LW_BOW_014_3",
+      "value": "Bow of the Divine Flame: Dilla +3"
+    },
+    {
+      "key": "AF_LW_BOW_014_4",
+      "value": "Bow of the Divine Flame: Dilla +4"
+    },
+    {
+      "key": "AF_LW_BOW_014_5",
+      "value": "Bow of the Divine Flame: Dilla +5"
     },
     {
       "key": "AF_LW_GUN_000",
@@ -1473,6 +1525,30 @@
       "value": "Shadow Dragon Staff +5"
     },
     {
+      "key": "AF_LW_ROD_029",
+      "value": "Staff of the Storm Lord: Valgyies"
+    },
+    {
+      "key": "AF_LW_ROD_029_1",
+      "value": "Staff of the Storm Lord: Valgyies +1"
+    },
+    {
+      "key": "AF_LW_ROD_029_2",
+      "value": "Staff of the Storm Lord: Valgyies +2"
+    },
+    {
+      "key": "AF_LW_ROD_029_3",
+      "value": "Staff of the Storm Lord: Valgyies +3"
+    },
+    {
+      "key": "AF_LW_ROD_029_4",
+      "value": "Staff of the Storm Lord: Valgyies +4"
+    },
+    {
+      "key": "AF_LW_ROD_029_5",
+      "value": "Staff of the Storm Lord: Valgyies +5"
+    },
+    {
       "key": "AF_FF10_ROD_000",
       "value": "Magistral Rod"
     },
@@ -1647,6 +1723,30 @@
     {
       "key": "AF_LW_AXE_003_5",
       "value": "Golden Axe +5"
+    },
+    {
+      "key": "AF_LW_AXE_004",
+      "value": "Gigantaxe"
+    },
+    {
+      "key": "AF_LW_AXE_004_1",
+      "value": "Gigantaxe +1"
+    },
+    {
+      "key": "AF_LW_AXE_004_2",
+      "value": "Gigantaxe +2"
+    },
+    {
+      "key": "AF_LW_AXE_004_3",
+      "value": "Gigantaxe +3"
+    },
+    {
+      "key": "AF_LW_AXE_004_4",
+      "value": "Gigantaxe +4"
+    },
+    {
+      "key": "AF_LW_AXE_004_5",
+      "value": "Gigantaxe +5"
     },
     {
       "key": "AF_LW_SHI_000",
@@ -3277,6 +3377,30 @@
       "value": "Whiteweave Surcoat"
     },
     {
+      "key": "AF_CLT_LW_MORE_01_1",
+      "value": "Auspicious Cheongsam"
+    },
+    {
+      "key": "AF_GLO_LW_MORE_01_2",
+      "value": "Pious Gloves"
+    },
+    {
+      "key": "AF_ACC_LW_STIA_1",
+      "value": "Brightflame Mantle"
+    },
+    {
+      "key": "AF_BOW_LW_STIA_2",
+      "value": "Cetia Specific Weapon"
+    },
+    {
+      "key": "AF_ACC_LW_LNAN_1",
+      "value": "Thunderflash Mantle"
+    },
+    {
+      "key": "AF_ROD_LW_LNAN_2",
+      "value": "Staff of the Storm Lord: Valgyies"
+    },
+    {
       "key": "AF_LW_RNG_005",
       "value": "Alexandrite Ring"
     },
@@ -3307,6 +3431,10 @@
     {
       "key": "AF_LW_ARW_005",
       "value": "Luminous Armlet"
+    },
+    {
+      "key": "AF_LW_RNG_008",
+      "value": "Earthen Ring"
     },
     {
       "key": "AF_LW_RNG_009",
@@ -3901,6 +4029,30 @@
       "value": "Dark Gloves +5"
     },
     {
+      "key": "AF_LW_GLO_007",
+      "value": "Pious Gloves"
+    },
+    {
+      "key": "AF_LW_GLO_007_1",
+      "value": "Pious Gloves +1"
+    },
+    {
+      "key": "AF_LW_GLO_007_2",
+      "value": "Pious Gloves +2"
+    },
+    {
+      "key": "AF_LW_GLO_007_3",
+      "value": "Pious Gloves +3"
+    },
+    {
+      "key": "AF_LW_GLO_007_4",
+      "value": "Pious Gloves +4"
+    },
+    {
+      "key": "AF_LW_GLO_007_5",
+      "value": "Pious Gloves +5"
+    },
+    {
       "key": "AF_LW_BOK_000",
       "value": "Military Treatise"
     },
@@ -4175,6 +4327,54 @@
     {
       "key": "AF_FF15_ACC_001_5",
       "value": "Prompto's Wristband +5"
+    },
+    {
+      "key": "AF_LW_ACC_054",
+      "value": "Evilbane Pendant"
+    },
+    {
+      "key": "AF_LW_ACC_054_1",
+      "value": "Evilbane Pendant +1"
+    },
+    {
+      "key": "AF_LW_ACC_054_2",
+      "value": "Evilbane Pendant +2"
+    },
+    {
+      "key": "AF_LW_ACC_054_3",
+      "value": "Evilbane Pendant +3"
+    },
+    {
+      "key": "AF_LW_ACC_054_4",
+      "value": "Evilbane Pendant +4"
+    },
+    {
+      "key": "AF_LW_ACC_054_5",
+      "value": "Evilbane Pendant +5"
+    },
+    {
+      "key": "AF_LW_ACC_037",
+      "value": "White Cape"
+    },
+    {
+      "key": "AF_LW_ACC_037_1",
+      "value": "White Cape +1"
+    },
+    {
+      "key": "AF_LW_ACC_037_2",
+      "value": "White Cape +2"
+    },
+    {
+      "key": "AF_LW_ACC_037_3",
+      "value": "White Cape +3"
+    },
+    {
+      "key": "AF_LW_ACC_037_4",
+      "value": "White Cape +4"
+    },
+    {
+      "key": "AF_LW_ACC_037_5",
+      "value": "White Cape +5"
     },
     {
       "key": "AF_LW_CLT_027",

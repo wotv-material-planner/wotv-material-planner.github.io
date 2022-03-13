@@ -589,12 +589,24 @@
       "value": "A member of Hourne's second division, «Nitor». Born in the east and originally intent on serving in Rundall, she fell in love with Adelard the moment she first laid eyes on him, and found herself siding with Hourne. Ever since she was a child, she has had a strong distaste for magic, which is partially the cause of her ever-confrontational relationship with Adelard's younger sister, Salire."
     },
     {
+      "key": "UN_LW_P_MORE_01",
+      "value": "Look at all these people! And the old town feels like something out of a fairy tale, bathed in the light of those red paper lanterns. Come, hold my hand. We wouldn't want you getting lost. I can still hear the whispered blessings of the stars amongst the constant popping of firecrackers. They are telling me that this day promises to be more wonderful than the last."
+    },
+    {
       "key": "UN_LW_P_LATH_01",
       "value": "I've heard you're supposed to spend these special nights with the ones you care for. I'm on my own, but it's not like I'm lonely or anything. But...if that's true, why do these tears come falling down my cheeks? That's when I hear a knock. I wipe my tears and run to the door. I run because I know it must be you standing on the other side."
     },
     {
       "key": "UN_LW_P_IBRA",
       "value": "A demon who appears in legends of old. Ibara dwells within a tree from which she has observed humanity for centuries. As many began praying to the tree, her essence gradually transitioned into a guardian spirit. Now she has no qualms about using her incredible power to help those counting on her."
+    },
+    {
+      "key": "UN_LW_P_STIA",
+      "value": "The Warrior of the Fire Crystal. While she is always optimistic and full of zest no matter what she faces, her inability to comprehend human frailty often results in those around her being confounded by her straightforward philosophy on life. Answering the call to duty, she embarks on a journey to recover the Core Crystals that have been lost across time and space."
+    },
+    {
+      "key": "UN_LW_P_LNAN",
+      "value": "The Warrior of the Lightning Crystal. Level-headed under any circumstances, he is a natural leader who is always the first to take charge. Deeply trusted by the Will of Light for his role in keeping the unconventional Warriors of the Crystals together, he is both cautious and judicious, and never one to act purely based on mere speculation."
     },
     {
       "key": "UN_LW_E_IRDL",
@@ -1741,6 +1753,26 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_PR_01_MSW",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_01_ASS",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_01_VIK",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_01_BEA",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_01_WGN",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_PR_02_CLR",
       "value": ""
     },
@@ -1770,6 +1802,22 @@
     },
     {
       "key": "UN_LW_E_PR_02_LIB",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_02_CAL",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_02_MMC",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_02_PSI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_02_MKN",
       "value": ""
     },
     {
@@ -2885,6 +2933,26 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_DMCM_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_THDG_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SIRE_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_TYPN_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SHIV_GR1",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_OCHU_QE",
       "value": ""
     },
@@ -3070,6 +3138,14 @@
     },
     {
       "key": "UN_LW_E_LICH",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_BCRD",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_BCRD_SIREN",
       "value": ""
     },
     {
@@ -3965,6 +4041,18 @@
       "value": ""
     },
     {
+      "key": "UN_LW_S_BCRD",
+      "value": "An enormous reptile that has existed since ancient times. Towering over humans with its immense size, it is known for its long neck and tail. It is an extremely territorial creature that will treat anyone who ventures near as an enemy to attack. Blows dealt by its colossal frame are nothing short of terrifying, and some of its kind are known to even be capable of wielding magic."
+    },
+    {
+      "key": "UN_LW_S_BCRD_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_BCRD_AW2",
+      "value": ""
+    },
+    {
       "key": "UN_LW_S_OMEG_AW1",
       "value": ""
     },
@@ -4211,6 +4299,10 @@
     {
       "key": "UN_GM_PPOT",
       "value": "Inflicts Poison for 3 turns to target that triggers trap."
+    },
+    {
+      "key": "UN_GM_CRSPOT_01",
+      "value": "Recovers HP (S) of allies within area around self."
     },
     {
       "key": "UN_LW_E_RU_01_WGN",

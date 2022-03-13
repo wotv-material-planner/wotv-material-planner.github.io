@@ -1198,7 +1198,7 @@
     },
     {
       "key": "JB_LW_ZZAN",
-      "value": "Vanguard Striker Class<br><br>A job that can remove Reraise and inflict status ailments such as Disable while also having the ability to increase the unit's own endurance and Hate in order to take on the role of a tank."
+      "value": "Vanguard Striker Class<br><br>A job that is hard to take down due to its high agility, evasion, and ability to bestow Reraise upon itself."
     },
     {
       "key": "JB_LW_MONT_M",
@@ -1297,6 +1297,10 @@
       "value": "Middle Guard Striker Class<br><br>A bow-wielding job that attacks from a distance. Range increases from high vantage points."
     },
     {
+      "key": "JB_LW_RRIR_M",
+      "value": "Middle Guard Striker Class<br><br>A bow-wielding job that attacks from a distance. Range increases from high vantage points."
+    },
+    {
       "key": "JB_LW_MNK_EX_M",
       "value": "Vanguard Striker Class<br><br>A job that can create chains and deal massive damage with skills such as Pummel and Store."
     },
@@ -1357,6 +1361,14 @@
       "value": "Rearguard Spellcaster Class<br><br>A job that employs Casting Time to deliver high-powered, ranged magic attacks."
     },
     {
+      "key": "JB_LW_SCAL_M",
+      "value": "Rearguard Spellcaster Class<br><br>A job that employs Casting Time to deliver high-powered, ranged magic attacks."
+    },
+    {
+      "key": "JB_LW_RVAL_M",
+      "value": "Rearguard Spellcaster Class<br><br>A job that employs Casting Time to deliver high-powered, ranged magic attacks."
+    },
+    {
       "key": "JB_LW_TIM_EX_M",
       "value": "Rearguard Supporter Class<br><br>A job that can facilitate advantages in battle by manipulating time with spells such as Haste and Slow, controlling how allies and enemies accumulate CT."
     },
@@ -1366,6 +1378,10 @@
     },
     {
       "key": "JB_LW_LMRE_M",
+      "value": "Rearguard Supporter Class<br><br>A job that can facilitate advantages in battle by manipulating time with spells such as Haste and Slow, controlling how allies and enemies accumulate CT."
+    },
+    {
+      "key": "JB_LW_MGRT_M",
       "value": "Rearguard Supporter Class<br><br>A job that can facilitate advantages in battle by manipulating time with spells such as Haste and Slow, controlling how allies and enemies accumulate CT."
     },
     {
@@ -1489,6 +1505,10 @@
       "value": "Rearguard Supporter Class<br><br>A support-type job that protects allies against status ailments and boosts resistances to Light and Dark elements."
     },
     {
+      "key": "JB_LW_KADI_M",
+      "value": "Rearguard Supporter Class<br><br>A support-type job that protects allies against status ailments and boosts resistances to Light and Dark elements."
+    },
+    {
       "key": "JB_FF10_ARON_M",
       "value": "Vanguard Striker Class<br><br>A Job that can handle tank type opponents with high defense by using abilities that destroy physical barriers and support abilities that increase its own DEF piercing rate."
     },
@@ -1565,6 +1585,10 @@
       "value": "Vanguard Striker Class<br><br>A spear-wielding job that compounds on two-panel piercing attacks with the Jump skill. The Dragon's Blade Reaction Ability further enhances fighting sustainability."
     },
     {
+      "key": "JB_LW_LRNZ_M",
+      "value": "Vanguard Striker Class<br><br>A spear-wielding job that compounds on two-panel piercing attacks with the Jump skill. The Dragon's Blade Reaction Ability further enhances fighting sustainability."
+    },
+    {
       "key": "JB_LW_SZRT_M",
       "value": "Vanguard Striker Class<br><br>A job specializing in firepower that consumes HP to employ highly damaging abilities."
     },
@@ -1574,7 +1598,7 @@
     },
     {
       "key": "JB_LW_ZZAN_01_M",
-      "value": "Vanguard Striker Class<br><br>A job that can remove Reraise and inflict status ailments such as Disable while also having the ability to increase the unit's own endurance and Hate in order to take on the role of a tank."
+      "value": "Vanguard Striker Class<br><br>A job that is hard to take down due to its high agility, evasion, and ability to bestow Reraise upon itself."
     },
     {
       "key": "JB_LW_DEAN_M",
@@ -1606,6 +1630,10 @@
     },
     {
       "key": "JB_LW_DRIO_M",
+      "value": "Vanguard Magic Tank Class<br><br>A job with high magical defense that can draw enemy attacks."
+    },
+    {
+      "key": "JB_LW_MRAL_M",
       "value": "Vanguard Magic Tank Class<br><br>A job with high magical defense that can draw enemy attacks."
     },
     {
@@ -1710,6 +1738,10 @@
     },
     {
       "key": "JB_LW_LUCA_M",
+      "value": "Middle Guard Striker Class<br><br>A job that can perform close-ranged attacks in addition to attacking from a distance."
+    },
+    {
+      "key": "JB_LW_LATH_M",
       "value": "Middle Guard Striker Class<br><br>A job that can perform close-ranged attacks in addition to attacking from a distance."
     },
     {
@@ -1897,6 +1929,10 @@
       "value": "Vanguard Magic Attacker Class<br><br>A job that aims to cause a large amount of damage by specializing in attacks that depend on the MAG stat of the user, which can be further increased through magic-strengthening abilities."
     },
     {
+      "key": "JB_LW_HWLT_M",
+      "value": "Vanguard Magic Attacker Class<br><br>A job that aims to cause a large amount of damage by specializing in attacks that depend on the MAG stat of the user, which can be further increased through magic-strengthening abilities."
+    },
+    {
       "key": "JB_FF15_NCTS",
       "value": "Vanguard Striker Class<br><br>A job that can maintain the advantage in battle by means such as utilizing abilities of various attack types and bestowing barriers."
     },
@@ -1957,6 +1993,14 @@
       "value": "Rearguard Spellcaster Class<br><br>A job that can utilize a barrier, HP-absorbing abilities, and more to endure damage while unleashing attacks that cover a wide area."
     },
     {
+      "key": "JB_LW_MORE",
+      "value": "Vanguard Magic Attacker Class<br><br>A job that can bestow Reraise and Regen on itself, and activate various additional effects by inflicting status ailments such as Poison and Paralysis on foes."
+    },
+    {
+      "key": "JB_LW_MORE_01_M",
+      "value": "Vanguard Magic Attacker Class<br><br>A job that can bestow Reraise and Regen on itself, and activate various additional effects by inflicting status ailments such as Poison and Paralysis on foes."
+    },
+    {
       "key": "JB_LW_LLN_FIRE",
       "value": "Vanguard Striker Class<br><br>A spear-wielding job adept at mid-range fighting with its two-panel piercing attacks and an ability that reduces enemy AP on critical hit."
     },
@@ -1979,6 +2023,26 @@
     {
       "key": "JB_LW_IBRA_M",
       "value": "Rearguard Spellcaster Class<br><br>A job that can boost its own stats such as Magic ATK, and deliver powerful area-affecting magical attacks after lowering enemy lightning resistance."
+    },
+    {
+      "key": "JB_LW_STIA",
+      "value": "Middle Guard Striker Class<br><br>A bow-wielding job that can use long-distance attacks that cover a wide area. It is also capable of raising the attack resistances of both its allies and itself."
+    },
+    {
+      "key": "JB_LW_STIA_M",
+      "value": "Middle Guard Striker Class<br><br>A bow-wielding job that can use long-distance attacks that cover a wide area. It is also capable of raising the attack resistances of both its allies and itself."
+    },
+    {
+      "key": "JB_LW_LNAN",
+      "value": "Rearguard Spellcaster Class<br><br>A job with a variety of attacks that can significantly lower reaction activation rates or lower Magic Attack Res, and also improve its durability with a barrier and by boosting its SPR."
+    },
+    {
+      "key": "JB_LW_LNAN_M",
+      "value": "Rearguard Spellcaster Class<br><br>A job with a variety of attacks that can significantly lower reaction activation rates or lower Magic Attack Res, and also improve its durability with a barrier and by boosting its SPR."
+    },
+    {
+      "key": "JB_LW_SCR_THUN",
+      "value": "Rearguard Healer Class<br><br>A job that can restore allies' HP and offer aid such as elemental attack enhancement."
     }
   ]
 }
