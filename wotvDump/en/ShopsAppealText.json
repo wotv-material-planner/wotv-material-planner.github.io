@@ -407,6 +407,18 @@
     {
       "key": "102",
       "value": "<line-height=15>FINAL FANTASY VI<br>Collaboration Shop"
+    },
+    {
+      "key": "103",
+      "value": "<line-height=15>FINAL FANTASY VI<br>Collaboration Part II Shop"
+    },
+    {
+      "key": "104",
+      "value": "<line-height=15>Crystal Festival Shop"
+    },
+    {
+      "key": "105",
+      "value": "<line-height=15>Second Anniversary<br>Part IV Shop"
     }
   ]
 }

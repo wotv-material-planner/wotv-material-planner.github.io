@@ -2837,6 +2837,86 @@
       "value": "Our Common Enemy"
     },
     {
+      "key": "QE_ST_02060101",
+      "value": "What Frustrates the Enemy I"
+    },
+    {
+      "key": "QE_ST_02060102",
+      "value": "What Frustrates the Enemy II"
+    },
+    {
+      "key": "QE_ST_02060103",
+      "value": "Sacrificial Pawns"
+    },
+    {
+      "key": "QE_ST_02060104",
+      "value": "Closed Gates I"
+    },
+    {
+      "key": "QE_ST_02060105",
+      "value": "Closed Gates II"
+    },
+    {
+      "key": "QE_ST_02060106",
+      "value": "Pride and Purpose"
+    },
+    {
+      "key": "QE_ST_02060107",
+      "value": "Sadali's Orders"
+    },
+    {
+      "key": "QE_ST_02060108",
+      "value": "Oberon Returns I"
+    },
+    {
+      "key": "QE_ST_02060109",
+      "value": "Oberon Returns II"
+    },
+    {
+      "key": "QE_ST_02060110",
+      "value": "Living On"
+    },
+    {
+      "key": "QE_ST_02060201",
+      "value": "Malediction"
+    },
+    {
+      "key": "QE_ST_02060202",
+      "value": "To the Sanctum"
+    },
+    {
+      "key": "QE_ST_02060203",
+      "value": "Fighting in Our Own Way I"
+    },
+    {
+      "key": "QE_ST_02060204",
+      "value": "Fighting in Our Own Way II"
+    },
+    {
+      "key": "QE_ST_02060205",
+      "value": "Garvall's Ambitions"
+    },
+    {
+      "key": "QE_ST_02060206",
+      "value": "Two for Trouble"
+    },
+    {
+      "key": "QE_ST_02060207",
+      "value": "Seeking the Same Thing"
+    },
+    {
+      "key": "QE_ST_02060208",
+      "value": "Hostility and Fear I"
+    },
+    {
+      "key": "QE_ST_02060209",
+      "value": "Hostility and Fear II"
+    },
+    {
+      "key": "QE_ST_02060210",
+      "value": "Daria"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Shard Quest: Zazan"
     },
@@ -3217,8 +3297,16 @@
       "value": "Shard Quest: Ranan"
     },
     {
+      "key": "QE_HA_LW_BELS",
+      "value": "Shard Quest: Velis"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "Zazan"
+    },
+    {
+      "key": "QE_CH_LW_ZZAN2",
+      "value": "Zazan (2)"
     },
     {
       "key": "QE_CH_LW_RART",
@@ -3239,6 +3327,10 @@
     {
       "key": "QE_CH_LW_BYLO",
       "value": "Baelo"
+    },
+    {
+      "key": "QE_CH_LW_BYLO2",
+      "value": "Baelo (2)"
     },
     {
       "key": "QE_CH_LW_RYER",
@@ -3281,6 +3373,10 @@
       "value": "Phoebe"
     },
     {
+      "key": "QE_CH_LW_PHBE2",
+      "value": "Phoebe (2)"
+    },
+    {
       "key": "QE_CH_LW_MONT",
       "value": "Mont Leonis"
     },
@@ -3303,6 +3399,10 @@
     {
       "key": "QE_CH_LW_OOOO",
       "value": "Owe"
+    },
+    {
+      "key": "QE_CH_LW_OOOO2",
+      "value": "Owe (2)"
     },
     {
       "key": "QE_CH_LW_LRNZ",
@@ -3409,6 +3509,10 @@
       "value": "Mediena"
     },
     {
+      "key": "QE_CH_LW_MDNA2",
+      "value": "Mediena (2)"
+    },
+    {
       "key": "QE_CH_LW_AYKA",
       "value": "Ayaka"
     },
@@ -3431,6 +3535,10 @@
     {
       "key": "QE_CH_LW_YERM",
       "value": "Yerma"
+    },
+    {
+      "key": "QE_CH_LW_YERM2",
+      "value": "Yerma (2)"
     },
     {
       "key": "QE_CH_LW_WHIS",
@@ -3483,6 +3591,10 @@
     {
       "key": "QE_CH_LW_SIMR",
       "value": "Seymore"
+    },
+    {
+      "key": "QE_CH_LW_SIMR2",
+      "value": "Seymore (2)"
     },
     {
       "key": "QE_CH_LW_QILF",
@@ -3887,6 +3999,10 @@
     {
       "key": "QE_CH_FF6_CLES",
       "value": "Celes"
+    },
+    {
+      "key": "QE_CH_LW_BELS",
+      "value": "Velis"
     },
     {
       "key": "QE_EV_GL_CDOWN_01_9",
@@ -4350,6 +4466,54 @@
     },
     {
       "key": "QE_PT_007_BOSS_2",
+      "value": "Trials of Reckoning Boss Battle — Hard"
+    },
+    {
+      "key": "QE_PT_008_01",
+      "value": "Trials of Reckoning Quest — Normal #1"
+    },
+    {
+      "key": "QE_PT_008_02",
+      "value": "Trials of Reckoning Quest — Normal #2"
+    },
+    {
+      "key": "QE_PT_008_03",
+      "value": "Trials of Reckoning Quest — Normal #3"
+    },
+    {
+      "key": "QE_PT_008_04",
+      "value": "Trials of Reckoning Quest — Normal #4"
+    },
+    {
+      "key": "QE_PT_008_05",
+      "value": "Trials of Reckoning Quest — Normal #5"
+    },
+    {
+      "key": "QE_PT_008_HA01",
+      "value": "Trials of Reckoning Quest — Hard #1"
+    },
+    {
+      "key": "QE_PT_008_HA02",
+      "value": "Trials of Reckoning Quest — Hard #2"
+    },
+    {
+      "key": "QE_PT_008_HA03",
+      "value": "Trials of Reckoning Quest — Hard #3"
+    },
+    {
+      "key": "QE_PT_008_HA04",
+      "value": "Trials of Reckoning Quest — Hard #4"
+    },
+    {
+      "key": "QE_PT_008_HA05",
+      "value": "Trials of Reckoning Quest — Hard #5"
+    },
+    {
+      "key": "QE_PT_008_BOSS_1",
+      "value": "Trials of Reckoning Boss Battle — Normal"
+    },
+    {
+      "key": "QE_PT_008_BOSS_2",
       "value": "Trials of Reckoning Boss Battle — Hard"
     },
     {
@@ -5113,6 +5277,38 @@
       "value": "Brutal Difficulty FINAL FANTASY XIV [EX]"
     },
     {
+      "key": "QE_MU_AEX_114_1",
+      "value": "Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_114_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_113_1",
+      "value": "Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_113_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_112_1",
+      "value": "Another Story Chapter 1, Scene 2 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_112_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 2 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_111_1",
+      "value": "Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_111_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
       "key": "QE_MU_EV_10_EX",
       "value": "The Ancient Tome of Leonis [EX]"
     },
@@ -5151,30 +5347,6 @@
     {
       "key": "QE_MU_EV_ET_EX4",
       "value": "Brutal Difficulty Etre Training Ex-Quest II"
-    },
-    {
-      "key": "QE_MU_AEX_113_1",
-      "value": "Another Story Chapter 1, Scene 3 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_113_2",
-      "value": "Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_112_1",
-      "value": "Another Story Chapter 1, Scene 2 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_112_2",
-      "value": "Brutal Difficulty Another Story Chapter 1, Scene 2 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_111_1",
-      "value": "Another Story Chapter 1, Scene 1 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_111_2",
-      "value": "Brutal Difficulty Another Story Chapter 1, Scene 1 [EX]"
     },
     {
       "key": "QE_EV_14_01",
@@ -6609,6 +6781,14 @@
       "value": "Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
     },
     {
+      "key": "QE_EV_AEX_114_1",
+      "value": "Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
+      "key": "QE_EV_AEX_114_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
       "key": "QE_MU_EV_16_EX",
       "value": "For the Love of a Smile [EX]"
     },
@@ -7329,6 +7509,18 @@
       "value": "Selection Quest (Earth) #10"
     },
     {
+      "key": "QE_BR_SOIL_11",
+      "value": "Selection Quest (Earth) #11"
+    },
+    {
+      "key": "QE_BR_SOIL_12",
+      "value": "Selection Quest (Earth) #12"
+    },
+    {
+      "key": "QE_BR_SOIL_13",
+      "value": "Selection Quest (Earth) #13"
+    },
+    {
       "key": "QE_BR_WIND_01",
       "value": "Selection Quest (Wind) #1"
     },
@@ -7751,6 +7943,14 @@
     {
       "key": "QE_SB_EURP_02",
       "value": "Europa Battle (2)"
+    },
+    {
+      "key": "QE_SB_ODIN_01_01",
+      "value": "Dark Odin Battle"
+    },
+    {
+      "key": "QE_SB_ODIN_01_02",
+      "value": "Dark Odin Battle (2)"
     },
     {
       "key": "QE_SB_MABR_01",
@@ -8977,6 +9177,10 @@
       "value": "Ancient Ruins VII"
     },
     {
+      "key": "QE_ARENA_GL_00016",
+      "value": "Leonis Castle Archives"
+    },
+    {
       "key": "QE_GVG_00001",
       "value": "Arena"
     },
@@ -9149,6 +9353,14 @@
       "value": "Mines Entrance II"
     },
     {
+      "key": "QE_GVG_GL_00026",
+      "value": "Ancient Ruins VIII"
+    },
+    {
+      "key": "QE_GVG_GL_00027",
+      "value": "Hourne Castle Gate"
+    },
+    {
       "key": "QE_PVP_FRE_0001",
       "value": "Plains"
     },
@@ -9247,6 +9459,10 @@
     {
       "key": "QE_PVP_FRE_GL_0021",
       "value": "Ancient Ruins VII"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0022",
+      "value": "Leonis Castle Archives"
     },
     {
       "key": "QE_PVP_FRI_0001",
@@ -9375,6 +9591,10 @@
     {
       "key": "QE_PVP_FRI_0052",
       "value": "Mountain Road II"
+    },
+    {
+      "key": "QE_PVP_FRI_0055",
+      "value": "Ancient Ruins VIII"
     },
     {
       "key": "QE_PVP_FRI_GL_0001",
@@ -9623,6 +9843,10 @@
     {
       "key": "QE_VC_LW_ODIN",
       "value": "Shard Quest: Realm Reaver, Odin"
+    },
+    {
+      "key": "QE_VC_LW_ODIN_01",
+      "value": "Shard Quest: Phantasmic Renderer, Dark Odin"
     },
     {
       "key": "QE_VC_LW_TSLP",
@@ -9999,6 +10223,18 @@
     {
       "key": "QE_VC_LW_EFKS",
       "value": "Shard Quest: Rampaging Orebeast, Elafikeras"
+    },
+    {
+      "key": "QE_VC_LW_CHEL",
+      "value": "Shard Quest: Trembling Heart"
+    },
+    {
+      "key": "QE_GL_EV_COL2022_2",
+      "value": "Challenge Tadluos"
+    },
+    {
+      "key": "QE_GL_EV_COL2022_1",
+      "value": "Challenge Rice"
     },
     {
       "key": "QE_HD_SKIP",

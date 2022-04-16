@@ -997,14 +997,6 @@
       "value": "[Multi] Brutal Difficulty FINAL FANTASY XV [EX3]"
     },
     {
-      "key": "MG_PT_FF6_01_1",
-      "value": "Trials of Reckoning Quest — Normal"
-    },
-    {
-      "key": "MG_PT_FF6_01_2",
-      "value": "Trials of Reckoning Quest — Hard"
-    },
-    {
       "key": "MG_FF6_1_01",
       "value": "FINAL FANTASY VI"
     },
@@ -1091,6 +1083,10 @@
     {
       "key": "MG_GL_LW_ANNV_01",
       "value": "1.5 Year Anniversary Countdown Milestones"
+    },
+    {
+      "key": "MG_GL_LW_COL2022_01",
+      "value": "Take on the Champion of the PvP Tournament!"
     },
     {
       "key": "MG_GL_LW_SNS_01",
@@ -1191,6 +1187,10 @@
     {
       "key": "MG_GL_LW_SNS_25",
       "value": "FFVI Collaboration Milestones"
+    },
+    {
+      "key": "MG_GL_LW_SNS_26",
+      "value": "Velis Release Milestones"
     },
     {
       "key": "MG_EV_SHIV_01",
@@ -1905,6 +1905,14 @@
       "value": "Trials of Reckoning Quest — Hard"
     },
     {
+      "key": "MG_PT_FF6_01_1",
+      "value": "Trials of Reckoning Quest — Normal"
+    },
+    {
+      "key": "MG_PT_FF6_01_2",
+      "value": "Trials of Reckoning Quest — Hard"
+    },
+    {
       "key": "MG_PT_FF10_01_1",
       "value": "Trials of Reckoning Quest — Normal"
     },
@@ -2001,6 +2009,14 @@
       "value": "Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
     },
     {
+      "key": "MG_EV_AEX_0104_1",
+      "value": "Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
+      "key": "MG_EV_AEX_0104_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
       "key": "MG_MU_AEX_0101_1",
       "value": "[Multi] Another Story Chapter 1, Scene 1 [EX]"
     },
@@ -2023,6 +2039,14 @@
     {
       "key": "MG_MU_AEX_0103_2",
       "value": "[Multi] Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "MG_MU_AEX_0104_1",
+      "value": "[Multi] Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
+      "key": "MG_MU_AEX_0104_2",
+      "value": "[Multi] Brutal Difficulty Another Story Chapter 1, Scene 4 [EX]"
     },
     {
       "key": "MG_EV14_1_01",
@@ -2287,6 +2311,34 @@
     {
       "key": "MG_DAILY_033_7",
       "value": "Second Anniversary Countdown Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_035_1",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_035_2",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_035_3",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_035_4",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_035_5",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_035_6",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_035_7",
+      "value": "Trials of Reckoning Support Daily Mission"
     },
     {
       "key": "MG_MONTHLY_001_1",
@@ -2962,6 +3014,34 @@
     },
     {
       "key": "MG_MONTHLY_112_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
+      "key": "MG_MONTHLY_113_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_113_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_113_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_113_4",
+      "value": "[Monthly Mission] EXP Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_113_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_113_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_113_7",
       "value": "[Monthly Mission] Guild Statues"
     },
     {
@@ -3707,6 +3787,54 @@
     {
       "key": "MG_ST_2111_12",
       "value": "Guild Statue"
+    },
+    {
+      "key": "MG_ST_2112_01",
+      "value": "Daily Missions"
+    },
+    {
+      "key": "MG_ST_2112_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2112_03",
+      "value": "Acquire Item (Secret Book of Refinement)"
+    },
+    {
+      "key": "MG_ST_2112_04",
+      "value": "Acquire Item (Gil Snapper)"
+    },
+    {
+      "key": "MG_ST_2112_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2112_06",
+      "value": "Story Quests"
+    },
+    {
+      "key": "MG_ST_2112_07",
+      "value": "Hard Quests"
+    },
+    {
+      "key": "MG_ST_2112_08",
+      "value": "Multi Quests"
+    },
+    {
+      "key": "MG_ST_2112_09",
+      "value": "EXP Chamber"
+    },
+    {
+      "key": "MG_ST_2112_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2112_11",
+      "value": "Chocobo Expeditions"
+    },
+    {
+      "key": "MG_ST_2112_12",
+      "value": "Guild Statues"
     },
     {
       "key": "MG_FF14_1_02_ETC",

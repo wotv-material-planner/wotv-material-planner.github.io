@@ -245,6 +245,14 @@
       "value": "Part 2, Chapter 5, Scene 3"
     },
     {
+      "key": "SE_ST_020601",
+      "value": "Part 2, Chapter 6, Scene 1"
+    },
+    {
+      "key": "SE_ST_020602",
+      "value": "Part 2, Chapter 6, Scene 2"
+    },
+    {
       "key": "SE_WD_010101",
       "value": "Lion's Great Forest"
     },
@@ -357,6 +365,14 @@
       "value": "Equipment Training Quest (Gigantaxe)"
     },
     {
+      "key": "SE_PTQ_FF6_01",
+      "value": "FFVI Collaboration — Trials of Reckoning"
+    },
+    {
+      "key": "SE_GL_EV_COL2022",
+      "value": "Take on the Champion of the PvP Tournament!"
+    },
+    {
       "key": "SE_EV_FF6_01_01",
       "value": "FINAL FANTASY VI Event Quest"
     },
@@ -391,6 +407,38 @@
     {
       "key": "SE_MU_FF14_EX_02",
       "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+    },
+    {
+      "key": "SE_EV_AEX_010401",
+      "value": "Another Story Chapter 1, Scene 4 Ex-Quest"
+    },
+    {
+      "key": "SE_MU_AEX_010401",
+      "value": "[Multi] Another Story Chapter 1, Scene 4 Ex-Quest"
+    },
+    {
+      "key": "SE_EV_AEX_010301",
+      "value": "Another Story Chapter 1, Scene 3 Ex-Quest"
+    },
+    {
+      "key": "SE_MU_AEX_010301",
+      "value": "[Multi] Another Story Chapter 1, Scene 3 Ex-Quest"
+    },
+    {
+      "key": "SE_EV_AEX_010201",
+      "value": "Another Story Chapter 1, Scene 2 Ex-Quest"
+    },
+    {
+      "key": "SE_MU_AEX_010201",
+      "value": "[Multi] Another Story Chapter 1, Scene 2 Ex-Quest"
+    },
+    {
+      "key": "SE_EV_AEX_010101",
+      "value": "Another Story Chapter 1, Scene 1 Ex-Quest"
+    },
+    {
+      "key": "SE_MU_AEX_010101",
+      "value": "[Multi] Another Story Chapter 1, Scene 1 Ex-Quest"
     },
     {
       "key": "SE_EV_AST_010401",
@@ -447,30 +495,6 @@
     {
       "key": "SE_MU_EV_ETRE_EX",
       "value": "[Multi] High Difficulty Etre Training Ex-Quest"
-    },
-    {
-      "key": "SE_EV_AEX_010301",
-      "value": "Another Story Chapter 1, Scene 3 Ex-Quest"
-    },
-    {
-      "key": "SE_MU_AEX_010301",
-      "value": "[Multi] Another Story Chapter 1, Scene 3 Ex-Quest"
-    },
-    {
-      "key": "SE_EV_AEX_010201",
-      "value": "Another Story Chapter 1, Scene 2 Ex-Quest"
-    },
-    {
-      "key": "SE_MU_AEX_010201",
-      "value": "[Multi] Another Story Chapter 1, Scene 2 Ex-Quest"
-    },
-    {
-      "key": "SE_EV_AEX_010101",
-      "value": "Another Story Chapter 1, Scene 1 Ex-Quest"
-    },
-    {
-      "key": "SE_MU_AEX_010101",
-      "value": "[Multi] Another Story Chapter 1, Scene 1 Ex-Quest"
     },
     {
       "key": "SE_EV_GL_ART_CRF_01",

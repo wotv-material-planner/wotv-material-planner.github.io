@@ -635,6 +635,24 @@
       "begin_at": "2022/03/22 18:30:00",
       "end_at": "2022/03/29 23:59:59",
       "bonus_set_id": "BONUS_GL_101"
+    },
+    {
+      "iname": "GL_PERIOD_105",
+      "begin_at": "2022/03/30",
+      "end_at": "2022/04/05 23:59:59",
+      "bonus_set_id": "BONUS_GL_102"
+    },
+    {
+      "iname": "GL_PERIOD_106",
+      "begin_at": "2022/04/06",
+      "end_at": "2022/04/12 23:59:59",
+      "bonus_set_id": "BONUS_GL_103"
+    },
+    {
+      "iname": "GL_PERIOD_107",
+      "begin_at": "2022/04/13",
+      "end_at": "2022/04/19 21:59:59",
+      "bonus_set_id": "BONUS_GL_104"
     }
   ]
 }

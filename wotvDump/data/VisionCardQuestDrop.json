@@ -673,6 +673,18 @@
       ]
     },
     {
+      "iname": "IT_VPI_LW_CHEL",
+      "questlist": [
+        "QE_VC_LW_CHEL"
+      ]
+    },
+    {
+      "iname": "IT_VPI_LW_ODIN_01",
+      "questlist": [
+        "QE_VC_LW_ODIN_01"
+      ]
+    },
+    {
       "iname": "IT_VC_EXP_01",
       "questlist": [
         "QE_EV_VCEXP_01",
@@ -687,6 +699,7 @@
         "QE_VC_LW_GRSR",
         "QE_VC_LW_SHIV",
         "QE_VC_LW_ODIN",
+        "QE_VC_LW_ODIN_01",
         "QE_VC_LW_TSLP",
         "QE_VC_LW_THDG",
         "QE_VC_LW_CBVP1",
@@ -780,7 +793,8 @@
         "QE_VC_LW_DYNVERK",
         "QE_VC_LW_LSWL",
         "QE_VC_LW_LUCA2",
-        "QE_VC_LW_EFKS"
+        "QE_VC_LW_EFKS",
+        "QE_VC_LW_CHEL"
       ]
     },
     {
@@ -820,6 +834,7 @@
         "QE_VC_LW_GRSR",
         "QE_VC_LW_SHIV",
         "QE_VC_LW_ODIN",
+        "QE_VC_LW_ODIN_01",
         "QE_VC_LW_TSLP",
         "QE_VC_LW_THDG",
         "QE_VC_LW_CBVP1",
@@ -913,7 +928,8 @@
         "QE_VC_LW_DYNVERK",
         "QE_VC_LW_LSWL",
         "QE_VC_LW_LUCA2",
-        "QE_VC_LW_EFKS"
+        "QE_VC_LW_EFKS",
+        "QE_VC_LW_CHEL"
       ]
     },
     {
@@ -952,6 +968,7 @@
         "QE_VC_LW_GRSR",
         "QE_VC_LW_SHIV",
         "QE_VC_LW_ODIN",
+        "QE_VC_LW_ODIN_01",
         "QE_VC_LW_TSLP",
         "QE_VC_LW_THDG",
         "QE_VC_LW_CBVP1",
@@ -1045,7 +1062,8 @@
         "QE_VC_LW_DYNVERK",
         "QE_VC_LW_LSWL",
         "QE_VC_LW_LUCA2",
-        "QE_VC_LW_EFKS"
+        "QE_VC_LW_EFKS",
+        "QE_VC_LW_CHEL"
       ]
     },
     {
@@ -1065,6 +1083,7 @@
         "QE_VC_LW_GRSR",
         "QE_VC_LW_SHIV",
         "QE_VC_LW_ODIN",
+        "QE_VC_LW_ODIN_01",
         "QE_VC_LW_TSLP",
         "QE_VC_LW_THDG",
         "QE_VC_LW_CBVP1",
@@ -1158,7 +1177,8 @@
         "QE_VC_LW_DYNVERK",
         "QE_VC_LW_LSWL",
         "QE_VC_LW_LUCA2",
-        "QE_VC_LW_EFKS"
+        "QE_VC_LW_EFKS",
+        "QE_VC_LW_CHEL"
       ]
     }
   ]

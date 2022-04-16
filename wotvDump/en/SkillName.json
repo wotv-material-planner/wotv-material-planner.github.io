@@ -1817,6 +1817,10 @@
       "value": "Armor of Discontinuity"
     },
     {
+      "key": "SK_LW_GLMS_M_3B",
+      "value": "Armor of Discontinuity"
+    },
+    {
       "key": "SK_LW_GLMS_S_4",
       "value": "Excalibur"
     },
@@ -4653,6 +4657,14 @@
       "value": "Umbral Calling"
     },
     {
+      "key": "SK_LW_LIB_ICE_M_2",
+      "value": "Glacial Calling"
+    },
+    {
+      "key": "SK_LW_LIB_ICE_M_2_SUB",
+      "value": "Glacial Calling"
+    },
+    {
       "key": "SK_LW_LIB_M_3",
       "value": "Law of Geoabsorption"
     },
@@ -6677,6 +6689,70 @@
       "value": "Undefeated General's Resolve"
     },
     {
+      "key": "SK_LW_BELS_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_BELS_M_1",
+      "value": "Stars of Swiftness"
+    },
+    {
+      "key": "SK_LW_BELS_M_2",
+      "value": "Ice Healing"
+    },
+    {
+      "key": "SK_LW_BELS_M_3",
+      "value": "Sub Zero"
+    },
+    {
+      "key": "SK_LW_BELS_S_1",
+      "value": "Ice Spike"
+    },
+    {
+      "key": "SK_LW_BELS_S_2",
+      "value": "Ice Blessing"
+    },
+    {
+      "key": "SK_LW_BELS_S_3",
+      "value": "Frost Rift"
+    },
+    {
+      "key": "SK_LW_BELS_S_4",
+      "value": "Lethargic Break"
+    },
+    {
+      "key": "SK_LW_BELS_R_1",
+      "value": "Cold Comfort"
+    },
+    {
+      "key": "SK_LW_BELS_P_1",
+      "value": "Deep Snow"
+    },
+    {
+      "key": "SK_LW_BELS_P_2",
+      "value": "Boreal Bloom"
+    },
+    {
+      "key": "SK_LW_EC_BELS_A_01",
+      "value": "Eternal Frost"
+    },
+    {
+      "key": "SK_LW_EC_BELS_C_01",
+      "value": "Ice Healing Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_BELS_C_01B",
+      "value": "Snow Healing"
+    },
+    {
+      "key": "SK_LW_EC_BELS_C_02",
+      "value": "Deep Snow Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_BELS_C_02B",
+      "value": "Everlasting Snow"
+    },
+    {
       "key": "SK_TOMB_LARA_ATK",
       "value": "Normal Attack"
     },
@@ -7903,6 +7979,30 @@
     {
       "key": "SK_ODIN_R_01",
       "value": "Counter"
+    },
+    {
+      "key": "SK_ODIN_01_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_ODIN_01_M_01",
+      "value": "Inerrant Blade"
+    },
+    {
+      "key": "SK_ODIN_01_M_02",
+      "value": "Rending Resonation"
+    },
+    {
+      "key": "SK_ODIN_01_M_03",
+      "value": "Dark Zantetsuken"
+    },
+    {
+      "key": "SK_ODIN_01_M_04",
+      "value": "Evoke Dark Einherjar"
+    },
+    {
+      "key": "SK_ODIN_01_M_05",
+      "value": "Dark Einherjar"
     },
     {
       "key": "SK_IGNT_ATK",
@@ -9757,6 +9857,10 @@
       "value": "Elegant Spinning Edge"
     },
     {
+      "key": "SK_LB_LW_BELS",
+      "value": "Ice Breaker"
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Hellfire"
     },
@@ -9959,6 +10063,10 @@
     {
       "key": "SK_SMN_EURP",
       "value": "Electro Cannon"
+    },
+    {
+      "key": "SK_SMN_ODIN_01",
+      "value": "Dark Einherjar"
     },
     {
       "key": "SK_UN_BD_EC_HP_200",
@@ -10393,6 +10501,26 @@
       "value": "Nightblade Secret Arts"
     },
     {
+      "key": "SK_LW_EC_MSW_A_02",
+      "value": "Blade of Inertia"
+    },
+    {
+      "key": "SK_LW_EC_MSW_C_03",
+      "value": "Concentration Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_MSW_C_03B",
+      "value": "Concentration: Vitality"
+    },
+    {
+      "key": "SK_LW_EC_MSW_C_04",
+      "value": "Nightblade Mastery Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_MSW_C_04B",
+      "value": "Nightblade's Sequence"
+    },
+    {
       "key": "SK_LW_EC_MMC_A_02",
       "value": "Broken Swords, Shattered Staves"
     },
@@ -10551,6 +10679,26 @@
     {
       "key": "SK_LW_EC_DRG_C_10B",
       "value": "Dragon's Eye"
+    },
+    {
+      "key": "SK_LW_EC_DRG_A_06",
+      "value": "Skip Thrust"
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_11",
+      "value": "Horizontal Jump Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_11B",
+      "value": "Dispelling Jump"
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_12",
+      "value": "HP Up Lv. 1 Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_12B",
+      "value": "Keenlance Mastery"
     },
     {
       "key": "SK_LW_EC_BLM_A_01_ICE",
@@ -10961,6 +11109,10 @@
       "value": "Reflect [Benevolent]"
     },
     {
+      "key": "SK_LW_EC_WHM_A_03",
+      "value": "Mind Enhancer"
+    },
+    {
       "key": "SK_LW_EC_WHM_C_01",
       "value": "Curaga Enhancement"
     },
@@ -10991,6 +11143,22 @@
     {
       "key": "SK_LW_EC_WHM_C_04B",
       "value": "Regen [Benevolent]"
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_05",
+      "value": "Curaga Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_05B",
+      "value": "Curaga [Perseverant]"
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_06",
+      "value": "Regenerator Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_06B",
+      "value": "Regenerator II"
     },
     {
       "key": "SK_LW_EC_GUN_A_01",
@@ -11813,6 +11981,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_MDNA_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_AYKA",
       "value": "Master Ability"
     },
@@ -11850,6 +12022,10 @@
     },
     {
       "key": "SK_MA_LW_OOOO",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_OOOO_2",
       "value": "Master Ability"
     },
     {
@@ -11905,6 +12081,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_BYLO_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_RYER",
       "value": "Master Ability"
     },
@@ -11945,6 +12125,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_PHBE_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_RART",
       "value": "Master Ability"
     },
@@ -11965,6 +12149,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_ZZAN_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_FDRC",
       "value": "Master Ability"
     },
@@ -11974,6 +12162,10 @@
     },
     {
       "key": "SK_MA_LW_YERM",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_YERM_2",
       "value": "Master Ability"
     },
     {
@@ -12070,6 +12262,10 @@
     },
     {
       "key": "SK_MA_LW_SIMR",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_SIMR_2",
       "value": "Master Ability"
     },
     {
@@ -12422,6 +12618,10 @@
     },
     {
       "key": "SK_MA_FF6_CLES",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_BELS",
       "value": "Master Ability"
     },
     {
@@ -13615,6 +13815,10 @@
     {
       "key": "SK_CLT_FF6_CLES_1",
       "value": "Runes of Mind and Destruction"
+    },
+    {
+      "key": "SK_ACC_LW_BELS_1",
+      "value": "Frostweave Vivification"
     },
     {
       "key": "SK_GL_TOMB_LARA_1",
@@ -16917,6 +17121,78 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_CHEL_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P4",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P4AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P4MAX",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_EURP_GS",
       "value": ""
     },
@@ -17190,6 +17466,138 @@
     },
     {
       "key": "SK_VC_LW_ANV2_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2MAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ODIN_01_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ODIN_01_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ODIN_01_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_FF6_MV1_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_FF6_MV1_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_FF6_MV1_P2MAX",
       "value": ""
     },
     {
@@ -22285,6 +22693,26 @@
       "value": "Lion Heart Replica"
     },
     {
+      "key": "SK_LW_FF6_ACC_003_1",
+      "value": "Man Eater Upon Magic Attack 2"
+    },
+    {
+      "key": "SK_LW_FF6_ACC_003_2",
+      "value": "Man Eater Upon Magic Attack 3"
+    },
+    {
+      "key": "SK_LW_FF6_ACC_003_3",
+      "value": "Man Eater Upon Magic Attack 5"
+    },
+    {
+      "key": "SK_LW_FF6_ACC_003_4",
+      "value": "Man Eater Upon Magic Attack 8"
+    },
+    {
+      "key": "SK_LW_FF6_ACC_003_5",
+      "value": "Man Eater Upon Magic Attack 15"
+    },
+    {
       "key": "SK_FF4_ROD_000_1",
       "value": "Shadow Dragon Staff"
     },
@@ -22363,6 +22791,26 @@
     {
       "key": "SK_LW_SPE_018_5",
       "value": "Camillo Spear"
+    },
+    {
+      "key": "SK_LW_HLM_009_1",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_HLM_009_2",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_HLM_009_3",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_HLM_009_4",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_HLM_009_5",
+      "value": "Muraga Helm"
     },
     {
       "key": "SK_SCOC_ATK",

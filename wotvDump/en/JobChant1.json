@@ -1173,6 +1173,10 @@
       "value": ""
     },
     {
+      "key": "JB_LW_LIB_ICE",
+      "value": ""
+    },
+    {
       "key": "JB_LW_LIB_SOIL",
       "value": ""
     },
@@ -1465,6 +1469,10 @@
       "value": ""
     },
     {
+      "key": "JB_LW_PRAY_M",
+      "value": ""
+    },
+    {
       "key": "JB_LW_GUN_EX_M",
       "value": ""
     },
@@ -1545,6 +1553,10 @@
       "value": ""
     },
     {
+      "key": "JB_LW_ELSR_M",
+      "value": ""
+    },
+    {
       "key": "JB_LW_RAIN_M",
       "value": ""
     },
@@ -1594,6 +1606,10 @@
     },
     {
       "key": "JB_LW_LRNZ_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_ALIM_M",
       "value": ""
     },
     {
@@ -2074,6 +2090,14 @@
     },
     {
       "key": "JB_FF6_CLES_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_BELS",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_BELS_M",
       "value": ""
     }
   ]

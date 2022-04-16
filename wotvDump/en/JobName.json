@@ -1173,6 +1173,10 @@
       "value": "Scholar"
     },
     {
+      "key": "JB_LW_LIB_ICE",
+      "value": "Scholar"
+    },
+    {
       "key": "JB_LW_LIB_SOIL",
       "value": "Scholar"
     },
@@ -1465,6 +1469,10 @@
       "value": "White Mage [Benevolent]"
     },
     {
+      "key": "JB_LW_PRAY_M",
+      "value": "White Mage [Perseverant]"
+    },
+    {
       "key": "JB_LW_GUN_EX_M",
       "value": "Gunner EX"
     },
@@ -1545,6 +1553,10 @@
       "value": "Master Lord"
     },
     {
+      "key": "JB_LW_ELSR_M",
+      "value": "Nightblade [Sequencer]"
+    },
+    {
       "key": "JB_LW_RAIN_M",
       "value": "Knight of Blazing Soul"
     },
@@ -1595,6 +1607,10 @@
     {
       "key": "JB_LW_LRNZ_M",
       "value": "Dragoon [Breachlance]"
+    },
+    {
+      "key": "JB_LW_ALIM_M",
+      "value": "Dragoon [Keenlance]"
     },
     {
       "key": "JB_LW_SZRT_M",
@@ -2075,6 +2091,14 @@
     {
       "key": "JB_FF6_CLES_M",
       "value": "Imperial Rune Knight"
+    },
+    {
+      "key": "JB_LW_BELS",
+      "value": "Warrior of the Crystals (Ice)"
+    },
+    {
+      "key": "JB_LW_BELS_M",
+      "value": "Warrior of the Glacial Frost"
     }
   ]
 }

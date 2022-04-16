@@ -389,6 +389,10 @@
       "value": "Unit [Ranan] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_LW_BELS",
+      "value": "Unit [Velis] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -517,6 +521,10 @@
       "value": "Unit [Phoebe] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_PHBE2",
+      "value": "Unit [Phoebe] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_RART",
       "value": "Unit [Learte] is at least Lv. 40"
     },
@@ -587,6 +595,10 @@
     {
       "key": "COND_CH_LW_YERM",
       "value": "Unit [Yerma] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_YERM2",
+      "value": "Unit [Yerma] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_NASR",
@@ -675,6 +687,10 @@
     {
       "key": "COND_CH_LW_SIMR",
       "value": "Unit [Seymore] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_SIMR2",
+      "value": "Unit [Seymore] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_QILF",
@@ -1057,6 +1073,10 @@
       "value": "Vision card [Realm Reaver, Odin] is at least Lv. 1"
     },
     {
+      "key": "COND_VC_LW_OD_01",
+      "value": "Vision card [Phantasmic Renderer, Dark Odin] is at least Lv. 1"
+    },
+    {
       "key": "COND_VC_LW_TSLP",
       "value": "Vision card [Gale-Begetting Heavenly Four, Tetra Sylphid] is at least Lv. 1"
     },
@@ -1433,6 +1453,10 @@
       "value": "Vision card [Rampaging Orebeast, Elafikeras] is at least Lv. 1"
     },
     {
+      "key": "COND_VC_LW_CHEL",
+      "value": "Vision card [Trembling Heart] is at least Lv. 1"
+    },
+    {
       "key": "COND_VC_LW_ARM03",
       "value": "Vision Card [Evil Eye, Golden Ahriman] is at least Lv. 1"
     },
@@ -1503,6 +1527,26 @@
     {
       "key": "COND_CH_CLES",
       "value": "Unit [Celes] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_BELS",
+      "value": "Unit [Velis] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_MDNA2",
+      "value": "Unit [Mediena] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_OOOO2",
+      "value": "Unit [Owe] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_ZZAN2",
+      "value": "Unit [Zazan] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_BYLO2",
+      "value": "Unit [Baelo] is at least Lv. 80"
     }
   ]
 }

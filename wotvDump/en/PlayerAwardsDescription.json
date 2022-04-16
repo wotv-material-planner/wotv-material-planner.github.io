@@ -405,6 +405,30 @@
       "value": "Title given to the players that ranked within the top 100 in the Individual High Score Ranking of the FFXV Collaboration — Trials of Reckoning"
     },
     {
+      "key": "AWD_P_FF06_1",
+      "value": "Title given to the player that ranked 1st in the Individual Total Score Ranking of the FFVI Collaboration — Trials of Reckoning"
+    },
+    {
+      "key": "AWD_P_FF06_2",
+      "value": "Title given to the players that ranked within the top 10 in the Individual Total Score Ranking of the FFVI Collaboration — Trials of Reckoning"
+    },
+    {
+      "key": "AWD_P_FF06_3",
+      "value": "Title given to the players that ranked within the top 100 in the Individual Total Score Ranking of the FFVI Collaboration — Trials of Reckoning"
+    },
+    {
+      "key": "AWD_P_FF06_4",
+      "value": "Title given to the player that ranked 1st in the Individual High Score Ranking of the FFVI Collaboration — Trials of Reckoning"
+    },
+    {
+      "key": "AWD_P_FF06_5",
+      "value": "Title given to the players that ranked within the top 10 in the Individual High Score Ranking of the FFVI Collaboration — Trials of Reckoning"
+    },
+    {
+      "key": "AWD_P_FF06_6",
+      "value": "Title given to the players that ranked within the top 100 in the Individual High Score Ranking of the FFVI Collaboration — Trials of Reckoning"
+    },
+    {
       "key": "AWD_P_Anniv_2",
       "value": "Title given to players that played the game during the Second Anniversary"
     },
@@ -2767,6 +2791,22 @@
     {
       "key": "LW_PA_CH_148_4",
       "value": "Title given to players who have taken Celes on 10,000 Quests"
+    },
+    {
+      "key": "LW_PA_CH_149_1",
+      "value": "Title given to players who have taken Velis on 100 Quests"
+    },
+    {
+      "key": "LW_PA_CH_149_2",
+      "value": "Title given to players who have taken Velis on 500 Quests"
+    },
+    {
+      "key": "LW_PA_CH_149_3",
+      "value": "Title given to players who have taken Velis on 3,000 Quests"
+    },
+    {
+      "key": "LW_PA_CH_149_4",
+      "value": "Title given to players who have taken Velis on 10,000 Quests"
     },
     {
       "key": "LW_PA_CH_150_1",

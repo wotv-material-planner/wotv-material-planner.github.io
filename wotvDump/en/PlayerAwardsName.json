@@ -405,6 +405,30 @@
       "value": "Aw, and I was just getting warmed up."
     },
     {
+      "key": "AWD_P_FF06_1",
+      "value": "The Girl Who Discovered Love"
+    },
+    {
+      "key": "AWD_P_FF06_2",
+      "value": "Imperial Magitek Elite"
+    },
+    {
+      "key": "AWD_P_FF06_3",
+      "value": "Overflowing Magic"
+    },
+    {
+      "key": "AWD_P_FF06_4",
+      "value": "Undefeated General"
+    },
+    {
+      "key": "AWD_P_FF06_5",
+      "value": "The Beauty Who Sang of Love"
+    },
+    {
+      "key": "AWD_P_FF06_6",
+      "value": "Imperial Magitek Knight"
+    },
+    {
       "key": "AWD_P_Anniv_2",
       "value": "Second Anniversary"
     },
@@ -2767,6 +2791,22 @@
     {
       "key": "LW_PA_CH_148_4",
       "value": "Former General of the Gestahlian Empire"
+    },
+    {
+      "key": "LW_PA_CH_149_1",
+      "value": "Velis Fan"
+    },
+    {
+      "key": "LW_PA_CH_149_2",
+      "value": "Velis Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_149_3",
+      "value": "Velis Devotee"
+    },
+    {
+      "key": "LW_PA_CH_149_4",
+      "value": "Sagacious Veteran"
     },
     {
       "key": "LW_PA_CH_150_1",

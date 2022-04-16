@@ -1817,6 +1817,10 @@
       "value": "Bestows a barrier on self that reduces Dmg (3 times)."
     },
     {
+      "key": "SK_LW_GLMS_M_3B",
+      "value": "Bestows a barrier on self that reduces Dmg (3 times) & raises Slash ATK/Accuracy Rate for 3 turns."
+    },
+    {
       "key": "SK_LW_GLMS_S_4",
       "value": "Deals Dmg (L) to target after movement to target panel."
     },
@@ -4653,6 +4657,14 @@
       "value": "Raises Dark Attack/Unit Attack Res of allies within area around self & significantly raises Evocation Gauge Acquisition for 3 turns."
     },
     {
+      "key": "SK_LW_LIB_ICE_M_2",
+      "value": "Raises Ice Attack/Unit Attack Res of allies within area around self & significantly raises Evocation Gauge Acquisition for 3 turns."
+    },
+    {
+      "key": "SK_LW_LIB_ICE_M_2_SUB",
+      "value": "Raises Ice Attack/Unit Attack Res of allies within area around self & significantly raises Evocation Gauge Acquisition for 3 turns."
+    },
+    {
       "key": "SK_LW_LIB_M_3",
       "value": "Deals Dmg (M) to targets within range based on caster's MAG stat & absorbs portion of Dmg dealt."
     },
@@ -6662,11 +6674,11 @@
     },
     {
       "key": "SK_FF6_EC_CLES_C_01",
-      "value": "Enhances Runic Blade to Runic Blade+. Bestows Runic Blade effect on self for 3 turns that negates any reflectable magic that targets allies including self and absorbs a portion of AP/TP consumed (2 spells) & bestows Shell for 3 turns."
+      "value": "Enhances Runic Blade to Runic Blade+. Bestows Runic Blade effect on self for 3 turns that negates any reflectable magic that targets allies including self and absorbs a portion of AP/TP consumed (2 spells) & bestows Protect/Shell for 3 turns."
     },
     {
       "key": "SK_FF6_EC_CLES_C_01B",
-      "value": "Bestows Runic Blade effect on self for 3 turns that negates any reflectable magic that targets allies including self and absorbs a portion of AP/TP consumed (2 spells) & bestows Shell for 3 turns."
+      "value": "Bestows Runic Blade effect on self for 3 turns that negates any reflectable magic that targets allies including self and absorbs a portion of AP/TP consumed (2 spells) & bestows Protect/Shell for 3 turns."
     },
     {
       "key": "SK_FF6_EC_CLES_C_02",
@@ -6675,6 +6687,70 @@
     {
       "key": "SK_FF6_EC_CLES_C_02B",
       "value": "Raises DEF/SPR/Hate."
+    },
+    {
+      "key": "SK_LW_BELS_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_BELS_M_1",
+      "value": "Bestows Haste on self and ally for 3 turns."
+    },
+    {
+      "key": "SK_LW_BELS_M_2",
+      "value": "Recovers HP (M) of allies within range."
+    },
+    {
+      "key": "SK_LW_BELS_M_3",
+      "value": "Lowers target's Ice Res for 3 turns, then deals Dmg (L) based on caster's MAG stat."
+    },
+    {
+      "key": "SK_LW_BELS_S_1",
+      "value": "Deals Dmg (S) to target based on caster's MAG stat."
+    },
+    {
+      "key": "SK_LW_BELS_S_2",
+      "value": "Raises own MAG for 3 turns & bestows status effects (Protect/Shell)."
+    },
+    {
+      "key": "SK_LW_BELS_S_3",
+      "value": "Deals Dmg (M) to targets within range based on caster's MAG stat & chance of inflicting Frostbite for 3 turns & raises activation rate if user is affected by Haste."
+    },
+    {
+      "key": "SK_LW_BELS_S_4",
+      "value": "Lowers AP of targets within range & lowers CT (S)."
+    },
+    {
+      "key": "SK_LW_BELS_R_1",
+      "value": "Chance of Counterattack when taking Dmg & absorbs Dmg dealt."
+    },
+    {
+      "key": "SK_LW_BELS_P_1",
+      "value": "Raises SPR/Healing Power."
+    },
+    {
+      "key": "SK_LW_BELS_P_2",
+      "value": "Raises MAG."
+    },
+    {
+      "key": "SK_LW_EC_BELS_A_01",
+      "value": "Raises own SPR Piercing Rate for 3 turns, then deals Dmg (L) to targets within range based on caster's MAG stat."
+    },
+    {
+      "key": "SK_LW_EC_BELS_C_01",
+      "value": "Enhances Ice Healing to Snow Healing. Reduces Activation Time. Recovers HP (M) of allies within range & recovers AP."
+    },
+    {
+      "key": "SK_LW_EC_BELS_C_01B",
+      "value": "Recovers HP (M) of allies within range & recovers AP."
+    },
+    {
+      "key": "SK_LW_EC_BELS_C_02",
+      "value": "Enhances Deep Snow to Everlasting Snow. Raises SPR/Healing Power/Area Attack Res."
+    },
+    {
+      "key": "SK_LW_EC_BELS_C_02B",
+      "value": "Raises SPR/Healing Power/Area Attack Res."
     },
     {
       "key": "SK_TOMB_LARA_ATK",
@@ -7903,6 +7979,30 @@
     {
       "key": "SK_ODIN_R_01",
       "value": "High chance of dealing Magic Dmg to units within area around self when taking Magic Dmg."
+    },
+    {
+      "key": "SK_ODIN_01_ATK",
+      "value": ""
+    },
+    {
+      "key": "SK_ODIN_01_M_01",
+      "value": "Bestows Guaranteed Hit on self for 5 turns."
+    },
+    {
+      "key": "SK_ODIN_01_M_02",
+      "value": "Deals Non-Elemental Phys Dmg (M) to enemies within target area."
+    },
+    {
+      "key": "SK_ODIN_01_M_03",
+      "value": "Deals Non-Elemental Phys Dmg (M) to enemies within target area & chance of inflicting Instant Death."
+    },
+    {
+      "key": "SK_ODIN_01_M_04",
+      "value": "Raises own MAG & uses Dark Einherjar next turn."
+    },
+    {
+      "key": "SK_ODIN_01_M_05",
+      "value": "Deals Non-Elemental Magic Dmg (L) to enemies within target area around self & chance of inflicting Poison for 3 turns."
     },
     {
       "key": "SK_IGNT_ATK",
@@ -9757,6 +9857,10 @@
       "value": "Deals Dmg (L) to targets within range based on caster's MAG stat & raises own All Attack Res for 3 turns."
     },
     {
+      "key": "SK_LB_LW_BELS",
+      "value": "Deals Dmg (L) to targets within range based on caster's MAG stat & Guaranteed Hit & bestows a barrier on self that reduces Phys Dmg (3 times)."
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Evokes Ifrit, deals Fire Dmg (Max) to targets within range & activates temporary Map Effects (raises allies' ATK/MAG & significantly lowers enemies' Fire Res)."
     },
@@ -9959,6 +10063,10 @@
     {
       "key": "SK_SMN_EURP",
       "value": "Evokes Europa, destroys any barrier that reduces Dmg on targets, then deals Lightning Dmg (XL) to targets within range & activates temporary Map Effects (raises allies' ATK/MAG & increases effect for Lightning units & significantly lowers enemies' Lightning Res)."
+    },
+    {
+      "key": "SK_SMN_ODIN_01",
+      "value": "Evokes Dark Odin, deals Non-Elemental Dmg (L) to targets within range & chance of inflicting Poison for 3 turns & activates temporary Map Effects (raises allies' ATK/MAG)."
     },
     {
       "key": "SK_UN_BD_EC_HP_200",
@@ -10393,6 +10501,26 @@
       "value": "Raises ATK/Accuracy Rate/Healing Power & lowers Evasion Rate."
     },
     {
+      "key": "SK_LW_EC_MSW_A_02",
+      "value": "Deals Dmg (M) to target & lowers AGI for 3 turns & raises AP Consumption."
+    },
+    {
+      "key": "SK_LW_EC_MSW_C_03",
+      "value": "Enhances Concentration to Concentration: Vitality. Significantly raises Slash ATK of allies within area around self for 3 turns & raises own DEF Piercing Rate for 3 turns & recovers AP."
+    },
+    {
+      "key": "SK_LW_EC_MSW_C_03B",
+      "value": "Significantly raises Slash ATK of allies within area around self for 3 turns & raises own DEF Piercing Rate for 3 turns & recovers AP."
+    },
+    {
+      "key": "SK_LW_EC_MSW_C_04",
+      "value": "Enhances Nightblade Mastery to Nightblade's Sequence. Raises ATK/Accuracy Rate & lowers AP Consumption & lowers Evasion Rate. "
+    },
+    {
+      "key": "SK_LW_EC_MSW_C_04B",
+      "value": "Raises ATK/Accuracy Rate & lowers AP Consumption & lowers Evasion Rate."
+    },
+    {
       "key": "SK_LW_EC_MMC_A_02",
       "value": "Deals Dmg (M) to targets within range based on caster's MAG stat & significantly lowers Slash/Magic ATK for 3 turns."
     },
@@ -10551,6 +10679,26 @@
     {
       "key": "SK_LW_EC_DRG_C_10B",
       "value": "Raises own ATK/Accuracy Rate for 3 turns."
+    },
+    {
+      "key": "SK_LW_EC_DRG_A_06",
+      "value": "Deals Dmg (M) to targets within area around self after moving to target panel & recovers own AP upon Critical Hit."
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_11",
+      "value": "Enhances Horizontal Jump to Dispelling Jump. Target Lock-on. Deals Dmg (L) to target after Jump delay & removes all Buffs upon Critical Hit."
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_11B",
+      "value": "Deals Dmg (L) to target after Jump delay & removes all Buffs upon Critical Hit."
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_12",
+      "value": "Enhances HP Up Lv. 1 to Keenlance Mastery. Raises Max HP/Critical Hit Rate/Evasion Rate."
+    },
+    {
+      "key": "SK_LW_EC_DRG_C_12B",
+      "value": "Raises Max HP/Critical Hit Rate/Evasion Rate."
     },
     {
       "key": "SK_LW_EC_BLM_A_01_ICE",
@@ -10961,6 +11109,10 @@
       "value": "Bestows Reflect (1 spell only) on ally for 3 turns & raises own Healing Power for 3 turns."
     },
     {
+      "key": "SK_LW_EC_WHM_A_03",
+      "value": "Raises SPR/SPR Debuff Res of allies within area around self for 3 turns & raises own Healing Power for 3 turns."
+    },
+    {
       "key": "SK_LW_EC_WHM_C_01",
       "value": "Enhances Curaga to Curaga [Panacea]. Recovers HP (M) of allies within range & recovers AP."
     },
@@ -10991,6 +11143,22 @@
     {
       "key": "SK_LW_EC_WHM_C_04B",
       "value": "Bestows Regen on allies within range for 3 turns."
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_05",
+      "value": "Enhances Curaga to Curaga [Perseverant]. Recovers HP (M) of allies within range & raises Area Attack Res for 3 turns."
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_05B",
+      "value": "Recovers HP (M) of allies within range & raises Area Attack Res for 3 turns."
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_06",
+      "value": "Enhances Regenerator to Regenerator II. Raises chance/amount of HP Recovery."
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_06B",
+      "value": "Chance of bestowing Regen on self for 3 turns when taking Dmg."
     },
     {
       "key": "SK_LW_EC_GUN_A_01",
@@ -11813,6 +11981,10 @@
       "value": "MAG +30%"
     },
     {
+      "key": "SK_MA_LW_MDNA_2",
+      "value": "Ice Unit Allies' Max HP +10%/Ice Attack +15, own MAG +40%/Magic Attack Res +20/Cosmo Plume Range/Range Height +1"
+    },
+    {
       "key": "SK_MA_LW_AYKA",
       "value": "Max HP +10%, Stop Res +20"
     },
@@ -11822,7 +11994,7 @@
     },
     {
       "key": "SK_MA_LW_GLMS_2",
-      "value": "HP +1,000, Accuracy Rate +15, <br>Slash ATK +10, AGI +10%"
+      "value": "Ice Unit Allies' Max HP +10%/Ice Attack +15, own HP +1,250/Accuracy Rate +15/Slash ATK +10/AGI +10%/enhances Armor of Discontinuity. Bestows a barrier on self that reduces Dmg (3 times) & raises Slash ATK/Accuracy Rate for 3 turns."
     },
     {
       "key": "SK_MA_LW_MACR",
@@ -11851,6 +12023,10 @@
     {
       "key": "SK_MA_LW_OOOO",
       "value": "ATK +20%, Evasion Rate +15"
+    },
+    {
+      "key": "SK_MA_LW_OOOO_2",
+      "value": "Lightning Allies' Max HP +10%/Paralysis Res +25, own ATK +20%/Evasion Rate +25/DEF Piercing Rate +20"
     },
     {
       "key": "SK_MA_LW_LRNZ",
@@ -11905,6 +12081,10 @@
       "value": "AGI +10%, Luck +30%"
     },
     {
+      "key": "SK_MA_LW_BYLO_2",
+      "value": "AGI +10%/Luck +30%/DEF +10/SPR +10"
+    },
+    {
       "key": "SK_MA_LW_RYER",
       "value": "MAG +20%, Light Eater +25"
     },
@@ -11945,6 +12125,10 @@
       "value": "AGI +20%, Move +1"
     },
     {
+      "key": "SK_MA_LW_PHBE_2",
+      "value": "Area Attack Res +20, AGI +20%, Move +1"
+    },
+    {
       "key": "SK_MA_LW_RART",
       "value": "Accuracy Rate +50, Aquatic Killer +50"
     },
@@ -11965,6 +12149,10 @@
       "value": "DEX +15%, Move +1, Jump +2"
     },
     {
+      "key": "SK_MA_LW_ZZAN_2",
+      "value": "DEX +15%/Move +1/Jump +2/Man Eater +20"
+    },
+    {
       "key": "SK_MA_LW_FDRC",
       "value": "Missile ATK +15"
     },
@@ -11975,6 +12163,10 @@
     {
       "key": "SK_MA_LW_YERM",
       "value": "Critical Dmg +15%, Accuracy Rate +10"
+    },
+    {
+      "key": "SK_MA_LW_YERM_2",
+      "value": "Wind Unit Allies' Max HP +10%/Wind Attack +15, own DEF Piercing Rate +40/Critical Dmg +15%/Accuracy Rate +10/enhances Soaring Axe Slash: Lowers target's Unit Attack Res for 3 turns, then deals Dmg (L) & raises own Unit Attack Res for 3 turns & will survive fatal Dmg to self 1 time."
     },
     {
       "key": "SK_MA_LW_P_RAMD_01",
@@ -12071,6 +12263,10 @@
     {
       "key": "SK_MA_LW_SIMR",
       "value": "ATK +10%, Accuracy Rate +30"
+    },
+    {
+      "key": "SK_MA_LW_SIMR_2",
+      "value": "Fire Allies' Max HP +10%/Stop Res +25, own ATK +20%/DEF Piercing Rate +30/Accuracy Rate +30"
     },
     {
       "key": "SK_MA_LW_ORDR",
@@ -12423,6 +12619,10 @@
     {
       "key": "SK_MA_FF6_CLES",
       "value": "Water Unit Allies' Max HP +10%/Water Attack +15, own SPR +5/HP +15%"
+    },
+    {
+      "key": "SK_MA_LW_BELS",
+      "value": "Ice Unit Allies' Max HP +10%/Ice Attack +15, own Hate -3/Activation Time -30%"
     },
     {
       "key": "SK_LW_SLASH_1",
@@ -13615,6 +13815,10 @@
     {
       "key": "SK_CLT_FF6_CLES_1",
       "value": "Raises SPR of allies within area around self for 3 turns & nullifies Silence/Paralysis/Berserk."
+    },
+    {
+      "key": "SK_ACC_LW_BELS_1",
+      "value": "Recovers AP of allies within area around self & lowers AP Consumption for 3 turns."
     },
     {
       "key": "SK_GL_TOMB_LARA_1",
@@ -16917,6 +17121,78 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_CHEL_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CHEL_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P4",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P4AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_CHEL_P4MAX",
+      "value": ""
+    },
+    {
       "key": "SK_VC_LW_EURP_GS",
       "value": ""
     },
@@ -17190,6 +17466,138 @@
     },
     {
       "key": "SK_VC_LW_ANV2_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_GS2MAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ODIN_01_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ODIN_01_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ODIN_01_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ODIN_01_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF6_MV1_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_FF6_MV1_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_FF6_MV1_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_FF6_MV1_P2MAX",
       "value": ""
     },
     {
@@ -22285,6 +22693,26 @@
       "value": "Thancred Specific Passive Ability"
     },
     {
+      "key": "SK_LW_FF6_ACC_003_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FF6_ACC_003_2",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FF6_ACC_003_3",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FF6_ACC_003_4",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_FF6_ACC_003_5",
+      "value": ""
+    },
+    {
       "key": "SK_FF4_ROD_000_1",
       "value": ""
     },
@@ -22363,6 +22791,26 @@
     {
       "key": "SK_LW_SPE_018_5",
       "value": "Camillo Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_HLM_009_1",
+      "value": "Muraga Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_HLM_009_2",
+      "value": "Muraga Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_HLM_009_3",
+      "value": "Muraga Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_HLM_009_4",
+      "value": "Muraga Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_HLM_009_5",
+      "value": "Muraga Specific Passive Ability"
     },
     {
       "key": "SK_SCOC_ATK",

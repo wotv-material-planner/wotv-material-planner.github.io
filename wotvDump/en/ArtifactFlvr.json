@@ -3513,6 +3513,14 @@
       "value": "A military uniform of vivid yellow and navy blue from a faraway world. It was worn by a former general who rebelled against the Gestahlian Empire when it tried to impose its tyrannical rule on the world. A military woman to the core, she rarely spoke of the feelings in her heart, but when she joined the Returners in their struggle against the Empire and spent time alongside Locke and his comrades, she gradually began to discover and embrace the feelings hidden in her heart."
     },
     {
+      "key": "AF_ACC_LW_BELS_1",
+      "value": "A mantle belonging to Velis, a Warrior of the Crystals. The wearer is granted the blessing of deep-woven frost. Laced with crystals of ice, this garment glistens under sunlight. When infused with magical energy, the surrounding temperature plummets along with the movement speed and mental power of any beings who draw near. It allows the advantage of unshakeable composure and deductive prowess that cannot be matched. The mantle was imbued with the Will of Light's wishes for Velis to become a warrior who can analyze pertinent information from the rear and protect his allies. Though he constantly complains, he has never failed to meet the Will of Light's expectations."
+    },
+    {
+      "key": "AF_BOK_LW_BELS_2",
+      "value": "A book belonging to Velis, a Warrior of the Crystals. Though nothing is recorded on the white pages within this blue tome and its icy aesthetic, cryptic writing materializes upon the activation of magic. The content of said writing differs with each appearance, and only Velis is able to decipher its meaning. Controlling the tome's magic is an arduous task once it's unleashed, and one touch is all it takes for an amateur to suffer an icy death as their body and soul are instantaneously frozen solid. As such, this manner of book is normally designated as forbidden. It also bears a strong sentience that is short-tempered and vicious, making it difficult to use, but it is obedient to Velis. In fact, it has taken quite a liking to him."
+    },
+    {
       "key": "AF_DAG_FF6_LOCK_2",
       "value": ""
     },
@@ -3619,6 +3627,10 @@
     {
       "key": "AF_LW_HLM_005_5",
       "value": "A sleek and lightweight silver helm that gives the wearer excellent protection, it is a piece of equipment that every soldier wishes to obtain someday. The part covering the eyes can be slid up like a visor."
+    },
+    {
+      "key": "AF_LW_HLM_009",
+      "value": "When Muraga was thirteen, the small village in which he lived was attacked by a gang of brigands infamous in Fennes at the time. The gang was led by a powerful warrior whom Muraga fought in order to protect his home. Muraga stood victorious after their battle to the death, claiming this helm worn by the brigand—his first kill. It was far too large for Muraga's small frame, but he would go on to wear it throughout countless bloody battles. Time passed and Muraga grew to become a gargantuan figure, but even on the day he assumed rulership of Fennes, the great helm's golden glow was no less lustrous than when he first claimed it."
     },
     {
       "key": "AF_LW_SWO_023",
@@ -4261,6 +4273,30 @@
       "value": "This ancient volume contains the legends of \"Ibara,\" a demon who answers the prayers of mortals. It is currently in the possession of Ibara herself, who claims that \"there is no finer weapon, after all, than one's own legacy.\""
     },
     {
+      "key": "AF_LW_BOK_008",
+      "value": "A book belonging to Velis, a Warrior of the Crystals. Though nothing is recorded on the white pages within this blue tome and its icy aesthetic, cryptic writing materializes upon the activation of magic. The content of said writing differs with each appearance, and only Velis is able to decipher its meaning. Controlling the tome's magic is an arduous task once it's unleashed, and one touch is all it takes for an amateur to suffer an icy death as their body and soul are instantaneously frozen solid. As such, this manner of book is normally designated as forbidden. It also bears a strong sentience that is short-tempered and vicious, making it difficult to use, but it is obedient to Velis. In fact, it has taken quite a liking to him."
+    },
+    {
+      "key": "AF_LW_BOK_008_1",
+      "value": "A book belonging to Velis, a Warrior of the Crystals. Though nothing is recorded on the white pages within this blue tome and its icy aesthetic, cryptic writing materializes upon the activation of magic. The content of said writing differs with each appearance, and only Velis is able to decipher its meaning. Controlling the tome's magic is an arduous task once it's unleashed, and one touch is all it takes for an amateur to suffer an icy death as their body and soul are instantaneously frozen solid. As such, this manner of book is normally designated as forbidden. It also bears a strong sentience that is short-tempered and vicious, making it difficult to use, but it is obedient to Velis. In fact, it has taken quite a liking to him."
+    },
+    {
+      "key": "AF_LW_BOK_008_2",
+      "value": "A book belonging to Velis, a Warrior of the Crystals. Though nothing is recorded on the white pages within this blue tome and its icy aesthetic, cryptic writing materializes upon the activation of magic. The content of said writing differs with each appearance, and only Velis is able to decipher its meaning. Controlling the tome's magic is an arduous task once it's unleashed, and one touch is all it takes for an amateur to suffer an icy death as their body and soul are instantaneously frozen solid. As such, this manner of book is normally designated as forbidden. It also bears a strong sentience that is short-tempered and vicious, making it difficult to use, but it is obedient to Velis. In fact, it has taken quite a liking to him."
+    },
+    {
+      "key": "AF_LW_BOK_008_3",
+      "value": "A book belonging to Velis, a Warrior of the Crystals. Though nothing is recorded on the white pages within this blue tome and its icy aesthetic, cryptic writing materializes upon the activation of magic. The content of said writing differs with each appearance, and only Velis is able to decipher its meaning. Controlling the tome's magic is an arduous task once it's unleashed, and one touch is all it takes for an amateur to suffer an icy death as their body and soul are instantaneously frozen solid. As such, this manner of book is normally designated as forbidden. It also bears a strong sentience that is short-tempered and vicious, making it difficult to use, but it is obedient to Velis. In fact, it has taken quite a liking to him."
+    },
+    {
+      "key": "AF_LW_BOK_008_4",
+      "value": "A book belonging to Velis, a Warrior of the Crystals. Though nothing is recorded on the white pages within this blue tome and its icy aesthetic, cryptic writing materializes upon the activation of magic. The content of said writing differs with each appearance, and only Velis is able to decipher its meaning. Controlling the tome's magic is an arduous task once it's unleashed, and one touch is all it takes for an amateur to suffer an icy death as their body and soul are instantaneously frozen solid. As such, this manner of book is normally designated as forbidden. It also bears a strong sentience that is short-tempered and vicious, making it difficult to use, but it is obedient to Velis. In fact, it has taken quite a liking to him."
+    },
+    {
+      "key": "AF_LW_BOK_008_5",
+      "value": "A book belonging to Velis, a Warrior of the Crystals. Though nothing is recorded on the white pages within this blue tome and its icy aesthetic, cryptic writing materializes upon the activation of magic. The content of said writing differs with each appearance, and only Velis is able to decipher its meaning. Controlling the tome's magic is an arduous task once it's unleashed, and one touch is all it takes for an amateur to suffer an icy death as their body and soul are instantaneously frozen solid. As such, this manner of book is normally designated as forbidden. It also bears a strong sentience that is short-tempered and vicious, making it difficult to use, but it is obedient to Velis. In fact, it has taken quite a liking to him."
+    },
+    {
       "key": "AF_LW_SWO_005",
       "value": "A sword said to have been tempered by the flames of a fairy. While this uniquely-shaped blade constantly immolates, its wielder oddly feels no heat from it. However, enemies struck by this sword are engulfed in an inextinguishable flame, said to burn until nothing but ash remains."
     },
@@ -4503,6 +4539,30 @@
     {
       "key": "AF_LW_ACC_037_5",
       "value": "A pure-white cape made of a lustrous fabric that is pleasant to the touch, carefully sewn with gold thread. As this opulent accessory is so light that it does not impede its wearer's movement in any way, it is a favorite among mages who need to focus on their incantations when casting magic."
+    },
+    {
+      "key": "AF_FF6_ACC_003",
+      "value": "A purple ribbon from a faraway world. It was worn by a young woman who was part-esper, part-human, and said to be born with magical powers. She once demonstrated her might wiping out a battalion of fifty soldiers in only three minutes, leaving not a single foe standing. As splendid as this ribbon may be, it is unlikely to have been the source of her powers."
+    },
+    {
+      "key": "AF_FF6_ACC_003_1",
+      "value": "A purple ribbon from a faraway world. It was worn by a young woman who was part-esper, part-human, and said to be born with magical powers. She once demonstrated her might wiping out a battalion of fifty soldiers in only three minutes, leaving not a single foe standing. As splendid as this ribbon may be, it is unlikely to have been the source of her powers."
+    },
+    {
+      "key": "AF_FF6_ACC_003_2",
+      "value": "A purple ribbon from a faraway world. It was worn by a young woman who was part-esper, part-human, and said to be born with magical powers. She once demonstrated her might wiping out a battalion of fifty soldiers in only three minutes, leaving not a single foe standing. As splendid as this ribbon may be, it is unlikely to have been the source of her powers."
+    },
+    {
+      "key": "AF_FF6_ACC_003_3",
+      "value": "A purple ribbon from a faraway world. It was worn by a young woman who was part-esper, part-human, and said to be born with magical powers. She once demonstrated her might wiping out a battalion of fifty soldiers in only three minutes, leaving not a single foe standing. As splendid as this ribbon may be, it is unlikely to have been the source of her powers."
+    },
+    {
+      "key": "AF_FF6_ACC_003_4",
+      "value": "A purple ribbon from a faraway world. It was worn by a young woman who was part-esper, part-human, and said to be born with magical powers. She once demonstrated her might wiping out a battalion of fifty soldiers in only three minutes, leaving not a single foe standing. As splendid as this ribbon may be, it is unlikely to have been the source of her powers."
+    },
+    {
+      "key": "AF_FF6_ACC_003_5",
+      "value": "A purple ribbon from a faraway world. It was worn by a young woman who was part-esper, part-human, and said to be born with magical powers. She once demonstrated her might wiping out a battalion of fifty soldiers in only three minutes, leaving not a single foe standing. As splendid as this ribbon may be, it is unlikely to have been the source of her powers."
     },
     {
       "key": "AF_LW_CLT_027",
