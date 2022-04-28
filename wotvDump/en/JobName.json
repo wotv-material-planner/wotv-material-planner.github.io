@@ -1113,6 +1113,10 @@
       "value": "Pugilist"
     },
     {
+      "key": "JB_LW_BEA_THUN",
+      "value": "Pugilist"
+    },
+    {
       "key": "JB_LW_MSW",
       "value": "Nightblade"
     },
@@ -1211,6 +1215,10 @@
     {
       "key": "JB_LW_ZZAN",
       "value": "Undying Fighter"
+    },
+    {
+      "key": "JB_LW_ASTR",
+      "value": "Willweaver"
     },
     {
       "key": "JB_LW_MONT_M",
@@ -2099,6 +2107,38 @@
     {
       "key": "JB_LW_BELS_M",
       "value": "Warrior of the Glacial Frost"
+    },
+    {
+      "key": "JB_LW_ESTR",
+      "value": "Precursor"
+    },
+    {
+      "key": "JB_LW_ESTR_M",
+      "value": "Storm Seeker"
+    },
+    {
+      "key": "JB_PRS5_JOKR",
+      "value": "Wild Card"
+    },
+    {
+      "key": "JB_PRS5_JOKR_M",
+      "value": "Wild Card"
+    },
+    {
+      "key": "JB_PRS5_QUEN",
+      "value": "Priestess"
+    },
+    {
+      "key": "JB_PRS5_QUEN_M",
+      "value": "Priestess"
+    },
+    {
+      "key": "JB_PRS5_VOLT",
+      "value": "Faith"
+    },
+    {
+      "key": "JB_PRS5_VOLT_M",
+      "value": "Faith"
     }
   ]
 }

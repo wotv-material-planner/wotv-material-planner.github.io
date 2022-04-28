@@ -13878,6 +13878,71 @@
       ]
     },
     {
+      "iname": "JM_EX_ESTR_M",
+      "items": [
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 80
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_LW_ESTR",
+            "num": 120
+          }
+        }
+      ]
+    },
+    {
       "iname": "JM_EX_ELSR_M",
       "items": [
         {
@@ -14067,6 +14132,71 @@
         {
           "m1": {
             "iname": "IT_SP_LW_PRAY",
+            "num": 120
+          }
+        }
+      ]
+    },
+    {
+      "iname": "JM_EX_PRS5UR_M",
+      "items": [
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 20
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 80
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
+            "num": 40
+          }
+        },
+        {
+          "m1": {
+            "iname": "IT_SP_PRS5_UR",
             "num": 120
           }
         }

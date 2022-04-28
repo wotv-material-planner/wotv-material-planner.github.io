@@ -1673,6 +1673,26 @@
       "value": "An item required to enhance a Job (Undying Fighter) at Lv. 15"
     },
     {
+      "key": "IT_JB_MM_ASTR",
+      "value": "An item required to enhance a Job (Willweaver) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_ASTR_2",
+      "value": "An item required to enhance a Job (Willweaver) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_ASTR_3",
+      "value": "An item required to enhance a Job (Willweaver) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_ASTR_4",
+      "value": "An item required to enhance a Job (Willweaver) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_ASTR_5",
+      "value": "An item required to enhance a Job (Willweaver) at Lv. 15"
+    },
+    {
       "key": "IT_JB_MM_LW_CRLT",
       "value": "An item required to enhance a Job (Knight of the Sacred Shield) at Lv. 3"
     },
@@ -2231,6 +2251,86 @@
     {
       "key": "IT_JB_MM_BELS_5",
       "value": "An item required to enhance a Job (Warrior of the Crystals (Ice)) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_ESTR",
+      "value": "An item required to enhance a Job (Precursor) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_ESTR_2",
+      "value": "An item required to enhance a Job (Precursor) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_ESTR_3",
+      "value": "An item required to enhance a Job (Precursor) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_ESTR_4",
+      "value": "An item required to enhance a Job (Precursor) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_ESTR_5",
+      "value": "An item required to enhance a Job (Precursor) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_JOKR",
+      "value": "An item required to enhance a Job (Wild Card) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_JOKR_2",
+      "value": "An item required to enhance a Job (Wild Card) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_JOKR_3",
+      "value": "An item required to enhance a Job (Wild Card) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_JOKR_4",
+      "value": "An item required to enhance a Job (Wild Card) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_JOKR_5",
+      "value": "An item required to enhance a Job (Wild Card) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_QUEN",
+      "value": "An item required to enhance a Job (Priestess) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_QUEN_2",
+      "value": "An item required to enhance a Job (Priestess) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_QUEN_3",
+      "value": "An item required to enhance a Job (Priestess) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_QUEN_4",
+      "value": "An item required to enhance a Job (Priestess) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_QUEN_5",
+      "value": "An item required to enhance a Job (Priestess) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_VOLT",
+      "value": "An item required to enhance a Job (Faith) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_VOLT_2",
+      "value": "An item required to enhance a Job (Faith) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_VOLT_3",
+      "value": "An item required to enhance a Job (Faith) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_VOLT_4",
+      "value": "An item required to enhance a Job (Faith) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_PRS5_VOLT_5",
+      "value": "An item required to enhance a Job (Faith) at Lv. 15"
     },
     {
       "key": "IT_JB_EM_FIRE_1",
@@ -3441,6 +3541,22 @@
       "value": "An item required to Limit Break a unit"
     },
     {
+      "key": "IT_PI_LW_ESTR",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_PRS5_JOKR",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_PRS5_QUEN",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_PRS5_VOLT",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "An item required to enhance Mont Leonis's EX Job"
     },
@@ -3979,6 +4095,14 @@
     {
       "key": "IT_SP_LW_BELS",
       "value": "An item required to enhance Velis's EX Job"
+    },
+    {
+      "key": "IT_SP_LW_ESTR",
+      "value": "An item required to enhance Esther's EX Job"
+    },
+    {
+      "key": "IT_SP_PRS5_UR",
+      "value": "An item required to enhance the EX Jobs of collaborative P5R units of UR rarity"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -4551,6 +4675,10 @@
     {
       "key": "IT_AF_AW_STAFF",
       "value": "Staff-type equipment awakening material"
+    },
+    {
+      "key": "IT_AF_AW_GRGS",
+      "value": "Staff of Madness Awakening Material"
     },
     {
       "key": "IT_AF_AW_MACE",
@@ -5353,6 +5481,18 @@
       "value": "A recipe required to craft Prompto's Wristband"
     },
     {
+      "key": "IT_AF_PRS5_DAG_000",
+      "value": "A recipe required to craft a Rebel Knife"
+    },
+    {
+      "key": "IT_AF_PRS5_FIS_000",
+      "value": "A recipe required to craft Brass Knuckles"
+    },
+    {
+      "key": "IT_AF_PRS5_SWO_000",
+      "value": "A recipe required to craft a Rapier"
+    },
+    {
       "key": "IT_AF_SUP_HP",
       "value": "Raises chance of HP increasing when equipment is leveled up"
     },
@@ -5566,7 +5706,7 @@
     },
     {
       "key": "IT_VC_EXCHANGE_01",
-      "value": "An item that can be acquired when vision cards are obtained in specific Summons. *Can also be acquired when previously obtained units are converted into shards."
+      "value": "An item that can be acquired when vision cards are obtained in specific Summons. *Can also be acquired when previously obtained vision cards are converted into shards."
     },
     {
       "key": "IT_EC_ARENA",
@@ -5699,6 +5839,10 @@
     {
       "key": "IT_EC_MEDAL_GF_E",
       "value": "An item that can be exchanged for UR unit shards and UR vision card shards at the Global Festival Medal (E) Unit Exchange Shop and the Global Festival Medal (E) Vision Card Exchange Shop, respectively. *Features only shards for units and vision cards released by 11/17/2021. *Cannot be used for limited or collaborative units and vision cards other than Ibara, Starlight Elena, Zazan the Unkillable, Duane, Fryevia, \"Wish Upon a Demon,\" \"Smite the Dark,\" \"Aeterna Puritas,\" and \"Irresistible Darkness.\""
+    },
+    {
+      "key": "IT_EC_MEDAL_GF_F",
+      "value": "A medal that can be acquired from specific Summons (Expires 17:59, 5/17/2022, World Time (PST))"
     },
     {
       "key": "IT_EC_MEDAL_CNY21",
@@ -6565,7 +6709,15 @@
       "value": "A ticket that allows the user to summon 70 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 13 – 15."
     },
     {
+      "key": "IT_US_SE_JB_05_GL_43",
+      "value": "A ticket that allows the user to summon 70 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 13 – 15."
+    },
+    {
       "key": "IT_US_SE_JB_04_GL_36",
+      "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 10 – 12."
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_37",
       "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 10 – 12."
     },
     {
@@ -8321,6 +8473,10 @@
       "value": "An item required to awaken a vision card"
     },
     {
+      "key": "IT_VPI_LW_ESTR",
+      "value": "An item required to awaken a vision card"
+    },
+    {
       "key": "IT_PI_LW_VERN",
       "value": "An item required to Limit Break a unit"
     },
@@ -8607,6 +8763,14 @@
     {
       "key": "IT_EC_RAID_FF14_R",
       "value": "A medal that can be acquired from the FFXIV: Shadowbringers Raid Boss Revival"
+    },
+    {
+      "key": "IT_EC_PRS5_4",
+      "value": "A medal that can be acquired from P5R Collaborative Raid Battles"
+    },
+    {
+      "key": "IT_EC_PRS5_3",
+      "value": "A medal that can be acquired during specific P5R Summons (Expires 17:59, 6/14/2022, World Time (PST))"
     },
     {
       "key": "IT_US_GL_SE_SB_EXP_1",
@@ -8914,7 +9078,7 @@
     },
     {
       "key": "IT_US_SE_PI_GL_54",
-      "value": "A Select R–UR Vision Card Shard x100 Summon Ticket for vision cards released by 3/16/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
+      "value": "A Select R–UR Vision Card Shard x100 Summon Ticket for vision cards released by 4/13/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
     },
     {
       "key": "IT_US_SE_PI_GL_55",
@@ -8926,7 +9090,7 @@
     },
     {
       "key": "IT_US_SE_PI_GL_57",
-      "value": "A Select R–UR Vision Card Shard x175 Summon Ticket for vision cards released by 3/16/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
+      "value": "A Select R–UR Vision Card Shard x175 Summon Ticket for vision cards released by 4/13/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
     },
     {
       "key": "IT_US_SE_PI_GL_58",
@@ -8935,6 +9099,26 @@
     {
       "key": "IT_US_SE_PI_GL_59",
       "value": "A Select Warrior of the Crystals Unit Shard x100 Summon Ticket that can be used for Jeume, Cetia, Ranan, or Velis. *Cannot be used for Lucio Unit Shards."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_60",
+      "value": "A Select Global Unit Summon Ticket which can be used to summon one of the following Global units: Esther, Ibara, Starlight Elena, Zazan the Unkillable, Duane, or Fryevia."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_61",
+      "value": "A Select Unit Shard x20 Summon Ticket for units of R to UR rarity released by 11/17/2021, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_62",
+      "value": "A Select Unit Shard x5 Summon Ticket for units of R to UR rarity released by 11/17/2021, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_63",
+      "value": "A Select MR Unit Shard x50 Summon Ticket for units released by 2/3/2021, World Time (PST). *Cannot be used for quest-acquired, limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_64",
+      "value": "A Select P5R Unit Shard x120 Summon Ticket that can be used for Joker, Queen, or Violet."
     },
     {
       "key": "IT_US_SE_VPI_GL_16",
@@ -9013,6 +9197,14 @@
       "value": "A Select Global Vision Card Shard x10 Summon Ticket which can be used to summon shards for the Global vision cards \"Smite the Dark,\" \"Irresistible Darkness,\" or \"Aeterna Puritas.\" *Cannot be used for \"Wish Upon a Demon\" or other permanent, limited or collaborative vision cards."
     },
     {
+      "key": "IT_US_GLFEST_SE_GL04",
+      "value": "A Select Global Unit Shard x100 Summon Ticket which can be used to summon shards for the Global units Esther, Ibara, Starlight Elena, Zazan the Unkillable, Duane, or Fryevia."
+    },
+    {
+      "key": "IT_US_GLFEST_SE_GL05",
+      "value": "A Select Global Unit Shard x120 Summon Ticket which can be used to summon shards for the Global units Esther, Ibara, Starlight Elena, Zazan the Unkillable, Duane, or Fryevia."
+    },
+    {
       "key": "IT_US_BF_SE_UR_U_01",
       "value": "A Select UR Unit Summon Ticket for units released by 10/20/2021, World Time (PST). *Cannot be used for Pharm, 100-cost, limited, or collaborative units."
     },
@@ -9046,11 +9238,11 @@
     },
     {
       "key": "IT_US_2AN_SE_UR_V_01",
-      "value": "A Select UR Vision Card Summon Ticket for vision cards released by 3/16/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards"
+      "value": "A Select UR Vision Card Summon Ticket for vision cards released by 4/13/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards"
     },
     {
       "key": "IT_US_2AN_SE_VPI_01",
-      "value": "A Select UR Vision Card Shard x275 Summon Ticket for vision cards released by 3/16/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards"
+      "value": "A Select UR Vision Card Shard x275 Summon Ticket for vision cards released by 4/13/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards"
     },
     {
       "key": "IT_US_SE_SSR_U_01",
@@ -9423,6 +9615,10 @@
     {
       "key": "IT_STAMP_2112",
       "value": "An item required for May's Benefit Exchange"
+    },
+    {
+      "key": "IT_STAMP_2201",
+      "value": "An item required for June's Benefit Exchange"
     },
     {
       "key": "IT_KEY_JP",
@@ -9817,6 +10013,26 @@
       "value": "A ticket that can be used to perform a Featured New Vision Card 10x Summon (Expires 17:59, 4/26/2022, World Time (PST))"
     },
     {
+      "key": "IT_US_G_PU_GLFES",
+      "value": "A ticket that can be used to perform a Global Festival — Featured New Unit Summon or a Global Festival — Featured New Vision Card Summon (Expires 23:59, 5/10/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_GLFES_10",
+      "value": "A ticket that can be used to perform a Global Festival — Featured New Unit 10x Summon or a Global Festival — Featured New Vision Card 10x Summon (Expires 23:59, 5/10/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_P5R",
+      "value": "A ticket that can be used to perform a Persona 5 Royal Collaborative Summon — Joker or a Persona 5 Royal Collaborative Summon — Violet (Expires 23:59, 5/31/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_P5R_10",
+      "value": "A ticket that can be used to perform a 10x summon for the Persona 5 Royal Collaborative Summon — Joker or the Persona 5 Royal Collaborative Summon — Violet (Expires 23:59, 5/31/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_P5R_01",
+      "value": "A ticket that can be obtained by exchanging P5R Event Medals acquired in P5R Collaborative Events"
+    },
+    {
       "key": "IT_US_SE_U_FF4R",
       "value": "A Select Unit Shard x100 Summon Ticket that can be used for the FFIV units Golbez, Cecil, Kain, or Rosa. *Cannot be used for non-FFIV units."
     },
@@ -9899,6 +10115,10 @@
     {
       "key": "IT_US_G_FF6_01",
       "value": "A ticket that can be obtained by exchanging FFVI Event Medals acquired in FFVI Collaborative Events"
+    },
+    {
+      "key": "IT_US_G_PRS5_01",
+      "value": "A ticket that can be obtained by exchanging P5R Event Medals acquired in P5R Collaborative Events"
     },
     {
       "key": "IT_US_SE_U_PI_2ANNI",
@@ -9987,6 +10207,10 @@
     {
       "key": "IT_EC_FF6_1",
       "value": "An item that can be acquired in FFVI Collaborative Events and exchanged for various items at the FFVI Event Medal Exchange Shop. This medal cannot be exchanged outside of the specified exchange shop period."
+    },
+    {
+      "key": "IT_EC_PRS5_1",
+      "value": "An item that can be acquired in P5R Collaborative Events and exchanged for various items at the P5R Event Medal Exchange Shop. This medal cannot be exchanged outside of the specified exchange shop period."
     },
     {
       "key": "IT_US_NY2022_SE_UR_U_GL01",
@@ -10081,6 +10305,14 @@
       "value": "A ticket that allows the user to summon 5 Secret Books of Refinement of a random type (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book, Armor, or Accessory)"
     },
     {
+      "key": "IT_US_SE_AF_AW_57",
+      "value": "A Select Secret Book of Refinement x100 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book, Armor, or Accessory)"
+    },
+    {
+      "key": "IT_US_SE_AF_AW_58",
+      "value": "A Select Secret Book of Refinement x300 Summon Ticket for Secret Books of Refinement (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book, Armor, or Accessory)"
+    },
+    {
       "key": "IT_EC_FF4_7",
       "value": "A medal that can be acquired during specific Summons  (Expires 23:59, 3/1/2022, World Time (PST))"
     },
@@ -10129,6 +10361,14 @@
       "value": "A medal that can be acquired during specific Summons  (Expires 23:59, 5/10/2022, World Time (PST))"
     },
     {
+      "key": "IT_EC_P5R_5_A",
+      "value": "A medal that can be acquired during specific P5R Summons  (Expires 17:59, 6/14/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_P5R_5_B",
+      "value": "A medal that can be acquired during specific P5R Summons  (Expires 17:59, 6/14/2022, World Time (PST))"
+    },
+    {
       "key": "IT_EC_FF6_6",
       "value": "A medal that can be acquired during the FINAL FANTASY VI Collaborative Summon — \"Omen\" and the FINAL FANTASY VI Collaboration — \"Omen\" Guaranteed 5-Step 10x Summon. (Expires 23:59, 5/10/2022, World Time (PST))"
     },
@@ -10150,6 +10390,10 @@
     },
     {
       "key": "IT_US_SE_JB_03_18",
+      "value": "A ticket that allows the user to summon 30 of one type of Charoite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 7 – 9."
+    },
+    {
+      "key": "IT_US_SE_JB_03_19",
       "value": "A ticket that allows the user to summon 30 of one type of Charoite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 7 – 9."
     },
     {

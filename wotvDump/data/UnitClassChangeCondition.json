@@ -1449,6 +1449,46 @@
         "s2": 15
       },
       "material_item_id": "JBEX_SHINE_SSR"
+    },
+    {
+      "iname": "JB_LW_ESTR_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_THUN_UR"
+    },
+    {
+      "iname": "JB_PRS5_JOKR_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_DARK_UR"
+    },
+    {
+      "iname": "JB_PRS5_QUEN_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_THUN_UR"
+    },
+    {
+      "iname": "JB_PRS5_VOLT_M",
+      "lv": {
+        "unit": 99,
+        "m": 15,
+        "s1": 15,
+        "s2": 15
+      },
+      "material_item_id": "JBEX_SHINE_UR"
     }
   ]
 }

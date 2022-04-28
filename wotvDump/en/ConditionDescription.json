@@ -1547,6 +1547,22 @@
     {
       "key": "COND_CH_LW_BYLO2",
       "value": "Unit [Baelo] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_ESTR",
+      "value": "Unit [Esther] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_P5_JOKR",
+      "value": "Unit [Joker] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_P5_QUEN",
+      "value": "Unit [Queen] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_P5_VOLT",
+      "value": "Unit [Violet] is at least Lv. 40"
     }
   ]
 }
