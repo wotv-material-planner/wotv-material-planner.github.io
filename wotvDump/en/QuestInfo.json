@@ -2957,6 +2957,46 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 94, Job Lv. 14"
     },
     {
+      "key": "QE_ST_02070101",
+      "value": "Quest Information<br>Recommended: Unit Lv. 82, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070102",
+      "value": "Quest Information<br>Recommended: Unit Lv. 83, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070103",
+      "value": "Quest Information<br>Recommended: Unit Lv. 83, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070104",
+      "value": "Quest Information<br>Recommended: Unit Lv. 84, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070105",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070106",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070107",
+      "value": "Quest Information<br>Recommended: Unit Lv. 86, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070108",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070109",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02070110",
+      "value": "Quest Information<br>Recommended: Unit Lv. 92, Job Lv. 14"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Quest Information<br>Recommended: Unit Lv. 17, Job Lv. 3<br>Conditions to Unlock: Acquire Unit [Zazan]"
     },
@@ -3341,6 +3381,14 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Velis]"
     },
     {
+      "key": "QE_HA_LW_ASTR",
+      "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Astrius]"
+    },
+    {
+      "key": "QE_HA_LW_RSNC",
+      "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Resnick]"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Zazan] is at least Lv. 40"
     },
@@ -3407,6 +3455,10 @@
     {
       "key": "QE_CH_LW_MURM",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [\"Murmur\"] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_MURM2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [\"Murmur\"] is at least Lv. 80<br>Cleared [Character Quest: \"Murmur\"]"
     },
     {
       "key": "QE_CH_LW_PHBE",
@@ -3497,6 +3549,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Etre] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_ETRE2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Etre] is at least Lv. 80<br>Cleared [Character Quest: Etre]"
+    },
+    {
       "key": "QE_CH_LW_DRND",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Dorando] is at least Lv. 40"
     },
@@ -3561,6 +3617,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Machérie] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_MACR2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Machérie Hourne] is at least Lv. 80<br>Cleared [Character Quest: Machérie Hourne]"
+    },
+    {
       "key": "QE_CH_LW_GLMS",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Gilgamesh] is at least Lv. 40"
     },
@@ -3571,6 +3631,10 @@
     {
       "key": "QE_CH_LW_FDRC",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Frederika] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_FDRC2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Frederika] is at least Lv. 80<br>Cleared [Character Quest: Frederika]"
     },
     {
       "key": "QE_CH_LW_YERM",
@@ -4059,6 +4123,14 @@
     {
       "key": "QE_CH_PRS5_VOLT",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Violet] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_ASTR",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Astrius] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_RSNC",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Resnick] is at least Lv. 40"
     },
     {
       "key": "QE_EV_GL_CDOWN_01_9",
@@ -4650,6 +4722,18 @@
     },
     {
       "key": "QE_EV_VC_IBUKI_3",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals. Enemies will disappear immediately when HP reaches 0."
+    },
+    {
+      "key": "QE_EV_VC_MV2_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_VC_MV2_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_VC_MV2_3",
       "value": "Quest Information<br>Enemies in this quest do not drop Crystals. Enemies will disappear immediately when HP reaches 0."
     },
     {
@@ -5317,6 +5401,54 @@
       "value": "Quest Information<br>None"
     },
     {
+      "key": "QE_MU_AEX_115_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_115_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_114_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_114_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_113_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_113_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_112_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_112_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_111_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_111_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_ART_CRF_33",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_34",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
       "key": "QE_EV_P5R_01",
       "value": "Quest Information<br>None"
     },
@@ -5418,38 +5550,6 @@
     },
     {
       "key": "QE_MU_FF14_Ex4",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_114_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_114_2",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_113_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_113_2",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_112_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_112_2",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_111_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_111_2",
       "value": "Quest Information<br>None"
     },
     {
@@ -6733,14 +6833,6 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
     },
     {
-      "key": "QE_MU_ART_CRF_29",
-      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
-    },
-    {
-      "key": "QE_MU_ART_CRF_30",
-      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
-    },
-    {
       "key": "QE_EV_AST_010101",
       "value": "Quest Information<br>Recommended: Unit Lv. 5, Job Lv. 1"
     },
@@ -6971,6 +7063,26 @@
     {
       "key": "QE_EV_AEX_114_2",
       "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_AEX_115_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_AEX_115_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_AEX_LCIO_1",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals. Enemies will disappear immediately when HP reaches 0."
+    },
+    {
+      "key": "QE_EV_AEX_LCIO_2",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals. Enemies will disappear immediately when HP reaches 0."
+    },
+    {
+      "key": "QE_EV_AEX_LCIO_3",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals. Enemies will disappear immediately when HP reaches 0."
     },
     {
       "key": "QE_MU_EV_16_EX",
@@ -7369,6 +7481,14 @@
       "value": "Quest Information<br>None"
     },
     {
+      "key": "QE_EV_ART_CRF_33",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_ART_CRF_34",
+      "value": "Quest Information<br>None"
+    },
+    {
       "key": "QE_MU_ART_CRF_20",
       "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
     },
@@ -7398,6 +7518,14 @@
     },
     {
       "key": "QE_MU_ART_CRF_28",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_ART_CRF_29",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_30",
       "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
     },
     {
@@ -8813,6 +8941,30 @@
       "value": "Quest Information<br>None"
     },
     {
+      "key": "QE_RAID_EV_25_01",
+      "value": "Quest Information<br>Boss Element: Dark<br>Weakness: Slash Attacks"
+    },
+    {
+      "key": "QE_RAID_EV_25_02",
+      "value": "Quest Information<br>Boss Element: Dark<br>Weakness: Slash Attacks"
+    },
+    {
+      "key": "QE_RAID_EV_25_03",
+      "value": "Quest Information<br>Boss Element: Dark<br>Weakness: Slash Attacks"
+    },
+    {
+      "key": "QE_RAID_EV_25_04",
+      "value": "Quest Information<br>Boss Element: Light<br>Weakness: Magic Attacks"
+    },
+    {
+      "key": "QE_RAID_EV_25_05",
+      "value": "Quest Information<br>Boss Element: Light<br>Weakness: Magic Attacks"
+    },
+    {
+      "key": "QE_RAID_EV_25_06",
+      "value": "Quest Information<br>Boss Element: Light<br>Weakness: Magic Attacks"
+    },
+    {
       "key": "QE_RAID_RV_01_01",
       "value": "Quest Information<br>None"
     },
@@ -9385,6 +9537,14 @@
       "value": "SPR Up/Missile ATK Up"
     },
     {
+      "key": "QE_ARENA_GL_00019",
+      "value": "Slash Attack Up"
+    },
+    {
+      "key": "QE_ARENA_GL_00020",
+      "value": "Earth Res Up/Lightning Attack Up"
+    },
+    {
       "key": "QE_GVG_00001",
       "value": "None"
     },
@@ -9569,6 +9729,14 @@
       "value": "SPR Up/Raise/Reraise Nullify"
     },
     {
+      "key": "QE_GVG_GL_00029",
+      "value": "Water Attack Up/Water Unit AGI Up"
+    },
+    {
+      "key": "QE_GVG_GL_00030",
+      "value": "Lightning Unit MAG Up/SPR Up"
+    },
+    {
       "key": "QE_PVP_FRE_0001",
       "value": "None"
     },
@@ -9678,6 +9846,14 @@
     },
     {
       "key": "QE_PVP_FRE_GL_0024",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0025",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0026",
       "value": "None"
     },
     {
@@ -9813,6 +9989,14 @@
       "value": "None"
     },
     {
+      "key": "QE_PVP_FRI_0056",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRI_0058",
+      "value": "None"
+    },
+    {
       "key": "QE_PVP_FRI_GL_0001",
       "value": "None"
     },
@@ -9882,6 +10066,10 @@
     },
     {
       "key": "QE_PVP_RANK_0016",
+      "value": ""
+    },
+    {
+      "key": "QE_PVP_RANK_0017",
       "value": ""
     },
     {
@@ -10219,6 +10407,14 @@
     {
       "key": "QE_VC_LW_EURP",
       "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [Voltaic Mechaguard, Europa]"
+    },
+    {
+      "key": "QE_VC_LW_TREL",
+      "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [Faint Torchlight]"
+    },
+    {
+      "key": "QE_VC_GL_LW_NEWYEAR2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10<br>Conditions to Unlock: Acquire Vision Card [Oath of a New Dawn]"
     },
     {
       "key": "QE_VC_GL_LW_NEWYEAR",

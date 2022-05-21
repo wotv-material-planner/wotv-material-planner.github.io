@@ -2889,6 +2889,38 @@
       "value": "Beholder of the True Self"
     },
     {
+      "key": "LW_PA_CH_155_1",
+      "value": "Astrius Fan"
+    },
+    {
+      "key": "LW_PA_CH_155_2",
+      "value": "Astrius Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_155_3",
+      "value": "Astrius Devotee"
+    },
+    {
+      "key": "LW_PA_CH_155_4",
+      "value": "Seeker of Freedom"
+    },
+    {
+      "key": "LW_PA_CH_156_1",
+      "value": "Resnick Fan"
+    },
+    {
+      "key": "LW_PA_CH_156_2",
+      "value": "Resnick Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_156_3",
+      "value": "Resnick Devotee"
+    },
+    {
+      "key": "LW_PA_CH_156_4",
+      "value": "Lamenting Curseweaver"
+    },
+    {
       "key": "LW_GL_PA_CH_FRVA_1",
       "value": "Fryevia Fan"
     },
@@ -3183,6 +3215,18 @@
     {
       "key": "AWD_P_ELE_8_5",
       "value": "Luminary of the Dusk"
+    },
+    {
+      "key": "AWD_P_P5R_1",
+      "value": "Graduation From Your False Self"
+    },
+    {
+      "key": "AWD_P_P5R_2",
+      "value": "Why's She Following Us?"
+    },
+    {
+      "key": "AWD_P_P5R_3",
+      "value": "Law-Abiding Student Council President"
     },
     {
       "key": "AWD_GL_P_Clsum_1",

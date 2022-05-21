@@ -393,6 +393,14 @@
       "value": "Unit [Velis] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_LW_ASTR",
+      "value": "Unit [Astrius] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_RSNC",
+      "value": "Unit [Resnick] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -517,6 +525,10 @@
       "value": "Unit [\"Murmur\"] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_MURM2",
+      "value": "Unit [\"Murmur\"] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_PHBE",
       "value": "Unit [Phoebe] is at least Lv. 40"
     },
@@ -569,6 +581,10 @@
       "value": "Unit [Machérie] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_MACR2",
+      "value": "Unit [Machérie Hourne] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_SZRT",
       "value": "Unit [Schuzelt] is at least Lv. 40"
     },
@@ -579,6 +595,10 @@
     {
       "key": "COND_CH_LW_FDRC",
       "value": "Unit [Frederika] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_FDRC2",
+      "value": "Unit [Frederika] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_SDLX",
@@ -615,6 +635,10 @@
     {
       "key": "COND_CH_LW_ETRE",
       "value": "Unit [Etre] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_ETRE2",
+      "value": "Unit [Etre] is at least Lv. 80"
     },
     {
       "key": "COND_CH_FFT_RAMZ",
@@ -1209,6 +1233,10 @@
       "value": "Vision card [Starlit Tryst] is at least Lv. 1"
     },
     {
+      "key": "COND_VC_GL_LW_NEWYEAR2",
+      "value": "Vision Card [Oath of a New Dawn] is at least Lv. 1"
+    },
+    {
       "key": "COND_VC_GL_LW_NEWYEAR",
       "value": "Vision card [Greetings from Afar] is at least Lv. 1"
     },
@@ -1473,12 +1501,20 @@
       "value": "Vision card [Voltaic Mechaguard, Europa] is at least Lv. 1"
     },
     {
+      "key": "COND_VC_LW_TREL",
+      "value": "Vision card [Faint Torchlight] is at least Lv. 1"
+    },
+    {
       "key": "COND_VC_LW_LICH",
       "value": "Vision card [Undead King of Putrefaction, Lich] is at least Lv. 1"
     },
     {
       "key": "COND_VC_LW_IBUKI",
       "value": "Vision card [Wintertide Bloomers] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_MV2",
+      "value": "Vision card [Those Who Defy Reality] is at least Lv. 1"
     },
     {
       "key": "COND_CH_LW_MONT2",
@@ -1563,6 +1599,14 @@
     {
       "key": "COND_CH_P5_VOLT",
       "value": "Unit [Violet] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_ASTR",
+      "value": "Unit [Astrius] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_RSNC",
+      "value": "Unit [Resnick] is at least Lv. 40"
     }
   ]
 }

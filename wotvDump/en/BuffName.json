@@ -4893,6 +4893,18 @@
       "value": ""
     },
     {
+      "key": "BUFF_WORM_M_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_WRAT_M_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_WRAT_M_2",
+      "value": ""
+    },
+    {
       "key": "BUFF_OMEG_M_01",
       "value": ""
     },
@@ -5729,6 +5741,18 @@
       "value": ""
     },
     {
+      "key": "BUFF_LB_LW_RSNC_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_RSNC_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LB_LW_RSNC_3",
+      "value": ""
+    },
+    {
       "key": "BUFF_SMN_MABR",
       "value": ""
     },
@@ -6277,6 +6301,14 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_EC_PSI_A_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_PSI_C_04B",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_EC_TIM_A_01",
       "value": ""
     },
@@ -6313,11 +6345,23 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_EC_TIM_A_04",
+      "value": ""
+    },
+    {
       "key": "BUFF_LW_EC_TIM_C_05B",
       "value": ""
     },
     {
       "key": "BUFF_LW_EC_TIM_C_06B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_TIM_C_07B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_TIM_C_08B",
       "value": ""
     },
     {
@@ -7109,6 +7153,18 @@
       "value": ""
     },
     {
+      "key": "BUFF_LW_EC_SCR_A_02",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_SCR_C_03B",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_EC_SCR_C_04B",
+      "value": ""
+    },
+    {
       "key": "BUFF_POTION",
       "value": ""
     },
@@ -7341,6 +7397,14 @@
       "value": ""
     },
     {
+      "key": "BUFF_MA_LW_MACR_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_MACR_2_S",
+      "value": ""
+    },
+    {
       "key": "BUFF_MA_FF14_MV1",
       "value": ""
     },
@@ -7473,6 +7537,10 @@
       "value": ""
     },
     {
+      "key": "BUFF_MA_LW_MURM_2",
+      "value": ""
+    },
+    {
       "key": "BUFF_MA_LW_PHBE",
       "value": ""
     },
@@ -7506,6 +7574,14 @@
     },
     {
       "key": "BUFF_MA_LW_FDRC",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_FDRC_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_FDRC_2_S",
       "value": ""
     },
     {
@@ -7554,6 +7630,14 @@
     },
     {
       "key": "BUFF_MA_LW_P_ETRE",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_P_ETRE_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_P_ETRE_2_S",
       "value": ""
     },
     {
@@ -8294,6 +8378,22 @@
     },
     {
       "key": "BUFF_MA_PRS5_VOLT_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_ASTR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_ASTR_S",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_RSNC",
+      "value": ""
+    },
+    {
+      "key": "BUFF_MA_LW_RSNC_S",
       "value": ""
     },
     {
@@ -10877,6 +10977,186 @@
       "value": ""
     },
     {
+      "key": "BUFF_VC_PRS5_MV1_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV1_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV1_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV1_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV1_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV1_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV1_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV1_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV1_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_P_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_PAW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_PMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_P_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_PAW_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_PMAX_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_P_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_PAW_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_PRS5_MV1_PMAX_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_NEWYEAR2_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_NEWYEAR2_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_NEWYEAR2_P2AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_NEWYEAR2_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_NEWYEAR2_P3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_NEWYEAR2_P3AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_NEWYEAR2_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_PAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_LW_TREL_PMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_TREL_P2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_TREL_P2AW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_GL_VC_LW_TREL_P2MAX",
+      "value": ""
+    },
+    {
       "key": "BUFF_VC_LW_IBRA_GS",
       "value": ""
     },
@@ -13281,6 +13561,34 @@
       "value": ""
     },
     {
+      "key": "BUFF_VC_PRS5_MV2_GS",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV2_GSAW",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV2_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV2_P",
+      "value": ""
+    },
+    {
+      "key": "BUFF_VC_PRS5_MV2_PAW",
+      "value": ""
+    },
+    {
       "key": "BUFF_VC_LW_USER2_GS",
       "value": ""
     },
@@ -14470,6 +14778,58 @@
     },
     {
       "key": "BUFF_LW_MAGIC_5_UR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_4_N",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_5_N",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_4_R",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_5_R",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_4_SR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_5_SR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_4_SSR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_5_SSR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_4_UR",
+      "value": ""
+    },
+    {
+      "key": "BUFF_LW_HEALPW_5_UR",
       "value": ""
     },
     {
@@ -15903,6 +16263,22 @@
     {
       "key": "BUFF_ACC_LW_FDRC_01_1B",
       "value": "Unit Attack Res Down on Critical Hit Bestowed"
+    },
+    {
+      "key": "BUFF_ACC_LW_ASTR_1_T_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_ASTR_1_T_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_ACC_LW_ASTR_1_T_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_CLT_LW_RSNC_1",
+      "value": ""
     },
     {
       "key": "BUFF_FIS_LW_LMIG_1_1",
@@ -29697,6 +30073,14 @@
       "value": "SPR Up/Missile ATK Up"
     },
     {
+      "key": "BUFF_ARENA_GL_00030",
+      "value": "Slash Attack Up"
+    },
+    {
+      "key": "BUFF_ARENA_GL_00031",
+      "value": "Earth Res Up/Lightning Attack Up"
+    },
+    {
       "key": "BUFF_GVG_001",
       "value": "Dark Attack Up"
     },
@@ -29869,6 +30253,22 @@
       "value": "SPR Up/Raise/Reraise Nullify"
     },
     {
+      "key": "BUFF_GVG_GL_032",
+      "value": "Water Attack Up"
+    },
+    {
+      "key": "BUFF_GVG_GL_033",
+      "value": "Wind Unit AGI Up"
+    },
+    {
+      "key": "BUFF_GVG_GL_034",
+      "value": "Lightning Unit MAG Up"
+    },
+    {
+      "key": "BUFF_GVG_GL_035",
+      "value": "SPR Up"
+    },
+    {
       "key": "BUFF_LGVG_001",
       "value": ""
     },
@@ -29971,6 +30371,14 @@
     {
       "key": "BUFF_CLASSMATCH_016",
       "value": "Raise, Reraise, Quicken Nullify, CT Up/Down Nullify, Healing Power Down 50%"
+    },
+    {
+      "key": "BUFF_CLASSMATCH_017",
+      "value": "Unit Cost Limit: 240 or Less"
+    },
+    {
+      "key": "BUFF_CLASSMATCH_018",
+      "value": "Healing Power Down 50%, Quicken Nullify"
     },
     {
       "key": "BUFF_DRAFTMATCH_001",
@@ -30110,6 +30518,26 @@
     },
     {
       "key": "BUFF_LW_ROD_013_5",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SWO_LW_LCIO_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SWO_LW_LCIO_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SWO_LW_LCIO_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SWO_LW_LCIO_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_SWO_LW_LCIO_5",
       "value": ""
     },
     {
@@ -30518,6 +30946,26 @@
     },
     {
       "key": "BUFF_LW_ACC_037_5",
+      "value": ""
+    },
+    {
+      "key": "BUFF_PRS5_ACC_002_1",
+      "value": ""
+    },
+    {
+      "key": "BUFF_PRS5_ACC_002_2",
+      "value": ""
+    },
+    {
+      "key": "BUFF_PRS5_ACC_002_3",
+      "value": ""
+    },
+    {
+      "key": "BUFF_PRS5_ACC_002_4",
+      "value": ""
+    },
+    {
+      "key": "BUFF_PRS5_ACC_002_5",
       "value": ""
     },
     {

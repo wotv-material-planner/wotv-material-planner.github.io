@@ -257,6 +257,10 @@
       "value": "Premonition of Ruin"
     },
     {
+      "key": "SE_ST_020701",
+      "value": "Trumps and Tricks"
+    },
+    {
       "key": "SE_WD_010101",
       "value": "Lion's Great Forest"
     },
@@ -333,18 +337,6 @@
       "value": "Migra Mountain Range"
     },
     {
-      "key": "SE_EV_16_01",
-      "value": "For the Love of a Smile"
-    },
-    {
-      "key": "SE_EV_16_EX_01",
-      "value": "For the Love of a Smile [EX]"
-    },
-    {
-      "key": "SE_MU_EV_16_EX",
-      "value": "[Multi] For the Love of a Smile [EX]"
-    },
-    {
       "key": "SE_EV_RC_DEM_01",
       "value": "Demon Purge Quest"
     },
@@ -369,28 +361,100 @@
       "value": "Equipment Training Quest (Gigantaxe)"
     },
     {
+      "key": "SE_EV_GL_ART_CRF_01",
+      "value": "Equipment Training Quest (Pious Gloves)"
+    },
+    {
+      "key": "SE_MU_GL_ART_CRF_01",
+      "value": "Equipment Training Quest (Pious Gloves)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_10",
+      "value": "Equipment Training Quest (Seiten)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_10",
+      "value": "Equipment Training Quest (Seiten)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_09",
+      "value": "Equipment Training Quest (Cypress Pile)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_09",
+      "value": "Equipment Training Quest (Cypress Pile)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_08",
+      "value": "Equipment Training Quest (Flametongue)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_08",
+      "value": "Equipment Training Quest (Flametongue)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_07",
+      "value": "Equipment Training Quest (Platinum Bow)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_07",
+      "value": "Equipment Training Quest (Platinum Bow)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_S1",
+      "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_MU_ART_CRF_S1",
+      "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_EV_ART_CRF_05",
+      "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_MU_ART_CRF_05",
+      "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_EV_ART_CRF_04",
+      "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_MU_ART_CRF_04",
+      "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_EV_ART_CRF_03",
+      "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_MU_ART_CRF_03",
+      "value": "Equipment Training Quest"
+    },
+    {
+      "key": "SE_EV_ART_CRF_02",
+      "value": "Brutal Difficulty Equipment Training Quest"
+    },
+    {
+      "key": "SE_MU_ART_CRF_02",
+      "value": "Brutal Difficulty Equipment Training Quest"
+    },
+    {
+      "key": "SE_EV_16_01",
+      "value": "For the Love of a Smile"
+    },
+    {
+      "key": "SE_EV_16_EX_01",
+      "value": "For the Love of a Smile [EX]"
+    },
+    {
+      "key": "SE_MU_EV_16_EX",
+      "value": "[Multi] For the Love of a Smile [EX]"
+    },
+    {
       "key": "SE_PTQ_FF6_01",
       "value": "FFVI Collaboration — Trials of Reckoning"
-    },
-    {
-      "key": "SE_EV_P5R_01_01",
-      "value": "Persona 5 Royal"
-    },
-    {
-      "key": "SE_EV_P5R_02_EX",
-      "value": "Persona 5 Royal [EX2]"
-    },
-    {
-      "key": "SE_MU_P5R_02_EX",
-      "value": "Persona 5 Royal [EX2]"
-    },
-    {
-      "key": "SE_EV_P5R_01_EX",
-      "value": "Persona 5 Royal [EX1]"
-    },
-    {
-      "key": "SE_MU_P5R_01_EX",
-      "value": "Persona 5 Royal [EX1]"
     },
     {
       "key": "SE_GL_EV_COL2022",
@@ -433,6 +497,18 @@
       "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
     },
     {
+      "key": "SE_EV_AEX_LCIO",
+      "value": "The Crucible of the Warriors Ex-Quest"
+    },
+    {
+      "key": "SE_EV_AEX_010501",
+      "value": "Another Story Chapter 1, Scene 5 Ex-Quest"
+    },
+    {
+      "key": "SE_MU_AEX_010501",
+      "value": "[Multi] Another Story Chapter 1, Scene 5 Ex-Quest"
+    },
+    {
       "key": "SE_EV_AEX_010401",
       "value": "Another Story Chapter 1, Scene 4 Ex-Quest"
     },
@@ -463,6 +539,38 @@
     {
       "key": "SE_MU_AEX_010101",
       "value": "[Multi] Another Story Chapter 1, Scene 1 Ex-Quest"
+    },
+    {
+      "key": "SE_EV_ART_CRF_14",
+      "value": "Equipment Training Quest (Rune Staff)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_14",
+      "value": "Equipment Training Quest (Rune Staff)"
+    },
+    {
+      "key": "SE_EV_VC_MV2_01",
+      "value": "\"Those Who Deny Reality\" Enhancement Quest"
+    },
+    {
+      "key": "SE_EV_P5R_01_01",
+      "value": "Persona 5 Royal"
+    },
+    {
+      "key": "SE_EV_P5R_02_EX",
+      "value": "Persona 5 Royal [EX2]"
+    },
+    {
+      "key": "SE_MU_P5R_02_EX",
+      "value": "Persona 5 Royal [EX2]"
+    },
+    {
+      "key": "SE_EV_P5R_01_EX",
+      "value": "Persona 5 Royal [EX1]"
+    },
+    {
+      "key": "SE_MU_P5R_01_EX",
+      "value": "Persona 5 Royal [EX1]"
     },
     {
       "key": "SE_EV_AST_010501",
@@ -537,14 +645,6 @@
       "value": "[Multi] High Difficulty Etre Training Ex-Quest"
     },
     {
-      "key": "SE_EV_GL_ART_CRF_01",
-      "value": "Equipment Training Quest (Pious Gloves)"
-    },
-    {
-      "key": "SE_MU_GL_ART_CRF_01",
-      "value": "Equipment Training Quest (Pious Gloves)"
-    },
-    {
       "key": "SE_EV_FF4_01_01",
       "value": "FINAL FANTASY IV Event Quest"
     },
@@ -579,14 +679,6 @@
     {
       "key": "SE_MU_EV_09_EX",
       "value": "[Multi] The Agitator [EX]"
-    },
-    {
-      "key": "SE_EV_ART_CRF_10",
-      "value": "Equipment Training Quest (Seiten)"
-    },
-    {
-      "key": "SE_MU_ART_CRF_10",
-      "value": "Equipment Training Quest (Seiten)"
     },
     {
       "key": "SE_EV_AST_DUEL_1",
@@ -869,30 +961,6 @@
       "value": "Affinity/Resonance Quest"
     },
     {
-      "key": "SE_EV_ART_CRF_09",
-      "value": "Equipment Training Quest (Cypress Pile)"
-    },
-    {
-      "key": "SE_MU_ART_CRF_09",
-      "value": "Equipment Training Quest (Cypress Pile)"
-    },
-    {
-      "key": "SE_EV_ART_CRF_08",
-      "value": "Equipment Training Quest (Flametongue)"
-    },
-    {
-      "key": "SE_MU_ART_CRF_08",
-      "value": "Equipment Training Quest (Flametongue)"
-    },
-    {
-      "key": "SE_EV_ART_CRF_S1",
-      "value": "Equipment Training Quest"
-    },
-    {
-      "key": "SE_MU_ART_CRF_S1",
-      "value": "Equipment Training Quest"
-    },
-    {
       "key": "SE_PTQ_FF10_01",
       "value": "FFX Collaboration — Trials of Reckoning"
     },
@@ -1001,14 +1069,6 @@
       "value": "[Multi] High Difficulty Corwell Acquisition Ex-Quest"
     },
     {
-      "key": "SE_EV_ART_CRF_04",
-      "value": "Equipment Training Quest"
-    },
-    {
-      "key": "SE_MU_ART_CRF_04",
-      "value": "Equipment Training Quest"
-    },
-    {
       "key": "SE_EV_ALIM",
       "value": "Ahlim Unit Shard Reward Quest"
     },
@@ -1059,14 +1119,6 @@
     {
       "key": "SE_EV_WAVE_001",
       "value": "Wave Quest"
-    },
-    {
-      "key": "SE_EV_ART_CRF_07",
-      "value": "Equipment Training Quest (Platinum Bow)"
-    },
-    {
-      "key": "SE_MU_ART_CRF_07",
-      "value": "Equipment Training Quest (Platinum Bow)"
     },
     {
       "key": "SE_SB_01",
@@ -1477,36 +1529,12 @@
       "value": "FINAL FANTASY TACTICS Part II Event Quest [EX]"
     },
     {
-      "key": "SE_EV_ART_CRF_02",
-      "value": "Brutal Difficulty Equipment Training Quest"
-    },
-    {
-      "key": "SE_MU_ART_CRF_02",
-      "value": "Brutal Difficulty Equipment Training Quest"
-    },
-    {
-      "key": "SE_EV_ART_CRF_03",
-      "value": "Equipment Training Quest"
-    },
-    {
-      "key": "SE_MU_ART_CRF_03",
-      "value": "Equipment Training Quest"
-    },
-    {
       "key": "SE_EV_ART_CRF_06",
       "value": "Brutal Difficulty Equipment Training Quest"
     },
     {
       "key": "SE_MU_ART_CRF_06",
       "value": "Brutal Difficulty Equipment Training Quest"
-    },
-    {
-      "key": "SE_EV_ART_CRF_05",
-      "value": "Equipment Training Quest"
-    },
-    {
-      "key": "SE_MU_ART_CRF_05",
-      "value": "Equipment Training Quest"
     },
     {
       "key": "SE_EV_BEGN_2001",

@@ -161,6 +161,10 @@
       "value": "SQUARE ENIX"
     },
     {
+      "key": "VC_PRS5_MV1",
+      "value": "ATLUS"
+    },
+    {
       "key": "VC_LW_LVAT",
       "value": "G-ROW Art"
     },
@@ -313,6 +317,14 @@
       "value": "G-ROW Art"
     },
     {
+      "key": "VC_LW_NEWYEAR2",
+      "value": "G-ROW Art"
+    },
+    {
+      "key": "VC_LW_TREL",
+      "value": "G-ROW Art"
+    },
+    {
       "key": "VC_LW_IBRA",
       "value": "SQUARE ENIX"
     },
@@ -343,6 +355,10 @@
     {
       "key": "VC_LW_IBUKI",
       "value": "G-ROW Art"
+    },
+    {
+      "key": "VC_PRS5_MV2",
+      "value": "ATLUS"
     },
     {
       "key": "VC_LW_IGNT",

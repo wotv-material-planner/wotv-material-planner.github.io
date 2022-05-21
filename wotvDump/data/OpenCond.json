@@ -589,6 +589,18 @@
       "value_s1": "UN_LW_P_BELS"
     },
     {
+      "iname": "COND_HA_LW_ASTR",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_LW_P_ASTR"
+    },
+    {
+      "iname": "COND_HA_LW_RSNC",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_LW_P_RSNC"
+    },
+    {
       "iname": "COND_CH_LW_MONT",
       "type": 1,
       "value_i1": 40,
@@ -775,6 +787,12 @@
       "value_s1": "UN_LW_P_MURM"
     },
     {
+      "iname": "COND_CH_LW_MURM2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_MURM"
+    },
+    {
       "iname": "COND_CH_LW_PHBE",
       "type": 1,
       "value_i1": 40,
@@ -853,6 +871,12 @@
       "value_s1": "UN_LW_P_MACR"
     },
     {
+      "iname": "COND_CH_LW_MACR2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_MACR"
+    },
+    {
       "iname": "COND_CH_LW_SZRT",
       "type": 1,
       "value_i1": 40,
@@ -868,6 +892,12 @@
       "iname": "COND_CH_LW_FDRC",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_FDRC"
+    },
+    {
+      "iname": "COND_CH_LW_FDRC2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_FDRC"
     },
     {
@@ -922,6 +952,12 @@
       "iname": "COND_CH_LW_ETRE",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_ETRE"
+    },
+    {
+      "iname": "COND_CH_LW_ETRE2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_ETRE"
     },
     {
@@ -1813,6 +1849,12 @@
       "value_s1": "VC_LW_STFES"
     },
     {
+      "iname": "COND_VC_GL_LW_NEWYEAR2",
+      "type": 4,
+      "value_i1": 1,
+      "value_s1": "VC_LW_NEWYEAR2"
+    },
+    {
       "iname": "COND_VC_GL_LW_NEWYEAR",
       "type": 4,
       "value_i1": 1,
@@ -2209,6 +2251,12 @@
       "value_s1": "VC_LW_EURP"
     },
     {
+      "iname": "COND_VC_LW_TREL",
+      "type": 4,
+      "value_i1": 1,
+      "value_s1": "VC_LW_TREL"
+    },
+    {
       "iname": "COND_VC_LW_LICH",
       "type": 4,
       "value_i1": 1,
@@ -2219,6 +2267,12 @@
       "type": 4,
       "value_i1": 1,
       "value_s1": "VC_LW_IBUKI"
+    },
+    {
+      "iname": "COND_VC_LW_MV2",
+      "type": 4,
+      "value_i1": 1,
+      "value_s1": "VC_PRS5_MV2"
     },
     {
       "iname": "COND_CH_LW_MONT2",
@@ -2345,6 +2399,18 @@
       "type": 1,
       "value_i1": 40,
       "value_s1": "UN_PRS5_P_VOLT"
+    },
+    {
+      "iname": "COND_CH_ASTR",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_ASTR"
+    },
+    {
+      "iname": "COND_CH_RSNC",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_RSNC"
     }
   ]
 }

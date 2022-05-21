@@ -641,6 +641,14 @@
       "value": "Violet"
     },
     {
+      "key": "UN_LW_P_ASTR",
+      "value": "Astrius"
+    },
+    {
+      "key": "UN_LW_P_RSNC",
+      "value": "Resnick"
+    },
+    {
       "key": "UN_LW_EMPTI",
       "value": "Dummy Unit"
     },
@@ -1937,6 +1945,18 @@
       "value": "Hourne Soldier"
     },
     {
+      "key": "UN_LW_E_SO_01_CAL",
+      "value": "Hourne Soldier"
+    },
+    {
+      "key": "UN_LW_E_SO_01_MSM",
+      "value": "Hourne Soldier"
+    },
+    {
+      "key": "UN_LW_E_SO_01_VIK",
+      "value": "Hourne Soldier"
+    },
+    {
       "key": "UN_LW_E_HY_06",
       "value": "Heindler Soldier"
     },
@@ -3121,6 +3141,14 @@
       "value": "Sahagin Chief"
     },
     {
+      "key": "UN_LW_E_WORM_01",
+      "value": "Abyss Worm"
+    },
+    {
+      "key": "UN_LW_E_WRAT",
+      "value": "Dire Rat"
+    },
+    {
       "key": "UN_LW_E_CORL",
       "value": "Coeurl"
     },
@@ -3227,6 +3255,26 @@
     {
       "key": "UN_LW_E_TH_00_PLD_R",
       "value": "Bandit"
+    },
+    {
+      "key": "UN_PRS5_E_KMSD_RAID",
+      "value": "Shadow Kamoshida"
+    },
+    {
+      "key": "UN_PRS5_E_KNSR_RAID",
+      "value": "Shadow Kaneshiro"
+    },
+    {
+      "key": "UN_LW_E_TH_00_BEA_R",
+      "value": "Bandit"
+    },
+    {
+      "key": "UN_LW_E_ZZAN_R",
+      "value": "Zazan"
+    },
+    {
+      "key": "UN_LW_E_RIRY_R",
+      "value": "Rairyuu"
     },
     {
       "key": "UN_LW_E_LICH",
@@ -3447,6 +3495,14 @@
     {
       "key": "UN_LW_E_JUME",
       "value": "Jeume"
+    },
+    {
+      "key": "UN_LW_E_STIA",
+      "value": "Cetia"
+    },
+    {
+      "key": "UN_LW_E_BELS",
+      "value": "Velis"
     },
     {
       "key": "UN_FF15_E_ENTP",
@@ -4515,6 +4571,10 @@
     {
       "key": "UN_LW_E_LNAN",
       "value": "Ranan"
+    },
+    {
+      "key": "UN_LW_E_LYCS",
+      "value": "Rayches"
     },
     {
       "key": "UN_LW_E_SO_02_ARC",

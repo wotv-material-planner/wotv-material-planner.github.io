@@ -449,6 +449,10 @@
       "value": "Rapier +5"
     },
     {
+      "key": "AF_SWO_LW_LCIO",
+      "value": "Starlight Sword"
+    },
+    {
       "key": "AF_LW_BSW_000",
       "value": "Greatsword"
     },
@@ -723,6 +727,30 @@
     {
       "key": "AF_LW_KAT_011_5",
       "value": "Seiten +5"
+    },
+    {
+      "key": "AF_LW_KAT_014",
+      "value": "Glimmering Edge: Quelsaad"
+    },
+    {
+      "key": "AF_LW_KAT_014_1",
+      "value": "Glimmering Edge: Quelsaad +1"
+    },
+    {
+      "key": "AF_LW_KAT_014_2",
+      "value": "Glimmering Edge: Quelsaad +2"
+    },
+    {
+      "key": "AF_LW_KAT_014_3",
+      "value": "Glimmering Edge: Quelsaad +3"
+    },
+    {
+      "key": "AF_LW_KAT_014_4",
+      "value": "Glimmering Edge: Quelsaad +4"
+    },
+    {
+      "key": "AF_LW_KAT_014_5",
+      "value": "Glimmering Edge: Quelsaad +5"
     },
     {
       "key": "AF_NIER_KAT_000",
@@ -1671,6 +1699,30 @@
     {
       "key": "AF_FF4_ROD_000_5",
       "value": "Shadow Dragon Staff +5"
+    },
+    {
+      "key": "AF_LW_ROD_025",
+      "value": "Rune Staff"
+    },
+    {
+      "key": "AF_LW_ROD_025_1",
+      "value": "Rune Staff +1"
+    },
+    {
+      "key": "AF_LW_ROD_025_2",
+      "value": "Rune Staff +2"
+    },
+    {
+      "key": "AF_LW_ROD_025_3",
+      "value": "Rune Staff +3"
+    },
+    {
+      "key": "AF_LW_ROD_025_4",
+      "value": "Rune Staff +4"
+    },
+    {
+      "key": "AF_LW_ROD_025_5",
+      "value": "Rune Staff +5"
     },
     {
       "key": "AF_LW_ROD_029",
@@ -4665,6 +4717,30 @@
       "value": "Terra's Ribbon +5"
     },
     {
+      "key": "AF_PRS5_ACC_002",
+      "value": "Jack Frost Doll"
+    },
+    {
+      "key": "AF_PRS5_ACC_002_1",
+      "value": "Jack Frost Doll +1"
+    },
+    {
+      "key": "AF_PRS5_ACC_002_2",
+      "value": "Jack Frost Doll +2"
+    },
+    {
+      "key": "AF_PRS5_ACC_002_3",
+      "value": "Jack Frost Doll +3"
+    },
+    {
+      "key": "AF_PRS5_ACC_002_4",
+      "value": "Jack Frost Doll +4"
+    },
+    {
+      "key": "AF_PRS5_ACC_002_5",
+      "value": "Jack Frost Doll +5"
+    },
+    {
       "key": "AF_LW_CLT_027",
       "value": "Producer's Jacket"
     },
@@ -4719,6 +4795,18 @@
     {
       "key": "AF_SWO_PRS5_VOLT_2",
       "value": "P5 Violet Specific Weapon"
+    },
+    {
+      "key": "AF_ACC_LW_ASTR_1",
+      "value": "Everhope Mantle"
+    },
+    {
+      "key": "AF_CLT_LW_RSNC_1",
+      "value": "Purple Greatcoat"
+    },
+    {
+      "key": "AF_ROD_LW_RSNC_2",
+      "value": "Staff of Lament"
     }
   ]
 }

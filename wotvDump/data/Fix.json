@@ -1103,12 +1103,12 @@
     {
       "iname": "raid_follow_bonus_item_iname",
       "type": 2,
-      "value": "IT_EC_RAID_22"
+      "value": "IT_EC_PRS5_4"
     },
     {
       "iname": "raid_coin_item_iname",
       "type": 2,
-      "value": "IT_EC_RAID_22"
+      "value": "IT_EC_PRS5_4"
     },
     {
       "iname": "raid_agent_max",
@@ -2049,6 +2049,21 @@
       "iname": "ability_board_reset_item",
       "type": 2,
       "value": "IT_SB_SKP_RESET"
+    },
+    {
+      "iname": "quest_archive_open",
+      "type": 0,
+      "value": 1
+    },
+    {
+      "iname": "quest_archive_free_unlock_count",
+      "type": 0,
+      "value": 1
+    },
+    {
+      "iname": "quest_archive_shop_extend_time",
+      "type": 0,
+      "value": 3600
     },
     {
       "iname": "video_nrg_maxuse",

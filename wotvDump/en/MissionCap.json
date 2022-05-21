@@ -585,6 +585,62 @@
       "value": "Raid Support Daily Mission"
     },
     {
+      "key": "MG_GL_DAILY_RAID_87",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_88",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_89",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_90",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_91",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_92",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_93",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_94",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_95",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_96",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_97",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_98",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_99",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_100",
+      "value": "Raid Support Daily Mission"
+    },
+    {
       "key": "MG_GL_DY_RAID_01",
       "value": "Raid Participation Daily Mission"
     },
@@ -1273,6 +1329,10 @@
       "value": "Watch the YouTube Video"
     },
     {
+      "key": "MG_GL_LW_SNS_31",
+      "value": "Check Out the PV"
+    },
+    {
       "key": "MG_EV_SHIV_01",
       "value": "Shiva Challenge"
     },
@@ -1366,11 +1426,11 @@
     },
     {
       "key": "MG_EV_ART_CRF_03",
-      "value": "Equipment Training Quest (Golden Axe)"
+      "value": "Equipment Training Quest (Golden Axe, Sleep Blade)"
     },
     {
       "key": "MG_MU_ART_CRF_03",
-      "value": "[Multi] Equipment Training Quest (Golden Axe)"
+      "value": "[Multi] Equipment Training Quest (Golden Axe, Sleep Blade)"
     },
     {
       "key": "MG_EV_ART_CRF_15",
@@ -1499,6 +1559,22 @@
     {
       "key": "MG_MU_ART_CRF_21",
       "value": "[Multi] Brutal Difficulty Equipment Training Quest (Tyrfing)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_24",
+      "value": "Equipment Training Quest (Rune Staff)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_24",
+      "value": "[Multi] Equipment Training Quest (Rune Staff)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_25",
+      "value": "Brutal Difficulty Equipment Training Quest (Rune Staff)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_25",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Rune Staff)"
     },
     {
       "key": "MG_EV_GL_ART_CRF_01",
@@ -2101,6 +2177,14 @@
       "value": "Brutal Difficulty Another Story Chapter 1, Scene 4 [EX]"
     },
     {
+      "key": "MG_EV_AEX_0105_1",
+      "value": "Another Story Chapter 1, Scene 5 [EX]"
+    },
+    {
+      "key": "MG_EV_AEX_0105_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 5 [EX]"
+    },
+    {
       "key": "MG_MU_AEX_0101_1",
       "value": "[Multi] Another Story Chapter 1, Scene 1 [EX]"
     },
@@ -2131,6 +2215,18 @@
     {
       "key": "MG_MU_AEX_0104_2",
       "value": "[Multi] Brutal Difficulty Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
+      "key": "MG_MU_AEX_0105_1",
+      "value": "[Multi] Another Story Chapter 1, Scene 5 [EX]"
+    },
+    {
+      "key": "MG_MU_AEX_0105_2",
+      "value": "[Multi] Brutal Difficulty Another Story Chapter 1, Scene 5 [EX]"
+    },
+    {
+      "key": "MG_EV_AEX_LCIO",
+      "value": "The Crucible of the Warriors [EX]"
     },
     {
       "key": "MG_EV14_1_01",
