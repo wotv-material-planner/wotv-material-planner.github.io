@@ -165,7 +165,7 @@ export const RowItemInfo: FunctionComponent<Props> = (props) => {
         <div className="RowItemInfo">
             <div className="RowItemInfo-sidebar">
                 <div className="RowItemInfo-sidebar-asset">
-                    <img src={`img/equipment/${artifact.asset}.png`}/>
+                    <img src={`img/gear/${artifact.asset.toLowerCase()}.png`}/>
                 </div>
                 <div className="RowItemInfo-sidebar-buffs">
                     <div className="RowItemInfo-sidebar-buffs-title">

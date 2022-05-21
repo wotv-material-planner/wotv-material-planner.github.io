@@ -26,7 +26,7 @@ export const RowBook: FunctionComponent<Props> = (props) => {
                     ingredientTotals={books[book]}
                     title={`${bookType} books`}
                     totalNeeded={props.totalBooks[book]}
-                    asset={`img/items/${book}.png`}
+                    asset={`img/item/${book.toLowerCase()}.png`}
                     onChange={(event: ChangeEvent<HTMLInputElement>) => {
                         const newBooks: UserIngredientMap = {...books};
 

@@ -28,7 +28,7 @@ export const RowMaterials: FunctionComponent<Props> = (props) => {
                             ingredientTotals={materials[material]}
                             title={itemNameMap[material]}
                             totalNeeded={props.totalMaterials[material]}
-                            asset={`img/items/${material}.png`}
+                            asset={`img/item/${material.toLowerCase()}.png`}
                             onChange={(event: ChangeEvent<HTMLInputElement>) => {
                                 const newMaterials: UserIngredientMap = {...materials};
                                 const newCurrentValue = +event.target.value;
