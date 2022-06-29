@@ -81,7 +81,7 @@
       "rewards": [
         {
           "type": 0,
-          "iname": "IT_PI_LW_KTON_01",
+          "iname": "IT_PI_LW_IRDL_01",
           "num": 1,
           "rate": 1000
         }
@@ -373,6 +373,12 @@
       "rewards": [
         {
           "type": 0,
+          "iname": "IT_PI_LW_RSNC",
+          "num": 1,
+          "rate": 100
+        },
+        {
+          "type": 0,
           "iname": "IT_PI_LW_LNAN",
           "num": 1,
           "rate": 100
@@ -456,7 +462,7 @@
       "rewards": [
         {
           "type": 0,
-          "iname": "IT_PI_LW_DEAN",
+          "iname": "IT_PI_LW_RYER_02",
           "num": 1,
           "rate": 1000
         }
@@ -465,6 +471,12 @@
     {
       "drop_id": 6,
       "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_RYER_02",
+          "num": 1,
+          "rate": 100
+        },
         {
           "type": 0,
           "iname": "IT_PI_LW_LMRE",
@@ -632,7 +644,7 @@
       "rewards": [
         {
           "type": 0,
-          "iname": "IT_PI_LW_RYER_01",
+          "iname": "IT_PI_LW_SERL",
           "num": 1,
           "rate": 1000
         }
@@ -1830,7 +1842,7 @@
           "type": 0,
           "iname": "IT_SB_EXP_THUNDER_01",
           "num": 1,
-          "rate": 28400
+          "rate": 28300
         },
         {
           "type": 0,
@@ -1871,7 +1883,7 @@
           "type": 0,
           "iname": "IT_SB_EXP_THUNDER_01",
           "num": 1,
-          "rate": 26600
+          "rate": 26500
         },
         {
           "type": 0,
@@ -2036,7 +2048,7 @@
           "type": 0,
           "iname": "IT_SB_EXP_DARK_01",
           "num": 1,
-          "rate": 27450
+          "rate": 27350
         },
         {
           "type": 0,
@@ -2077,7 +2089,7 @@
           "type": 0,
           "iname": "IT_SB_EXP_DARK_01",
           "num": 1,
-          "rate": 28450
+          "rate": 28350
         },
         {
           "type": 0,
@@ -4392,7 +4404,7 @@
       "rewards": [
         {
           "type": 0,
-          "iname": "IT_EC_FF10_1",
+          "iname": "IT_EC_FF10_1_R",
           "num": 1,
           "rate": 43750
         },
@@ -4682,7 +4694,7 @@
       "rewards": [
         {
           "type": 0,
-          "iname": "IT_EC_FF10_1",
+          "iname": "IT_EC_FF10_1_R",
           "num": 1,
           "rate": 42400
         },
@@ -4877,7 +4889,7 @@
       "rewards": [
         {
           "type": 0,
-          "iname": "IT_EC_FF10_1",
+          "iname": "IT_EC_FF10_1_R",
           "num": 1,
           "rate": 42200
         },

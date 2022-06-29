@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "area_iname": "AD_AREA_FF10_01",
+      "banner": "ExpeditionBanner_FF10_1",
+      "header": "ExpeditionHeader_FF10_1",
+      "begin_at": "2022/06/21 22:30:00",
+      "end_at": "2022/06/28 23:59:59",
+      "drop": [
+        {
+          "drop_area_id": "AD_AREA_FF10_02",
+          "drop_start_at": "2022/06/21 22:30:00",
+          "drop_end_at": "2022/06/28 23:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_FF10_03",
+          "drop_start_at": "2021/04/07",
+          "drop_end_at": "2021/05/04 23:59:59"
+        }
+      ]
+    },
+    {
       "area_iname": "AD_AREA_P5R_01",
       "banner": "ExpeditionBanner_P5R_1",
       "header": "ExpeditionHeader_P5R_1",
@@ -144,30 +163,6 @@
       ]
     },
     {
-      "area_iname": "AD_AREA_FF10_01",
-      "banner": "ExpeditionBanner_FF10_1",
-      "header": "ExpeditionHeader_FF10_1",
-      "begin_at": "2021/03/23 18:30:00",
-      "end_at": "2021/05/04 23:59:59",
-      "drop": [
-        {
-          "drop_area_id": "AD_AREA_FF10_01",
-          "drop_start_at": "2021/03/23 18:30:00",
-          "drop_end_at": "2021/03/30 23:59:59"
-        },
-        {
-          "drop_area_id": "AD_AREA_FF10_02",
-          "drop_start_at": "2021/03/31",
-          "drop_end_at": "2021/04/06 23:59:59"
-        },
-        {
-          "drop_area_id": "AD_AREA_FF10_03",
-          "drop_start_at": "2021/04/07",
-          "drop_end_at": "2021/05/04 23:59:59"
-        }
-      ]
-    },
-    {
       "area_iname": "AD_AREA_FF14_01",
       "banner": "ExpeditionBanner_FF14_1",
       "header": "ExpeditionHeader_FF14_1",
@@ -176,7 +171,7 @@
       "drop": [
         {
           "drop_area_id": "AD_AREA_FF14_01",
-          "drop_start_at": "2022/03/16 0:00:00",
+          "drop_start_at": "2022/03/16",
           "drop_end_at": "2022/04/12 23:59:59"
         }
       ]
@@ -203,7 +198,7 @@
         },
         {
           "drop_area_id": "AD_AREA_WATER_02",
-          "drop_start_at": "2022/05/04 0:00:00",
+          "drop_start_at": "2022/05/04",
           "drop_end_at": "2022/05/10 23:59:59"
         }
       ]
@@ -214,12 +209,14 @@
       "header": "ExpeditionHeader_Fire01",
       "drop": [
         {
-          "drop_area_id": "AD_AREA_FIRE_01"
+          "drop_area_id": "AD_AREA_FIRE_01",
+          "drop_start_at": "2021/12/21  22:30:00",
+          "drop_end_at": "2022/06/14 17:29:59"
         },
         {
           "drop_area_id": "AD_AREA_FIRE_02",
-          "drop_start_at": "2022/02/22 22:30:00",
-          "drop_end_at": "2022/03/08 23:59:59"
+          "drop_start_at": "2022/06/14 18:30:00",
+          "drop_end_at": "2022/06/28 23:59:59"
         }
       ]
     },
@@ -264,9 +261,7 @@
       "header": "ExpeditionHeader_Thunder01",
       "drop": [
         {
-          "drop_area_id": "AD_AREA_THUNDER_01",
-          "drop_start_at": "2021/12/21 22:30:00",
-          "drop_end_at": "2022/05/17 18:29:59"
+          "drop_area_id": "AD_AREA_THUNDER_01"
         },
         {
           "drop_area_id": "AD_AREA_THUNDER_02",
@@ -285,8 +280,8 @@
         },
         {
           "drop_area_id": "AD_AREA_DARK_02",
-          "drop_start_at": "2022/04/19 22:30:00",
-          "drop_end_at": "2022/05/10 23:59:59"
+          "drop_start_at": "2022/06/01",
+          "drop_end_at": "2022/06/14 17:59:59"
         }
       ]
     },
@@ -315,8 +310,8 @@
         },
         {
           "drop_area_id": "AD_AREA_WIND_02",
-          "drop_start_at": "2022/03/02",
-          "drop_end_at": "2022/03/15 23:59:59"
+          "drop_start_at": "2022/05/31",
+          "drop_end_at": "2022/06/07 23:59:59"
         }
       ]
     },

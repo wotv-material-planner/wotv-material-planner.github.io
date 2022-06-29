@@ -1937,6 +1937,26 @@
       "value": "Innocent Shot"
     },
     {
+      "key": "SK_LW_EC_FINA_A_01",
+      "value": "Sparkle Shower"
+    },
+    {
+      "key": "SK_LW_EC_FINA_C_01",
+      "value": "Curaga Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_FINA_C_01B",
+      "value": "Superior Healing"
+    },
+    {
+      "key": "SK_LW_EC_FINA_C_02",
+      "value": "Innocent Shot Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_FINA_C_02B",
+      "value": "Sacred Shot"
+    },
+    {
       "key": "SK_LW_YSTL_ATK",
       "value": "Normal Attack"
     },
@@ -2086,6 +2106,10 @@
     },
     {
       "key": "SK_LW_VIK_S_1_INIT",
+      "value": "Knee Breaker"
+    },
+    {
+      "key": "SK_LW_VIK_S_1_DRND",
       "value": "Knee Breaker"
     },
     {
@@ -2353,6 +2377,74 @@
       "value": "Dual Trigger"
     },
     {
+      "key": "SK_LW_ASS_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_ASS_M_4",
+      "value": "Armor Cleaver"
+    },
+    {
+      "key": "SK_LW_ASS_M_3",
+      "value": "Heavenly Blade"
+    },
+    {
+      "key": "SK_LW_ASS_S_4",
+      "value": "Condemning Blade"
+    },
+    {
+      "key": "SK_LW_ASS_S_1_INIT",
+      "value": "Poison Sting"
+    },
+    {
+      "key": "SK_LW_ASS_M_1_INIT",
+      "value": "Pillaging Blade"
+    },
+    {
+      "key": "SK_LW_ASS_S_2",
+      "value": "Bind"
+    },
+    {
+      "key": "SK_LW_ASS_M_2",
+      "value": "Marauder's Blade"
+    },
+    {
+      "key": "SK_LW_ASS_S_3",
+      "value": "Seize AP"
+    },
+    {
+      "key": "SK_LW_ASS_R_1",
+      "value": "Dark Shadow"
+    },
+    {
+      "key": "SK_LW_ASS_P_1",
+      "value": "Evasion Up Lv. 1"
+    },
+    {
+      "key": "SK_LW_ASS_P_2",
+      "value": "Acquired AP Up Lv. 1"
+    },
+    {
+      "key": "SK_LW_ASS_M_4_SUB",
+      "value": "Armor Cleaver"
+    },
+    {
+      "key": "SK_LW_ASS_M_3_SUB",
+      "value": "Heavenly Blade"
+    },
+    {
+      "key": "SK_LW_ASS_S_4_SUB",
+      "value": "Condemning Blade"
+    },
+    {
+      "key": "SK_LW_ASS_S_1",
+      "value": "Poison Sting"
+    },
+    {
+      "key": "SK_LW_ASS_M_1",
+      "value": "Pillaging Blade"
+    },
+    {
       "key": "SK_LW_RAIN_ATK",
       "value": "Normal Attack"
     },
@@ -2419,74 +2511,6 @@
     {
       "key": "SK_LW_EC_RAIN_C_02B",
       "value": "Knight's Pride"
-    },
-    {
-      "key": "SK_LW_ASS_ATK",
-      "value": "Normal Attack"
-    },
-    {
-      "key": "SK_LW_ASS_M_4",
-      "value": "Armor Cleaver"
-    },
-    {
-      "key": "SK_LW_ASS_M_3",
-      "value": "Heavenly Blade"
-    },
-    {
-      "key": "SK_LW_ASS_S_4",
-      "value": "Condemning Blade"
-    },
-    {
-      "key": "SK_LW_ASS_S_1_INIT",
-      "value": "Poison Sting"
-    },
-    {
-      "key": "SK_LW_ASS_M_1_INIT",
-      "value": "Pillaging Blade"
-    },
-    {
-      "key": "SK_LW_ASS_S_2",
-      "value": "Bind"
-    },
-    {
-      "key": "SK_LW_ASS_M_2",
-      "value": "Marauder's Blade"
-    },
-    {
-      "key": "SK_LW_ASS_S_3",
-      "value": "Seize AP"
-    },
-    {
-      "key": "SK_LW_ASS_R_1",
-      "value": "Dark Shadow"
-    },
-    {
-      "key": "SK_LW_ASS_P_1",
-      "value": "Evasion Up Lv. 1"
-    },
-    {
-      "key": "SK_LW_ASS_M_4_SUB",
-      "value": "Armor Cleaver"
-    },
-    {
-      "key": "SK_LW_ASS_M_3_SUB",
-      "value": "Heavenly Blade"
-    },
-    {
-      "key": "SK_LW_ASS_S_4_SUB",
-      "value": "Condemning Blade"
-    },
-    {
-      "key": "SK_LW_ASS_S_1",
-      "value": "Poison Sting"
-    },
-    {
-      "key": "SK_LW_ASS_M_1",
-      "value": "Pillaging Blade"
-    },
-    {
-      "key": "SK_LW_ASS_P_2",
-      "value": "Acquired AP Up Lv. 1"
     },
     {
       "key": "SK_FF1_WROL_ATK",
@@ -3377,12 +3401,36 @@
       "value": "Soaring Blade"
     },
     {
+      "key": "SK_LW_MKN_FIRE_S_1_INIT",
+      "value": "Fire Blade"
+    },
+    {
+      "key": "SK_LW_MKN_ICE_S_1_INIT",
+      "value": "Blizzard Blade"
+    },
+    {
       "key": "SK_LW_MKN_WIND_S_1_INIT",
       "value": "Aero Blade"
     },
     {
       "key": "SK_LW_MKN_SOIL_S_1_INIT",
       "value": "Stone Blade"
+    },
+    {
+      "key": "SK_LW_MKN_THUN_S_1_INIT",
+      "value": "Thunder Blade"
+    },
+    {
+      "key": "SK_LW_MKN_WATR_S_1_INIT",
+      "value": "Water Blade"
+    },
+    {
+      "key": "SK_LW_MKN_SHIN_S_1_INIT",
+      "value": "Banish Blade"
+    },
+    {
+      "key": "SK_LW_MKN_DARK_S_1_INIT",
+      "value": "Dark Blade"
     },
     {
       "key": "SK_LW_MKN_S_3_INIT",
@@ -3393,8 +3441,12 @@
       "value": "Hazard Spell"
     },
     {
-      "key": "SK_LW_MKN_S_3",
-      "value": "Drain Evocation"
+      "key": "SK_LW_MKN_FIRE_S_4",
+      "value": "Firebreak Rune"
+    },
+    {
+      "key": "SK_LW_MKN_ICE_S_4",
+      "value": "Icebreak Rune"
     },
     {
       "key": "SK_LW_MKN_WIND_S_4",
@@ -3403,14 +3455,6 @@
     {
       "key": "SK_LW_MKN_SOIL_S_4",
       "value": "Earthbreak Rune"
-    },
-    {
-      "key": "SK_LW_MKN_FIRE_S_4",
-      "value": "Firebreak Rune"
-    },
-    {
-      "key": "SK_LW_MKN_ICE_S_4",
-      "value": "Icebreak Rune"
     },
     {
       "key": "SK_LW_MKN_THUN_S_4",
@@ -3467,30 +3511,6 @@
     {
       "key": "SK_LW_MKN_P_2",
       "value": "Sharp Mind"
-    },
-    {
-      "key": "SK_LW_MKN_FIRE_S_1_INIT",
-      "value": "Fire Blade"
-    },
-    {
-      "key": "SK_LW_MKN_ICE_S_1_INIT",
-      "value": "Blizzard Blade"
-    },
-    {
-      "key": "SK_LW_MKN_THUN_S_1_INIT",
-      "value": "Thunder Blade"
-    },
-    {
-      "key": "SK_LW_MKN_WATR_S_1_INIT",
-      "value": "Water Blade"
-    },
-    {
-      "key": "SK_LW_MKN_SHIN_S_1_INIT",
-      "value": "Banish Blade"
-    },
-    {
-      "key": "SK_LW_MKN_DARK_S_1_INIT",
-      "value": "Dark Blade"
     },
     {
       "key": "SK_LW_MKN_FIRE_M_1_SUB",
@@ -3563,6 +3583,10 @@
     {
       "key": "SK_LW_MKN_DARK_S_1",
       "value": "Dark Blade"
+    },
+    {
+      "key": "SK_LW_MKN_S_3",
+      "value": "Drain Evocation"
     },
     {
       "key": "SK_FF4_CECL_ATK",
@@ -3941,6 +3965,26 @@
       "value": "Thunder Blossom"
     },
     {
+      "key": "SK_LW_EC_SAKR_A_01",
+      "value": "Rending Bright Blade"
+    },
+    {
+      "key": "SK_LW_EC_SAKR_C_01",
+      "value": "Thunder's Light Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_SAKR_C_01B",
+      "value": "Quick Thunder's Light"
+    },
+    {
+      "key": "SK_LW_EC_SAKR_C_02",
+      "value": "Thunder Blossom Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_SAKR_C_02B",
+      "value": "Quick Blossoming Thunder"
+    },
+    {
       "key": "SK_LW_MMC_ATK",
       "value": "Normal Attack"
     },
@@ -4109,6 +4153,10 @@
       "value": "Vengeful Earth"
     },
     {
+      "key": "SK_LW_EC_BEA_A_03",
+      "value": "Demolition Fist"
+    },
+    {
       "key": "SK_LW_EC_BEA_C_03",
       "value": "Iron Body Stance Enhancement"
     },
@@ -4131,6 +4179,22 @@
     {
       "key": "SK_LW_EC_BEA_C_04B",
       "value": "Wrathful Purger"
+    },
+    {
+      "key": "SK_LW_EC_BEA_C_05",
+      "value": "Demon Purger Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_BEA_C_05B",
+      "value": "Unerring Demon Purger"
+    },
+    {
+      "key": "SK_LW_EC_BEA_C_06",
+      "value": "Warrior's Spirit Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_BEA_C_06B",
+      "value": "Warrior's Spirit: Stout"
     },
     {
       "key": "SK_LW_PSI_ATK",
@@ -4771,6 +4835,26 @@
     {
       "key": "SK_LW_WIZ_P_1",
       "value": "Witch's Mastery"
+    },
+    {
+      "key": "SK_LW_EC_WIZ_A_01",
+      "value": "Black Rose Judgment"
+    },
+    {
+      "key": "SK_LW_EC_WIZ_C_01_DARK",
+      "value": "Witch's Hex Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_WIZ_C_01_DARK_B",
+      "value": "Black Rose's Hex"
+    },
+    {
+      "key": "SK_LW_EC_WIZ_C_02",
+      "value": "Witch's Mastery Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_WIZ_C_02B",
+      "value": "Witch's Dark Mastery"
     },
     {
       "key": "SK_LW_ZZAN_ATK",
@@ -5897,6 +5981,10 @@
       "value": "Natural Instincts"
     },
     {
+      "key": "SK_LW_AXD_M_1_SUB",
+      "value": "Twisting Shieldbreaker"
+    },
+    {
       "key": "SK_LW_AXD_EN_A_01",
       "value": "Black Panther Punish"
     },
@@ -5915,6 +6003,26 @@
     {
       "key": "SK_LW_EC_AXD_C_02B",
       "value": "Spirit Ward Mastery"
+    },
+    {
+      "key": "SK_LW_AXD_EN_A_02",
+      "value": "Disrupting Axethrow"
+    },
+    {
+      "key": "SK_LW_EC_AXD_C_03",
+      "value": "Twisting Shieldbreaker Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_AXD_C_03B",
+      "value": "Twisting Dissipater"
+    },
+    {
+      "key": "SK_LW_EC_AXD_C_04",
+      "value": "Natural Instincts Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_AXD_C_04B",
+      "value": "Natural Tempering"
     },
     {
       "key": "SK_FF15_ARNA_ATK",
@@ -7105,6 +7213,138 @@
       "value": "Vorpal Blade"
     },
     {
+      "key": "SK_LW_RYER_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_RYER_M_1",
+      "value": "Graceful Undoing"
+    },
+    {
+      "key": "SK_LW_RYER_M_2",
+      "value": "Delightful Destruction"
+    },
+    {
+      "key": "SK_LW_RYER_M_3",
+      "value": "Pure Hearts Never Die"
+    },
+    {
+      "key": "SK_LW_RYER_S_1",
+      "value": "Pretty Paralyzer"
+    },
+    {
+      "key": "SK_LW_RYER_S_2",
+      "value": "Little Leela's Tactical Tips"
+    },
+    {
+      "key": "SK_LW_RYER_S_2_B",
+      "value": "HP Recovery at Below 20% HP"
+    },
+    {
+      "key": "SK_LW_RYER_S_3",
+      "value": "Beautiful Bladebreak"
+    },
+    {
+      "key": "SK_LW_RYER_S_4",
+      "value": "Dazzling Daggerstrike"
+    },
+    {
+      "key": "SK_LW_RYER_R_1",
+      "value": "Cute Comeback"
+    },
+    {
+      "key": "SK_LW_RYER_P_1",
+      "value": "All in the Eyes"
+    },
+    {
+      "key": "SK_LW_RYER_P_2",
+      "value": "Beauty Standards"
+    },
+    {
+      "key": "SK_LW_EC_RYER_A_01",
+      "value": "Little Leela's Secret Slash"
+    },
+    {
+      "key": "SK_LW_EC_RYER_C_01",
+      "value": "Little Leela's Tactical Tips Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_RYER_C_01B",
+      "value": "Little Leela's Tactical Training"
+    },
+    {
+      "key": "SK_LW_EC_RYER_C_02",
+      "value": "Pure Hearts Never Die Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_RYER_C_02B",
+      "value": "Pure Hearts Never Ever Die"
+    },
+    {
+      "key": "SK_LW_BNI_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_BNI_M_1",
+      "value": "Toxic Assault"
+    },
+    {
+      "key": "SK_LW_BNI_M_2",
+      "value": "Blinding Trinity"
+    },
+    {
+      "key": "SK_LW_BNI_M_3",
+      "value": "Shadow Dance"
+    },
+    {
+      "key": "SK_LW_BNI_S_1_INIT",
+      "value": "Reaping Edge"
+    },
+    {
+      "key": "SK_LW_BNI_S_2_INIT",
+      "value": "Subterfuge"
+    },
+    {
+      "key": "SK_LW_BNI_S_3",
+      "value": "Drain Zone"
+    },
+    {
+      "key": "SK_LW_BNI_S_4",
+      "value": "Disinformation"
+    },
+    {
+      "key": "SK_LW_BNI_R_1",
+      "value": "Predictive Counter"
+    },
+    {
+      "key": "SK_LW_BNI_P_1",
+      "value": "Operative Intuition"
+    },
+    {
+      "key": "SK_LW_BNI_P_2",
+      "value": "Operative's Dual-Wielding"
+    },
+    {
+      "key": "SK_LW_EC_BNI_A_01",
+      "value": "Fatal Bind"
+    },
+    {
+      "key": "SK_LW_EC_BNI_C_01",
+      "value": "Operative's Dual-Wielding Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_BNI_C_01B",
+      "value": "Operative Mastery"
+    },
+    {
+      "key": "SK_LW_EC_BNI_C_02",
+      "value": "Shadow Dance Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_BNI_C_02B",
+      "value": "Shadow Flux"
+    },
+    {
       "key": "SK_TOMB_LARA_ATK",
       "value": "Normal Attack"
     },
@@ -7835,6 +8075,22 @@
     {
       "key": "SK_SHGN_M_03",
       "value": "Bubble Armor"
+    },
+    {
+      "key": "SK_HLDV_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_HLDV_M_01",
+      "value": "Divebomb"
+    },
+    {
+      "key": "SK_HLDV_M_02",
+      "value": "Paralyzing Rake"
+    },
+    {
+      "key": "SK_HLDV_M_03",
+      "value": "Wingbeat"
     },
     {
       "key": "SK_ICGM_ATK",
@@ -9397,6 +9653,90 @@
       "value": "Damage Nullifier"
     },
     {
+      "key": "SK_PRS5_KMSD_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_PRS5_KMSD_M_01",
+      "value": "Do you realize who I am!?"
+    },
+    {
+      "key": "SK_PRS5_KMSD_M_02",
+      "value": "Golden Knife"
+    },
+    {
+      "key": "SK_PRS5_KMSD_M_03",
+      "value": "Lustful Slurp"
+    },
+    {
+      "key": "SK_PRS5_KMSD_M_04",
+      "value": "Nnnnngh! I need healin'!"
+    },
+    {
+      "key": "SK_PRS5_KMSD_M_05",
+      "value": "Gold Medal Spike"
+    },
+    {
+      "key": "SK_PRS5_KMSD_R_01",
+      "value": "No one gets away from me."
+    },
+    {
+      "key": "SK_PRS5_KNSR_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_PRS5_KNSR_M_01",
+      "value": "Goin' against me's a real bad crime."
+    },
+    {
+      "key": "SK_PRS5_KNSR_M_02",
+      "value": "Special Guards"
+    },
+    {
+      "key": "SK_PRS5_KNSR_M_03",
+      "value": "Kill Reward Up"
+    },
+    {
+      "key": "SK_PRS5_KNSR_M_04",
+      "value": "Lullaby"
+    },
+    {
+      "key": "SK_PRS5_KNSR_M_05",
+      "value": "Make it Rain"
+    },
+    {
+      "key": "SK_PRS5_KNSR_M_06",
+      "value": "Make it Rain"
+    },
+    {
+      "key": "SK_PRS5_KNSR_R_01",
+      "value": "We'll see about that!"
+    },
+    {
+      "key": "SK_PRS5_NIJM_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_PRS5_NIJM_M_01",
+      "value": "Ice Punishment"
+    },
+    {
+      "key": "SK_PRS5_NIJM_M_02",
+      "value": "Winning is all that matters!"
+    },
+    {
+      "key": "SK_PRS5_NIJM_M_03",
+      "value": "Gatling Gun"
+    },
+    {
+      "key": "SK_PRS5_NIJM_M_04",
+      "value": "Brutal Impact"
+    },
+    {
+      "key": "SK_PRS5_NIJM_R_01",
+      "value": "Severing Slash"
+    },
+    {
       "key": "SK_MRGE_ATK",
       "value": "Normal Attack"
     },
@@ -9817,6 +10157,30 @@
       "value": "Retaliation System On"
     },
     {
+      "key": "SK_ANIM_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_ANIM_M_01",
+      "value": "Pain"
+    },
+    {
+      "key": "SK_ANIM_M_02",
+      "value": "Darkga"
+    },
+    {
+      "key": "SK_ANIM_M_03",
+      "value": "Chained Impulse"
+    },
+    {
+      "key": "SK_ANIM_M_04",
+      "value": "Bio Corrosion"
+    },
+    {
+      "key": "SK_ANIM_M_05",
+      "value": "Silent Darkness"
+    },
+    {
       "key": "SK_AGON_M_01_R",
       "value": "Core Laser"
     },
@@ -9922,7 +10286,7 @@
     },
     {
       "key": "SK_LB_LW_AYKA_B",
-      "value": "Angelic Grace+"
+      "value": "Angelic Grace"
     },
     {
       "key": "SK_LB_LW_GLMS",
@@ -9993,16 +10357,16 @@
       "value": "Enchanting Trap"
     },
     {
+      "key": "SK_LB_LW_VNLA",
+      "value": "Dark Art: Hidden in Haze"
+    },
+    {
       "key": "SK_LB_LW_RAIN",
       "value": "Shining Nova"
     },
     {
       "key": "SK_LB_LW_FRVA",
       "value": "Ice Prison"
-    },
-    {
-      "key": "SK_LB_LW_VNLA",
-      "value": "Dark Art: Hidden in Haze"
     },
     {
       "key": "SK_LB_FF1_WROL",
@@ -10122,6 +10486,10 @@
     },
     {
       "key": "SK_LB_FF10_ARON",
+      "value": "Tornado"
+    },
+    {
+      "key": "SK_LB_FF10_ARON_B",
       "value": "Tornado"
     },
     {
@@ -10307,6 +10675,14 @@
     {
       "key": "SK_LB_LW_RSNC",
       "value": "Rain of Rallying"
+    },
+    {
+      "key": "SK_LB_LW_RYER_02",
+      "value": "Shadow in the Moonlight"
+    },
+    {
+      "key": "SK_LB_LW_IRDL_01",
+      "value": "Letter Bomb of Love"
     },
     {
       "key": "SK_SMN_IFRT",
@@ -10515,6 +10891,14 @@
     {
       "key": "SK_SMN_ODIN_01",
       "value": "Dark Einherjar"
+    },
+    {
+      "key": "SK_SMN_ANIM",
+      "value": "Silent Darkness"
+    },
+    {
+      "key": "SK_SMN_FF10_VLFR",
+      "value": "Energy Blast"
     },
     {
       "key": "SK_UN_BD_EC_HP_200",
@@ -11689,26 +12073,6 @@
       "value": "Concentrate: Sharp"
     },
     {
-      "key": "SK_LW_EC_WIZ_A_01",
-      "value": "Black Rose Judgment"
-    },
-    {
-      "key": "SK_LW_EC_WIZ_C_01_DARK",
-      "value": "Witch's Hex Enhancement"
-    },
-    {
-      "key": "SK_LW_EC_WIZ_C_01_DARK_B",
-      "value": "Black Rose's Hex"
-    },
-    {
-      "key": "SK_LW_EC_WIZ_C_02",
-      "value": "Witch's Mastery Enhancement"
-    },
-    {
-      "key": "SK_LW_EC_WIZ_C_02B",
-      "value": "Witch's Dark Mastery"
-    },
-    {
       "key": "SK_LW_EC_NIN_A_02_DARK",
       "value": "Dark Haze"
     },
@@ -12209,26 +12573,6 @@
       "value": "Emerald Reverberation"
     },
     {
-      "key": "SK_LW_EC_FINA_A_01",
-      "value": "Sparkle Shower"
-    },
-    {
-      "key": "SK_LW_EC_FINA_C_01",
-      "value": "Curaga Enhancement"
-    },
-    {
-      "key": "SK_LW_EC_FINA_C_01B",
-      "value": "Superior Healing"
-    },
-    {
-      "key": "SK_LW_EC_FINA_C_02",
-      "value": "Innocent Shot Enhancement"
-    },
-    {
-      "key": "SK_LW_EC_FINA_C_02B",
-      "value": "Sacred Shot"
-    },
-    {
       "key": "SK_LW_EC_MST_A_01",
       "value": "Staff of Augmentation"
     },
@@ -12477,6 +12821,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_AYKA_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_GLMS",
       "value": "Master Ability"
     },
@@ -12513,6 +12861,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_RAMD_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_OOOO",
       "value": "Master Ability"
     },
@@ -12533,7 +12885,15 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_VSTR_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_CLEY",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_CLEY_2",
       "value": "Master Ability"
     },
     {
@@ -12562,6 +12922,10 @@
     },
     {
       "key": "SK_MA_LW_SZRT",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_SZRT_2",
       "value": "Master Ability"
     },
     {
@@ -12605,6 +12969,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_SEVR_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_VADM",
       "value": "Master Ability"
     },
@@ -12634,6 +13002,10 @@
     },
     {
       "key": "SK_MA_LW_MICE",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_MICE_2",
       "value": "Master Ability"
     },
     {
@@ -12681,6 +13053,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_P_NASR_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_P_MACR_01",
       "value": "Master Ability"
     },
@@ -12713,11 +13089,19 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_P_WHIS_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_P_KTON",
       "value": "Master Ability"
     },
     {
       "key": "SK_MA_LW_DRND",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_DRND_2",
       "value": "Master Ability"
     },
     {
@@ -12925,11 +13309,23 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_FF10_TIDU_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_FF10_YUNA",
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_FF10_YUNA_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_FF10_ARON",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FF10_ARON_2",
       "value": "Master Ability"
     },
     {
@@ -12958,6 +13354,10 @@
     },
     {
       "key": "SK_MA_LW_THLA_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_THLA_01_2",
       "value": "Master Ability"
     },
     {
@@ -13150,6 +13550,18 @@
     },
     {
       "key": "SK_MA_LW_RSNC",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_RYER_02",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_SERL",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_IRDL_01",
       "value": "Master Ability"
     },
     {
@@ -13845,6 +14257,14 @@
       "value": ""
     },
     {
+      "key": "SK_LW_RNG_010_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_RNG_010_5",
+      "value": ""
+    },
+    {
       "key": "SK_LW_ACC_040_1",
       "value": "Emblem of Devouring"
     },
@@ -14185,6 +14605,10 @@
       "value": "Zombie Transformation"
     },
     {
+      "key": "SK_ACC_LW_RIRY_01_ARENA",
+      "value": "Zombie Transformation"
+    },
+    {
       "key": "SK_ACC_LW_RYER_01_1_1",
       "value": "Full Moon Style"
     },
@@ -14485,6 +14909,10 @@
       "value": ""
     },
     {
+      "key": "SK_AXE_LW_SERL_1",
+      "value": ""
+    },
+    {
       "key": "SK_ACC_LW_RARD_1_1",
       "value": "Combat Supercharge"
     },
@@ -14554,6 +14982,10 @@
     },
     {
       "key": "SK_CLT_LW_THLA_01_1_1",
+      "value": "Miracle of Love"
+    },
+    {
+      "key": "SK_CLT_LW_THLA_01_ARENA",
       "value": "Miracle of Love"
     },
     {
@@ -14759,6 +15191,14 @@
     {
       "key": "SK_CLT_LW_RSNC_1",
       "value": "Resilient Benediction"
+    },
+    {
+      "key": "SK_CLT_LW_RYER_02_1",
+      "value": "Sweet Support"
+    },
+    {
+      "key": "SK_ACC_LW_IRDL_01_1",
+      "value": "Heart Aflutter"
     },
     {
       "key": "SK_VC_LW_GLEM_GS",
@@ -17550,6 +17990,150 @@
     },
     {
       "key": "SK_GL_VC_LW_TREL_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_THLA_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_THLA_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_THLA_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_THLA_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ANIM_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ANIM_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ANIM_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_ANIM_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF10_VLFR_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF10_VLFR_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF10_VLFR_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF10_VLFR_P2MAX",
       "value": ""
     },
     {
@@ -21757,6 +22341,14 @@
       "value": "Job Level [Spellblade] 1-15"
     },
     {
+      "key": "SK_BTL_BSK_1-100_U",
+      "value": "Status Ailment [Berserk] Chance 1-100 Up"
+    },
+    {
+      "key": "SK_BTL_BSK_1-100_D",
+      "value": "Status Ailment [Berserk] Chance 1-100 Down"
+    },
+    {
       "key": "SK_GMK_ATK_TEST",
       "value": "Gimmick Provisional Attack"
     },
@@ -21819,6 +22411,18 @@
     {
       "key": "SK_GMK_CRSPOT",
       "value": "Recovery"
+    },
+    {
+      "key": "SK_GMK_ARROW_1",
+      "value": "Bow Trap"
+    },
+    {
+      "key": "SK_GMK_BOMB_1",
+      "value": "Bomb Trap"
+    },
+    {
+      "key": "SK_GMK_SLEEP_2",
+      "value": "Sleeping Gas Trap"
     },
     {
       "key": "SK_LW_WAR_P_2",
@@ -23621,6 +24225,34 @@
       "value": "Man Eater Upon Magic Attack 15"
     },
     {
+      "key": "SK_LW_DAG_007_1",
+      "value": "Swordbreaker"
+    },
+    {
+      "key": "SK_LW_DAG_007_2",
+      "value": "Swordbreaker"
+    },
+    {
+      "key": "SK_LW_DAG_007_3",
+      "value": "Swordbreaker"
+    },
+    {
+      "key": "SK_LW_DAG_007_4",
+      "value": "Swordbreaker"
+    },
+    {
+      "key": "SK_LW_DAG_007_5",
+      "value": "Swordbreaker"
+    },
+    {
+      "key": "SK_LW_DAG_007_1_S",
+      "value": "Swordbreaker"
+    },
+    {
+      "key": "SK_LW_DAG_007_5_S",
+      "value": "Swordbreaker"
+    },
+    {
       "key": "SK_PRS5_DAG_000_1",
       "value": "Rebel Knife"
     },
@@ -23679,6 +24311,98 @@
     {
       "key": "SK_PRS5_SWO_000_5",
       "value": "Rapier"
+    },
+    {
+      "key": "SK_LW_NKN_004_1",
+      "value": "Kurokasumi"
+    },
+    {
+      "key": "SK_LW_NKN_004_1_2",
+      "value": "Kurokasumi"
+    },
+    {
+      "key": "SK_LW_NKN_004_1_3",
+      "value": "Kurokasumi"
+    },
+    {
+      "key": "SK_LW_NKN_004_1_4",
+      "value": "Kurokasumi"
+    },
+    {
+      "key": "SK_LW_NKN_004_1_5",
+      "value": "Kurokasumi"
+    },
+    {
+      "key": "SK_LW_PLUS6_1_1",
+      "value": "Brotherhood Awakening 2"
+    },
+    {
+      "key": "SK_LW_PLUS6_1_2",
+      "value": "Brotherhood Awakening 3"
+    },
+    {
+      "key": "SK_LW_PLUS6_1_3",
+      "value": "Brotherhood Awakening 4"
+    },
+    {
+      "key": "SK_LW_PLUS6_1_4",
+      "value": "Brotherhood Awakening 5"
+    },
+    {
+      "key": "SK_LW_PLUS6_2",
+      "value": "Damage Limit +1,000"
+    },
+    {
+      "key": "SK_LW_PLUS6_3",
+      "value": "Critical Dmg +10"
+    },
+    {
+      "key": "SK_LW_PLUS6_4",
+      "value": "Critical Evasion Rate +15"
+    },
+    {
+      "key": "SK_LW_PLUS6_5",
+      "value": "Initial AP +10"
+    },
+    {
+      "key": "SK_LW_PLUS6_6",
+      "value": "AGI Up when HP 80% or less"
+    },
+    {
+      "key": "SK_LW_PLUS6_7",
+      "value": "Light/Dark Res +7"
+    },
+    {
+      "key": "SK_LW_PLUS6_8",
+      "value": "Attack Casting Time -250"
+    },
+    {
+      "key": "SK_LW_PLUS6_9",
+      "value": "Slash Attack Res Debuff Res +50"
+    },
+    {
+      "key": "SK_LW_PLUS6_10",
+      "value": "All Elemental Res Debuff Res +50"
+    },
+    {
+      "key": "SK_LW_PLUS6_11",
+      "value": "Missile Attack Res Debuff Res +50"
+    },
+    {
+      "key": "SK_LW_PLUS6_12",
+      "value": "Magic Attack Res Debuff Res +50"
+    },
+    {
+      "key": "SK_LW_PLUS6_13",
+      "value": "AP Recovery on Critical Hit"
+    },
+    {
+      "key": "SK_LW_PLUS6_14",
+      "value": "AGI Up for 3 turns on Critical Hit"
+    },
+    {
+      "key": "SK_LW_PLUS6_15",
+      "value": "Max TP +15%"
     },
     {
       "key": "SK_FF4_ROD_000_1",
@@ -23973,90 +24697,6 @@
       "value": "Uwee-hee-hee!"
     },
     {
-      "key": "SK_PRS5_KMSD_ATK",
-      "value": "Normal Attack"
-    },
-    {
-      "key": "SK_PRS5_KMSD_M_01",
-      "value": "Do you realize who I am!?"
-    },
-    {
-      "key": "SK_PRS5_KMSD_M_02",
-      "value": "Golden Knife"
-    },
-    {
-      "key": "SK_PRS5_KMSD_M_03",
-      "value": "Lustful Slurp"
-    },
-    {
-      "key": "SK_PRS5_KMSD_M_04",
-      "value": "Nnnnngh! I need healin'!"
-    },
-    {
-      "key": "SK_PRS5_KMSD_M_05",
-      "value": "Gold Medal Spike"
-    },
-    {
-      "key": "SK_PRS5_KMSD_R_01",
-      "value": "No one gets away from me."
-    },
-    {
-      "key": "SK_PRS5_KNSR_ATK",
-      "value": "Normal Attack"
-    },
-    {
-      "key": "SK_PRS5_KNSR_M_01",
-      "value": "Goin' against me's a real bad crime."
-    },
-    {
-      "key": "SK_PRS5_KNSR_M_02",
-      "value": "Special Guards"
-    },
-    {
-      "key": "SK_PRS5_KNSR_M_03",
-      "value": "Kill Reward Up"
-    },
-    {
-      "key": "SK_PRS5_KNSR_M_04",
-      "value": "Lullaby"
-    },
-    {
-      "key": "SK_PRS5_KNSR_M_05",
-      "value": "Make it Rain"
-    },
-    {
-      "key": "SK_PRS5_KNSR_M_06",
-      "value": "Make it Rain"
-    },
-    {
-      "key": "SK_PRS5_KNSR_R_01",
-      "value": "We'll see about that!"
-    },
-    {
-      "key": "SK_PRS5_NIJM_ATK",
-      "value": "Normal Attack"
-    },
-    {
-      "key": "SK_PRS5_NIJM_M_01",
-      "value": "Ice Punishment"
-    },
-    {
-      "key": "SK_PRS5_NIJM_M_02",
-      "value": "Winning is all that matters!"
-    },
-    {
-      "key": "SK_PRS5_NIJM_M_03",
-      "value": "Gatling Gun"
-    },
-    {
-      "key": "SK_PRS5_NIJM_M_04",
-      "value": "Brutal Impact"
-    },
-    {
-      "key": "SK_PRS5_NIJM_R_01",
-      "value": "Severing Slash"
-    },
-    {
       "key": "SK_LW_CLT_019_1",
       "value": ""
     },
@@ -24173,12 +24813,92 @@
       "value": ""
     },
     {
+      "key": "SK_LW_ACC_062_1",
+      "value": "Silent Sollerets"
+    },
+    {
+      "key": "SK_LW_ACC_062_2",
+      "value": "Silent Sollerets"
+    },
+    {
+      "key": "SK_LW_ACC_062_3",
+      "value": "Silent Sollerets"
+    },
+    {
+      "key": "SK_LW_ACC_062_4",
+      "value": "Silent Sollerets"
+    },
+    {
+      "key": "SK_LW_ACC_062_5",
+      "value": "Silent Sollerets"
+    },
+    {
       "key": "SK_LW_WHM_M_4_BR",
       "value": "Regen"
     },
     {
       "key": "SK_CLT_LW_HWLT_ARENA",
       "value": "Fresh Blood Rune"
+    },
+    {
+      "key": "SK_GHUL_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_GHUL_M_01",
+      "value": "Paralyzing Bite"
+    },
+    {
+      "key": "SK_GHUL_M_02",
+      "value": "Lurch"
+    },
+    {
+      "key": "SK_GHUL_M_03",
+      "value": "Blight"
+    },
+    {
+      "key": "SK_GHUL_M_04",
+      "value": "Shallow Grave"
+    },
+    {
+      "key": "SK_GHUL_R_01",
+      "value": "Mauling Counter"
+    },
+    {
+      "key": "SK_MPOT_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_MPOT_M_01",
+      "value": "Gimme TP!"
+    },
+    {
+      "key": "SK_MPOT_M_02",
+      "value": "Show me yer abilities!"
+    },
+    {
+      "key": "SK_MPOT_M_03",
+      "value": "Feel the urn!"
+    },
+    {
+      "key": "SK_MPOT_R_01",
+      "value": "Have some AP!"
+    },
+    {
+      "key": "SK_WYVN_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_WYVN_M_01",
+      "value": "Gnashing Bite"
+    },
+    {
+      "key": "SK_WYVN_M_02",
+      "value": "Poison Breath"
+    },
+    {
+      "key": "SK_WYVN_M_03",
+      "value": "Breath Wing"
     }
   ]
 }

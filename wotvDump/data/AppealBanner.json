@@ -8679,7 +8679,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 13,
+      "priority": 12,
       "start_at": "2022/04/26 18:30:00",
       "end_at": "2022/05/31 23:59:59"
     },
@@ -8693,7 +8693,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 14,
+      "priority": 13,
       "start_at": "2022/04/26 18:30:00",
       "end_at": "2022/05/31 23:59:59"
     },
@@ -8707,7 +8707,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 15,
+      "priority": 14,
       "start_at": "2022/04/26 18:30:00",
       "end_at": "2022/05/31 23:59:59"
     },
@@ -8805,7 +8805,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 12,
+      "priority": 11,
       "start_at": "2022/05/04",
       "end_at": "2022/05/31 23:59:59"
     },
@@ -8987,7 +8987,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 1,
+      "priority": 4,
       "start_at": "2022/05/17 18:30:00",
       "end_at": "2022/05/31 23:59:59"
     },
@@ -9032,6 +9032,524 @@
       "priority": 11,
       "start_at": "2022/05/17 18:30:00",
       "end_at": "2022/05/24 23:59:59"
+    },
+    {
+      "id": 647,
+      "iname": "GachaBanner_Global_0903",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0903",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 3,
+      "start_at": "2022/05/25",
+      "end_at": "2022/06/07 23:59:59"
+    },
+    {
+      "id": 648,
+      "iname": "GachaBanner_Global_0905",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0905",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2022/05/25",
+      "end_at": "2022/05/31 23:59:59"
+    },
+    {
+      "id": 649,
+      "iname": "GachaBanner_Global_0906",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0906",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 3,
+      "start_at": "2022/05/25",
+      "end_at": "2022/05/31 23:59:59"
+    },
+    {
+      "id": 650,
+      "iname": "GachaBanner_Global_0907",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0907",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 10,
+      "start_at": "2022/05/25",
+      "end_at": "2022/05/31 23:59:59"
+    },
+    {
+      "id": 651,
+      "iname": "GachaBanner_Global_0910",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0910",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 6,
+      "start_at": "2022/06/01",
+      "end_at": "2022/06/14 17:59:59"
+    },
+    {
+      "id": 652,
+      "iname": "GachaBanner_Global_0912",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0912",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2022/06/01",
+      "end_at": "2022/06/07 23:59:59"
+    },
+    {
+      "id": 653,
+      "iname": "ev_15_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_15_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 8,
+      "start_at": "2022/06/01",
+      "end_at": "2022/06/14 17:59:59"
+    },
+    {
+      "id": 654,
+      "iname": "ev_ryer_02_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_ryer_02_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 5,
+      "start_at": "2022/06/01",
+      "end_at": "2022/06/07 23:59:59"
+    },
+    {
+      "id": 655,
+      "iname": "GachaBanner_Global_0913",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0913",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 6,
+      "start_at": "2022/06/01",
+      "end_at": "2022/06/07 23:59:59"
+    },
+    {
+      "id": 656,
+      "iname": "GachaBanner_Global_0914",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0914",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 7,
+      "start_at": "2022/06/01",
+      "end_at": "2022/06/07 23:59:59"
+    },
+    {
+      "id": 657,
+      "iname": "GachaBanner_Global_0915",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0915",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 8,
+      "start_at": "2022/06/01",
+      "end_at": "2022/06/07 23:59:59"
+    },
+    {
+      "id": 658,
+      "iname": "GachaBanner_Global_0918",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0918",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2022/06/08",
+      "end_at": "2022/06/21 21:59:59"
+    },
+    {
+      "id": 659,
+      "iname": "GachaBanner_Global_0745",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0745",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2022/06/08",
+      "end_at": "2022/06/14 17:59:59"
+    },
+    {
+      "id": 660,
+      "iname": "GachaBanner_Global_0746",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0746",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 3,
+      "start_at": "2022/06/08",
+      "end_at": "2022/06/14 17:59:59"
+    },
+    {
+      "id": 661,
+      "iname": "GachaBanner_Global_0747",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0747",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 4,
+      "start_at": "2022/06/08",
+      "end_at": "2022/06/14 17:59:59"
+    },
+    {
+      "id": 662,
+      "iname": "GachaBanner_Global_0748",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0748",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 5,
+      "start_at": "2022/06/08",
+      "end_at": "2022/06/14 17:59:59"
+    },
+    {
+      "id": 663,
+      "iname": "ev_serl_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_serl_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 10,
+      "start_at": "2022/06/08",
+      "end_at": "2022/06/21 21:59:59"
+    },
+    {
+      "id": 664,
+      "iname": "GachaBanner_Global_0919",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0919",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 9,
+      "start_at": "2022/06/08",
+      "end_at": "2022/06/14 17:59:59"
+    },
+    {
+      "id": 665,
+      "iname": "GachaBanner_Global_0923",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0923",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 5,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/28 23:59:59"
+    },
+    {
+      "id": 666,
+      "iname": "ev_arti_crft_15",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_arti_crft_15",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 7,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/28 23:59:59"
+    },
+    {
+      "id": 667,
+      "iname": "ev_vc_krkn_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_vc_krkn_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 8,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/28 23:59:59"
+    },
+    {
+      "id": 668,
+      "iname": "ev_vc_dmcm_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_vc_dmcm_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 9,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/28 23:59:59"
+    },
+    {
+      "id": 669,
+      "iname": "ev_vc_igen_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_vc_igen_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 10,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/28 23:59:59"
+    },
+    {
+      "id": 670,
+      "iname": "ev_vc_whdg_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_vc_whdg_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 11,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/28 23:59:59"
+    },
+    {
+      "id": 671,
+      "iname": "ev_vc_lich_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_vc_lich_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 12,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/28 23:59:59"
+    },
+    {
+      "id": 672,
+      "iname": "ev_vc_ibuki_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_vc_ibuki_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 13,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/28 23:59:59"
+    },
+    {
+      "id": 673,
+      "iname": "GachaBanner_Global_0925",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0925",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 11,
+      "start_at": "2022/06/14 18:30:00",
+      "end_at": "2022/06/21 21:59:59"
+    },
+    {
+      "id": 674,
+      "iname": "GachaBanner_FF10_0002_R",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF10_0002_R",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 1,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
+    },
+    {
+      "id": 675,
+      "iname": "GachaBanner_FF10_0003_R",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF10_0003_R",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
+    },
+    {
+      "id": 676,
+      "iname": "GachaBanner_FF10_0004_R",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF10_0004_R",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 3,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
+    },
+    {
+      "id": 677,
+      "iname": "GachaBanner_FF10_0006_R",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF10_0006_R",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 4,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
+    },
+    {
+      "id": 678,
+      "iname": "ev_rank_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_rank_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 6,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/07/05 23:59:59"
+    },
+    {
+      "id": 679,
+      "iname": "GachaBanner_FF10_0008_R",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF10_0008_R",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 14,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
+    },
+    {
+      "id": 680,
+      "iname": "GachaBanner_FF10_0009_R",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF10_0009_R",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 15,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
+    },
+    {
+      "id": 681,
+      "iname": "GachaBanner_Global_0899",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0899",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 16,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
+    },
+    {
+      "id": 682,
+      "iname": "GachaBanner_Global_0900",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0900",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 17,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
+    },
+    {
+      "id": 683,
+      "iname": "GachaBanner_Global_0901",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_Global_0901",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 18,
+      "start_at": "2022/06/21 22:30:00",
+      "end_at": "2022/08/02 23:59:59"
     }
   ]
 }

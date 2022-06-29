@@ -1357,14 +1357,14 @@
         {
           "drop_id": 5,
           "is_rare": 1,
-          "rate": 2700,
-          "fever_rate": 2700,
+          "rate": 2800,
+          "fever_rate": 2800,
           "fix_rate": 0
         },
         {
           "drop_id": 5101,
-          "rate": 56300,
-          "fever_rate": 35800,
+          "rate": 56200,
+          "fever_rate": 35700,
           "fix_rate": -2050
         },
         {
@@ -1389,14 +1389,14 @@
         {
           "drop_id": 5,
           "is_rare": 1,
-          "rate": 2700,
-          "fever_rate": 2700,
+          "rate": 2800,
+          "fever_rate": 2800,
           "fix_rate": 0
         },
         {
           "drop_id": 5101,
-          "rate": 35800,
-          "fever_rate": 15300,
+          "rate": 35700,
+          "fever_rate": 15200,
           "fix_rate": -2050
         },
         {
@@ -1421,14 +1421,14 @@
         {
           "drop_id": 5,
           "is_rare": 1,
-          "rate": 2700,
-          "fever_rate": 2700,
+          "rate": 2800,
+          "fever_rate": 2800,
           "fix_rate": 0
         },
         {
           "drop_id": 5101,
-          "rate": 35800,
-          "fever_rate": 15300,
+          "rate": 35700,
+          "fever_rate": 15200,
           "fix_rate": -2050
         },
         {
@@ -1453,14 +1453,14 @@
         {
           "drop_id": 5,
           "is_rare": 1,
-          "rate": 2700,
-          "fever_rate": 2700,
+          "rate": 2800,
+          "fever_rate": 2800,
           "fix_rate": 0
         },
         {
           "drop_id": 5101,
-          "rate": 35800,
-          "fever_rate": 15300,
+          "rate": 35700,
+          "fever_rate": 15200,
           "fix_rate": -2050
         },
         {
@@ -1492,14 +1492,14 @@
         {
           "drop_id": 5,
           "is_rare": 1,
-          "rate": 2700,
-          "fever_rate": 2700,
+          "rate": 2800,
+          "fever_rate": 2800,
           "fix_rate": 0
         },
         {
           "drop_id": 5102,
-          "rate": 55300,
-          "fever_rate": 34800,
+          "rate": 55200,
+          "fever_rate": 34700,
           "fix_rate": -2050
         },
         {
@@ -1531,14 +1531,14 @@
         {
           "drop_id": 5,
           "is_rare": 1,
-          "rate": 2700,
-          "fever_rate": 2700,
+          "rate": 2800,
+          "fever_rate": 2800,
           "fix_rate": 0
         },
         {
           "drop_id": 5102,
-          "rate": 34800,
-          "fever_rate": 14300,
+          "rate": 34700,
+          "fever_rate": 14200,
           "fix_rate": -2050
         },
         {
@@ -1563,14 +1563,14 @@
         {
           "drop_id": 5,
           "is_rare": 1,
-          "rate": 2700,
-          "fever_rate": 2700,
+          "rate": 2800,
+          "fever_rate": 2800,
           "fix_rate": 0
         },
         {
           "drop_id": 5102,
-          "rate": 35800,
-          "fever_rate": 15300,
+          "rate": 35700,
+          "fever_rate": 15200,
           "fix_rate": -2050
         },
         {
@@ -1595,14 +1595,14 @@
         {
           "drop_id": 5,
           "is_rare": 1,
-          "rate": 2700,
-          "fever_rate": 2700,
+          "rate": 2800,
+          "fever_rate": 2800,
           "fix_rate": 0
         },
         {
           "drop_id": 5102,
-          "rate": 35800,
-          "fever_rate": 15300,
+          "rate": 35700,
+          "fever_rate": 15200,
           "fix_rate": -2050
         },
         {
@@ -1627,8 +1627,8 @@
         {
           "drop_id": 6,
           "is_rare": 1,
-          "rate": 1800,
-          "fever_rate": 1800,
+          "rate": 1700,
+          "fever_rate": 1700,
           "fix_rate": 0
         },
         {
@@ -1659,8 +1659,8 @@
         {
           "drop_id": 6,
           "is_rare": 1,
-          "rate": 1800,
-          "fever_rate": 1800,
+          "rate": 1700,
+          "fever_rate": 1700,
           "fix_rate": 0
         },
         {
@@ -1691,8 +1691,8 @@
         {
           "drop_id": 6,
           "is_rare": 1,
-          "rate": 1800,
-          "fever_rate": 1800,
+          "rate": 1700,
+          "fever_rate": 1700,
           "fix_rate": 0
         },
         {
@@ -1723,8 +1723,8 @@
         {
           "drop_id": 6,
           "is_rare": 1,
-          "rate": 1800,
-          "fever_rate": 1800,
+          "rate": 1700,
+          "fever_rate": 1700,
           "fix_rate": 0
         },
         {
@@ -1762,14 +1762,14 @@
         {
           "drop_id": 6,
           "is_rare": 1,
-          "rate": 1800,
-          "fever_rate": 1800,
+          "rate": 1700,
+          "fever_rate": 1700,
           "fix_rate": 0
         },
         {
           "drop_id": 6102,
-          "rate": 56200,
-          "fever_rate": 35700,
+          "rate": 56300,
+          "fever_rate": 35800,
           "fix_rate": -2050
         },
         {
@@ -1801,14 +1801,14 @@
         {
           "drop_id": 6,
           "is_rare": 1,
-          "rate": 1800,
-          "fever_rate": 1800,
+          "rate": 1700,
+          "fever_rate": 1700,
           "fix_rate": 0
         },
         {
           "drop_id": 6102,
-          "rate": 35700,
-          "fever_rate": 15200,
+          "rate": 35800,
+          "fever_rate": 15300,
           "fix_rate": -2050
         },
         {
@@ -1833,14 +1833,14 @@
         {
           "drop_id": 6,
           "is_rare": 1,
-          "rate": 1800,
-          "fever_rate": 1800,
+          "rate": 1700,
+          "fever_rate": 1700,
           "fix_rate": 0
         },
         {
           "drop_id": 6102,
-          "rate": 35700,
-          "fever_rate": 15200,
+          "rate": 36800,
+          "fever_rate": 16300,
           "fix_rate": -2050
         },
         {
@@ -1865,14 +1865,14 @@
         {
           "drop_id": 6,
           "is_rare": 1,
-          "rate": 1800,
-          "fever_rate": 1800,
+          "rate": 1700,
+          "fever_rate": 1700,
           "fix_rate": 0
         },
         {
           "drop_id": 6102,
-          "rate": 35700,
-          "fever_rate": 15200,
+          "rate": 36800,
+          "fever_rate": 16300,
           "fix_rate": -2050
         },
         {

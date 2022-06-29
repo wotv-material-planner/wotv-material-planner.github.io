@@ -649,6 +649,18 @@
       "value": "Resnick"
     },
     {
+      "key": "UN_LW_P_RYER_02",
+      "value": "Little Leela the Bold"
+    },
+    {
+      "key": "UN_LW_P_SERL",
+      "value": "Cyrelle"
+    },
+    {
+      "key": "UN_LW_P_IRDL_01",
+      "value": "Ildyra (Sweetheart)"
+    },
+    {
       "key": "UN_LW_EMPTI",
       "value": "Dummy Unit"
     },
@@ -697,6 +709,10 @@
       "value": "Salire"
     },
     {
+      "key": "UN_LW_E_THLA_01",
+      "value": "Salire (Sweetheart)"
+    },
+    {
       "key": "UN_LW_E_HLNA",
       "value": "Helena Leonis"
     },
@@ -706,6 +722,10 @@
     },
     {
       "key": "UN_LW_E_GRGS",
+      "value": "Gargas"
+    },
+    {
+      "key": "UN_LW_E_GRGS_GR",
       "value": "Gargas"
     },
     {
@@ -799,6 +819,10 @@
     {
       "key": "UN_LW_E_GRSR_01",
       "value": "Glaciela Wezette"
+    },
+    {
+      "key": "UN_LW_E_GRSR_01_QE",
+      "value": "Glaciela (Regalia)"
     },
     {
       "key": "UN_LW_E_CMLO",
@@ -977,6 +1001,10 @@
       "value": "Elsirelle"
     },
     {
+      "key": "UN_LW_E_ELSR_01",
+      "value": "Elsirelle (Summer)"
+    },
+    {
       "key": "UN_LW_E_PRAY",
       "value": "\"Grace\""
     },
@@ -1067,6 +1095,10 @@
     {
       "key": "UN_LW_E_LBRK",
       "value": "Rivelka"
+    },
+    {
+      "key": "UN_LW_E_MGRT",
+      "value": "Margritte"
     },
     {
       "key": "UN_FF01_E_WRMC",
@@ -1473,6 +1505,10 @@
       "value": "Leonis Soldier"
     },
     {
+      "key": "UN_LW_E_SO_00_ASS",
+      "value": "Leonis Soldier"
+    },
+    {
       "key": "UN_LW_E_SO_03_SWN",
       "value": "Fennes Soldier"
     },
@@ -1550,6 +1586,10 @@
     },
     {
       "key": "UN_LW_E_SO_02_TIM",
+      "value": "Wezette Soldier"
+    },
+    {
+      "key": "UN_LW_E_SO_02_MMC",
       "value": "Wezette Soldier"
     },
     {
@@ -1837,6 +1877,10 @@
       "value": "Sanctum Monk"
     },
     {
+      "key": "UN_LW_E_PR_01_RAB",
+      "value": "Sanctum Monk"
+    },
+    {
       "key": "UN_LW_E_PR_02_CLR",
       "value": "Sanctum Monk"
     },
@@ -1882,6 +1926,10 @@
     },
     {
       "key": "UN_LW_E_PR_02_MKN",
+      "value": "Sanctum Monk"
+    },
+    {
+      "key": "UN_LW_E_PR_02_SCR",
       "value": "Sanctum Monk"
     },
     {
@@ -1954,6 +2002,22 @@
     },
     {
       "key": "UN_LW_E_SO_01_VIK",
+      "value": "Hourne Soldier"
+    },
+    {
+      "key": "UN_LW_E_SO_01_THI",
+      "value": "Hourne Soldier"
+    },
+    {
+      "key": "UN_LW_E_SO_01_SAM",
+      "value": "Hourne Soldier"
+    },
+    {
+      "key": "UN_LW_E_SO_01_TIM_01",
+      "value": "Hourne Soldier"
+    },
+    {
+      "key": "UN_LW_E_SO_01_AXD",
       "value": "Hourne Soldier"
     },
     {
@@ -2371,6 +2435,10 @@
     {
       "key": "UN_LW_E_SKEL_02",
       "value": "Cursed Bones"
+    },
+    {
+      "key": "UN_LW_E_SKEL_03",
+      "value": "Gloom Skeleton"
     },
     {
       "key": "UN_LW_E_SKEL_02_2",
@@ -3049,6 +3117,26 @@
       "value": "Shiva"
     },
     {
+      "key": "UN_PRS5_E_KMSD_GR1",
+      "value": "Shadow Kamoshida"
+    },
+    {
+      "key": "UN_PRS5_E_KNSR_GR1",
+      "value": "Shadow Kaneshiro"
+    },
+    {
+      "key": "UN_PRS5_E_NIJM_GR1",
+      "value": "Shadow Niijima"
+    },
+    {
+      "key": "UN_LW_E_PNIX_GR1",
+      "value": "Phoenix"
+    },
+    {
+      "key": "UN_LW_E_TITN_GR1",
+      "value": "Titan"
+    },
+    {
       "key": "UN_LW_E_OCHU_QE",
       "value": "Ochu"
     },
@@ -3141,12 +3229,28 @@
       "value": "Sahagin Chief"
     },
     {
+      "key": "UN_LW_E_HLDV",
+      "value": "Dive Talon"
+    },
+    {
+      "key": "UN_LW_E_WORM",
+      "value": "Sand Worm"
+    },
+    {
       "key": "UN_LW_E_WORM_01",
       "value": "Abyss Worm"
     },
     {
+      "key": "UN_LW_E_WORM_02",
+      "value": "Lava Worm"
+    },
+    {
       "key": "UN_LW_E_WRAT",
       "value": "Dire Rat"
+    },
+    {
+      "key": "UN_LW_E_WYVN",
+      "value": "Wyvern"
     },
     {
       "key": "UN_LW_E_CORL",
@@ -3287,6 +3391,14 @@
     {
       "key": "UN_LW_E_BCRD_SIREN",
       "value": "Brachiosaur"
+    },
+    {
+      "key": "UN_LW_E_ANIM",
+      "value": "Anima"
+    },
+    {
+      "key": "UN_LW_E_ANIM_SIREN",
+      "value": "Anima"
     },
     {
       "key": "UN_LW_E_EURP",
@@ -3491,6 +3603,10 @@
     {
       "key": "UN_FF15_E_ARNA",
       "value": "Aranea"
+    },
+    {
+      "key": "UN_LW_E_LCIO",
+      "value": "Lucio"
     },
     {
       "key": "UN_LW_E_JUME",
@@ -4165,10 +4281,6 @@
       "value": "Bahamut"
     },
     {
-      "key": "UN_FF10_S_VLFR",
-      "value": "Valefor"
-    },
-    {
       "key": "UN_LW_S_OMEG",
       "value": "Omega"
     },
@@ -4255,6 +4367,30 @@
     {
       "key": "UN_LW_S_ODIN_01_AW2",
       "value": "Dark Odin"
+    },
+    {
+      "key": "UN_LW_S_ANIM",
+      "value": "Anima"
+    },
+    {
+      "key": "UN_LW_S_ANIM_AW1",
+      "value": "Anima"
+    },
+    {
+      "key": "UN_LW_S_ANIM_AW2",
+      "value": "Anima"
+    },
+    {
+      "key": "UN_FF10_S_VLFR",
+      "value": "Valefor"
+    },
+    {
+      "key": "UN_FF10_S_VLFR_AW1",
+      "value": "Valefor"
+    },
+    {
+      "key": "UN_FF10_S_VLFR_AW2",
+      "value": "Valefor"
     },
     {
       "key": "UN_LW_S_OMEG_AW1",
@@ -4521,6 +4657,30 @@
       "value": "Healing Point (Enemy)"
     },
     {
+      "key": "UN_GM_IRDV",
+      "value": "Irradiator"
+    },
+    {
+      "key": "UN_GM_FUGO_WALL",
+      "value": "Mansion Trap"
+    },
+    {
+      "key": "UN_GM_FUGO_BOMB",
+      "value": "Mansion Painting"
+    },
+    {
+      "key": "UN_GM_FUGO_SMOKE",
+      "value": "Mansion Urn"
+    },
+    {
+      "key": "UN_GM_FUGO_DOOR",
+      "value": "Mansion Door"
+    },
+    {
+      "key": "UN_GM_SWITCH_03_EV15",
+      "value": "Mansion Switch"
+    },
+    {
       "key": "UN_LW_E_RU_01_WGN",
       "value": "Rundall Soldier"
     },
@@ -4577,12 +4737,28 @@
       "value": "Rayches"
     },
     {
+      "key": "UN_LW_E_SERL",
+      "value": "Cyrelle"
+    },
+    {
+      "key": "UN_LW_E_RIRY_01",
+      "value": "Rairyuu (Halloween)"
+    },
+    {
       "key": "UN_LW_E_SO_02_ARC",
       "value": "Wezette Soldier"
     },
     {
       "key": "UN_LW_P_SDLE",
       "value": "Sadali Crysthea"
+    },
+    {
+      "key": "UN_LW_E_GHUL",
+      "value": "Ghoul"
+    },
+    {
+      "key": "UN_LW_E_MPOT",
+      "value": "Urn"
     }
   ]
 }

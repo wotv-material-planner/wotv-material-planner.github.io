@@ -329,6 +329,10 @@
       "value": "Purger of Demonic Presence"
     },
     {
+      "key": "LW_PA_00093",
+      "value": "Came, Saw, Conquered"
+    },
+    {
       "key": "AWD_P_Anniv_1",
       "value": "Celebrating the First Anniversary"
     },
@@ -427,6 +431,22 @@
     {
       "key": "AWD_P_FF06_6",
       "value": "Imperial Magitek Knight"
+    },
+    {
+      "key": "AWD_P_P5R_1",
+      "value": "Graduation From Your False Self"
+    },
+    {
+      "key": "AWD_P_P5R_2",
+      "value": "Why's She Following Us?"
+    },
+    {
+      "key": "AWD_P_P5R_3",
+      "value": "Law-Abiding Student Council President"
+    },
+    {
+      "key": "AWD_P_P5R_4",
+      "value": "Resolution Clear as Glass"
     },
     {
       "key": "AWD_P_Anniv_2",
@@ -2921,6 +2941,54 @@
       "value": "Lamenting Curseweaver"
     },
     {
+      "key": "LW_PA_CH_157_1",
+      "value": "Little Leela the Bold Fan"
+    },
+    {
+      "key": "LW_PA_CH_157_2",
+      "value": "Little Leela the Bold Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_157_3",
+      "value": "Little Leela the Bold Devotee"
+    },
+    {
+      "key": "LW_PA_CH_157_4",
+      "value": "Fanciful Blade of Beauty"
+    },
+    {
+      "key": "LW_PA_CH_158_1",
+      "value": "Cyrelle Fan"
+    },
+    {
+      "key": "LW_PA_CH_158_2",
+      "value": "Cyrelle Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_158_3",
+      "value": "Cyrelle Devotee"
+    },
+    {
+      "key": "LW_PA_CH_158_4",
+      "value": "Truehearted Axeglint"
+    },
+    {
+      "key": "LW_PA_CH_159_1",
+      "value": "Ildyra (Sweetheart) Fan"
+    },
+    {
+      "key": "LW_PA_CH_159_2",
+      "value": "Ildyra (Sweetheart) Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_159_3",
+      "value": "Ildyra (Sweetheart) Devotee"
+    },
+    {
+      "key": "LW_PA_CH_159_4",
+      "value": "Heart Sparked by Love"
+    },
+    {
       "key": "LW_GL_PA_CH_FRVA_1",
       "value": "Fryevia Fan"
     },
@@ -3215,18 +3283,6 @@
     {
       "key": "AWD_P_ELE_8_5",
       "value": "Luminary of the Dusk"
-    },
-    {
-      "key": "AWD_P_P5R_1",
-      "value": "Graduation From Your False Self"
-    },
-    {
-      "key": "AWD_P_P5R_2",
-      "value": "Why's She Following Us?"
-    },
-    {
-      "key": "AWD_P_P5R_3",
-      "value": "Law-Abiding Student Council President"
     },
     {
       "key": "AWD_GL_P_Clsum_1",

@@ -37,6 +37,22 @@
       "value": "Title given to the Guilds that reach Legend in the Guild Battle League"
     },
     {
+      "key": "LW_GA_00015",
+      "value": "Title given to the Guilds that reach Aries III in the Guild Battle League"
+    },
+    {
+      "key": "LW_GA_00016",
+      "value": "Title given to the Guilds that reach Taurus III in the Guild Battle League"
+    },
+    {
+      "key": "LW_GA_00017",
+      "value": "Title given to the Guilds that reach Gemini III in the Guild Battle League"
+    },
+    {
+      "key": "LW_GA_00018",
+      "value": "Title given to the Guilds that reach Cancer III in the Guild Battle League"
+    },
+    {
       "key": "LW_GA_00010",
       "value": "Title given to the Guilds that have won 50 Guild Battles"
     },
@@ -55,6 +71,42 @@
     {
       "key": "LW_GA_00014",
       "value": "Title given to the Guilds that have reached 30 Guild Members"
+    },
+    {
+      "key": "AWD_G_PT01_1",
+      "value": "Title given to the Guild that ranked 1st in the Guild Total Score Ranking of the Trials of Reckoning"
+    },
+    {
+      "key": "AWD_G_PT01_2",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Guild Total Score Ranking of the Trials of Reckoning"
+    },
+    {
+      "key": "AWD_G_PT01_3",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Guild Total Score Ranking of the Trials of Reckoning"
+    },
+    {
+      "key": "AWD_G_PT01_4",
+      "value": "Title given to the Guild that ranked 1st in the Guild High Score Ranking of the Trials of Reckoning"
+    },
+    {
+      "key": "AWD_G_PT01_5",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Guild High Score Ranking of the Trials of Reckoning"
+    },
+    {
+      "key": "AWD_G_PT01_6",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Guild High Score Ranking of the Trials of Reckoning"
+    },
+    {
+      "key": "AWD_G_GRA_2107_1",
+      "value": "Title given to the Guild that ranked 1st in the Total Score Ranking of the Guild Raid"
+    },
+    {
+      "key": "AWD_G_GRA_2107_2",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Total Score Ranking of the Guild Raid"
+    },
+    {
+      "key": "AWD_G_GRA_2107_3",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Total Score Ranking of the Guild Raid"
     },
     {
       "key": "AWD_G_FF04_1",
@@ -209,42 +261,6 @@
       "value": "Title given to the Guilds that ranked within the top 50 in the Guild High Score Ranking of the FFVI Collaboration — Trials of Reckoning"
     },
     {
-      "key": "AWD_G_PT01_1",
-      "value": "Title given to the Guild that ranked 1st in the Guild Total Score Ranking of the Trials of Reckoning"
-    },
-    {
-      "key": "AWD_G_PT01_2",
-      "value": "Title given to the Guilds that ranked within the top 10 in the Guild Total Score Ranking of the Trials of Reckoning"
-    },
-    {
-      "key": "AWD_G_PT01_3",
-      "value": "Title given to the Guilds that ranked within the top 50 in the Guild Total Score Ranking of the Trials of Reckoning"
-    },
-    {
-      "key": "AWD_G_PT01_4",
-      "value": "Title given to the Guild that ranked 1st in the Guild High Score Ranking of the Trials of Reckoning"
-    },
-    {
-      "key": "AWD_G_PT01_5",
-      "value": "Title given to the Guilds that ranked within the top 10 in the Guild High Score Ranking of the Trials of Reckoning"
-    },
-    {
-      "key": "AWD_G_PT01_6",
-      "value": "Title given to the Guilds that ranked within the top 50 in the Guild High Score Ranking of the Trials of Reckoning"
-    },
-    {
-      "key": "AWD_G_GRA_2107_1",
-      "value": "Title given to the Guild that ranked 1st in the Total Score Ranking of the Guild Raid"
-    },
-    {
-      "key": "AWD_G_GRA_2107_2",
-      "value": "Title given to the Guilds that ranked within the top 10 in the Total Score Ranking of the Guild Raid"
-    },
-    {
-      "key": "AWD_G_GRA_2107_3",
-      "value": "Title given to the Guilds that ranked within the top 50 in the Total Score Ranking of the Guild Raid"
-    },
-    {
       "key": "AWD_G_LGGB01_1",
       "value": "Title given to the Guild that ranked 1st in the Guild Battle Supremacy G-I League"
     },
@@ -283,6 +299,18 @@
     {
       "key": "AWD_G_LGGB01_10",
       "value": "Title given to the Guilds that ranked within the top 3 in the Guild Battle Supremacy G-III League"
+    },
+    {
+      "key": "AWD_G_P5R_1",
+      "value": "Title given to the Guild that ranked 1st in the Total Score Ranking of the Guild Raid"
+    },
+    {
+      "key": "AWD_G_P5R_2",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Total Score Ranking of the Guild Raid"
+    },
+    {
+      "key": "AWD_G_P5R_3",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Total Score Ranking of the Guild Raid"
     }
   ]
 }

@@ -268,7 +268,7 @@
     {
       "iname": "status_max",
       "type": 0,
-      "value": 300
+      "value": 1000
     },
     {
       "iname": "status_min",
@@ -368,7 +368,7 @@
     {
       "iname": "buf_spgain_max",
       "type": 0,
-      "value": 100
+      "value": 200
     },
     {
       "iname": "buf_ct_max",
@@ -1964,6 +1964,21 @@
       "iname": "jp_pool_slide_max",
       "type": 0,
       "value": 99999
+    },
+    {
+      "iname": "skip_ticket_artrank_increase",
+      "type": 0,
+      "value": 5
+    },
+    {
+      "iname": "skip_ticket_intimacy_increase",
+      "type": 0,
+      "value": 5
+    },
+    {
+      "iname": "guildbattle_period_id_before_seasonal_system_introduced",
+      "type": 3,
+      "value": "GBP_001,GBP_002,GBP_003,GBP_004,GBP_005"
     },
     {
       "iname": "multi_scoreattack_standing_time",

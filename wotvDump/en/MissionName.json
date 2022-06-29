@@ -1837,6 +1837,42 @@
       "value": "Advance in the FFX Quests III"
     },
     {
+      "key": "CM_PRO_901",
+      "value": "Advance in the FFX Quests IV"
+    },
+    {
+      "key": "CM_PRO_902",
+      "value": "Clear the EXP Chamber"
+    },
+    {
+      "key": "CM_PRO_903",
+      "value": "Advance in the FFX Quests V"
+    },
+    {
+      "key": "CM_PRO_904",
+      "value": "Clear the Gil Chamber"
+    },
+    {
+      "key": "CM_PRO_905",
+      "value": "Advance in the FFX Quests VI"
+    },
+    {
+      "key": "CM_PRO_906",
+      "value": "Clear the Growth Egg Chamber"
+    },
+    {
+      "key": "CM_PRO_907",
+      "value": "Advance in the FFX Quests VII"
+    },
+    {
+      "key": "CM_PRO_908",
+      "value": "Clear the Pot Chamber"
+    },
+    {
+      "key": "CM_PRO_909",
+      "value": "Advance in the FFX Quests VIII"
+    },
+    {
       "key": "CM_PRO_GL_TIDU_01",
       "value": "Level Up a Specific Unit I"
     },
@@ -1962,23 +1998,23 @@
     },
     {
       "key": "CM_PRO_GL_FF10_MV1_05",
-      "value": "Awaken a Specific Vision Card I"
-    },
-    {
-      "key": "CM_PRO_GL_FF10_MV1_06",
       "value": "Level Up a Specific Vision Card V"
     },
     {
-      "key": "CM_PRO_GL_FF10_MV1_07",
+      "key": "CM_PRO_GL_FF10_MV1_06",
       "value": "Level Up a Specific Vision Card VI"
     },
     {
-      "key": "CM_PRO_GL_FF10_MV1_08",
+      "key": "CM_PRO_GL_FF10_MV1_07",
       "value": "Level Up a Specific Vision Card VII"
     },
     {
-      "key": "CM_PRO_GL_FF10_MV1_09",
+      "key": "CM_PRO_GL_FF10_MV1_08",
       "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
+      "key": "CM_PRO_GL_FF10_MV1_09",
+      "value": "Level Up a Specific Vision Card IX"
     },
     {
       "key": "CM_PRO_GL_ZZAN_01",
@@ -2482,42 +2518,6 @@
     },
     {
       "key": "CM_PRO_GL_RYEL_09",
-      "value": "Level Up a Specific Unit VI"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_01",
-      "value": "Level Up a Specific Unit I"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_02",
-      "value": "Level Up a Specific Unit II"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_03",
-      "value": "Level Up a Specific Unit's Job I"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_04",
-      "value": "Level Up a Specific Unit III"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_05",
-      "value": "Level Up a Specific Unit IV"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_06",
-      "value": "Level Up a Specific Unit's Job II"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_07",
-      "value": "Level Up a Specific Unit V"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_08",
-      "value": "Level Up a Specific Unit's Job III"
-    },
-    {
-      "key": "CM_PRO_GL_SIRM_09",
       "value": "Level Up a Specific Unit VI"
     },
     {
@@ -5545,6 +5545,42 @@
       "value": "Clear a Selection Quest II"
     },
     {
+      "key": "CM_PRO_GL_SIRM_01",
+      "value": "Level Up a Specific Unit I"
+    },
+    {
+      "key": "CM_PRO_GL_SIRM_02",
+      "value": "Level Up a Specific Unit II"
+    },
+    {
+      "key": "CM_PRO_GL_SIRM_03",
+      "value": "Level Up a Specific Unit's Job I"
+    },
+    {
+      "key": "CM_PRO_GL_SIRM_04",
+      "value": "Level Up a Specific Unit III"
+    },
+    {
+      "key": "CM_PRO_GL_SIRM_05",
+      "value": "Level Up a Specific Unit IV"
+    },
+    {
+      "key": "CM_PRO_GL_SIRM_06",
+      "value": "Level Up a Specific Unit's Job II"
+    },
+    {
+      "key": "CM_PRO_GL_SIRM_07",
+      "value": "Level Up a Specific Unit V"
+    },
+    {
+      "key": "CM_PRO_GL_SIRM_08",
+      "value": "Level Up a Specific Unit's Job III"
+    },
+    {
+      "key": "CM_PRO_GL_SIRM_09",
+      "value": "Level Up a Specific Unit VI"
+    },
+    {
       "key": "CM_PRO_GL_LOCK_01",
       "value": "Level Up a Specific Unit I"
     },
@@ -6265,6 +6301,186 @@
       "value": "Level Up a Specific Unit VI"
     },
     {
+      "key": "CM_PRO_GL_V_LW_THLA_01",
+      "value": "Level Up a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_LW_THLA_02",
+      "value": "Level Up a Specific Vision Card II"
+    },
+    {
+      "key": "CM_PRO_GL_V_LW_THLA_03",
+      "value": "Level Up a Specific Vision Card III"
+    },
+    {
+      "key": "CM_PRO_GL_V_LW_THLA_04",
+      "value": "Level Up a Specific Vision Card IV"
+    },
+    {
+      "key": "CM_PRO_GL_V_LW_THLA_05",
+      "value": "Awaken a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_LW_THLA_06",
+      "value": "Level Up a Specific Vision Card V"
+    },
+    {
+      "key": "CM_PRO_GL_V_LW_THLA_07",
+      "value": "Level Up a Specific Vision Card VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_LW_THLA_08",
+      "value": "Level Up a Specific Vision Card VII"
+    },
+    {
+      "key": "CM_PRO_GL_V_LW_THLA_09",
+      "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_01",
+      "value": "Level Up a Specific Unit I"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_02",
+      "value": "Limit Break a Specific Unit"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_03",
+      "value": "Level Up a Specific Unit II"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_04",
+      "value": "Level Up a Specific Unit's Job I"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_05",
+      "value": "Level Up a Specific Unit III"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_06",
+      "value": "Level Up a Specific Unit's Job II"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_07",
+      "value": "Level Up a Specific Unit IV"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_08",
+      "value": "Level Up a Specific Unit V"
+    },
+    {
+      "key": "CM_PRO_GL_RYER_02_09",
+      "value": "Level Up a Specific Unit VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_01",
+      "value": "Level Up a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_02",
+      "value": "Level Up a Specific Vision Card II"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_03",
+      "value": "Level Up a Specific Vision Card III"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_04",
+      "value": "Level Up a Specific Vision Card IV"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_05",
+      "value": "Awaken a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_06",
+      "value": "Level Up a Specific Vision Card V"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_07",
+      "value": "Level Up a Specific Vision Card VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_08",
+      "value": "Level Up a Specific Vision Card VII"
+    },
+    {
+      "key": "CM_PRO_GL_V_ANIM_09",
+      "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_01",
+      "value": "Level Up a Specific Unit I"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_02",
+      "value": "Limit Break a Specific Unit"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_03",
+      "value": "Level Up a Specific Unit II"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_04",
+      "value": "Level Up a Specific Unit's Job I"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_05",
+      "value": "Level Up a Specific Unit III"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_06",
+      "value": "Level Up a Specific Unit's Job II"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_07",
+      "value": "Level Up a Specific Unit IV"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_08",
+      "value": "Level Up a Specific Unit V"
+    },
+    {
+      "key": "CM_PRO_GL_IRDL_01_09",
+      "value": "Level Up a Specific Unit VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_01",
+      "value": "Level Up a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_02",
+      "value": "Level Up a Specific Vision Card II"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_03",
+      "value": "Level Up a Specific Vision Card III"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_04",
+      "value": "Level Up a Specific Vision Card IV"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_05",
+      "value": "Awaken a Specific Vision Card I"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_06",
+      "value": "Level Up a Specific Vision Card V"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_07",
+      "value": "Level Up a Specific Vision Card VI"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_08",
+      "value": "Level Up a Specific Vision Card VII"
+    },
+    {
+      "key": "CM_PRO_GL_V_FF10_VLFR_09",
+      "value": "Level Up a Specific Vision Card VIII"
+    },
+    {
       "key": "GM_0001",
       "value": "Recruit More Guild Members I"
     },
@@ -6379,6 +6595,22 @@
     {
       "key": "GM_0029",
       "value": "Full Ranks"
+    },
+    {
+      "key": "GM_0030",
+      "value": "The Rising Rams"
+    },
+    {
+      "key": "GM_0031",
+      "value": "The Graceful Bulls"
+    },
+    {
+      "key": "GM_0032",
+      "value": "The Twins of Duality"
+    },
+    {
+      "key": "GM_0033",
+      "value": "The Dutiful Cancri"
     },
     {
       "key": "GM_FF04_1",
@@ -6607,6 +6839,18 @@
     {
       "key": "GM_LGGB01_10",
       "value": "1st G-III League Bronze"
+    },
+    {
+      "key": "GM_GRA_P5R_1",
+      "value": "Thou Who Art Willing to Perform Sacrilege"
+    },
+    {
+      "key": "GM_GRA_P5R_2",
+      "value": "The Path of Rehabilitation"
+    },
+    {
+      "key": "GM_GRA_P5R_3",
+      "value": "Kid in the Attic"
     },
     {
       "key": "M_ST_0001_01_03N",
@@ -7133,6 +7377,30 @@
       "value": "Clear Chapter 7, Scene 1 [Maintaining Their Attention]"
     },
     {
+      "key": "M_ST_0207_02",
+      "value": "Clear Chapter 7, Scene 2 [Skirmish Unit]"
+    },
+    {
+      "key": "M_ST_0207_02_02",
+      "value": "Clear Chapter 7, Scene 2 [Unrest in Rundall]"
+    },
+    {
+      "key": "M_ST_0207_03",
+      "value": "Clear Chapter 7, Scene 3 [If There's No Path]"
+    },
+    {
+      "key": "M_ST_0207_03_2",
+      "value": "Clear Chapter 7, Scene 3 [All for This Moment]"
+    },
+    {
+      "key": "M_ST_0208_01",
+      "value": "Clear Chapter 8, Scene 1 [The Ordeal of Treatment]"
+    },
+    {
+      "key": "M_ST_0208_01_02",
+      "value": "Clear Chapter 8, Scene 1 [When Chance Presents Itself]"
+    },
+    {
       "key": "M_VIP_LOGB_001",
       "value": "Royal Rank 1 Login Bonus"
     },
@@ -7266,6 +7534,50 @@
     },
     {
       "key": "M_DAILY_001_11",
+      "value": "Enhance a Vision Card"
+    },
+    {
+      "key": "M_GL_DAILY_001_01",
+      "value": "Clear Story Quests"
+    },
+    {
+      "key": "M_GL_DAILY_001_02",
+      "value": "Clear a Hard Quest"
+    },
+    {
+      "key": "M_GL_DAILY_001_03",
+      "value": "Clear an Event Quest"
+    },
+    {
+      "key": "M_GL_DAILY_001_04",
+      "value": "Enhance a Guild Statue"
+    },
+    {
+      "key": "M_GL_DAILY_001_05",
+      "value": "Compete in the Arena"
+    },
+    {
+      "key": "M_GL_DAILY_001_06",
+      "value": "Enhance an Equipment Item"
+    },
+    {
+      "key": "M_GL_DAILY_001_07",
+      "value": "Perform a Normal Summon"
+    },
+    {
+      "key": "M_GL_DAILY_001_08",
+      "value": "Purchase an Item at the Shop"
+    },
+    {
+      "key": "M_GL_DAILY_001_09",
+      "value": "Send a Gift to a Friend"
+    },
+    {
+      "key": "M_GL_DAILY_001_10",
+      "value": "Collect Items Found During Chocobo Expedition"
+    },
+    {
+      "key": "M_GL_DAILY_001_11",
       "value": "Enhance a Vision Card"
     },
     {
@@ -10074,111 +10386,111 @@
     },
     {
       "key": "M_FF14_1_1_01",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #1 (1/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #1 (1/5)"
     },
     {
       "key": "M_FF14_1_1_02",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #1 (3/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #1 (3/5)"
     },
     {
       "key": "M_FF14_1_1_03",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #1 (5/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #1 (5/5)"
     },
     {
       "key": "M_FF14_1_2_01",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #2 (1/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #2 (1/5)"
     },
     {
       "key": "M_FF14_1_2_02",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #2 (3/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #2 (3/5)"
     },
     {
       "key": "M_FF14_1_2_03",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #2 (5/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #2 (5/5)"
     },
     {
       "key": "M_FF14_1_3_01",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #3 (1/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #3 (1/5)"
     },
     {
       "key": "M_FF14_1_3_02",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #3 (3/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #3 (3/5)"
     },
     {
       "key": "M_FF14_1_3_03",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #3 (5/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #3 (5/5)"
     },
     {
       "key": "M_FF14_1_4_01",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #4 (1/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #4 (1/5)"
     },
     {
       "key": "M_FF14_1_4_02",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #4 (3/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #4 (3/5)"
     },
     {
       "key": "M_FF14_1_4_03",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #4 (5/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #4 (5/5)"
     },
     {
       "key": "M_FF14_1_5_01",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #5 (1/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #5 (1/5)"
     },
     {
       "key": "M_FF14_1_5_02",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #5 (3/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #5 (3/5)"
     },
     {
       "key": "M_FF14_1_5_03",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers Battle #5 (5/5)"
+      "value": "Clear FINAL FANTASY XIV Battle #5 (5/5)"
     },
     {
       "key": "M_FF14_1_EX1_01",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX1] (1/3)"
+      "value": "Clear FINAL FANTASY XIV [EX1] (1/3)"
     },
     {
       "key": "M_FF14_1_EX1_02",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX1] (2/3)"
+      "value": "Clear FINAL FANTASY XIV [EX1] (2/3)"
     },
     {
       "key": "M_FF14_1_EX1_03",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX1] (3/3)"
+      "value": "Clear FINAL FANTASY XIV [EX1] (3/3)"
     },
     {
       "key": "M_FF14_1_EX2_01",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX2] (1/3)"
+      "value": "Clear FINAL FANTASY XIV [EX2] (1/3)"
     },
     {
       "key": "M_FF14_1_EX2_02",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX2] (2/3)"
+      "value": "Clear FINAL FANTASY XIV [EX2] (2/3)"
     },
     {
       "key": "M_FF14_1_EX2_03",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX2] (3/3)"
+      "value": "Clear FINAL FANTASY XIV [EX2] (3/3)"
     },
     {
       "key": "M_FF14_1_EX3_01",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX3] (1/5)"
+      "value": "Clear FINAL FANTASY XIV [EX3] (1/5)"
     },
     {
       "key": "M_FF14_1_EX3_02",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX3] (3/5)"
+      "value": "Clear FINAL FANTASY XIV [EX3] (3/5)"
     },
     {
       "key": "M_FF14_1_EX3_03",
-      "value": "Clear FINAL FANTASY XIV: Shadowbringers [EX3] (5/5)"
+      "value": "Clear FINAL FANTASY XIV [EX3] (5/5)"
     },
     {
       "key": "M_FF14_1_EX3_M01",
-      "value": "[Multi] Clear FINAL FANTASY XIV: Shadowbringers [EX3] (1/5)"
+      "value": "[Multi] Clear FINAL FANTASY XIV [EX3] (1/5)"
     },
     {
       "key": "M_FF14_1_EX3_M02",
-      "value": "[Multi] Clear FINAL FANTASY XIV: Shadowbringers [EX3] (3/5)"
+      "value": "[Multi] Clear FINAL FANTASY XIV [EX3] (3/5)"
     },
     {
       "key": "M_FF14_1_EX3_M03",
-      "value": "[Multi] Clear FINAL FANTASY XIV: Shadowbringers [EX3] (5/5)"
+      "value": "[Multi] Clear FINAL FANTASY XIV [EX3] (5/5)"
     },
     {
       "key": "M_FF14_1_EX4_01",
@@ -10849,18 +11161,6 @@
       "value": "Clear FINAL FANTASY X [EX1] (5/5)"
     },
     {
-      "key": "M_FF10_EX_04",
-      "value": "Clear FINAL FANTASY X [EX2] (1/5)"
-    },
-    {
-      "key": "M_FF10_EX_05",
-      "value": "Clear FINAL FANTASY X [EX2] (3/5)"
-    },
-    {
-      "key": "M_FF10_EX_06",
-      "value": "Clear FINAL FANTASY X [EX2] (5/5)"
-    },
-    {
       "key": "M_FF10_EX1_01",
       "value": "Clear Brutal Difficulty FINAL FANTASY X [EX1] (1/10)"
     },
@@ -10875,22 +11175,6 @@
     {
       "key": "M_FF10_EX1_04",
       "value": "Clear Brutal Difficulty FINAL FANTASY X [EX1] (10/10)"
-    },
-    {
-      "key": "M_FF10_EX1_05",
-      "value": "Clear Brutal Difficulty FINAL FANTASY X [EX2] (1/10)"
-    },
-    {
-      "key": "M_FF10_EX1_06",
-      "value": "Clear Brutal Difficulty FINAL FANTASY X [EX2] (3/10)"
-    },
-    {
-      "key": "M_FF10_EX1_07",
-      "value": "Clear Brutal Difficulty FINAL FANTASY X [EX2] (5/10)"
-    },
-    {
-      "key": "M_FF10_EX1_08",
-      "value": "Clear Brutal Difficulty FINAL FANTASY X [EX2] (10/10)"
     },
     {
       "key": "M_MU_FF10_EX_01",
@@ -10911,6 +11195,34 @@
     {
       "key": "M_MU_FF10_EX1_02",
       "value": "[Multi] Clear Brutal Difficulty FINAL FANTASY X [EX1] (3/3)"
+    },
+    {
+      "key": "M_FF10_EX_04",
+      "value": "Clear FINAL FANTASY X [EX2] (1/5)"
+    },
+    {
+      "key": "M_FF10_EX_05",
+      "value": "Clear FINAL FANTASY X [EX2] (3/5)"
+    },
+    {
+      "key": "M_FF10_EX_06",
+      "value": "Clear FINAL FANTASY X [EX2] (5/5)"
+    },
+    {
+      "key": "M_FF10_EX1_05",
+      "value": "Clear Brutal Difficulty FINAL FANTASY X [EX2] (1/10)"
+    },
+    {
+      "key": "M_FF10_EX1_06",
+      "value": "Clear Brutal Difficulty FINAL FANTASY X [EX2] (3/10)"
+    },
+    {
+      "key": "M_FF10_EX1_07",
+      "value": "Clear Brutal Difficulty FINAL FANTASY X [EX2] (5/10)"
+    },
+    {
+      "key": "M_FF10_EX1_08",
+      "value": "Clear Brutal Difficulty FINAL FANTASY X [EX2] (10/10)"
     },
     {
       "key": "M_MU_FF10_EX_04",
@@ -11405,6 +11717,10 @@
       "value": "Take Part in the Social Media Campaign"
     },
     {
+      "key": "M_GL_FF10_SNS_1",
+      "value": "FFX Collaboration Milestones"
+    },
+    {
       "key": "M_FF7_1_01",
       "value": "Clear FINAL FANTASY VII REMAKE Battle #1 (1/3)"
     },
@@ -11566,7 +11882,7 @@
     },
     {
       "key": "M_FF7_EX1_04",
-      "value": "Clear Brutal Difficulty FINAL FANTASY VII REMAKE [EX1] (10/10)"
+      "value": "Clear FINAL FANTASY VII REMAKE [EX1] (1/5)"
     },
     {
       "key": "M_FF7_EX1_05",
@@ -12601,6 +12917,18 @@
       "value": "Check Out the PV"
     },
     {
+      "key": "M_GL_LW_SNS_32",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "M_GL_LW_SNS_33",
+      "value": "Watch the YouTube Video"
+    },
+    {
+      "key": "M_GL_LW_SNS_34",
+      "value": "Check Out the PV"
+    },
+    {
       "key": "M_ART_CRF_01_01",
       "value": "Clear Equipment Training Quest (Novice) (1/5)"
     },
@@ -13130,27 +13458,27 @@
     },
     {
       "key": "M_ART_CRF_10_01",
-      "value": "Clear Any Brutal Difficulty Equipment Training Quest (1/10)"
+      "value": "Clear Any Brutal Difficulty Equipment Training Quest (Healing Mace, Ras Algethi, Sasuke's Katana) (1/10)"
     },
     {
       "key": "M_ART_CRF_10_02",
-      "value": "Clear Any Brutal Difficulty Equipment Training Quest (3/10)"
+      "value": "Clear Any Brutal Difficulty Equipment Training Quest (Healing Mace, Ras Algethi, Sasuke's Katana) (3/10)"
     },
     {
       "key": "M_ART_CRF_10_03",
-      "value": "Clear Any Brutal Difficulty Equipment Training Quest (5/10)"
+      "value": "Clear Any Brutal Difficulty Equipment Training Quest (Healing Mace, Ras Algethi, Sasuke's Katana) (5/10)"
     },
     {
       "key": "M_ART_CRF_10_04",
-      "value": "Clear Any Brutal Difficulty Equipment Training Quest (10/10)"
+      "value": "Clear Any Brutal Difficulty Equipment Training Quest (Healing Mace, Ras Algethi, Sasuke's Katana) (10/10)"
     },
     {
       "key": "M_ART_CRF_10_05",
-      "value": "[Multi] Clear Any Brutal Difficulty Equipment Training Quest (1/3)"
+      "value": "[Multi] Clear Any Brutal Difficulty Equipment Training Quest (Healing Mace, Ras Algethi, Sasuke's Katana) (1/3)"
     },
     {
       "key": "M_ART_CRF_10_06",
-      "value": "[Multi] Clear Any Brutal Difficulty Equipment Training Quest (3/3)"
+      "value": "[Multi] Clear Any Brutal Difficulty Equipment Training Quest (Healing Mace, Ras Algethi, Sasuke's Katana) (3/3)"
     },
     {
       "key": "MG_MU_CHAL_03_02",
@@ -13627,6 +13955,54 @@
     {
       "key": "M_MU_ARTCRF_30_1",
       "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Tyrfing) (1/3)"
+    },
+    {
+      "key": "M_ART_CRF_35_01",
+      "value": "Clear Equipment Training Quest (Kurokasumi) (1/5)"
+    },
+    {
+      "key": "M_ART_CRF_35_02",
+      "value": "Clear Equipment Training Quest (Kurokasumi) (3/5)"
+    },
+    {
+      "key": "M_ART_CRF_35_03",
+      "value": "Clear Equipment Training Quest (Kurokasumi) (5/5)"
+    },
+    {
+      "key": "M_MU_ARTCRF_36_1",
+      "value": "[Multi] Clear Equipment Training Quest (Kurokasumi) (1/5)"
+    },
+    {
+      "key": "M_MU_ARTCRF_36_2",
+      "value": "[Multi] Clear Equipment Training Quest (Kurokasumi) (3/5)"
+    },
+    {
+      "key": "M_MU_ARTCRF_36_3",
+      "value": "[Multi] Clear Equipment Training Quest (Kurokasumi) (5/5)"
+    },
+    {
+      "key": "M_ART_CRF_36_01",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Kurokasumi) (1/10)"
+    },
+    {
+      "key": "M_ART_CRF_36_02",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Kurokasumi) (3/10)"
+    },
+    {
+      "key": "M_ART_CRF_36_03",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Kurokasumi) (5/10)"
+    },
+    {
+      "key": "M_ART_CRF_35_04",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Kurokasumi) (10/10)"
+    },
+    {
+      "key": "M_MU_ARTCRF_37_1",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Kurokasumi) (1/3)"
+    },
+    {
+      "key": "M_MU_ARTCRF_37_2",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Kurokasumi) (3/3)"
     },
     {
       "key": "M_MU_ARTCRF_30_2",
@@ -15261,6 +15637,42 @@
       "value": "Clear Selection Quest (Lightning) #10 (5/5)"
     },
     {
+      "key": "M_BR_THUN_11_1",
+      "value": "Clear Selection Quest (Lightning) #11 (1/3)"
+    },
+    {
+      "key": "M_BR_THUN_11_2",
+      "value": "Clear Selection Quest (Lightning) #11 (2/3)"
+    },
+    {
+      "key": "M_BR_THUN_11_3",
+      "value": "Clear Selection Quest (Lightning) #11 (3/3)"
+    },
+    {
+      "key": "M_BR_THUN_12_1",
+      "value": "Clear Selection Quest (Lightning) #12 (1/3)"
+    },
+    {
+      "key": "M_BR_THUN_12_2",
+      "value": "Clear Selection Quest (Lightning) #12 (2/3)"
+    },
+    {
+      "key": "M_BR_THUN_12_3",
+      "value": "Clear Selection Quest (Lightning) #12 (3/3)"
+    },
+    {
+      "key": "M_BR_THUN_13_1",
+      "value": "Clear Selection Quest (Lightning) #13 (1/3)"
+    },
+    {
+      "key": "M_BR_THUN_13_2",
+      "value": "Clear Selection Quest (Lightning) #13 (2/3)"
+    },
+    {
+      "key": "M_BR_THUN_13_3",
+      "value": "Clear Selection Quest (Lightning) #13 (3/3)"
+    },
+    {
       "key": "M_BR_DARK_01_1",
       "value": "Clear Selection Quest (Dark) #1 (1/3)"
     },
@@ -15815,6 +16227,106 @@
     {
       "key": "M_RAID_RV_03_06",
       "value": "Clear any FFXIV: Shadowbringers Reissue Raid Boss Revival (20/20)"
+    },
+    {
+      "key": "M_RAID_RV_04_01",
+      "value": "Defeat Chocolate Flan (1/20)"
+    },
+    {
+      "key": "M_RAID_RV_04_02",
+      "value": "Defeat Chocolate Flan (3/20)"
+    },
+    {
+      "key": "M_RAID_RV_04_03",
+      "value": "Defeat Chocolate Flan (5/20)"
+    },
+    {
+      "key": "M_RAID_RV_04_04",
+      "value": "Defeat Chocolate Flan (10/20)"
+    },
+    {
+      "key": "M_RAID_RV_04_05",
+      "value": "Defeat Chocolate Flan (15/20)"
+    },
+    {
+      "key": "M_RAID_RV_04_06",
+      "value": "Defeat Chocolate Flan (20/20)"
+    },
+    {
+      "key": "MG_SM_2022_1_1_1",
+      "value": "Participate in Guild Battles (5/35)"
+    },
+    {
+      "key": "MG_SM_2022_1_1_2",
+      "value": "Participate in Guild Battles (10/35)"
+    },
+    {
+      "key": "MG_SM_2022_1_1_3",
+      "value": "Participate in Guild Battles (15/35)"
+    },
+    {
+      "key": "MG_SM_2022_1_1_4",
+      "value": "Participate in Guild Battles (20/35)"
+    },
+    {
+      "key": "MG_SM_2022_1_1_5",
+      "value": "Participate in Guild Battles (30/35)"
+    },
+    {
+      "key": "MG_SM_2022_1_1_6",
+      "value": "Participate in Guild Battles (35/35)"
+    },
+    {
+      "key": "MG_SM_2022_1_2_1",
+      "value": "Acquire Stars in Guild Battles (5/65)"
+    },
+    {
+      "key": "MG_SM_2022_1_2_2",
+      "value": "Acquire Stars in Guild Battles (10/65)"
+    },
+    {
+      "key": "MG_SM_2022_1_2_3",
+      "value": "Acquire Stars in Guild Battles (20/65)"
+    },
+    {
+      "key": "MG_SM_2022_1_2_4",
+      "value": "Acquire Stars in Guild Battles (30/65)"
+    },
+    {
+      "key": "MG_SM_2022_1_2_5",
+      "value": "Acquire Stars in Guild Battles (40/65)"
+    },
+    {
+      "key": "MG_SM_2022_1_2_6",
+      "value": "Acquire Stars in Guild Battles (50/65)"
+    },
+    {
+      "key": "MG_SM_2022_1_2_7",
+      "value": "Acquire Stars in Guild Battles (60/65)"
+    },
+    {
+      "key": "MG_SM_2022_1_2_8",
+      "value": "Acquire Stars in Guild Battles (65/65)"
+    },
+    {
+      "key": "MG_SM_2022_1_3_1",
+      "value": "Win Guild Battles (2/15)"
+    },
+    {
+      "key": "MG_SM_2022_1_3_2",
+      "value": "Win Guild Battles (4/15)"
+    },
+    {
+      "key": "MG_SM_2022_1_3_3",
+      "value": "Win Guild Battles (7/15)"
+    },
+    {
+      "key": "MG_SM_2022_1_3_4",
+      "value": "Win Guild Battles (10/15)"
+    },
+    {
+      "key": "MG_SM_2022_1_3_5",
+      "value": "Win Guild Battles (15/15)"
     },
     {
       "key": "M_EV01_1_01",
@@ -18001,6 +18513,178 @@
       "value": "[Multi] Clear Brutal Difficulty In the Name of Hope [EX] (3/3)"
     },
     {
+      "key": "M_EV15_1_01",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 1 (1/3)"
+    },
+    {
+      "key": "M_EV15_1_02",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 1 (2/3)"
+    },
+    {
+      "key": "M_EV15_1_03",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 1 (3/3)"
+    },
+    {
+      "key": "M_EV15_1_04",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 2 (1/3)"
+    },
+    {
+      "key": "M_EV15_1_05",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 2 (2/3)"
+    },
+    {
+      "key": "M_EV15_1_06",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 2 (3/3)"
+    },
+    {
+      "key": "M_EV15_1_07",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 3 (1/3)"
+    },
+    {
+      "key": "M_EV15_1_08",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 3 (2/3)"
+    },
+    {
+      "key": "M_EV15_1_09",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 3 (3/3)"
+    },
+    {
+      "key": "M_EV15_1_10",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 4 (1/3)"
+    },
+    {
+      "key": "M_EV15_1_11",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 4 (2/3)"
+    },
+    {
+      "key": "M_EV15_1_12",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 4 (3/3)"
+    },
+    {
+      "key": "M_EV15_1_13",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 5 (1/5)"
+    },
+    {
+      "key": "M_EV15_1_14",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 5 (3/5)"
+    },
+    {
+      "key": "M_EV15_1_15",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 5 (5/5)"
+    },
+    {
+      "key": "M_EV15_1_16",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 6 (1/3)"
+    },
+    {
+      "key": "M_EV15_1_17",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 6 (2/3)"
+    },
+    {
+      "key": "M_EV15_1_18",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 6 (3/3)"
+    },
+    {
+      "key": "M_EV15_1_19",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 7 (1/3)"
+    },
+    {
+      "key": "M_EV15_1_20",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 7 (2/3)"
+    },
+    {
+      "key": "M_EV15_1_21",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 7 (3/3)"
+    },
+    {
+      "key": "M_EV15_1_22",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 8 (1/3)"
+    },
+    {
+      "key": "M_EV15_1_23",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 8 (2/3)"
+    },
+    {
+      "key": "M_EV15_1_24",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 8 (3/3)"
+    },
+    {
+      "key": "M_EV15_1_25",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 9 (1/3)"
+    },
+    {
+      "key": "M_EV15_1_26",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 9 (2/3)"
+    },
+    {
+      "key": "M_EV15_1_27",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 9 (3/3)"
+    },
+    {
+      "key": "M_EV15_1_28",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 10 (1/10)"
+    },
+    {
+      "key": "M_EV15_1_29",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 10 (3/10)"
+    },
+    {
+      "key": "M_EV15_1_30",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 10 (5/10)"
+    },
+    {
+      "key": "M_EV15_1_31",
+      "value": "Clear Great Detective Little Leela's Legend Begins, Ep. 10 (10/10)"
+    },
+    {
+      "key": "M_EV15_EX_01",
+      "value": "Clear Great Detective Little Leela's Legend Begins [EX] (1/5)"
+    },
+    {
+      "key": "M_EV15_EX_02",
+      "value": "Clear Great Detective Little Leela's Legend Begins [EX] (3/5)"
+    },
+    {
+      "key": "M_EV15_EX_03",
+      "value": "Clear Great Detective Little Leela's Legend Begins [EX] (5/5)"
+    },
+    {
+      "key": "M_EV15_EX1_01",
+      "value": "Clear Brutal Difficulty Great Detective Little Leela's Legend Begins [EX] (1/10)"
+    },
+    {
+      "key": "M_EV15_EX1_02",
+      "value": "Clear Brutal Difficulty Great Detective Little Leela's Legend Begins [EX] (3/10)"
+    },
+    {
+      "key": "M_EV15_EX1_03",
+      "value": "Clear Brutal Difficulty Great Detective Little Leela's Legend Begins [EX] (5/10)"
+    },
+    {
+      "key": "M_EV15_EX1_04",
+      "value": "Clear Brutal Difficulty Great Detective Little Leela's Legend Begins [EX] (10/10)"
+    },
+    {
+      "key": "M_MU_EV15_EX_01",
+      "value": "[Multi] Clear Great Detective Little Leela's Legend Begins [EX] (1/5)"
+    },
+    {
+      "key": "M_MU_EV15_EX_02",
+      "value": "[Multi] Clear Great Detective Little Leela's Legend Begins [EX] (3/5)"
+    },
+    {
+      "key": "M_MU_EV15_EX_03",
+      "value": "[Multi] Clear Great Detective Little Leela's Legend Begins [EX] (5/5)"
+    },
+    {
+      "key": "M_MU_EV15_EX1_01",
+      "value": "[Multi] Clear Brutal Difficulty Great Detective Little Leela's Legend Begins [EX] (1/3)"
+    },
+    {
+      "key": "M_MU_EV15_EX1_02",
+      "value": "[Multi] Clear Brutal Difficulty Great Detective Little Leela's Legend Begins [EX] (3/3)"
+    },
+    {
       "key": "M_EV16_1_01",
       "value": "Clear For the Love of a Smile, Ep. 1 (1/3)"
     },
@@ -18963,6 +19647,134 @@
     {
       "key": "M_MU_LM01_EX2_03",
       "value": "[Multi] Clear Brutal Difficulty Lemuré Acquisition Ex-Quest (5/5)"
+    },
+    {
+      "key": "M_SERL01_1_01",
+      "value": "Clear Cyrelle Acquisition Quest I (1/3)"
+    },
+    {
+      "key": "M_SERL01_1_02",
+      "value": "Clear Cyrelle Acquisition Quest I (2/3)"
+    },
+    {
+      "key": "M_SERL01_1_03",
+      "value": "Clear Cyrelle Acquisition Quest I (3/3)"
+    },
+    {
+      "key": "M_SERL01_1_04",
+      "value": "Clear Cyrelle Acquisition Quest II (1/3)"
+    },
+    {
+      "key": "M_SERL01_1_05",
+      "value": "Clear Cyrelle Acquisition Quest II (2/3)"
+    },
+    {
+      "key": "M_SERL01_1_06",
+      "value": "Clear Cyrelle Acquisition Quest II (3/3)"
+    },
+    {
+      "key": "M_SERL01_1_07",
+      "value": "Clear Cyrelle Acquisition Quest III (1/3)"
+    },
+    {
+      "key": "M_SERL01_1_08",
+      "value": "Clear Cyrelle Acquisition Quest III (2/3)"
+    },
+    {
+      "key": "M_SERL01_1_09",
+      "value": "Clear Cyrelle Acquisition Quest III (3/3)"
+    },
+    {
+      "key": "M_SERL01_1_10",
+      "value": "Clear Cyrelle Acquisition Quest IV (1/3)"
+    },
+    {
+      "key": "M_SERL01_1_11",
+      "value": "Clear Cyrelle Acquisition Quest IV (2/3)"
+    },
+    {
+      "key": "M_SERL01_1_12",
+      "value": "Clear Cyrelle Acquisition Quest IV (3/3)"
+    },
+    {
+      "key": "M_SERL01_1_13",
+      "value": "Clear Cyrelle Acquisition Quest V (1/10)"
+    },
+    {
+      "key": "M_SERL01_1_14",
+      "value": "Clear Cyrelle Acquisition Quest V (5/10)"
+    },
+    {
+      "key": "M_SERL01_1_15",
+      "value": "Clear Cyrelle Acquisition Quest V (10/10)"
+    },
+    {
+      "key": "M_SERL01_1_16",
+      "value": "Level Up Cyrelle"
+    },
+    {
+      "key": "M_SERL01_1_17",
+      "value": "Level Up Cyrelle's Job"
+    },
+    {
+      "key": "M_SERL01_1_18",
+      "value": "Awaken Cyrelle"
+    },
+    {
+      "key": "M_SERL01_1_19",
+      "value": "Limit Break Cyrelle"
+    },
+    {
+      "key": "M_SERL01_EX1_01",
+      "value": "Clear High Difficulty Cyrelle Acquisition Ex-Quest (1/10)"
+    },
+    {
+      "key": "M_SERL01_EX1_02",
+      "value": "Clear High Difficulty Cyrelle Acquisition Ex-Quest (3/10)"
+    },
+    {
+      "key": "M_SERL01_EX1_03",
+      "value": "Clear High Difficulty Cyrelle Acquisition Ex-Quest (5/10)"
+    },
+    {
+      "key": "M_SERL01_EX1_04",
+      "value": "Clear High Difficulty Cyrelle Acquisition Ex-Quest (10/10)"
+    },
+    {
+      "key": "M_SERL01_EX2_01",
+      "value": "Clear Brutal Difficulty Cyrelle Acquisition Ex-Quest (1/5)"
+    },
+    {
+      "key": "M_SERL01_EX2_02",
+      "value": "Clear Brutal Difficulty Cyrelle Acquisition Ex-Quest (3/5)"
+    },
+    {
+      "key": "M_SERL01_EX2_03",
+      "value": "Clear Brutal Difficulty Cyrelle Acquisition Ex-Quest (5/5)"
+    },
+    {
+      "key": "M_MU_SE01_EX1_01",
+      "value": "[Multi] Clear High Difficulty Cyrelle Acquisition Ex-Quest (1/5)"
+    },
+    {
+      "key": "M_MU_SE01_EX1_02",
+      "value": "[Multi] Clear High Difficulty Cyrelle Acquisition Ex-Quest (3/5)"
+    },
+    {
+      "key": "M_MU_SE01_EX1_03",
+      "value": "[Multi] Clear High Difficulty Cyrelle Acquisition Ex-Quest (5/5)"
+    },
+    {
+      "key": "M_MU_SE01_EX2_01",
+      "value": "[Multi] Clear Brutal Difficulty Cyrelle Acquisition Ex-Quest (1/5)"
+    },
+    {
+      "key": "M_MU_SE01_EX2_02",
+      "value": "[Multi] Clear Brutal Difficulty Cyrelle Acquisition Ex-Quest (3/5)"
+    },
+    {
+      "key": "M_MU_SE01_EX2_03",
+      "value": "[Multi] Clear Brutal Difficulty Cyrelle Acquisition Ex-Quest (5/5)"
     },
     {
       "key": "M_WW_MB_EX1_01",
@@ -21522,6 +22334,42 @@
     },
     {
       "key": "M_QEST_189",
+      "value": "Story Quests — Mission 9"
+    },
+    {
+      "key": "M_QEST_190",
+      "value": "Story Quests — Mission 1"
+    },
+    {
+      "key": "M_QEST_191",
+      "value": "Story Quests — Mission 2"
+    },
+    {
+      "key": "M_QEST_192",
+      "value": "Story Quests — Mission 3"
+    },
+    {
+      "key": "M_QEST_193",
+      "value": "Story Quests — Mission 4"
+    },
+    {
+      "key": "M_QEST_194",
+      "value": "Story Quests — Mission 5"
+    },
+    {
+      "key": "M_QEST_195",
+      "value": "Story Quests — Mission 6"
+    },
+    {
+      "key": "M_QEST_196",
+      "value": "Story Quests — Mission 7"
+    },
+    {
+      "key": "M_QEST_197",
+      "value": "Story Quests — Mission 8"
+    },
+    {
+      "key": "M_QEST_198",
       "value": "Story Quests — Mission 9"
     },
     {
@@ -35789,6 +36637,550 @@
       "value": "Make Your Guild Statues Shine — Mission 20"
     },
     {
+      "key": "M_MONTHLY_3544",
+      "value": "Conquer Story Quests — Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_3545",
+      "value": "Conquer Story Quests — Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_3546",
+      "value": "Conquer Story Quests — Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_3547",
+      "value": "Conquer Story Quests — Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_3548",
+      "value": "Conquer Story Quests — Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_3549",
+      "value": "Conquer Story Quests — Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_3550",
+      "value": "Conquer Story Quests — Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_3551",
+      "value": "Conquer Story Quests — Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_3552",
+      "value": "Conquer Story Quests — Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_3553",
+      "value": "Conquer Story Quests — Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_3554",
+      "value": "Conquer Story Quests — Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_3555",
+      "value": "Conquer Story Quests — Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_3556",
+      "value": "Conquer Story Quests — Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_3557",
+      "value": "Conquer Story Quests — Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_3558",
+      "value": "Conquer Story Quests — Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_3559",
+      "value": "Conquer Story Quests — Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_3560",
+      "value": "Conquer Story Quests — Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_3561",
+      "value": "Conquer Story Quests — Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_3562",
+      "value": "Conquer Story Quests — Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_3563",
+      "value": "Conquer Story Quests — Mission 20"
+    },
+    {
+      "key": "M_MONTHLY_3564",
+      "value": "Conquer Hard Quests — Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_3565",
+      "value": "Conquer Hard Quests — Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_3566",
+      "value": "Conquer Hard Quests — Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_3567",
+      "value": "Conquer Hard Quests — Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_3568",
+      "value": "Conquer Hard Quests — Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_3569",
+      "value": "Conquer Hard Quests — Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_3570",
+      "value": "Conquer Hard Quests — Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_3571",
+      "value": "Conquer Hard Quests — Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_3572",
+      "value": "Conquer Hard Quests — Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_3573",
+      "value": "Conquer Hard Quests — Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_3574",
+      "value": "Conquer Hard Quests — Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_3575",
+      "value": "Conquer Hard Quests — Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_3576",
+      "value": "Conquer Hard Quests — Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_3577",
+      "value": "Conquer Hard Quests — Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_3578",
+      "value": "Conquer Hard Quests — Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_3579",
+      "value": "Conquer Hard Quests — Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_3580",
+      "value": "Conquer Hard Quests — Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_3581",
+      "value": "Conquer Hard Quests — Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_3582",
+      "value": "Conquer Hard Quests — Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_3583",
+      "value": "Conquer Multi Quests — Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_3584",
+      "value": "Conquer Multi Quests — Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_3585",
+      "value": "Conquer Multi Quests — Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_3586",
+      "value": "Conquer Multi Quests — Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_3587",
+      "value": "Conquer Multi Quests — Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_3588",
+      "value": "Conquer Multi Quests — Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_3589",
+      "value": "Conquer Multi Quests — Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_3590",
+      "value": "Conquer Multi Quests — Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_3591",
+      "value": "Conquer Multi Quests — Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_3592",
+      "value": "Conquer Multi Quests — Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_3593",
+      "value": "Conquer Multi Quests — Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_3594",
+      "value": "Conquer Multi Quests — Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_3595",
+      "value": "Conquer Multi Quests — Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_3596",
+      "value": "Conquer Multi Quests — Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_3597",
+      "value": "Conquer Multi Quests — Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_3598",
+      "value": "Conquer Multi Quests — Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_3599",
+      "value": "Conquer Multi Quests — Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_3600",
+      "value": "Conquer Multi Quests — Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_3601",
+      "value": "Conquer Multi Quests — Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_3602",
+      "value": "Conquer Multi Quests — Mission 20"
+    },
+    {
+      "key": "M_MONTHLY_3603",
+      "value": "Conquer the EXP Chamber — Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_3604",
+      "value": "Conquer the EXP Chamber — Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_3605",
+      "value": "Conquer the EXP Chamber — Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_3606",
+      "value": "Conquer the EXP Chamber — Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_3607",
+      "value": "Conquer the EXP Chamber — Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_3608",
+      "value": "Conquer the EXP Chamber — Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_3609",
+      "value": "Conquer the EXP Chamber — Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_3610",
+      "value": "Conquer the EXP Chamber — Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_3611",
+      "value": "Conquer the EXP Chamber — Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_3612",
+      "value": "Conquer the EXP Chamber — Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_3613",
+      "value": "Conquer the EXP Chamber — Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_3614",
+      "value": "Conquer the EXP Chamber — Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_3615",
+      "value": "Conquer the EXP Chamber — Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_3616",
+      "value": "Conquer the EXP Chamber — Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_3617",
+      "value": "Conquer the EXP Chamber — Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_3618",
+      "value": "Conquer the EXP Chamber — Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_3619",
+      "value": "Conquer the EXP Chamber — Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_3620",
+      "value": "Conquer the EXP Chamber — Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_3621",
+      "value": "Conquer the EXP Chamber — Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_3622",
+      "value": "Conquer the EXP Chamber — Mission 20"
+    },
+    {
+      "key": "M_MONTHLY_3623",
+      "value": "Conquer the Arena — Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_3624",
+      "value": "Conquer the Arena — Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_3625",
+      "value": "Conquer the Arena — Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_3626",
+      "value": "Conquer the Arena — Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_3627",
+      "value": "Conquer the Arena — Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_3628",
+      "value": "Conquer the Arena — Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_3629",
+      "value": "Conquer the Arena — Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_3630",
+      "value": "Conquer the Arena — Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_3631",
+      "value": "Conquer the Arena — Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_3632",
+      "value": "Conquer the Arena — Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_3633",
+      "value": "Conquer the Arena — Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_3634",
+      "value": "Conquer the Arena — Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_3635",
+      "value": "Conquer the Arena — Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_3636",
+      "value": "Conquer the Arena — Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_3637",
+      "value": "Conquer the Arena — Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_3638",
+      "value": "Conquer the Arena — Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_3639",
+      "value": "Conquer the Arena — Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_3640",
+      "value": "Conquer the Arena — Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_3641",
+      "value": "Conquer the Arena — Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_3642",
+      "value": "Conquer the Arena — Mission 20"
+    },
+    {
+      "key": "M_MONTHLY_3643",
+      "value": "Give Your Chocobos a Workout — Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_3644",
+      "value": "Give Your Chocobos a Workout — Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_3645",
+      "value": "Give Your Chocobos a Workout — Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_3646",
+      "value": "Give Your Chocobos a Workout — Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_3647",
+      "value": "Give Your Chocobos a Workout — Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_3648",
+      "value": "Give Your Chocobos a Workout — Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_3649",
+      "value": "Give Your Chocobos a Workout — Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_3650",
+      "value": "Give Your Chocobos a Workout — Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_3651",
+      "value": "Give Your Chocobos a Workout — Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_3652",
+      "value": "Give Your Chocobos a Workout — Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_3653",
+      "value": "Give Your Chocobos a Workout — Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_3654",
+      "value": "Give Your Chocobos a Workout — Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_3655",
+      "value": "Give Your Chocobos a Workout — Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_3656",
+      "value": "Give Your Chocobos a Workout — Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_3657",
+      "value": "Give Your Chocobos a Workout — Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_3658",
+      "value": "Give Your Chocobos a Workout — Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_3659",
+      "value": "Give Your Chocobos a Workout — Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_3660",
+      "value": "Make Your Guild Statues Shine — Mission 1"
+    },
+    {
+      "key": "M_MONTHLY_3661",
+      "value": "Make Your Guild Statues Shine — Mission 2"
+    },
+    {
+      "key": "M_MONTHLY_3662",
+      "value": "Make Your Guild Statues Shine — Mission 3"
+    },
+    {
+      "key": "M_MONTHLY_3663",
+      "value": "Make Your Guild Statues Shine — Mission 4"
+    },
+    {
+      "key": "M_MONTHLY_3664",
+      "value": "Make Your Guild Statues Shine — Mission 5"
+    },
+    {
+      "key": "M_MONTHLY_3665",
+      "value": "Make Your Guild Statues Shine — Mission 6"
+    },
+    {
+      "key": "M_MONTHLY_3666",
+      "value": "Make Your Guild Statues Shine — Mission 7"
+    },
+    {
+      "key": "M_MONTHLY_3667",
+      "value": "Make Your Guild Statues Shine — Mission 8"
+    },
+    {
+      "key": "M_MONTHLY_3668",
+      "value": "Make Your Guild Statues Shine — Mission 9"
+    },
+    {
+      "key": "M_MONTHLY_3669",
+      "value": "Make Your Guild Statues Shine — Mission 10"
+    },
+    {
+      "key": "M_MONTHLY_3670",
+      "value": "Make Your Guild Statues Shine — Mission 11"
+    },
+    {
+      "key": "M_MONTHLY_3671",
+      "value": "Make Your Guild Statues Shine — Mission 12"
+    },
+    {
+      "key": "M_MONTHLY_3672",
+      "value": "Make Your Guild Statues Shine — Mission 13"
+    },
+    {
+      "key": "M_MONTHLY_3673",
+      "value": "Make Your Guild Statues Shine — Mission 14"
+    },
+    {
+      "key": "M_MONTHLY_3674",
+      "value": "Make Your Guild Statues Shine — Mission 15"
+    },
+    {
+      "key": "M_MONTHLY_3675",
+      "value": "Make Your Guild Statues Shine — Mission 16"
+    },
+    {
+      "key": "M_MONTHLY_3676",
+      "value": "Make Your Guild Statues Shine — Mission 17"
+    },
+    {
+      "key": "M_MONTHLY_3677",
+      "value": "Make Your Guild Statues Shine — Mission 18"
+    },
+    {
+      "key": "M_MONTHLY_3678",
+      "value": "Make Your Guild Statues Shine — Mission 19"
+    },
+    {
+      "key": "M_MONTHLY_3679",
+      "value": "Make Your Guild Statues Shine — Mission 20"
+    },
+    {
       "key": "M_LAPS_P_LUCA_01",
       "value": "Consume Visiore — Limited Period Bonus 01"
     },
@@ -40085,6 +41477,254 @@
       "value": "Make Your Guild Statues Shine — Mission 5"
     },
     {
+      "key": "M_ST_2202_0001",
+      "value": "[Daily Missions] Progression Rewards Acquisition Mission"
+    },
+    {
+      "key": "M_ST_2202_0002",
+      "value": "Maximize an Equipment Item Stat — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0003",
+      "value": "Maximize an Equipment Item Stat — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0004",
+      "value": "Maximize an Equipment Item Stat — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0005",
+      "value": "Maximize an Equipment Item Stat — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0006",
+      "value": "Maximize an Equipment Item Stat — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0007",
+      "value": "Acquire Secret Books of Refinement — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0008",
+      "value": "Acquire Secret Books of Refinement — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0009",
+      "value": "Acquire Secret Books of Refinement — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0010",
+      "value": "Acquire Secret Books of Refinement — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0011",
+      "value": "Acquire Secret Books of Refinement — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0012",
+      "value": "Acquire Secret Books of Refinement — Mission 6"
+    },
+    {
+      "key": "M_ST_2202_0013",
+      "value": "Acquire Secret Books of Refinement — Mission 7"
+    },
+    {
+      "key": "M_ST_2202_0014",
+      "value": "Acquire Gil Snappers — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0015",
+      "value": "Acquire Gil Snappers — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0016",
+      "value": "Acquire Gil Snappers — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0017",
+      "value": "Acquire Gil Snappers — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0018",
+      "value": "Acquire Gil Snappers — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0019",
+      "value": "Acquire Gil Snappers — Mission 6"
+    },
+    {
+      "key": "M_ST_2202_0020",
+      "value": "Acquire Gil Snappers — Mission 7"
+    },
+    {
+      "key": "M_ST_2202_0021",
+      "value": "Craft Equipment Items — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0022",
+      "value": "Craft Equipment Items — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0023",
+      "value": "Craft Equipment Items — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0024",
+      "value": "Craft Equipment Items — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0025",
+      "value": "Craft Equipment Items — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0026",
+      "value": "Craft Equipment Items — Mission 6"
+    },
+    {
+      "key": "M_ST_2202_0027",
+      "value": "Conquer Story Quests — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0028",
+      "value": "Conquer Story Quests — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0029",
+      "value": "Conquer Story Quests — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0030",
+      "value": "Conquer Story Quests — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0031",
+      "value": "Conquer Story Quests — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0032",
+      "value": "Conquer Hard Quests — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0033",
+      "value": "Conquer Hard Quests — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0034",
+      "value": "Conquer Hard Quests — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0035",
+      "value": "Conquer Hard Quests — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0036",
+      "value": "Conquer Hard Quests — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0037",
+      "value": "Conquer Multi Quests — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0038",
+      "value": "Conquer Multi Quests — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0039",
+      "value": "Conquer Multi Quests — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0040",
+      "value": "Conquer Multi Quests — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0041",
+      "value": "Conquer Multi Quests — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0042",
+      "value": "Conquer the EXP Chamber — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0043",
+      "value": "Conquer the EXP Chamber — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0044",
+      "value": "Conquer the EXP Chamber — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0045",
+      "value": "Conquer the EXP Chamber — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0046",
+      "value": "Conquer the EXP Chamber — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0047",
+      "value": "Conquer the Arena — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0048",
+      "value": "Conquer the Arena — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0049",
+      "value": "Conquer the Arena — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0050",
+      "value": "Conquer the Arena — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0051",
+      "value": "Conquer the Arena — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0052",
+      "value": "Give Your Chocobos a Workout — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0053",
+      "value": "Give Your Chocobos a Workout — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0054",
+      "value": "Give Your Chocobos a Workout — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0055",
+      "value": "Give Your Chocobos a Workout — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0056",
+      "value": "Give Your Chocobos a Workout — Mission 5"
+    },
+    {
+      "key": "M_ST_2202_0057",
+      "value": "Make Your Guild Statues Shine — Mission 1"
+    },
+    {
+      "key": "M_ST_2202_0058",
+      "value": "Make Your Guild Statues Shine — Mission 2"
+    },
+    {
+      "key": "M_ST_2202_0059",
+      "value": "Make Your Guild Statues Shine — Mission 3"
+    },
+    {
+      "key": "M_ST_2202_0060",
+      "value": "Make Your Guild Statues Shine — Mission 4"
+    },
+    {
+      "key": "M_ST_2202_0061",
+      "value": "Make Your Guild Statues Shine — Mission 5"
+    },
+    {
+      "key": "M_AF_MAT_6",
+      "value": "Obtain Awakening +6 Equipment Crafting Materials"
+    },
+    {
       "key": "M_PLY_AWARD_001",
       "value": "Nameless"
     },
@@ -40655,6 +42295,10 @@
     {
       "key": "M_PLY_AWARD_091",
       "value": "Unfailing Fortress: Obsidian"
+    },
+    {
+      "key": "M_PLY_AWARD_093",
+      "value": "Came, Saw, Conquered"
     },
     {
       "key": "M_PLY_AWARD_060",
@@ -43163,6 +44807,54 @@
     {
       "key": "M_LW_PA_CH_156_4",
       "value": "Lamenting Curseweaver"
+    },
+    {
+      "key": "M_LW_PA_CH_157_1",
+      "value": "Little Leela the Bold Fan"
+    },
+    {
+      "key": "M_LW_PA_CH_157_2",
+      "value": "Little Leela the Bold Enthusiast"
+    },
+    {
+      "key": "M_LW_PA_CH_157_3",
+      "value": "Little Leela the Bold Devotee"
+    },
+    {
+      "key": "M_LW_PA_CH_157_4",
+      "value": "Fanciful Blade of Beauty"
+    },
+    {
+      "key": "M_LW_PA_CH_158_1",
+      "value": "Cyrelle Fan"
+    },
+    {
+      "key": "M_LW_PA_CH_158_2",
+      "value": "Cyrelle Enthusiast"
+    },
+    {
+      "key": "M_LW_PA_CH_158_3",
+      "value": "Cyrelle Devotee"
+    },
+    {
+      "key": "M_LW_PA_CH_158_4",
+      "value": "Truehearted Axeglint"
+    },
+    {
+      "key": "M_LW_PA_CH_159_1",
+      "value": "Ildyra (Sweetheart) Fan"
+    },
+    {
+      "key": "M_LW_PA_CH_159_2",
+      "value": "Ildyra (Sweetheart) Enthusiast"
+    },
+    {
+      "key": "M_LW_PA_CH_159_3",
+      "value": "Ildyra (Sweetheart) Devotee"
+    },
+    {
+      "key": "M_LW_PA_CH_159_4",
+      "value": "Heart Sparked by Love"
     },
     {
       "key": "M_WW_PA_CH_001_1",

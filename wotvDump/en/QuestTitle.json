@@ -117,6 +117,10 @@
       "value": "[High Difficulty] Training Chamber Lv. 2"
     },
     {
+      "key": "QE_EV_AW_H09_7",
+      "value": "[High Difficulty] Training Chamber (Yellow) G"
+    },
+    {
       "key": "QE_EV_AW_H09_6",
       "value": "[High Difficulty] Training Chamber (Yellow) F"
     },
@@ -141,6 +145,10 @@
       "value": "[High Difficulty] Training Chamber (Yellow) A"
     },
     {
+      "key": "QE_EV_AW_H13_7",
+      "value": "[High Difficulty] Training Chamber (Red) G"
+    },
+    {
       "key": "QE_EV_AW_H13_6",
       "value": "[High Difficulty] Training Chamber (Red) F"
     },
@@ -163,6 +171,10 @@
     {
       "key": "QE_EV_AW_H13_1",
       "value": "[High Difficulty] Training Chamber (Red) A"
+    },
+    {
+      "key": "QE_EV_AW_H15_7",
+      "value": "[Brutal Difficulty] Training Chamber (Red) G"
     },
     {
       "key": "QE_EV_AW_H15_6",
@@ -2997,6 +3009,126 @@
       "value": "Maintaining Their Attention"
     },
     {
+      "key": "QE_ST_02070201",
+      "value": "The Only One I Can Ask I"
+    },
+    {
+      "key": "QE_ST_02070202",
+      "value": "The Only One I Can Ask II"
+    },
+    {
+      "key": "QE_ST_02070203",
+      "value": "The Difference in Power I"
+    },
+    {
+      "key": "QE_ST_02070204",
+      "value": "The Difference in Power II"
+    },
+    {
+      "key": "QE_ST_02070205",
+      "value": "Skirmish Unit"
+    },
+    {
+      "key": "QE_ST_02070206",
+      "value": "Reminiscences of a King I"
+    },
+    {
+      "key": "QE_ST_02070207",
+      "value": "Reminiscences of a King II"
+    },
+    {
+      "key": "QE_ST_02070208",
+      "value": "Reminiscences of a King III"
+    },
+    {
+      "key": "QE_ST_02070209",
+      "value": "Reminiscences of a King IV"
+    },
+    {
+      "key": "QE_ST_02070210",
+      "value": "Unrest in Rundall"
+    },
+    {
+      "key": "QE_ST_02070301",
+      "value": "The Eyes of «Stiriae» I"
+    },
+    {
+      "key": "QE_ST_02070302",
+      "value": "The Eyes of «Stiriae» II"
+    },
+    {
+      "key": "QE_ST_02070303",
+      "value": "Blasting Through I"
+    },
+    {
+      "key": "QE_ST_02070304",
+      "value": "Blasting Through II"
+    },
+    {
+      "key": "QE_ST_02070305",
+      "value": "If There's No Path"
+    },
+    {
+      "key": "QE_ST_02070306",
+      "value": "Retreating for a Reason"
+    },
+    {
+      "key": "QE_ST_02070307",
+      "value": "Full Pursuit"
+    },
+    {
+      "key": "QE_ST_02070308",
+      "value": "Something to Pass the Time I"
+    },
+    {
+      "key": "QE_ST_02070309",
+      "value": "Something to Pass the Time II"
+    },
+    {
+      "key": "QE_ST_02070310",
+      "value": "All for This Moment"
+    },
+    {
+      "key": "QE_ST_02080101",
+      "value": "Way with a Blade I"
+    },
+    {
+      "key": "QE_ST_02080102",
+      "value": "Way with a Blade II"
+    },
+    {
+      "key": "QE_ST_02080103",
+      "value": "Gloom Skeletons I"
+    },
+    {
+      "key": "QE_ST_02080104",
+      "value": "Gloom Skeletons II"
+    },
+    {
+      "key": "QE_ST_02080105",
+      "value": "The Ordeal of Treatment"
+    },
+    {
+      "key": "QE_ST_02080106",
+      "value": "Change of Plans"
+    },
+    {
+      "key": "QE_ST_02080107",
+      "value": "The Approaching Wave"
+    },
+    {
+      "key": "QE_ST_02080108",
+      "value": "Everything in Our Power I"
+    },
+    {
+      "key": "QE_ST_02080109",
+      "value": "Everything in Our Power II"
+    },
+    {
+      "key": "QE_ST_02080110",
+      "value": "When Chance Presents Itself"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Shard Quest: Zazan"
     },
@@ -3389,6 +3521,14 @@
       "value": "Shard Quest: Resnick"
     },
     {
+      "key": "QE_HA_LW_RYER_02",
+      "value": "Shard Quest: Little Leela the Bold"
+    },
+    {
+      "key": "QE_HA_GL_LW_IRDL_01",
+      "value": "Shard Quest: Ildyra (Sweetheart)"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "Zazan"
     },
@@ -3407,6 +3547,10 @@
     {
       "key": "QE_CH_LW_MICE",
       "value": "Miche"
+    },
+    {
+      "key": "QE_CH_LW_MICE2",
+      "value": "Miche (2)"
     },
     {
       "key": "QE_CH_LW_MIIA",
@@ -3449,6 +3593,10 @@
       "value": "Severo"
     },
     {
+      "key": "QE_CH_LW_SEVR2",
+      "value": "Severo (2)"
+    },
+    {
       "key": "QE_CH_LW_VADM",
       "value": "Vadim"
     },
@@ -3489,6 +3637,10 @@
       "value": "Ramada"
     },
     {
+      "key": "QE_CH_LW_RAMD2",
+      "value": "Ramada (2)"
+    },
+    {
       "key": "QE_CH_LW_OOOO",
       "value": "Owe"
     },
@@ -3509,8 +3661,16 @@
       "value": "Vistralle"
     },
     {
+      "key": "QE_CH_LW_VSTR2",
+      "value": "Vistralle (2)"
+    },
+    {
       "key": "QE_CH_LW_CLEY",
       "value": "Khury Wezette"
+    },
+    {
+      "key": "QE_CH_LW_CLEY2",
+      "value": "Khury Wezette (2)"
     },
     {
       "key": "QE_CH_LW_KADI",
@@ -3533,6 +3693,10 @@
       "value": "Schuzelt"
     },
     {
+      "key": "QE_CH_LW_SZRT2",
+      "value": "Schuzelt (2)"
+    },
+    {
       "key": "QE_CH_LW_FINA",
       "value": "Fina"
     },
@@ -3545,6 +3709,10 @@
       "value": "Nasha"
     },
     {
+      "key": "QE_CH_LW_NASR2",
+      "value": "Nasha (2)"
+    },
+    {
       "key": "QE_CH_LW_ETRE",
       "value": "Etre"
     },
@@ -3555,6 +3723,10 @@
     {
       "key": "QE_CH_LW_DRND",
       "value": "Dorando"
+    },
+    {
+      "key": "QE_CH_LW_DRND2",
+      "value": "Dorando (2)"
     },
     {
       "key": "QE_CH_LW_STRN",
@@ -3613,6 +3785,10 @@
       "value": "Ayaka"
     },
     {
+      "key": "QE_CH_LW_AYKA2",
+      "value": "Ayaka (2)"
+    },
+    {
       "key": "QE_CH_LW_MACR",
       "value": "Machérie Hourne"
     },
@@ -3647,6 +3823,10 @@
     {
       "key": "QE_CH_LW_WHIS",
       "value": "\"Whisper\""
+    },
+    {
+      "key": "QE_CH_LW_WHIS2",
+      "value": "\"Whisper\" (2)"
     },
     {
       "key": "QE_CH_LW_KTON",
@@ -3893,12 +4073,24 @@
       "value": "Tidus"
     },
     {
+      "key": "QE_CH_FF10_TI_2",
+      "value": "Tidus (2)"
+    },
+    {
       "key": "QE_CH_FF10_YUNA",
       "value": "Yuna"
     },
     {
+      "key": "QE_CH_FF10_YU_2",
+      "value": "Yuna (2)"
+    },
+    {
       "key": "QE_CH_FF10_ARON",
       "value": "Auron"
+    },
+    {
+      "key": "QE_CH_FF10_AR_2",
+      "value": "Auron (2)"
     },
     {
       "key": "QE_CH_NIER_N2TB",
@@ -4131,6 +4323,22 @@
     {
       "key": "QE_CH_LW_RSNC",
       "value": "Resnick"
+    },
+    {
+      "key": "QE_CH_LW_RYER_02",
+      "value": "Little Leela the Bold"
+    },
+    {
+      "key": "QE_CH_LW_SERL",
+      "value": "Cyrelle"
+    },
+    {
+      "key": "QE_CH_LW_IRDL_01",
+      "value": "Ildyra (Sweetheart)"
+    },
+    {
+      "key": "QE_CH_LW_TH_01_2",
+      "value": "Salire (Sweetheart) (2)"
     },
     {
       "key": "QE_EV_GL_CDOWN_01_9",
@@ -4814,23 +5022,23 @@
     },
     {
       "key": "QE_EV_FF14_01",
-      "value": "FINAL FANTASY XIV: Shadowbringers Battle #1"
+      "value": "FINAL FANTASY XIV Battle #1"
     },
     {
       "key": "QE_EV_FF14_02",
-      "value": "FINAL FANTASY XIV: Shadowbringers Battle #2"
+      "value": "FINAL FANTASY XIV Battle #2"
     },
     {
       "key": "QE_EV_FF14_03",
-      "value": "FINAL FANTASY XIV: Shadowbringers Battle #3"
+      "value": "FINAL FANTASY XIV Battle #3"
     },
     {
       "key": "QE_EV_FF14_04",
-      "value": "FINAL FANTASY XIV: Shadowbringers Battle #4"
+      "value": "FINAL FANTASY XIV Battle #4"
     },
     {
       "key": "QE_EV_FF14_05",
-      "value": "FINAL FANTASY XIV: Shadowbringers Battle #5"
+      "value": "FINAL FANTASY XIV Battle #5"
     },
     {
       "key": "QE_EV_FF14_RD01",
@@ -4842,15 +5050,15 @@
     },
     {
       "key": "QE_EV_FF14_EX1",
-      "value": "FINAL FANTASY XIV: Shadowbringers [EX1]"
+      "value": "FINAL FANTASY XIV [EX1]"
     },
     {
       "key": "QE_EV_FF14_Ex2",
-      "value": "FINAL FANTASY XIV: Shadowbringers [EX2]"
+      "value": "FINAL FANTASY XIV [EX2]"
     },
     {
       "key": "QE_EV_FF14_Ex3",
-      "value": "FINAL FANTASY XIV: Shadowbringers [EX3]"
+      "value": "FINAL FANTASY XIV [EX3]"
     },
     {
       "key": "QE_EV_FF14_Ex4",
@@ -5401,6 +5609,30 @@
       "value": "Brutal Difficulty FINAL FANTASY VI [EX2]"
     },
     {
+      "key": "QE_MU_EV_15_EX",
+      "value": "Great Detective Little Leela's Legend Begins [EX]"
+    },
+    {
+      "key": "QE_MU_EV_15_EX_1",
+      "value": "Brutal Difficulty Great Detective Little Leela's Legend Begins [EX]"
+    },
+    {
+      "key": "QE_MU_ART_CRF_35",
+      "value": "Equipment Training Quest (Kurokasumi)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_36",
+      "value": "Brutal Difficulty Equipment Training Quest (Kurokasumi)"
+    },
+    {
+      "key": "QE_MU_EV_SE_EX1",
+      "value": "High Difficulty Cyrelle Acquisition Quest"
+    },
+    {
+      "key": "QE_MU_EV_SE_EX2",
+      "value": "Brutal Difficulty Cyrelle Acquisition Quest"
+    },
+    {
       "key": "QE_MU_AEX_115_1",
       "value": "Another Story Chapter 1, Scene 5 [EX]"
     },
@@ -5546,7 +5778,7 @@
     },
     {
       "key": "QE_MU_FF14_Ex3",
-      "value": "FINAL FANTASY XIV: Shadowbringers [EX3]"
+      "value": "FINAL FANTASY XIV [EX3]"
     },
     {
       "key": "QE_MU_FF14_Ex4",
@@ -5591,6 +5823,14 @@
     {
       "key": "QE_MU_EV_ET_EX4",
       "value": "Brutal Difficulty Etre Training Ex-Quest II"
+    },
+    {
+      "key": "QE_RAID_RV_04_01",
+      "value": "High Difficulty Chocolate Flan Revival"
+    },
+    {
+      "key": "QE_RAID_RV_04_02",
+      "value": "Brutal Difficulty Chocolate Flan Revival"
     },
     {
       "key": "QE_EV_14_01",
@@ -5647,6 +5887,54 @@
     {
       "key": "QE_MU_EV_14_EX_1",
       "value": "Brutal Difficulty In the Name of Hope [EX]"
+    },
+    {
+      "key": "QE_EV_15_01",
+      "value": "Ep. 1: It Began with an Attack I"
+    },
+    {
+      "key": "QE_EV_15_02",
+      "value": "Ep. 2: It Began with an Attack II"
+    },
+    {
+      "key": "QE_EV_15_03",
+      "value": "Ep. 3: Monsters in the Locked Room"
+    },
+    {
+      "key": "QE_EV_15_04",
+      "value": "Ep. 4: Let's Move! I"
+    },
+    {
+      "key": "QE_EV_15_05",
+      "value": "Ep. 5: Let's Move! II"
+    },
+    {
+      "key": "QE_EV_15_06",
+      "value": "Ep. 6: Breaking In"
+    },
+    {
+      "key": "QE_EV_15_07",
+      "value": "Ep. 7: A Completely Locked Room"
+    },
+    {
+      "key": "QE_EV_15_08",
+      "value": "Ep. 8: Fell the Monsters!"
+    },
+    {
+      "key": "QE_EV_15_09",
+      "value": "Ep. 9: In the Next Room"
+    },
+    {
+      "key": "QE_EV_15_10",
+      "value": "Ep. 10: And the Culprit Is..."
+    },
+    {
+      "key": "QE_EV_15_EX",
+      "value": "Great Detective Little Leela's Legend Begins [EX]"
+    },
+    {
+      "key": "QE_EV_15_EX_1",
+      "value": "Brutal Difficulty Great Detective Little Leela's Legend Begins [EX]"
     },
     {
       "key": "QE_EV_16_01",
@@ -5814,7 +6102,7 @@
     },
     {
       "key": "QE_EV_CRIS_EX2",
-      "value": "Brutal Difficulty Creysse Acquisition Ex-Quest"
+      "value": "Brutal Difficulty Creysse Acquisition Ex-Quest I"
     },
     {
       "key": "QE_EV_CRIS_EX2_2",
@@ -5830,7 +6118,7 @@
     },
     {
       "key": "QE_MU_EV_CR_EX2",
-      "value": "Brutal Difficulty Creysse Acquisition Ex-Quest"
+      "value": "Brutal Difficulty Creysse Acquisition Ex-Quest I"
     },
     {
       "key": "QE_MU_EV_CR_EX3",
@@ -5907,6 +6195,38 @@
     {
       "key": "QE_MU_EV_LM_EX2",
       "value": "Brutal Difficulty Lemuré Acquisition Ex-Quest"
+    },
+    {
+      "key": "QE_EV_SERL_01",
+      "value": "Cyrelle Acquisition Quest I"
+    },
+    {
+      "key": "QE_EV_SERL_02",
+      "value": "Cyrelle Acquisition Quest II"
+    },
+    {
+      "key": "QE_EV_SERL_03",
+      "value": "Cyrelle Acquisition Quest III"
+    },
+    {
+      "key": "QE_EV_SERL_04",
+      "value": "Cyrelle Acquisition Quest IV"
+    },
+    {
+      "key": "QE_EV_SERL_05",
+      "value": "Cyrelle Acquisition Quest V"
+    },
+    {
+      "key": "QE_EV_SERL_EX1",
+      "value": "High Difficulty Cyrelle Acquisition Ex-Quest"
+    },
+    {
+      "key": "QE_EV_SERL_EX2",
+      "value": "Brutal Difficulty Cyrelle Acquisition Ex-Quest"
+    },
+    {
+      "key": "QE_EV_SERL_EX3",
+      "value": "Nightmare Difficulty Cyrelle Acquisition Ex-Quest"
     },
     {
       "key": "QE_EV_WW_MB1",
@@ -6833,6 +7153,86 @@
       "value": "Brutal Difficulty Demon Purge Quest"
     },
     {
+      "key": "QE_EV_RANK_1_01",
+      "value": "Path of the Conqueror: Waypoint 1"
+    },
+    {
+      "key": "QE_EV_RANK_1_02",
+      "value": "Path of the Conqueror: Waypoint 2"
+    },
+    {
+      "key": "QE_EV_RANK_1_03",
+      "value": "Path of the Conqueror: Waypoint 3"
+    },
+    {
+      "key": "QE_EV_RANK_1_04",
+      "value": "Path of the Conqueror: Waypoint 4"
+    },
+    {
+      "key": "QE_EV_RANK_1_05",
+      "value": "Path of the Conqueror: Waypoint 5"
+    },
+    {
+      "key": "QE_EV_RANK_1_06",
+      "value": "Path of the Conqueror: Waypoint 6"
+    },
+    {
+      "key": "QE_EV_RANK_1_07",
+      "value": "Path of the Conqueror: Waypoint 7"
+    },
+    {
+      "key": "QE_EV_RANK_1_08",
+      "value": "Path of the Conqueror: Waypoint 8"
+    },
+    {
+      "key": "QE_EV_RANK_1_09",
+      "value": "Path of the Conqueror: Waypoint 9"
+    },
+    {
+      "key": "QE_EV_RANK_1_10",
+      "value": "Path of the Conqueror: Waypoint 10"
+    },
+    {
+      "key": "QE_EV_RANK_1_11",
+      "value": "Path of the Conqueror: Waypoint 11"
+    },
+    {
+      "key": "QE_EV_RANK_1_12",
+      "value": "Path of the Conqueror: Waypoint 12"
+    },
+    {
+      "key": "QE_EV_RANK_1_13",
+      "value": "Path of the Conqueror: Waypoint 13"
+    },
+    {
+      "key": "QE_EV_RANK_1_14",
+      "value": "Path of the Conqueror: Waypoint 14"
+    },
+    {
+      "key": "QE_EV_RANK_1_15",
+      "value": "Path of the Conqueror: Waypoint 15"
+    },
+    {
+      "key": "QE_EV_RANK_1_16",
+      "value": "Path of the Conqueror: Waypoint 16"
+    },
+    {
+      "key": "QE_EV_RANK_1_17",
+      "value": "Path of the Conqueror: Waypoint 17"
+    },
+    {
+      "key": "QE_EV_RANK_1_18",
+      "value": "Path of the Conqueror: Waypoint 18"
+    },
+    {
+      "key": "QE_EV_RANK_1_19",
+      "value": "Path of the Conqueror: Waypoint 19"
+    },
+    {
+      "key": "QE_EV_RANK_1_20",
+      "value": "Path of the Conqueror: Waypoint 20"
+    },
+    {
       "key": "QE_EV_AST_010101",
       "value": "First of Many I"
     },
@@ -7349,6 +7749,22 @@
       "value": "[Brutal Difficulty] Young Dragon King Training Quest #4"
     },
     {
+      "key": "QE_EV_RYER_02_01",
+      "value": "Dagger Dancer Training Quest #1"
+    },
+    {
+      "key": "QE_EV_RYER_02_02",
+      "value": "[High Difficulty] Dagger Dancer Training Quest #2"
+    },
+    {
+      "key": "QE_EV_RYER_02_03",
+      "value": "[High Difficulty] Dagger Dancer Training Quest #3"
+    },
+    {
+      "key": "QE_EV_RYER_02_04",
+      "value": "[Brutal Difficulty] Dagger Dancer Training Quest #4"
+    },
+    {
       "key": "QE_EV_GL_LOFI_01",
       "value": "Lo-fi Music Collaboration Quest"
     },
@@ -7489,20 +7905,20 @@
       "value": "Brutal Difficulty Equipment Training Quest (Rune Staff)"
     },
     {
+      "key": "QE_EV_ART_CRF_35",
+      "value": "Equipment Training Quest (Kurokasumi)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_36",
+      "value": "Brutal Difficulty Equipment Training Quest (Kurokasumi)"
+    },
+    {
       "key": "QE_MU_ART_CRF_20",
       "value": "Equipment Training Quest (Cypress Pile)"
     },
     {
       "key": "QE_MU_ART_CRF_21",
       "value": "Brutal Difficulty Equipment Training Quest (Cypress Pile)"
-    },
-    {
-      "key": "QE_MU_ART_CRF_22",
-      "value": "Brutal Difficulty Equipment Training Quest (Platinum Mace)"
-    },
-    {
-      "key": "QE_MU_ART_CRF_23",
-      "value": "Brutal Difficulty Equipment Training Quest (Coral Sword)"
     },
     {
       "key": "QE_MU_ART_CRF_25",
@@ -7717,6 +8133,14 @@
       "value": "Brutal Difficulty Equipment Training Quest (Sasuke's Katana)"
     },
     {
+      "key": "QE_MU_ART_CRF_22",
+      "value": "Brutal Difficulty Equipment Training Quest (Platinum Mace)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_23",
+      "value": "Brutal Difficulty Equipment Training Quest (Coral Sword)"
+    },
+    {
       "key": "QE_MU_ART_CRF_24",
       "value": "Brutal Difficulty Equipment Training Quest (Golden Axe)"
     },
@@ -7923,6 +8347,18 @@
     {
       "key": "QE_BR_THUNDER_10",
       "value": "Selection Quest (Lightning) #10"
+    },
+    {
+      "key": "QE_BR_THUNDER_11",
+      "value": "Selection Quest (Lightning) #11"
+    },
+    {
+      "key": "QE_BR_THUNDER_12",
+      "value": "Selection Quest (Lightning) #12"
+    },
+    {
+      "key": "QE_BR_THUNDER_13",
+      "value": "Selection Quest (Lightning) #13"
     },
     {
       "key": "QE_BR_DARK_01",
@@ -8277,6 +8713,14 @@
       "value": "Dark Odin Battle (2)"
     },
     {
+      "key": "QE_SB_ANIM_01",
+      "value": "Anima Battle"
+    },
+    {
+      "key": "QE_SB_ANIM_02",
+      "value": "Anima Battle (2)"
+    },
+    {
       "key": "QE_SB_MABR_01",
       "value": "Malboro Battle"
     },
@@ -8523,6 +8967,66 @@
     {
       "key": "QE_GRA_EV_10_3",
       "value": "Shiva Raid"
+    },
+    {
+      "key": "QE_GRA_EV_11_1",
+      "value": "Guild Raid: Confrontation with \"Lust\""
+    },
+    {
+      "key": "QE_GRA_EV_11_2",
+      "value": "Guild Raid: Confrontation with \"Lust\""
+    },
+    {
+      "key": "QE_GRA_EV_11_3",
+      "value": "Guild Raid: Confrontation with \"Lust\""
+    },
+    {
+      "key": "QE_GRA_EV_12_1",
+      "value": "Titan Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_12_2",
+      "value": "Titan Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_12_3",
+      "value": "Titan Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_13_1",
+      "value": "Guild Raid: Confrontation with \"Gluttony\""
+    },
+    {
+      "key": "QE_GRA_EV_13_2",
+      "value": "Guild Raid: Confrontation with \"Gluttony\""
+    },
+    {
+      "key": "QE_GRA_EV_13_3",
+      "value": "Guild Raid: Confrontation with \"Gluttony\""
+    },
+    {
+      "key": "QE_GRA_EV_14_1",
+      "value": "Phoenix Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_14_2",
+      "value": "Phoenix Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_14_3",
+      "value": "Phoenix Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_15_1",
+      "value": "Guild Raid: Confrontation with \"Envy\""
+    },
+    {
+      "key": "QE_GRA_EV_15_2",
+      "value": "Guild Raid: Confrontation with \"Envy\""
+    },
+    {
+      "key": "QE_GRA_EV_15_3",
+      "value": "Guild Raid: Confrontation with \"Envy\""
     },
     {
       "key": "QE_RAID_EV_06_01",
@@ -9197,6 +9701,10 @@
       "value": "[High Difficulty] Training Chamber Lv. 2"
     },
     {
+      "key": "QE_MU_AW_H09_7",
+      "value": "[High Difficulty] Training Chamber (Yellow) G"
+    },
+    {
       "key": "QE_MU_AW_H09_6",
       "value": "[High Difficulty] Training Chamber (Yellow) F"
     },
@@ -9221,6 +9729,10 @@
       "value": "[High Difficulty] Training Chamber (Yellow) A"
     },
     {
+      "key": "QE_MU_AW_H13_7",
+      "value": "[High Difficulty] Training Chamber (Red) G"
+    },
+    {
       "key": "QE_MU_AW_H13_6",
       "value": "[High Difficulty] Training Chamber (Red) F"
     },
@@ -9243,6 +9755,10 @@
     {
       "key": "QE_MU_AW_H13_1",
       "value": "[High Difficulty] Training Chamber (Red) A"
+    },
+    {
+      "key": "QE_MU_AW_H15_7",
+      "value": "[Brutal Difficulty] Training Chamber (Red) G"
     },
     {
       "key": "QE_MU_AW_H15_6",
@@ -9545,6 +10061,18 @@
       "value": "Hourne Castle Gate"
     },
     {
+      "key": "QE_ARENA_GL_00021",
+      "value": "Mines IV"
+    },
+    {
+      "key": "QE_ARENA_GL_00022",
+      "value": "Leonis Castle Gate"
+    },
+    {
+      "key": "QE_ARENA_GL_00023",
+      "value": "Cave"
+    },
+    {
       "key": "QE_GVG_00001",
       "value": "Arena"
     },
@@ -9737,6 +10265,18 @@
       "value": "Shipdeck"
     },
     {
+      "key": "QE_GVG_GL_00031",
+      "value": "Cave"
+    },
+    {
+      "key": "QE_GVG_GL_00032",
+      "value": "Cathedral Rear Courtyard"
+    },
+    {
+      "key": "QE_GVG_GL_00033",
+      "value": "Coastline II"
+    },
+    {
       "key": "QE_PVP_FRE_0001",
       "value": "Plains"
     },
@@ -9855,6 +10395,18 @@
     {
       "key": "QE_PVP_FRE_GL_0026",
       "value": "Hourne Castle Gate"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0027",
+      "value": "Mines IV"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0028",
+      "value": "Leonis Castle Gate"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0029",
+      "value": "Cave"
     },
     {
       "key": "QE_PVP_FRI_0001",
@@ -9997,6 +10549,18 @@
       "value": "Plains III"
     },
     {
+      "key": "QE_PVP_FRI_0061",
+      "value": "Mines IV"
+    },
+    {
+      "key": "QE_PVP_FRI_0062",
+      "value": "Leonis Castle Gate"
+    },
+    {
+      "key": "QE_PVP_FRI_0063",
+      "value": "Ancient Ruins VI (Free Match Rules)"
+    },
+    {
       "key": "QE_PVP_FRI_GL_0001",
       "value": "Wastelands"
     },
@@ -10079,6 +10643,10 @@
     {
       "key": "QE_PVP_DRFT_0003",
       "value": "Ancient Ruins III"
+    },
+    {
+      "key": "QE_PVP_DRFT_0004",
+      "value": "Ancient Ruins VI"
     },
     {
       "key": "QE_TEST_FOR",
@@ -10257,6 +10825,10 @@
       "value": "Shard Quest: Phantasmic Renderer, Dark Odin"
     },
     {
+      "key": "QE_VC_LW_ANIM",
+      "value": "Shard Quest: Darkness Enchained, Anima"
+    },
+    {
       "key": "QE_VC_LW_TSLP",
       "value": "Shard Quest: Gale-Begetting Heavenly Four, Tetra Sylphid"
     },
@@ -10411,6 +10983,10 @@
     {
       "key": "QE_VC_LW_TREL",
       "value": "Shard Quest: Faint Torchlight"
+    },
+    {
+      "key": "QE_VC_LW_THLA",
+      "value": "Shard Quest: Salire vs Rayches, Round 30"
     },
     {
       "key": "QE_VC_GL_LW_NEWYEAR2",

@@ -5037,6 +5037,235 @@
           "iname": "UN_LW_P_ELSI"
         }
       ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_436",
+      "units": [
+        {
+          "iname": "UN_LW_P_RSNC"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_437",
+      "units": [
+        {
+          "iname": "UN_PRS5_P_JOKR"
+        },
+        {
+          "iname": "UN_PRS5_P_QUEN"
+        },
+        {
+          "iname": "UN_PRS5_P_VOLT"
+        },
+        {
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "iname": "UN_LW_P_RARD"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_438",
+      "units": [
+        {
+          "iname": "UN_LW_P_VERN"
+        },
+        {
+          "iname": "UN_LW_P_AYKA"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_439",
+      "units": [
+        {
+          "iname": "UN_LW_P_RAMD"
+        },
+        {
+          "iname": "UN_LW_P_NASR"
+        },
+        {
+          "iname": "UN_LW_P_MICE"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_440",
+      "units": [
+        {
+          "iname": "UN_LW_P_RYER_02"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_441",
+      "units": [
+        {
+          "iname": "UN_LW_P_RSNC"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_442",
+      "units": [
+        {
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "iname": "UN_LW_P_RARD"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_443",
+      "units": [
+        {
+          "iname": "UN_LW_P_ASTR"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_444",
+      "units": [
+        {
+          "iname": "UN_LW_P_RYER_02"
+        },
+        {
+          "iname": "UN_LW_P_SERL"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_445",
+      "units": [
+        {
+          "iname": "UN_LW_P_RSNC"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_446",
+      "units": [
+        {
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "iname": "UN_LW_P_RARD"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_447",
+      "units": [
+        {
+          "iname": "UN_LW_P_VERN"
+        },
+        {
+          "iname": "UN_LW_P_AYKA"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_448",
+      "units": [
+        {
+          "iname": "UN_LW_P_IRDL_01"
+        },
+        {
+          "iname": "UN_LW_P_SERL"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_449",
+      "units": [
+        {
+          "iname": "UN_LW_P_RYER_02"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_450",
+      "units": [
+        {
+          "iname": "UN_LW_P_RSNC"
+        },
+        {
+          "iname": "UN_LW_P_THLA_01"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_451",
+      "units": [
+        {
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "iname": "UN_LW_P_RARD"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_452",
+      "units": [
+        {
+          "iname": "UN_LW_P_IRDL_01"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_453",
+      "units": [
+        {
+          "iname": "UN_LW_P_RYER_02"
+        },
+        {
+          "iname": "UN_LW_P_SERL"
+        },
+        {
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "iname": "UN_FF10_P_YUNA"
+        },
+        {
+          "iname": "UN_FF10_P_ARON"
+        },
+        {
+          "iname": "UN_LW_P_SZRT"
+        },
+        {
+          "iname": "UN_LW_P_DRND"
+        },
+        {
+          "iname": "UN_LW_P_VSTR"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_454",
+      "units": [
+        {
+          "iname": "UN_LW_P_RSNC"
+        },
+        {
+          "iname": "UN_LW_P_THLA_01"
+        }
+      ]
+    },
+    {
+      "iname": "UNIT_GROUP_GL_455",
+      "units": [
+        {
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "iname": "UN_LW_P_RARD"
+        }
+      ]
     }
   ]
 }

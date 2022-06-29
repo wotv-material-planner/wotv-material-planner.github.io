@@ -401,6 +401,14 @@
       "value": "Unit [Resnick] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_LW_RR_01",
+      "value": "Unit [Little Leela the Bold] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_GL_LW_IRDL_01",
+      "value": "Unit [Ildyra (Sweetheart)] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -437,6 +445,10 @@
       "value": "Unit [Ayaka] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_AYKA2",
+      "value": "Unit [Ayaka] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_HLNA",
       "value": "Unit [Helena Leonis] is at least Lv. 40"
     },
@@ -447,6 +459,10 @@
     {
       "key": "COND_CH_LW_RAMD",
       "value": "Unit [Ramada] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_RAMD2",
+      "value": "Unit [Ramada] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_OOOO",
@@ -463,6 +479,10 @@
     {
       "key": "COND_CH_LW_VSTR",
       "value": "Unit [Vistralle] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_VSTR2",
+      "value": "Unit [Vistralle] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_CLEY",
@@ -545,6 +565,10 @@
       "value": "Unit [Miche] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_MICE2",
+      "value": "Unit [Miche] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_MIIA",
       "value": "Unit [Mia] is at least Lv. 40"
     },
@@ -589,6 +613,10 @@
       "value": "Unit [Schuzelt] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_SZRT2",
+      "value": "Unit [Schuzelt] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_FINA",
       "value": "Unit [Fina] is at least Lv. 40"
     },
@@ -623,6 +651,10 @@
     {
       "key": "COND_CH_LW_NASR",
       "value": "Unit [Nasha] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_NASR2",
+      "value": "Unit [Nasha] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_MA_01",
@@ -667,6 +699,10 @@
     {
       "key": "COND_CH_LW_DRND",
       "value": "Unit [Dorando] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_DRND2",
+      "value": "Unit [Dorando] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_LUCA",
@@ -857,12 +893,24 @@
       "value": "Unit [Tidus] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_FF10_T_2",
+      "value": "Unit [Tidus] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_FF10_YU",
       "value": "Unit [Yuna] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_FF10_Y_2",
+      "value": "Unit [Yuna] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_FF10_AR",
       "value": "Unit [Auron] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF10_A_2",
+      "value": "Unit [Auron] is at least Lv. 80"
     },
     {
       "key": "COND_CH_NIER_2B",
@@ -1099,6 +1147,10 @@
     {
       "key": "COND_VC_LW_OD_01",
       "value": "Vision card [Phantasmic Renderer, Dark Odin] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_ANIM",
+      "value": "Vision card [Darkness Enchained, Anima] is at least Lv. 1"
     },
     {
       "key": "COND_VC_LW_TSLP",
@@ -1505,6 +1557,10 @@
       "value": "Vision card [Faint Torchlight] is at least Lv. 1"
     },
     {
+      "key": "COND_VC_LW_THLA",
+      "value": "Vision card [Salire vs Rayches, Round 30] is at least Lv. 1"
+    },
+    {
       "key": "COND_VC_LW_LICH",
       "value": "Vision card [Undead King of Putrefaction, Lich] is at least Lv. 1"
     },
@@ -1607,6 +1663,34 @@
     {
       "key": "COND_CH_RSNC",
       "value": "Unit [Resnick] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_RYER_01",
+      "value": "Unit [Little Leela the Bold] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_SERL",
+      "value": "Unit [Cyrelle] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_CLEY2",
+      "value": "Unit [Khury Wezette] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_SEVR2",
+      "value": "Unit [Severo] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_WHIS2",
+      "value": "Unit [\"Whisper\"] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_IRDL_01",
+      "value": "Unit [Ildyra (Sweetheart)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_TH_01_2",
+      "value": "Unit [Salire (Sweetheart)] is at least Lv. 80"
     }
   ]
 }

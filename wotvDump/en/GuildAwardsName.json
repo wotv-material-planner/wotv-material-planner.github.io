@@ -37,6 +37,22 @@
       "value": "Legendary Hawk"
     },
     {
+      "key": "LW_GA_00015",
+      "value": "The Rising Rams"
+    },
+    {
+      "key": "LW_GA_00016",
+      "value": "The Graceful Bulls"
+    },
+    {
+      "key": "LW_GA_00017",
+      "value": "The Twins of Duality"
+    },
+    {
+      "key": "LW_GA_00018",
+      "value": "The Dutiful Cancri"
+    },
+    {
       "key": "LW_GA_00010",
       "value": "Up-and-Coming"
     },
@@ -55,6 +71,42 @@
     {
       "key": "LW_GA_00014",
       "value": "Full Ranks"
+    },
+    {
+      "key": "AWD_G_PT01_1",
+      "value": "Those Who Overcame"
+    },
+    {
+      "key": "AWD_G_PT01_2",
+      "value": "Those Who Endured"
+    },
+    {
+      "key": "AWD_G_PT01_3",
+      "value": "Those Who Challenged"
+    },
+    {
+      "key": "AWD_G_PT01_4",
+      "value": "Ultra Class"
+    },
+    {
+      "key": "AWD_G_PT01_5",
+      "value": "Top Class"
+    },
+    {
+      "key": "AWD_G_PT01_6",
+      "value": "Elite"
+    },
+    {
+      "key": "AWD_G_GRA_2107_1",
+      "value": "Masters of the Hunt"
+    },
+    {
+      "key": "AWD_G_GRA_2107_2",
+      "value": "Omnihunters"
+    },
+    {
+      "key": "AWD_G_GRA_2107_3",
+      "value": "Boss Hunters"
     },
     {
       "key": "AWD_G_FF04_1",
@@ -209,42 +261,6 @@
       "value": "Trail-Worn Traveler"
     },
     {
-      "key": "AWD_G_PT01_1",
-      "value": "Those Who Overcame"
-    },
-    {
-      "key": "AWD_G_PT01_2",
-      "value": "Those Who Endured"
-    },
-    {
-      "key": "AWD_G_PT01_3",
-      "value": "Those Who Challenged"
-    },
-    {
-      "key": "AWD_G_PT01_4",
-      "value": "Ultra Class"
-    },
-    {
-      "key": "AWD_G_PT01_5",
-      "value": "Top Class"
-    },
-    {
-      "key": "AWD_G_PT01_6",
-      "value": "Elite"
-    },
-    {
-      "key": "AWD_G_GRA_2107_1",
-      "value": "Masters of the Hunt"
-    },
-    {
-      "key": "AWD_G_GRA_2107_2",
-      "value": "Omnihunters"
-    },
-    {
-      "key": "AWD_G_GRA_2107_3",
-      "value": "Boss Hunters"
-    },
-    {
       "key": "AWD_G_LGGB01_1",
       "value": "1st Guild Battle Supremacy Champion"
     },
@@ -283,6 +299,18 @@
     {
       "key": "AWD_G_LGGB01_10",
       "value": "1st G-III League Bronze"
+    },
+    {
+      "key": "AWD_G_P5R_1",
+      "value": "Thou Who Art Willing to Perform Sacrilege"
+    },
+    {
+      "key": "AWD_G_P5R_2",
+      "value": "The Path of Rehabilitation"
+    },
+    {
+      "key": "AWD_G_P5R_3",
+      "value": "Kid in the Attic"
     }
   ]
 }

@@ -197,6 +197,16 @@
       "img": "LAPSzzan_01"
     },
     {
+      "iname": "UN_LW_P_RYER_02",
+      "bodyId": "LAPSryer_02",
+      "img": "LAPSryer_02"
+    },
+    {
+      "iname": "UN_LW_P_IRDL_01",
+      "bodyId": "LAPSirdl_01",
+      "img": "LAPSirdl_01"
+    },
+    {
       "iname": "UN_LW_P_NASR",
       "shield": "AF_LW_SHI_002"
     },
@@ -288,6 +298,11 @@
       "iname": "UN_LW_E_SKEL_02",
       "bodyId": "LAPSskel_02",
       "img": "LAPSskel_02"
+    },
+    {
+      "iname": "UN_LW_E_SKEL_03",
+      "bodyId": "LAPSskel_03",
+      "img": "LAPSskel_03"
     },
     {
       "iname": "UN_LW_E_WOLF_01",
@@ -433,6 +448,16 @@
       "iname": "UN_LW_E_WORM_01",
       "bodyId": "LAPSworm_01",
       "img": "LAPSworm_01"
+    },
+    {
+      "iname": "UN_LW_E_WORM_02",
+      "bodyId": "LAPSworm_02",
+      "img": "LAPSworm_02"
+    },
+    {
+      "iname": "UN_LW_E_WYVN",
+      "bodyId": "LAPSwyvn_01",
+      "img": "LAPSwyvn_01"
     },
     {
       "iname": "UN_FFT_E_CHCB_01",
@@ -653,6 +678,27 @@
       "iname": "UN_LW_E_ODIN_01",
       "bodyId": "LAPSodin_01",
       "img": "LAPSodin_01"
+    },
+    {
+      "iname": "UN_LW_E_GRSR_01_QE",
+      "bodyId": "LAPSgrsr_01",
+      "img": "LAPSgrsr_01",
+      "anime": "LAPSgrsr_01"
+    },
+    {
+      "iname": "UN_LW_E_THLA_01",
+      "bodyId": "LAPSthla_01",
+      "img": "LAPSthla_01"
+    },
+    {
+      "iname": "UN_LW_E_RIRY_01",
+      "bodyId": "LAPSriry_01",
+      "img": "LAPSriry_01"
+    },
+    {
+      "iname": "UN_LW_E_ELSR_01",
+      "bodyId": "LAPSelsr_01",
+      "img": "LAPSelsr_01"
     }
   ]
 }
