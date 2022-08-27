@@ -409,6 +409,18 @@
       "value": "Unit [Ildyra (Sweetheart)] is at least Lv. 1"
     },
     {
+      "key": "COND_HA_LW_SDLE",
+      "value": "Unit [Sadali Crysthea] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_IREZ",
+      "value": "Unit [Eliza] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_FI_01",
+      "value": "Unit [Dark Fina] is at least Lv. 1"
+    },
+    {
       "key": "COND_CH_LW_MONT",
       "value": "Unit [Mont Leonis] is at least Lv. 40"
     },
@@ -497,6 +509,10 @@
       "value": "Unit [Meriluke] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_MRLK2",
+      "value": "Unit [Meriluke] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_MGRT",
       "value": "Unit [Margritte] is at least Lv. 40"
     },
@@ -511,6 +527,10 @@
     {
       "key": "COND_CH_LW_RYER",
       "value": "Unit [Little Leela] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_RYER2",
+      "value": "Unit [Little Leela] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_SCIA",
@@ -602,7 +622,7 @@
     },
     {
       "key": "COND_CH_LW_MACR",
-      "value": "Unit [Machérie] is at least Lv. 40"
+      "value": "Unit [Machérie Hourne] is at least Lv. 40"
     },
     {
       "key": "COND_CH_LW_MACR2",
@@ -693,6 +713,10 @@
       "value": "Unit [Kitone] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_KTON2",
+      "value": "Unit [Kitone] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_MRND",
       "value": "Unit [Miranda] is at least Lv. 40"
     },
@@ -733,8 +757,16 @@
       "value": "Unit [Dario Hourne] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_DRIO2",
+      "value": "Unit [Dario Hourne] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_VNLA",
       "value": "Unit [Vinera Fennes] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_VNLA2",
+      "value": "Unit [Vinera Fennes] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_TREL",
@@ -787,6 +819,10 @@
     {
       "key": "COND_CH_LW_LSWL",
       "value": "Unit [Lasswell] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_LSWL2",
+      "value": "Unit [Lasswell] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_GRSR",
@@ -925,12 +961,36 @@
       "value": "Unit [Mont (King of Leonis)] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_MO_01_2",
+      "value": "Unit [Mont (King of Leonis)] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_SIRM",
       "value": "Unit [Sylma] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_SIRM2",
+      "value": "Unit [Sylma] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_RYEL",
       "value": "Unit [Louelle] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_RYEL2",
+      "value": "Unit [Louelle] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_UNII2",
+      "value": "Unit [Yuni] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_FINA2",
+      "value": "Unit [Fina] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_RAIN2",
+      "value": "Unit [Rain] is at least Lv. 80"
     },
     {
       "key": "COND_CH_HLNA_01",
@@ -961,8 +1021,16 @@
       "value": "Unit [Lilyth (Summer)] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LI_01_2",
+      "value": "Unit [Lilyth (Summer)] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_KT_01",
       "value": "Unit [Kitone (Summer)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_KT_01_2",
+      "value": "Unit [Kitone (Summer)] is at least Lv. 80"
     },
     {
       "key": "COND_CH_MURG",
@@ -981,8 +1049,16 @@
       "value": "Unit [Kilphe (Summer)] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_QI_01_2",
+      "value": "Unit [Kilphe (Summer)] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_ELSR_01",
       "value": "Unit [Elsirelle (Summer)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_EL_01_2",
+      "value": "Unit [Elsirelle (Summer)] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LMRE",
@@ -1015,6 +1091,10 @@
     {
       "key": "COND_CH_GL_TOMB_LARA",
       "value": "Unit [Lara Croft] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_GL_TOMB_LARA2",
+      "value": "Unit [Lara Croft] is at least Lv. 80"
     },
     {
       "key": "COND_CH_SLEN",
@@ -1151,6 +1231,22 @@
     {
       "key": "COND_VC_LW_ANIM",
       "value": "Vision card [Darkness Enchained, Anima] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_GLMS",
+      "value": "Vision card [Culmination] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_FRUIT",
+      "value": "Vision card [Fruit of Life] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_ADLD2",
+      "value": "Vision card [Blood on the Ice] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_FI_01",
+      "value": "Vision card [The Other Me] is at least Lv. 1"
     },
     {
       "key": "COND_VC_LW_TSLP",
@@ -1689,8 +1785,44 @@
       "value": "Unit [Ildyra (Sweetheart)] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_SDLE",
+      "value": "Unit [Sadali Crysthea] is at least Lv. 40"
+    },
+    {
       "key": "COND_CH_TH_01_2",
       "value": "Unit [Salire (Sweetheart)] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_IREZ",
+      "value": "Unit [Eliza] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_RNEL",
+      "value": "Unit [Ranell] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FINA_01",
+      "value": "Unit [Dark Fina] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_MCRD",
+      "value": "Unit [Macleod] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_GL_LW_JEDN_01",
+      "value": "Unit [Jayden (Summer)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_HLNA2",
+      "value": "Unit [Helena Leonis] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_SRJS2",
+      "value": "Unit [Serjes] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_LW_VKTR2",
+      "value": "Unit [Viktora] is at least Lv. 80"
     }
   ]
 }

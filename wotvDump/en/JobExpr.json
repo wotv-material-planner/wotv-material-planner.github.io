@@ -1205,6 +1205,10 @@
       "value": "Vanguard Spellcaster Class<br><br>A job that can bolster its defense and debuff resistances to take advantage of its high physical attack resistance while fighting on the front lines."
     },
     {
+      "key": "JB_LW_LIB_WIND",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can bolster its defense and debuff resistances to take advantage of its high physical attack resistance while fighting on the front lines."
+    },
+    {
       "key": "JB_LW_LIB_SOIL",
       "value": "Vanguard Spellcaster Class<br><br>A job that can bolster its defense and debuff resistances to take advantage of its high physical attack resistance while fighting on the front lines."
     },
@@ -1261,12 +1265,36 @@
       "value": "Vanguard Striker Class<br><br>A job that creates advantageous opportunities in battle by increasing the Evasion of surrounding allies and lowering its own Hate."
     },
     {
+      "key": "JB_LW_BNI_DARK",
+      "value": "Vanguard Striker Class<br><br>A job that creates advantageous opportunities in battle by increasing the Evasion of surrounding allies and lowering its own Hate."
+    },
+    {
       "key": "JB_LW_BNI_EX_M",
       "value": "Vanguard Striker Class<br><br>A job that creates advantageous opportunities in battle by increasing the Evasion of surrounding allies and lowering its own Hate."
     },
     {
       "key": "JB_LW_IRDL_01_M",
       "value": "Vanguard Striker Class<br><br>A job that creates advantageous opportunities in battle by increasing the Evasion of surrounding allies and lowering its own Hate."
+    },
+    {
+      "key": "JB_LW_RNEL_M",
+      "value": "Vanguard Striker Class<br><br>A job that creates advantageous opportunities in battle by increasing the Evasion of surrounding allies and lowering its own Hate."
+    },
+    {
+      "key": "JB_LW_SDLE",
+      "value": "Rearguard Spellcaster Class<br><br>A job that utilizes abilities with Casting Times to deal damage to a wide area while lowering CT/AGI, and an ability that bolsters its allies' All Elemental Res."
+    },
+    {
+      "key": "JB_LW_SDLE_M",
+      "value": "Rearguard Spellcaster Class<br><br>A job that utilizes abilities with Casting Times to deal damage to a wide area while lowering CT/AGI, and an ability that bolsters its allies' All Elemental Res."
+    },
+    {
+      "key": "JB_LW_DAC_FIRE",
+      "value": "Middle Guard Striker Class<br><br>A job that can use long-distance attacks, increase its own range, and use an ability with casting time to pierce DEF and Missile Res."
+    },
+    {
+      "key": "JB_LW_DAC_ICE",
+      "value": "Middle Guard Striker Class<br><br>A job that can use long-distance attacks, increase its own range, and use an ability with casting time to pierce DEF and Missile Res."
     },
     {
       "key": "JB_LW_MONT_M",
@@ -1737,6 +1765,10 @@
       "value": "Vanguard Striker Class<br><br>A job with extremely agile mobility that can steal various items held by the enemy."
     },
     {
+      "key": "JB_LW_VADM_M",
+      "value": "Vanguard Striker Class<br><br>A job with extremely agile mobility that can steal various items held by the enemy."
+    },
+    {
       "key": "JB_LW_MIIA_M",
       "value": "Vanguard Striker Class<br><br>A job with extremely agile mobility that can steal various items held by the enemy."
     },
@@ -1875,6 +1907,22 @@
     {
       "key": "JB_LW_SLEN_M",
       "value": "Vanguard Magic Attacker Class<br><br>A job specializing in attacks that depend on the MAG stat of the user, capable of dealing large amounts of damage by using abilities that raise its Slash Attack Res Piercing Rate or deal multiple consecutive hits."
+    },
+    {
+      "key": "JB_LW_FINA_01",
+      "value": "Rearguard Spellcaster Class<br><br>A job that is capable of lowering Unit Attack Res while dealing out powerful attacks, and inflicting status effects such as Stop and Petrify."
+    },
+    {
+      "key": "JB_LW_FINA_01_M",
+      "value": "Rearguard Spellcaster Class<br><br>A job that is capable of lowering Unit Attack Res while dealing out powerful attacks, and inflicting status effects such as Stop and Petrify."
+    },
+    {
+      "key": "JB_LW_JEDN_01",
+      "value": "Middle Guard Magic Attacker Class<br><br>A job that can perform long-distance attacks based on its magic stat, bestow AP Auto-Restore on itself, and perform strings of powerful attacks that can hit a wide area of effect or remove buffs from a target."
+    },
+    {
+      "key": "JB_LW_JEDN_01_M",
+      "value": "Middle Guard Magic Attacker Class<br><br>A job that can perform long-distance attacks based on its magic stat, bestow AP Auto-Restore on itself, and perform strings of powerful attacks that can hit a wide area of effect or remove buffs from a target."
     },
     {
       "key": "JB_LW_VERN_M",
@@ -2017,6 +2065,14 @@
       "value": "Rearguard Healer Class<br><br>A job that can restore allies' HP and offer aid such as elemental attack enhancement."
     },
     {
+      "key": "JB_LW_SCR_WIND",
+      "value": "Rearguard Healer Class<br><br>A job that can restore allies' HP and offer aid such as elemental attack enhancement."
+    },
+    {
+      "key": "JB_LW_SCR_DARK",
+      "value": "Rearguard Healer Class<br><br>A job that can restore allies' HP and offer aid such as elemental attack enhancement."
+    },
+    {
       "key": "JB_LW_SCR_EX_M",
       "value": "Rearguard Healer Class<br><br>A job that can restore allies' HP and offer aid such as elemental attack enhancement."
     },
@@ -2073,11 +2129,19 @@
       "value": "Vanguard Striker Class<br><br>A spear-wielding job adept at mid-range fighting with its two-panel piercing attacks and an ability that reduces enemy AP on critical hit."
     },
     {
+      "key": "JB_LW_LLN_ICE",
+      "value": "Vanguard Striker Class<br><br>A spear-wielding job adept at mid-range fighting with its two-panel piercing attacks and an ability that reduces enemy AP on critical hit."
+    },
+    {
       "key": "JB_LW_LLN_EX_M",
       "value": "Vanguard Striker Class<br><br>A spear-wielding job adept at mid-range fighting with its two-panel piercing attacks and an ability that reduces enemy AP on critical hit."
     },
     {
       "key": "JB_LW_LATH_01_M",
+      "value": "Vanguard Striker Class<br><br>A spear-wielding job adept at mid-range fighting with its two-panel piercing attacks and an ability that reduces enemy AP on critical hit."
+    },
+    {
+      "key": "JB_LW_MCRD_M",
       "value": "Vanguard Striker Class<br><br>A spear-wielding job adept at mid-range fighting with its two-panel piercing attacks and an ability that reduces enemy AP on critical hit."
     },
     {
@@ -2187,6 +2251,14 @@
     {
       "key": "JB_LW_RARD_M",
       "value": "Vanguard Physical Tank Class<br><br>A job with high fortitude that can use abilities which increase in power for every time it has taken damage during battle."
+    },
+    {
+      "key": "JB_LW_DAC_EX_M",
+      "value": "Middle Guard Striker Class<br><br>A job that can use long-distance attacks, increase its own range, and use an ability with casting time to pierce DEF and Missile Res."
+    },
+    {
+      "key": "JB_LW_IREZ_M",
+      "value": "Middle Guard Striker Class<br><br>A job that can use long-distance attacks, increase its own range, and use an ability with casting time to pierce DEF and Missile Res."
     }
   ]
 }

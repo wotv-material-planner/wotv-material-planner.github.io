@@ -41,6 +41,10 @@
       "value": "Dark Unit "
     },
     {
+      "key": "VLC_WIND_ICE_SHINE",
+      "value": "Wind/Ice/Light Unit "
+    },
+    {
       "key": "VLC_DEAN",
       "value": ""
     },
@@ -370,6 +374,34 @@
     },
     {
       "key": "VLC_GL_THLA_LYCS",
+      "value": ""
+    },
+    {
+      "key": "VLC_GL_SDLE",
+      "value": ""
+    },
+    {
+      "key": "VLC_GL_GLMS_WHIS",
+      "value": ""
+    },
+    {
+      "key": "VLC_GL_IREZ_RFAL",
+      "value": ""
+    },
+    {
+      "key": "VLC_GL_HLNA_01",
+      "value": ""
+    },
+    {
+      "key": "VLC_GL_FINA_01",
+      "value": ""
+    },
+    {
+      "key": "VLC_GL_FINA",
+      "value": ""
+    },
+    {
+      "key": "VLC_JEDN_01",
       "value": ""
     }
   ]

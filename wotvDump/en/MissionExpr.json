@@ -3654,7 +3654,7 @@
     },
     {
       "key": "CM_PRO_GL_V_TOMB_05",
-      "value": "Awaken \"25 Years of Tomb Raiding\""
+      "value": "Reach Lv. 25 with \"25 Years of Tomb Raiding\""
     },
     {
       "key": "CM_PRO_GL_V_TOMB_06",
@@ -3674,7 +3674,7 @@
     },
     {
       "key": "CM_PRO_GL_TOMB_01",
-      "value": "Take Part in the Social Media Campaign"
+      "value": "Reach Lv. 30 with Lara Croft"
     },
     {
       "key": "CM_PRO_GL_TOMB_02",
@@ -4878,7 +4878,7 @@
     },
     {
       "key": "CM_PRO_GL_V_MORE_01_05",
-      "value": "Awaken \"Fervor of the Festival\""
+      "value": "Reach Lv. 25 with \"Fervor of the Festival\""
     },
     {
       "key": "CM_PRO_GL_V_MORE_01_06",
@@ -6481,6 +6481,330 @@
       "value": "Reach Lv. 65 with \"Valefor\""
     },
     {
+      "key": "CM_PRO_GL_SDLE_01",
+      "value": "Reach Lv. 30 with Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_SDLE_02",
+      "value": "Limit Break Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_SDLE_03",
+      "value": "Reach Lv. 40 with Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_SDLE_04",
+      "value": "Reach Main Job Lv. 6 with Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_SDLE_05",
+      "value": "Reach Lv. 50 with Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_SDLE_06",
+      "value": "Reach Main Job Lv. 9 with Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_SDLE_07",
+      "value": "Reach Lv. 60 with Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_SDLE_08",
+      "value": "Reach Lv. 70 with Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_SDLE_09",
+      "value": "Reach Lv. 75 with Sadali Crysthea"
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_01",
+      "value": "Reach Lv. 5 with \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_02",
+      "value": "Reach Lv. 10 with \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_03",
+      "value": "Reach Lv. 15 with \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_04",
+      "value": "Reach Lv. 20 with \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_05",
+      "value": "Awaken \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_06",
+      "value": "Reach Lv. 30 with \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_07",
+      "value": "Reach Lv. 40 with \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_08",
+      "value": "Reach Lv. 50 with \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_V_GLMS_09",
+      "value": "Reach Lv. 65 with \"Culmination\""
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_01",
+      "value": "Reach Lv. 30 with Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_02",
+      "value": "Limit Break Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_03",
+      "value": "Reach Lv. 40 with Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_04",
+      "value": "Reach Main Job Lv. 6 with Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_05",
+      "value": "Reach Lv. 50 with Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_06",
+      "value": "Reach Main Job Lv. 9 with Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_07",
+      "value": "Reach Lv. 60 with Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_08",
+      "value": "Reach Lv. 70 with Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_IREZ_09",
+      "value": "Reach Lv. 75 with Eliza"
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_01",
+      "value": "Reach Lv. 5 with \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_02",
+      "value": "Reach Lv. 10 with \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_03",
+      "value": "Reach Lv. 15 with \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_04",
+      "value": "Reach Lv. 20 with \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_05",
+      "value": "Awaken \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_06",
+      "value": "Reach Lv. 30 with \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_07",
+      "value": "Reach Lv. 40 with \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_08",
+      "value": "Reach Lv. 50 with \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FRUIT_09",
+      "value": "Reach Lv. 65 with \"Fruit of Life\""
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_01",
+      "value": "Reach Lv. 30 with Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_02",
+      "value": "Limit Break Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_03",
+      "value": "Reach Lv. 40 with Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_04",
+      "value": "Reach Main Job Lv. 6 with Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_05",
+      "value": "Reach Lv. 50 with Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_06",
+      "value": "Reach Main Job Lv. 9 with Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_07",
+      "value": "Reach Lv. 60 with Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_08",
+      "value": "Reach Lv. 70 with Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_FINA_01_09",
+      "value": "Reach Lv. 75 with Dark Fina"
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_01",
+      "value": "Reach Lv. 5 with \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_02",
+      "value": "Reach Lv. 10 with \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_03",
+      "value": "Reach Lv. 15 with \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_04",
+      "value": "Reach Lv. 20 with \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_05",
+      "value": "Awaken \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_06",
+      "value": "Reach Lv. 30 with \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_07",
+      "value": "Reach Lv. 40 with \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_08",
+      "value": "Reach Lv. 50 with \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_V_FINA_01_09",
+      "value": "Reach Lv. 65 with \"The Other Me\""
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_01",
+      "value": "Reach Lv. 30 with Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_02",
+      "value": "Limit Break Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_03",
+      "value": "Reach Lv. 40 with Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_04",
+      "value": "Reach Main Job Lv. 6 with Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_05",
+      "value": "Reach Lv. 50 with Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_06",
+      "value": "Reach Main Job Lv. 9 with Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_07",
+      "value": "Reach Lv. 60 with Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_08",
+      "value": "Reach Lv. 70 with Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_JEDN_01_09",
+      "value": "Reach Lv. 75 with Jayden (Summer)"
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_01",
+      "value": "Reach Lv. 5 with \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_02",
+      "value": "Reach Lv. 10 with \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_03",
+      "value": "Reach Lv. 15 with \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_04",
+      "value": "Reach Lv. 20 with \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_05",
+      "value": "Awaken \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_06",
+      "value": "Reach Lv. 30 with \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_07",
+      "value": "Reach Lv. 40 with \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_08",
+      "value": "Reach Lv. 50 with \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_V_JEDN_01_09",
+      "value": "Reach Lv. 65 with \"Stag of the Shining Summer\""
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_01",
+      "value": "Enhance an Equipment Item"
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_02",
+      "value": "Clear a Multi Quest"
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_03",
+      "value": "Reach Lv. 40 with \"Friend or Foe?\""
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_04",
+      "value": "Awaken \"Friend or Foe?\""
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_05",
+      "value": "Clear a Hard Quest from the World Quests List 10 times"
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_06",
+      "value": "Reach Lv. 55 with \"Friend or Foe?\""
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_07",
+      "value": "Awaken \"Friend or Foe?\" 2 times"
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_08",
+      "value": "Purchase an item from a Shop"
+    },
+    {
+      "key": "CM_PRO_GL_FFEXU_01_09",
+      "value": "Log in 3 days during the event period"
+    },
+    {
       "key": "GM_0001",
       "value": "Have 10 Guild Members in your Guild"
     },
@@ -6693,6 +7017,42 @@
       "value": "Title given to the Guilds that ranked within the top 50 in the Guild High Score Ranking of the FFX Collaboration — Trials of Reckoning"
     },
     {
+      "key": "GM_FF10_7",
+      "value": "Title given to the Guild that ranked 1st in the Total Score Ranking of the Guild Raid"
+    },
+    {
+      "key": "GM_FF10_8",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Total Score Ranking of the Guild Raid"
+    },
+    {
+      "key": "GM_FF10_9",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Total Score Ranking of the Guild Raid"
+    },
+    {
+      "key": "GM_FF10_10",
+      "value": "Title given to the Guild that ranked 1st in the Guild Total Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF10_11",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Guild Total Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF10_12",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Guild Total Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF10_13",
+      "value": "Title given to the Guild that ranked 1st in the Guild High Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF10_14",
+      "value": "Title given to the Guilds that ranked within the top 10 in the Guild High Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "GM_FF10_15",
+      "value": "Title given to the Guilds that ranked within the top 50 in the Guild High Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
       "key": "GM_PT01_1",
       "value": "Title given to the Guild that ranked 1st in the Guild Total Score Ranking of the Trials of Reckoning"
     },
@@ -6851,6 +7211,18 @@
     {
       "key": "GM_GRA_P5R_3",
       "value": "Title given to the Guilds that ranked within the top 50 in the Total Score Ranking of the Guild Raid"
+    },
+    {
+      "key": "GM_GB_2022_1_1",
+      "value": "Title given to the Guild that ranked 1st for trophy acquisition in the Guild Battle (Azure Dragon Cup 2022)"
+    },
+    {
+      "key": "GM_GB_2022_1_2",
+      "value": "Title given to the Guild that ranked within the top 10 for trophy acquisition in the Guild Battle (Azure Dragon Cup 2022)"
+    },
+    {
+      "key": "GM_GB_2022_1_3",
+      "value": "Title given to the Guild that ranked within the top 50 for trophy acquisition in the Guild Battle (Azure Dragon Cup 2022)"
     },
     {
       "key": "M_ST_0001_01_03N",
@@ -7401,6 +7773,38 @@
       "value": "Clear Chapter 8, Scene 1 [When Chance Presents Itself]"
     },
     {
+      "key": "M_ST_0208_02",
+      "value": "Clear Chapter 8, Scene 2 [The Power of the Relic II]"
+    },
+    {
+      "key": "M_ST_0208_02_02",
+      "value": "Clear Chapter 8, Scene 2 [Fighting Through Anything II]"
+    },
+    {
+      "key": "M_ST_0208_03",
+      "value": "Clear Chapter 8, Scene 3 [The Future of «Fortem» I]"
+    },
+    {
+      "key": "M_ST_0208_03_2",
+      "value": "Clear Chapter 8, Scene 3 [A Heartless Trap]"
+    },
+    {
+      "key": "M_ST_0209_01",
+      "value": "Clear Chapter 9, Scene 1 [Divide and Conquer II]"
+    },
+    {
+      "key": "M_ST_0209_01_02",
+      "value": "Clear Chapter 9, Scene 1 [I Am Counting On You]"
+    },
+    {
+      "key": "M_ST_0209_02",
+      "value": "Clear Chapter 9, Scene 2 [Where the Path Leads I]"
+    },
+    {
+      "key": "M_ST_0209_02_02",
+      "value": "Clear Chapter 9, Scene 2 [I Am Not Alone]"
+    },
+    {
       "key": "M_VIP_LOGB_001",
       "value": "Reach Royal Rank 1"
     },
@@ -7506,7 +7910,7 @@
     },
     {
       "key": "M_DAILY_001_04",
-      "value": "Enhance a Guild Statue"
+      "value": "Clear a Multi Quest"
     },
     {
       "key": "M_DAILY_001_05",
@@ -8186,6 +8590,118 @@
     },
     {
       "key": "M_DAILY_GL_035_07_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_038_01_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_038_01_2",
+      "value": "Clear a Trials of Reckoning Quest"
+    },
+    {
+      "key": "M_DAILY_038_02_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_038_02_2",
+      "value": "Clear Trials of Reckoning Quests 2 times"
+    },
+    {
+      "key": "M_DAILY_038_03_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_038_03_2",
+      "value": "Clear Trials of Reckoning Quests 3 times"
+    },
+    {
+      "key": "M_DAILY_038_04_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_038_04_2",
+      "value": "Clear Trials of Reckoning Quests 4 times"
+    },
+    {
+      "key": "M_DAILY_038_05_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_038_05_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_038_06_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_038_06_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_GL_038_07_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_GL_038_07_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_GL_038_08_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_GL_038_08_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_GL_038_09_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_GL_038_09_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_GL_038_10_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_GL_038_10_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_GL_038_11_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_GL_038_11_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_GL_038_12_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_GL_038_12_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_GL_038_13_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_GL_038_13_2",
+      "value": "Clear Trials of Reckoning Quests 5 times"
+    },
+    {
+      "key": "M_DAILY_GL_038_14_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_DAILY_GL_038_14_2",
       "value": "Clear Trials of Reckoning Quests 5 times"
     },
     {
@@ -10241,6 +10757,62 @@
       "value": "Participate in the Raid 5 times"
     },
     {
+      "key": "M_GL_DAILY_RAID_101_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_101_2",
+      "value": "Participate in the Raid"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_102_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_102_2",
+      "value": "Participate in the Raid 2 times"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_103_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_103_2",
+      "value": "Participate in the Raid 3 times"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_104_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_104_2",
+      "value": "Participate in the Raid 4 times"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_105_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_105_2",
+      "value": "Participate in the Raid 5 times"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_106_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_106_2",
+      "value": "Participate in the Raid 5 times"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_107_1",
+      "value": "Clear a Story Quest"
+    },
+    {
+      "key": "M_GL_DAILY_RAID_107_2",
+      "value": "Participate in the Raid 5 times"
+    },
+    {
       "key": "M_GL_DY_RAID_01",
       "value": "Participate in the Raid"
     },
@@ -11649,6 +12221,54 @@
       "value": "[Multi] Clear Brutal Difficulty Tomb Raider [EX1] 5 times"
     },
     {
+      "key": "M_GL_FFEXU_02_EX_01",
+      "value": "Clear Creeping Malice EX"
+    },
+    {
+      "key": "M_GL_FFEXU_02_EX_02",
+      "value": "Clear Creeping Malice EX 3 times"
+    },
+    {
+      "key": "M_GL_FFEXU_02_EX_03",
+      "value": "Clear Creeping Malice EX 5 times"
+    },
+    {
+      "key": "M_GL_FFEXU_02_EX2_01",
+      "value": "Clear Brutal Difficulty Creeping Malice EX"
+    },
+    {
+      "key": "M_GL_FFEXU_02_EX2_02",
+      "value": "Clear Brutal Difficulty Creeping Malice EX 3 times"
+    },
+    {
+      "key": "M_GL_FFEXU_02_EX2_03",
+      "value": "Clear Brutal Difficulty Creeping Malice EX 5 times"
+    },
+    {
+      "key": "M_GL_FFEXU_02_EX2_04",
+      "value": "Clear Brutal Difficulty Creeping Malice EX 10 times"
+    },
+    {
+      "key": "M_GL_MU_FFEXU_02_EX_01",
+      "value": "[Multi] Clear Creeping Malice EX"
+    },
+    {
+      "key": "M_GL_MU_FFEXU_02_EX_02",
+      "value": "[Multi] Clear Creeping Malice EX 3 times"
+    },
+    {
+      "key": "M_GL_MU_FFEXU_02_EX_03",
+      "value": "[Multi] Clear Creeping Malice EX 5 times"
+    },
+    {
+      "key": "M_GL_MU_FFEXU_02_EX2_01",
+      "value": "[Multi] Clear Brutal Difficulty Creeping Malice EX"
+    },
+    {
+      "key": "M_GL_MU_FFEXU_02_EX2_02",
+      "value": "[Multi] Clear Brutal Difficulty Creeping Malice EX 3 times"
+    },
+    {
       "key": "M_GL_FF7_CH_CLUD_01",
       "value": "Clear All Quest Missions for Cloud's Character Quest"
     },
@@ -12929,6 +13549,18 @@
       "value": "Check Out the PV"
     },
     {
+      "key": "M_GL_LW_SNS_35",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "M_GL_LW_SNS_36",
+      "value": "Watch the YouTube Video"
+    },
+    {
+      "key": "M_GL_LW_SNS_37",
+      "value": "Check Out the PV"
+    },
+    {
       "key": "M_ART_CRF_01_01",
       "value": "Clear Equipment Training Quest (Novice)"
     },
@@ -14005,6 +14637,150 @@
       "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Kurokasumi) 3 times"
     },
     {
+      "key": "M_ART_CRF_38_01",
+      "value": "Clear Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "M_ART_CRF_38_02",
+      "value": "Clear Equipment Training Quest (Diamond Mace) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_38_03",
+      "value": "Clear Equipment Training Quest (Diamond Mace) 5 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_38_1",
+      "value": "[Multi] Clear Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "M_MU_ARTCRF_38_2",
+      "value": "[Multi] Clear Equipment Training Quest (Diamond Mace) 3 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_38_3",
+      "value": "[Multi] Clear Equipment Training Quest (Diamond Mace) 5 times"
+    },
+    {
+      "key": "M_ART_CRF_39_01",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "M_ART_CRF_39_02",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Diamond Mace) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_39_03",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Diamond Mace) 5 times"
+    },
+    {
+      "key": "M_ART_CRF_39_04",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Diamond Mace) 10 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_39_1",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "M_MU_ARTCRF_39_2",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Diamond Mace) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_40_01",
+      "value": "Clear Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "M_ART_CRF_40_02",
+      "value": "Clear Equipment Training Quest (Jeweled Belt) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_40_03",
+      "value": "Clear Equipment Training Quest (Jeweled Belt) 5 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_40_1",
+      "value": "[Multi] Clear Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "M_MU_ARTCRF_40_2",
+      "value": "[Multi] Clear Equipment Training Quest (Jeweled Belt) 3 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_40_3",
+      "value": "[Multi] Clear Equipment Training Quest (Jeweled Belt) 5 times"
+    },
+    {
+      "key": "M_ART_CRF_41_01",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "M_ART_CRF_41_02",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Jeweled Belt) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_41_03",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Jeweled Belt) 5 times"
+    },
+    {
+      "key": "M_ART_CRF_41_04",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Jeweled Belt) 10 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_41_1",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "M_MU_ARTCRF_41_2",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Jeweled Belt) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_42_01",
+      "value": "Clear Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "M_ART_CRF_42_02",
+      "value": "Clear Equipment Training Quest (Prunus Lamina) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_42_03",
+      "value": "Clear Equipment Training Quest (Prunus Lamina) 5 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_42_1",
+      "value": "[Multi] Clear Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "M_MU_ARTCRF_42_2",
+      "value": "[Multi] Clear Equipment Training Quest (Prunus Lamina) 3 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_42_3",
+      "value": "[Multi] Clear Equipment Training Quest (Prunus Lamina) 5 times"
+    },
+    {
+      "key": "M_ART_CRF_43_01",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "M_ART_CRF_43_02",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Prunus Lamina) 3 times"
+    },
+    {
+      "key": "M_ART_CRF_43_03",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Prunus Lamina) 5 times"
+    },
+    {
+      "key": "M_ART_CRF_43_04",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Prunus Lamina) 10 times"
+    },
+    {
+      "key": "M_MU_ARTCRF_43_1",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "M_MU_ARTCRF_43_2",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Prunus Lamina) 3 times"
+    },
+    {
       "key": "M_MU_ARTCRF_30_2",
       "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Tyrfing) 3 times"
     },
@@ -14057,6 +14833,54 @@
       "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Pious Gloves) 3 times"
     },
     {
+      "key": "M_GL_ART_CRF_03_1",
+      "value": "Clear Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "M_GL_ART_CRF_03_2",
+      "value": "Clear Equipment Training Quest (Hydropump Blaster) 3 times"
+    },
+    {
+      "key": "M_GL_ART_CRF_03_3",
+      "value": "Clear Equipment Training Quest (Hydropump Blaster) 5 times"
+    },
+    {
+      "key": "M_GL_MU_ARTCRF_03_1",
+      "value": "[Multi] Clear Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "M_GL_MU_ARTCRF_03_2",
+      "value": "[Multi] Clear Equipment Training Quest (Hydropump Blaster) 3 times"
+    },
+    {
+      "key": "M_GL_MU_ARTCRF_03_3",
+      "value": "[Multi] Clear Equipment Training Quest (Hydropump Blaster) 5 times"
+    },
+    {
+      "key": "M_GL_ART_CRF_04_1",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "M_GL_ART_CRF_04_2",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Hydropump Blaster) 3 times"
+    },
+    {
+      "key": "M_GL_ART_CRF_04_3",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Hydropump Blaster) 5 times"
+    },
+    {
+      "key": "M_GL_ART_CRF_04_4",
+      "value": "Clear Brutal Difficulty Equipment Training Quest (Hydropump Blaster) 10 times"
+    },
+    {
+      "key": "M_GL_MU_ARTCRF_04_1",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "M_GL_MU_ARTCRF_04_2",
+      "value": "[Multi] Clear Brutal Difficulty Equipment Training Quest (Hydropump Blaster) 3 times"
+    },
+    {
       "key": "M_RC_DEM_01_1",
       "value": "Clear High Difficulty Demon Purge Quest"
     },
@@ -14093,8 +14917,48 @@
       "value": "Clear Nightmare Difficulty Demon Purge Quest"
     },
     {
+      "key": "M_RC_BST_01_1",
+      "value": "Clear High Difficulty Beast Hunt Quest"
+    },
+    {
+      "key": "M_RC_BST_01_2",
+      "value": "Clear High Difficulty Beast Hunt Quest 3 times"
+    },
+    {
+      "key": "M_MU_RC_BST_01_1",
+      "value": "[Multi] Clear High Difficulty Beast Hunt Quest"
+    },
+    {
+      "key": "M_MU_RC_BST_01_2",
+      "value": "[Multi] Clear High Difficulty Beast Hunt Quest 3 times"
+    },
+    {
+      "key": "M_RC_BST_02_1",
+      "value": "Clear Brutal Difficulty Beast Hunt Quest"
+    },
+    {
+      "key": "M_RC_BST_02_2",
+      "value": "Clear Brutal Difficulty Beast Hunt Quest 3 times"
+    },
+    {
+      "key": "M_MU_RC_BST_02_1",
+      "value": "[Multi] Clear Brutal Difficulty Beast Hunt Quest"
+    },
+    {
+      "key": "M_MU_RC_BST_02_2",
+      "value": "[Multi] Clear Brutal Difficulty Beast Hunt Quest 3 times"
+    },
+    {
+      "key": "M_RC_BST_03_1",
+      "value": "Clear Nightmare Difficulty Beast Hunt Quest"
+    },
+    {
       "key": "M_P_RC_AWARD_01",
       "value": "Title given to players who completed all Quest Missions for the [Nightmare Difficulty] Demon Purge Quest"
+    },
+    {
+      "key": "M_P_RC_AWARD_02",
+      "value": "Title given to players who completed all Quest Missions for the [Nightmare Difficulty] Beast Hunt Quest"
     },
     {
       "key": "M_EX_ELE_1_1",
@@ -15793,6 +16657,42 @@
       "value": "Clear Selection Quest (Dark) #10 5 times"
     },
     {
+      "key": "M_BR_DARK_11_1",
+      "value": "Clear Selection Quest (Dark) #11"
+    },
+    {
+      "key": "M_BR_DARK_11_2",
+      "value": "Clear Selection Quest (Dark) #11 2 times"
+    },
+    {
+      "key": "M_BR_DARK_11_3",
+      "value": "Clear Selection Quest (Dark) #11 3 times"
+    },
+    {
+      "key": "M_BR_DARK_12_1",
+      "value": "Clear Selection Quest (Dark) #12"
+    },
+    {
+      "key": "M_BR_DARK_12_2",
+      "value": "Clear Selection Quest (Dark) #12 2 times"
+    },
+    {
+      "key": "M_BR_DARK_12_3",
+      "value": "Clear Selection Quest (Dark) #12 3 times"
+    },
+    {
+      "key": "M_BR_DARK_13_1",
+      "value": "Clear Selection Quest (Dark) #13"
+    },
+    {
+      "key": "M_BR_DARK_13_2",
+      "value": "Clear Selection Quest (Dark) #13 2 times"
+    },
+    {
+      "key": "M_BR_DARK_13_3",
+      "value": "Clear Selection Quest (Dark) #13 3 times"
+    },
+    {
       "key": "M_BR_FIRE_01_1",
       "value": "Clear Selection Quest (Fire) #1 "
     },
@@ -15911,6 +16811,42 @@
     {
       "key": "M_BR_FIRE_10_3",
       "value": "Clear Selection Quest (Fire) #10 5 times"
+    },
+    {
+      "key": "M_BR_FIRE_11_1",
+      "value": "Clear Selection Quest (Fire) #11"
+    },
+    {
+      "key": "M_BR_FIRE_11_2",
+      "value": "Clear Selection Quest (Fire) #11 2 times"
+    },
+    {
+      "key": "M_BR_FIRE_11_3",
+      "value": "Clear Selection Quest (Fire) #11 3 times"
+    },
+    {
+      "key": "M_BR_FIRE_12_1",
+      "value": "Clear Selection Quest (Fire) #12"
+    },
+    {
+      "key": "M_BR_FIRE_12_2",
+      "value": "Clear Selection Quest (Fire) #12 2 times"
+    },
+    {
+      "key": "M_BR_FIRE_12_3",
+      "value": "Clear Selection Quest (Fire) #12 3 times"
+    },
+    {
+      "key": "M_BR_FIRE_13_1",
+      "value": "Clear Selection Quest (Fire) #13"
+    },
+    {
+      "key": "M_BR_FIRE_13_2",
+      "value": "Clear Selection Quest (Fire) #13 2 times"
+    },
+    {
+      "key": "M_BR_FIRE_13_3",
+      "value": "Clear Selection Quest (Fire) #13 3 times"
     },
     {
       "key": "M_BR_ICE_01_1",
@@ -16153,6 +17089,30 @@
       "value": "Clear Selection Quest (Water) #10 5 times"
     },
     {
+      "key": "M_RNDM_01_1_1",
+      "value": "Clear [High Difficulty] Random Battle Quest"
+    },
+    {
+      "key": "M_RNDM_01_1_2",
+      "value": "Clear [High Difficulty] Random Battle Quest 3 times"
+    },
+    {
+      "key": "M_RNDM_01_2_1",
+      "value": "Clear [Brutal Difficulty] Random Battle Quest"
+    },
+    {
+      "key": "M_RNDM_01_2_2",
+      "value": "Clear [Brutal Difficulty] Random Battle Quest 3 times"
+    },
+    {
+      "key": "M_RNDM_01_3_1",
+      "value": "Clear [Nightmare Difficulty] Random Battle Quest"
+    },
+    {
+      "key": "M_RNDM_01_3_2",
+      "value": "Clear [Nightmare Difficulty] Random Battle Quest 3 times"
+    },
+    {
       "key": "M_HA_TW_01",
       "value": "Title given to players who have cleared 20F of the Tower of Visions — War of Lion's Valley "
     },
@@ -16251,6 +17211,30 @@
     {
       "key": "M_RAID_RV_04_06",
       "value": "Defeat Chocolate Flan 20 times"
+    },
+    {
+      "key": "M_RAID_GL_RV_01_01",
+      "value": "Defeat Omega"
+    },
+    {
+      "key": "M_RAID_GL_RV_01_02",
+      "value": "Defeat Omega 3 times"
+    },
+    {
+      "key": "M_RAID_GL_RV_01_03",
+      "value": "Defeat Omega 5 times"
+    },
+    {
+      "key": "M_RAID_GL_RV_01_04",
+      "value": "Defeat Omega 10 times"
+    },
+    {
+      "key": "M_RAID_GL_RV_01_05",
+      "value": "Defeat Omega 15 times"
+    },
+    {
+      "key": "M_RAID_GL_RV_01_06",
+      "value": "Defeat Omega 20 times"
     },
     {
       "key": "MG_SM_2022_1_1_1",
@@ -17582,19 +18566,19 @@
     },
     {
       "key": "M_EV09_EX1_01",
-      "value": "Clear Brutal Difficulty The Agitator [EX]"
+      "value": "Clear Brutal Difficulty The Agitator [EX1]"
     },
     {
       "key": "M_EV09_EX1_02",
-      "value": "Clear Brutal Difficulty The Agitator [EX] 3 times"
+      "value": "Clear Brutal Difficulty The Agitator [EX1] 3 times"
     },
     {
       "key": "M_EV09_EX1_03",
-      "value": "Clear Brutal Difficulty The Agitator [EX] 5 times"
+      "value": "Clear Brutal Difficulty The Agitator [EX1] 5 times"
     },
     {
       "key": "M_EV09_EX1_04",
-      "value": "Clear Brutal Difficulty The Agitator [EX] 10 times"
+      "value": "Clear Brutal Difficulty The Agitator [EX1] 10 times"
     },
     {
       "key": "M_EV09_EX21_01",
@@ -17614,15 +18598,15 @@
     },
     {
       "key": "M_MU_EV09_EX_01",
-      "value": "[Multi] Clear The Agitator [EX]"
+      "value": "[Multi] Clear The Agitator [EX1]"
     },
     {
       "key": "M_MU_EV09_EX_02",
-      "value": "[Multi] Clear The Agitator [EX] 3 times"
+      "value": "[Multi] Clear The Agitator [EX1] 3 times"
     },
     {
       "key": "M_MU_EV09_EX_03",
-      "value": "[Multi] Clear The Agitator [EX] 5 times"
+      "value": "[Multi] Clear The Agitator [EX1] 5 times"
     },
     {
       "key": "M_MU_EV09_EX2_01",
@@ -17638,11 +18622,11 @@
     },
     {
       "key": "M_MU_EV09_EX1_01",
-      "value": "[Multi] Clear Brutal Difficulty The Agitator [EX]"
+      "value": "[Multi] Clear Brutal Difficulty The Agitator [EX1]"
     },
     {
       "key": "M_MU_EV09_EX1_02",
-      "value": "[Multi] Clear Brutal Difficulty The Agitator [EX] 3 times"
+      "value": "[Multi] Clear Brutal Difficulty The Agitator [EX1] 3 times"
     },
     {
       "key": "M_MU_EV09_EX2_04",
@@ -19382,15 +20366,15 @@
     },
     {
       "key": "M_CRIS01_EX2_01",
-      "value": "Clear Brutal Difficulty Creysse Acquisition Ex-Quest I"
+      "value": "Clear Brutal Difficulty Creysse Acquisition Ex-Quest"
     },
     {
       "key": "M_CRIS01_EX2_02",
-      "value": "Clear Brutal Difficulty Creysse Acquisition Ex-Quest I 3 times"
+      "value": "Clear Brutal Difficulty Creysse Acquisition Ex-Quest 3 times"
     },
     {
       "key": "M_CRIS01_EX2_03",
-      "value": "Clear Brutal Difficulty Creysse Acquisition Ex-Quest I 5 times"
+      "value": "Clear Brutal Difficulty Creysse Acquisition Ex-Quest 5 times"
     },
     {
       "key": "M_CRIS01_EX_01",
@@ -19398,7 +20382,7 @@
     },
     {
       "key": "M_CRIS01_EX_02",
-      "value": "Defeat Raviesse in Brutal Difficulty Creysse Acquisition Ex-Quest I 5 times"
+      "value": "Defeat Raviesse in Brutal Difficulty Creysse Acquisition Ex-Quest 5 times"
     },
     {
       "key": "M_MU_CR01_EX1_01",
@@ -19414,15 +20398,15 @@
     },
     {
       "key": "M_MU_CR01_EX2_01",
-      "value": "[Multi] Clear Brutal Difficulty Creysse Acquisition Ex-Quest I"
+      "value": "[Multi] Clear Brutal Difficulty Creysse Acquisition Ex-Quest"
     },
     {
       "key": "M_MU_CR01_EX2_02",
-      "value": "[Multi] Clear Brutal Difficulty Creysse Acquisition Ex-Quest I 3 times"
+      "value": "[Multi] Clear Brutal Difficulty Creysse Acquisition Ex-Quest 3 times"
     },
     {
       "key": "M_MU_CR01_EX2_03",
-      "value": "[Multi] Clear Brutal Difficulty Creysse Acquisition Ex-Quest I 5 times"
+      "value": "[Multi] Clear Brutal Difficulty Creysse Acquisition Ex-Quest 5 times"
     },
     {
       "key": "M_CWEL01_1_01",
@@ -19775,6 +20759,262 @@
     {
       "key": "M_MU_SE01_EX2_03",
       "value": "[Multi] Clear Brutal Difficulty Cyrelle Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_RNEL01_1_01",
+      "value": "Clear Ranell Acquisition Quest I"
+    },
+    {
+      "key": "M_RNEL01_1_02",
+      "value": "Clear Ranell Acquisition Quest I 2 times"
+    },
+    {
+      "key": "M_RNEL01_1_03",
+      "value": "Clear Ranell Acquisition Quest I 3 times"
+    },
+    {
+      "key": "M_RNEL01_1_04",
+      "value": "Clear Ranell Acquisition Quest II"
+    },
+    {
+      "key": "M_RNEL01_1_05",
+      "value": "Clear Ranell Acquisition Quest II 2 times"
+    },
+    {
+      "key": "M_RNEL01_1_06",
+      "value": "Clear Ranell Acquisition Quest II 3 times"
+    },
+    {
+      "key": "M_RNEL01_1_07",
+      "value": "Clear Ranell Acquisition Quest III"
+    },
+    {
+      "key": "M_RNEL01_1_08",
+      "value": "Clear Ranell Acquisition Quest III 2 times"
+    },
+    {
+      "key": "M_RNEL01_1_09",
+      "value": "Clear Ranell Acquisition Quest III 3 times"
+    },
+    {
+      "key": "M_RNEL01_1_10",
+      "value": "Clear Ranell Acquisition Quest IV"
+    },
+    {
+      "key": "M_RNEL01_1_11",
+      "value": "Clear Ranell Acquisition Quest IV 2 times"
+    },
+    {
+      "key": "M_RNEL01_1_12",
+      "value": "Clear Ranell Acquisition Quest IV 3 times"
+    },
+    {
+      "key": "M_RNEL01_1_13",
+      "value": "Clear Ranell Acquisition Quest V"
+    },
+    {
+      "key": "M_RNEL01_1_14",
+      "value": "Clear Ranell Acquisition Quest V 5 times"
+    },
+    {
+      "key": "M_RNEL01_1_15",
+      "value": "Clear Ranell Acquisition Quest V 10 times"
+    },
+    {
+      "key": "M_RNEL01_1_16",
+      "value": "Reach Lv. 40 with Ranell"
+    },
+    {
+      "key": "M_RNEL01_1_17",
+      "value": "Reach Main Job Lv. 6 with Ranell"
+    },
+    {
+      "key": "M_RNEL01_1_18",
+      "value": "Awaken Ranell 2 times"
+    },
+    {
+      "key": "M_RNEL01_1_19",
+      "value": "Limit Break Ranell 2 times"
+    },
+    {
+      "key": "M_RNEL01_EX1_01",
+      "value": "Clear High Difficulty Ranell Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_RNEL01_EX1_02",
+      "value": "Clear High Difficulty Ranell Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_RNEL01_EX1_03",
+      "value": "Clear High Difficulty Ranell Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_RNEL01_EX1_04",
+      "value": "Clear High Difficulty Ranell Acquisition Ex-Quest 10 times"
+    },
+    {
+      "key": "M_RNEL01_EX2_01",
+      "value": "Clear Brutal Difficulty Ranell Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_RNEL01_EX2_02",
+      "value": "Clear Brutal Difficulty Ranell Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_RNEL01_EX2_03",
+      "value": "Clear Brutal Difficulty Ranell Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_MU_RN01_EX1_01",
+      "value": "[Multi] Clear High Difficulty Ranell Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_MU_RN01_EX1_02",
+      "value": "[Multi] Clear High Difficulty Ranell Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_MU_RN01_EX1_03",
+      "value": "[Multi] Clear High Difficulty Ranell Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_MU_RN01_EX2_01",
+      "value": "[Multi] Clear Brutal Difficulty Ranell Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_MU_RN01_EX2_02",
+      "value": "[Multi] Clear Brutal Difficulty Ranell Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_MU_RN01_EX2_03",
+      "value": "[Multi] Clear Brutal Difficulty Ranell Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_MCRD01_1_01",
+      "value": "Clear Macleod Acquisition Quest I"
+    },
+    {
+      "key": "M_MCRD01_1_02",
+      "value": "Clear Macleod Acquisition Quest I 2 times"
+    },
+    {
+      "key": "M_MCRD01_1_03",
+      "value": "Clear Macleod Acquisition Quest I 3 times"
+    },
+    {
+      "key": "M_MCRD01_1_04",
+      "value": "Clear Macleod Acquisition Quest II"
+    },
+    {
+      "key": "M_MCRD01_1_05",
+      "value": "Clear Macleod Acquisition Quest II 2 times"
+    },
+    {
+      "key": "M_MCRD01_1_06",
+      "value": "Clear Macleod Acquisition Quest II 3 times"
+    },
+    {
+      "key": "M_MCRD01_1_07",
+      "value": "Clear Macleod Acquisition Quest III"
+    },
+    {
+      "key": "M_MCRD01_1_08",
+      "value": "Clear Macleod Acquisition Quest III 2 times"
+    },
+    {
+      "key": "M_MCRD01_1_09",
+      "value": "Clear Macleod Acquisition Quest III 3 times"
+    },
+    {
+      "key": "M_MCRD01_1_10",
+      "value": "Clear Macleod Acquisition Quest IV"
+    },
+    {
+      "key": "M_MCRD01_1_11",
+      "value": "Clear Macleod Acquisition Quest IV 2 times"
+    },
+    {
+      "key": "M_MCRD01_1_12",
+      "value": "Clear Macleod Acquisition Quest IV 3 times"
+    },
+    {
+      "key": "M_MCRD01_1_13",
+      "value": "Clear Macleod Acquisition Quest V"
+    },
+    {
+      "key": "M_MCRD01_1_14",
+      "value": "Clear Macleod Acquisition Quest V 5 times"
+    },
+    {
+      "key": "M_MCRD01_1_15",
+      "value": "Clear Macleod Acquisition Quest V 10 times"
+    },
+    {
+      "key": "M_MCRD01_1_16",
+      "value": "Reach Lv. 40 with Macleod"
+    },
+    {
+      "key": "M_MCRD01_1_17",
+      "value": "Reach Main Job Lv. 6 with Macleod"
+    },
+    {
+      "key": "M_MCRD01_1_18",
+      "value": "Awaken Macleod 2 times"
+    },
+    {
+      "key": "M_MCRD01_1_19",
+      "value": "Limit Break Macleod 2 times"
+    },
+    {
+      "key": "M_MCRD01_EX1_01",
+      "value": "Clear High Difficulty Macleod Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_MCRD01_EX1_02",
+      "value": "Clear High Difficulty Macleod Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_MCRD01_EX1_03",
+      "value": "Clear High Difficulty Macleod Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_MCRD01_EX1_04",
+      "value": "Clear High Difficulty Macleod Acquisition Ex-Quest 10 times"
+    },
+    {
+      "key": "M_MCRD01_EX2_01",
+      "value": "Clear Brutal Difficulty Macleod Acquisition Ex-Quest I"
+    },
+    {
+      "key": "M_MCRD01_EX2_02",
+      "value": "Clear Brutal Difficulty Macleod Acquisition Ex-Quest I 3 times"
+    },
+    {
+      "key": "M_MCRD01_EX2_03",
+      "value": "Clear Brutal Difficulty Macleod Acquisition Ex-Quest I 5 times"
+    },
+    {
+      "key": "M_MU_MC01_EX1_01",
+      "value": "[Multi] Clear High Difficulty Macleod Acquisition Ex-Quest"
+    },
+    {
+      "key": "M_MU_MC01_EX1_02",
+      "value": "[Multi] Clear High Difficulty Macleod Acquisition Ex-Quest 3 times"
+    },
+    {
+      "key": "M_MU_MC01_EX1_03",
+      "value": "[Multi] Clear High Difficulty Macleod Acquisition Ex-Quest 5 times"
+    },
+    {
+      "key": "M_MU_MC01_EX2_01",
+      "value": "[Multi] Clear Brutal Difficulty Macleod Acquisition Ex-Quest I"
+    },
+    {
+      "key": "M_MU_MC01_EX2_02",
+      "value": "[Multi] Clear Brutal Difficulty Macleod Acquisition Ex-Quest I 3 times"
+    },
+    {
+      "key": "M_MU_MC01_EX2_03",
+      "value": "[Multi] Clear Brutal Difficulty Macleod Acquisition Ex-Quest I 5 times"
     },
     {
       "key": "M_WW_MB_EX1_01",
@@ -20550,6 +21790,126 @@
     },
     {
       "key": "M_PT_FFX_01_2_15",
+      "value": "Clear Trials of Reckoning Quest — Hard #5 9 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_1",
+      "value": "Clear Trials of Reckoning Quest — Normal #1"
+    },
+    {
+      "key": "M_PT_FFX_02_1_2",
+      "value": "Clear Trials of Reckoning Quest — Normal #1 2 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_3",
+      "value": "Clear Trials of Reckoning Quest — Normal #1 3 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_4",
+      "value": "Clear Trials of Reckoning Quest — Normal #2"
+    },
+    {
+      "key": "M_PT_FFX_02_1_5",
+      "value": "Clear Trials of Reckoning Quest — Normal #2 2 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_6",
+      "value": "Clear Trials of Reckoning Quest — Normal #2 3 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_7",
+      "value": "Clear Trials of Reckoning Quest — Normal #3"
+    },
+    {
+      "key": "M_PT_FFX_02_1_8",
+      "value": "Clear Trials of Reckoning Quest — Normal #3 2 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_9",
+      "value": "Clear Trials of Reckoning Quest — Normal #3 3 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_10",
+      "value": "Clear Trials of Reckoning Quest — Normal #4"
+    },
+    {
+      "key": "M_PT_FFX_02_1_11",
+      "value": "Clear Trials of Reckoning Quest — Normal #4 2 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_12",
+      "value": "Clear Trials of Reckoning Quest — Normal #4 3 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_13",
+      "value": "Clear Trials of Reckoning Quest — Normal #5"
+    },
+    {
+      "key": "M_PT_FFX_02_1_14",
+      "value": "Clear Trials of Reckoning Quest — Normal #5 3 times"
+    },
+    {
+      "key": "M_PT_FFX_02_1_15",
+      "value": "Clear Trials of Reckoning Quest — Normal #5 5 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_1",
+      "value": "Clear Trials of Reckoning Quest — Hard #1"
+    },
+    {
+      "key": "M_PT_FFX_02_2_2",
+      "value": "Clear Trials of Reckoning Quest — Hard #1 3 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_3",
+      "value": "Clear Trials of Reckoning Quest — Hard #1 5 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_4",
+      "value": "Clear Trials of Reckoning Quest — Hard #2"
+    },
+    {
+      "key": "M_PT_FFX_02_2_5",
+      "value": "Clear Trials of Reckoning Quest — Hard #2 3 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_6",
+      "value": "Clear Trials of Reckoning Quest — Hard #2 5 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_7",
+      "value": "Clear Trials of Reckoning Quest — Hard #3"
+    },
+    {
+      "key": "M_PT_FFX_02_2_8",
+      "value": "Clear Trials of Reckoning Quest — Hard #3 5 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_9",
+      "value": "Clear Trials of Reckoning Quest — Hard #3 9 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_10",
+      "value": "Clear Trials of Reckoning Quest — Hard #4"
+    },
+    {
+      "key": "M_PT_FFX_02_2_11",
+      "value": "Clear Trials of Reckoning Quest — Hard #4 5 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_12",
+      "value": "Clear Trials of Reckoning Quest — Hard #4 9 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_13",
+      "value": "Clear Trials of Reckoning Quest — Hard #5"
+    },
+    {
+      "key": "M_PT_FFX_02_2_14",
+      "value": "Clear Trials of Reckoning Quest — Hard #5 5 times"
+    },
+    {
+      "key": "M_PT_FFX_02_2_15",
       "value": "Clear Trials of Reckoning Quest — Hard #5 9 times"
     },
     {
@@ -22371,6 +23731,42 @@
     {
       "key": "M_QEST_198",
       "value": "Clear Chapter 7, Scene 3 [All for This Moment]"
+    },
+    {
+      "key": "M_QEST_199",
+      "value": "Clear Chapter 8, Scene 1 [Way with a Blade I]"
+    },
+    {
+      "key": "M_QEST_200",
+      "value": "Clear Chapter 8, Scene 1 [The Ordeal of Treatment]"
+    },
+    {
+      "key": "M_QEST_201",
+      "value": "Clear Chapter 8, Scene 1 [When Chance Presents Itself]"
+    },
+    {
+      "key": "M_QEST_202",
+      "value": "Clear Chapter 8, Scene 2 [Brainwashed I]"
+    },
+    {
+      "key": "M_QEST_203",
+      "value": "Clear Chapter 8, Scene 2 [The Power of the Relic II]"
+    },
+    {
+      "key": "M_QEST_204",
+      "value": "Clear Chapter 8, Scene 2 [Fighting Through Anything II]"
+    },
+    {
+      "key": "M_QEST_205",
+      "value": "Clear Chapter 8, Scene 3 [Sacrificial Pawns I]"
+    },
+    {
+      "key": "M_QEST_206",
+      "value": "Clear Chapter 8, Scene 3 [The Future of «Fortem» I]"
+    },
+    {
+      "key": "M_QEST_207",
+      "value": "Clear Chapter 8, Scene 3 [A Heartless Trap]"
     },
     {
       "key": "M_GL_RANK_001",
@@ -37181,6 +38577,1094 @@
       "value": "Enhance Guild Statues 70 times"
     },
     {
+      "key": "M_MONTHLY_3680",
+      "value": "Clear Story Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3681",
+      "value": "Clear Story Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3682",
+      "value": "Clear Story Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3683",
+      "value": "Clear Story Quests 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3684",
+      "value": "Clear Story Quests 100 times"
+    },
+    {
+      "key": "M_MONTHLY_3685",
+      "value": "Clear Story Quests 120 times"
+    },
+    {
+      "key": "M_MONTHLY_3686",
+      "value": "Clear Story Quests 140 times"
+    },
+    {
+      "key": "M_MONTHLY_3687",
+      "value": "Clear Story Quests 160 times"
+    },
+    {
+      "key": "M_MONTHLY_3688",
+      "value": "Clear Story Quests 180 times"
+    },
+    {
+      "key": "M_MONTHLY_3689",
+      "value": "Clear Story Quests 200 times"
+    },
+    {
+      "key": "M_MONTHLY_3690",
+      "value": "Clear Story Quests 220 times"
+    },
+    {
+      "key": "M_MONTHLY_3691",
+      "value": "Clear Story Quests 240 times"
+    },
+    {
+      "key": "M_MONTHLY_3692",
+      "value": "Clear Story Quests 260 times"
+    },
+    {
+      "key": "M_MONTHLY_3693",
+      "value": "Clear Story Quests 280 times"
+    },
+    {
+      "key": "M_MONTHLY_3694",
+      "value": "Clear Story Quests 300 times"
+    },
+    {
+      "key": "M_MONTHLY_3695",
+      "value": "Clear Story Quests 320 times"
+    },
+    {
+      "key": "M_MONTHLY_3696",
+      "value": "Clear Story Quests 340 times"
+    },
+    {
+      "key": "M_MONTHLY_3697",
+      "value": "Clear Story Quests 360 times"
+    },
+    {
+      "key": "M_MONTHLY_3698",
+      "value": "Clear Story Quests 380 times"
+    },
+    {
+      "key": "M_MONTHLY_3699",
+      "value": "Clear Story Quests 400 times"
+    },
+    {
+      "key": "M_MONTHLY_3700",
+      "value": "Clear Hard Quests 10 times"
+    },
+    {
+      "key": "M_MONTHLY_3701",
+      "value": "Clear Hard Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3702",
+      "value": "Clear Hard Quests 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3703",
+      "value": "Clear Hard Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3704",
+      "value": "Clear Hard Quests 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3705",
+      "value": "Clear Hard Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3706",
+      "value": "Clear Hard Quests 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3707",
+      "value": "Clear Hard Quests 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3708",
+      "value": "Clear Hard Quests 90 times"
+    },
+    {
+      "key": "M_MONTHLY_3709",
+      "value": "Clear Hard Quests 100 times"
+    },
+    {
+      "key": "M_MONTHLY_3710",
+      "value": "Clear Hard Quests 110 times"
+    },
+    {
+      "key": "M_MONTHLY_3711",
+      "value": "Clear Hard Quests 120 times"
+    },
+    {
+      "key": "M_MONTHLY_3712",
+      "value": "Clear Hard Quests 130 times"
+    },
+    {
+      "key": "M_MONTHLY_3713",
+      "value": "Clear Hard Quests 140 times"
+    },
+    {
+      "key": "M_MONTHLY_3714",
+      "value": "Clear Hard Quests 150 times"
+    },
+    {
+      "key": "M_MONTHLY_3715",
+      "value": "Clear Hard Quests 170 times"
+    },
+    {
+      "key": "M_MONTHLY_3716",
+      "value": "Clear Hard Quests 190 times"
+    },
+    {
+      "key": "M_MONTHLY_3717",
+      "value": "Clear Hard Quests 210 times"
+    },
+    {
+      "key": "M_MONTHLY_3718",
+      "value": "Clear Hard Quests 230 times"
+    },
+    {
+      "key": "M_MONTHLY_3719",
+      "value": "Clear Multi Quests 10 times"
+    },
+    {
+      "key": "M_MONTHLY_3720",
+      "value": "Clear Multi Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3721",
+      "value": "Clear Multi Quests 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3722",
+      "value": "Clear Multi Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3723",
+      "value": "Clear Multi Quests 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3724",
+      "value": "Clear Multi Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3725",
+      "value": "Clear Multi Quests 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3726",
+      "value": "Clear Multi Quests 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3727",
+      "value": "Clear Multi Quests 90 times"
+    },
+    {
+      "key": "M_MONTHLY_3728",
+      "value": "Clear Multi Quests 100 times"
+    },
+    {
+      "key": "M_MONTHLY_3729",
+      "value": "Clear Multi Quests 110 times"
+    },
+    {
+      "key": "M_MONTHLY_3730",
+      "value": "Clear Multi Quests 120 times"
+    },
+    {
+      "key": "M_MONTHLY_3731",
+      "value": "Clear Multi Quests 130 times"
+    },
+    {
+      "key": "M_MONTHLY_3732",
+      "value": "Clear Multi Quests 140 times"
+    },
+    {
+      "key": "M_MONTHLY_3733",
+      "value": "Clear Multi Quests 150 times"
+    },
+    {
+      "key": "M_MONTHLY_3734",
+      "value": "Clear Multi Quests 160 times"
+    },
+    {
+      "key": "M_MONTHLY_3735",
+      "value": "Clear Multi Quests 170 times"
+    },
+    {
+      "key": "M_MONTHLY_3736",
+      "value": "Clear Multi Quests 180 times"
+    },
+    {
+      "key": "M_MONTHLY_3737",
+      "value": "Clear Multi Quests 190 times"
+    },
+    {
+      "key": "M_MONTHLY_3738",
+      "value": "Clear Multi Quests 200 times"
+    },
+    {
+      "key": "M_MONTHLY_3739",
+      "value": "Clear the EXP Chamber 3 times"
+    },
+    {
+      "key": "M_MONTHLY_3740",
+      "value": "Clear the EXP Chamber 6 times"
+    },
+    {
+      "key": "M_MONTHLY_3741",
+      "value": "Clear the EXP Chamber 9 times"
+    },
+    {
+      "key": "M_MONTHLY_3742",
+      "value": "Clear the EXP Chamber 12 times"
+    },
+    {
+      "key": "M_MONTHLY_3743",
+      "value": "Clear the EXP Chamber 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3744",
+      "value": "Clear the EXP Chamber 18 times"
+    },
+    {
+      "key": "M_MONTHLY_3745",
+      "value": "Clear the EXP Chamber 21 times"
+    },
+    {
+      "key": "M_MONTHLY_3746",
+      "value": "Clear the EXP Chamber 24 times"
+    },
+    {
+      "key": "M_MONTHLY_3747",
+      "value": "Clear the EXP Chamber 27 times"
+    },
+    {
+      "key": "M_MONTHLY_3748",
+      "value": "Clear the EXP Chamber 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3749",
+      "value": "Clear the EXP Chamber 33 times"
+    },
+    {
+      "key": "M_MONTHLY_3750",
+      "value": "Clear the EXP Chamber 36 times"
+    },
+    {
+      "key": "M_MONTHLY_3751",
+      "value": "Clear the EXP Chamber 39 times"
+    },
+    {
+      "key": "M_MONTHLY_3752",
+      "value": "Clear the EXP Chamber 42 times"
+    },
+    {
+      "key": "M_MONTHLY_3753",
+      "value": "Clear the EXP Chamber 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3754",
+      "value": "Clear the EXP Chamber 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3755",
+      "value": "Clear the EXP Chamber 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3756",
+      "value": "Clear the EXP Chamber 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3757",
+      "value": "Clear the EXP Chamber 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3758",
+      "value": "Clear the EXP Chamber 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3759",
+      "value": "Compete in the Duel Arena 5 times"
+    },
+    {
+      "key": "M_MONTHLY_3760",
+      "value": "Compete in the Duel Arena 10 times"
+    },
+    {
+      "key": "M_MONTHLY_3761",
+      "value": "Compete in the Duel Arena 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3762",
+      "value": "Compete in the Duel Arena 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3763",
+      "value": "Compete in the Duel Arena 25 times"
+    },
+    {
+      "key": "M_MONTHLY_3764",
+      "value": "Compete in the Duel Arena 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3765",
+      "value": "Compete in the Duel Arena 35 times"
+    },
+    {
+      "key": "M_MONTHLY_3766",
+      "value": "Compete in the Duel Arena 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3767",
+      "value": "Compete in the Duel Arena 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3768",
+      "value": "Compete in the Duel Arena 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3769",
+      "value": "Compete in the Duel Arena 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3770",
+      "value": "Compete in the Duel Arena 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3771",
+      "value": "Compete in the Duel Arena 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3772",
+      "value": "Compete in the Duel Arena 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3773",
+      "value": "Compete in the Duel Arena 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3774",
+      "value": "Compete in the Duel Arena 90 times"
+    },
+    {
+      "key": "M_MONTHLY_3775",
+      "value": "Compete in the Duel Arena 100 times"
+    },
+    {
+      "key": "M_MONTHLY_3776",
+      "value": "Compete in the Duel Arena 110 times"
+    },
+    {
+      "key": "M_MONTHLY_3777",
+      "value": "Compete in the Duel Arena 120 times"
+    },
+    {
+      "key": "M_MONTHLY_3778",
+      "value": "Compete in the Duel Arena 130 times"
+    },
+    {
+      "key": "M_MONTHLY_3779",
+      "value": "Collect items found during Chocobo Expedition 10 times"
+    },
+    {
+      "key": "M_MONTHLY_3780",
+      "value": "Collect items found during Chocobo Expedition 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3781",
+      "value": "Collect items found during Chocobo Expedition 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3782",
+      "value": "Collect items found during Chocobo Expedition 25 times"
+    },
+    {
+      "key": "M_MONTHLY_3783",
+      "value": "Collect items found during Chocobo Expedition 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3784",
+      "value": "Collect items found during Chocobo Expedition 35 times"
+    },
+    {
+      "key": "M_MONTHLY_3785",
+      "value": "Collect items found during Chocobo Expedition 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3786",
+      "value": "Collect items found during Chocobo Expedition 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3787",
+      "value": "Collect items found during Chocobo Expedition 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3788",
+      "value": "Collect items found during Chocobo Expedition 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3789",
+      "value": "Collect items found during Chocobo Expedition 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3790",
+      "value": "Collect items found during Chocobo Expedition 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3791",
+      "value": "Collect items found during Chocobo Expedition 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3792",
+      "value": "Collect items found during Chocobo Expedition 75 times"
+    },
+    {
+      "key": "M_MONTHLY_3793",
+      "value": "Collect items found during Chocobo Expedition 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3794",
+      "value": "Collect items found during Chocobo Expedition 85 times"
+    },
+    {
+      "key": "M_MONTHLY_3795",
+      "value": "Collect items found during Chocobo Expedition 90 times"
+    },
+    {
+      "key": "M_MONTHLY_3796",
+      "value": "Enhance Guild Statues 3 times"
+    },
+    {
+      "key": "M_MONTHLY_3797",
+      "value": "Enhance Guild Statues 6 times"
+    },
+    {
+      "key": "M_MONTHLY_3798",
+      "value": "Enhance Guild Statues 9 times"
+    },
+    {
+      "key": "M_MONTHLY_3799",
+      "value": "Enhance Guild Statues 12 times"
+    },
+    {
+      "key": "M_MONTHLY_3800",
+      "value": "Enhance Guild Statues 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3801",
+      "value": "Enhance Guild Statues 18 times"
+    },
+    {
+      "key": "M_MONTHLY_3802",
+      "value": "Enhance Guild Statues 21 times"
+    },
+    {
+      "key": "M_MONTHLY_3803",
+      "value": "Enhance Guild Statues 24 times"
+    },
+    {
+      "key": "M_MONTHLY_3804",
+      "value": "Enhance Guild Statues 27 times"
+    },
+    {
+      "key": "M_MONTHLY_3805",
+      "value": "Enhance Guild Statues 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3806",
+      "value": "Enhance Guild Statues 33 times"
+    },
+    {
+      "key": "M_MONTHLY_3807",
+      "value": "Enhance Guild Statues 36 times"
+    },
+    {
+      "key": "M_MONTHLY_3808",
+      "value": "Enhance Guild Statues 39 times"
+    },
+    {
+      "key": "M_MONTHLY_3809",
+      "value": "Enhance Guild Statues 42 times"
+    },
+    {
+      "key": "M_MONTHLY_3810",
+      "value": "Enhance Guild Statues 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3811",
+      "value": "Enhance Guild Statues 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3812",
+      "value": "Enhance Guild Statues 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3813",
+      "value": "Enhance Guild Statues 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3814",
+      "value": "Enhance Guild Statues 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3815",
+      "value": "Enhance Guild Statues 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3816",
+      "value": "Clear Story Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3817",
+      "value": "Clear Story Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3818",
+      "value": "Clear Story Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3819",
+      "value": "Clear Story Quests 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3820",
+      "value": "Clear Story Quests 100 times"
+    },
+    {
+      "key": "M_MONTHLY_3821",
+      "value": "Clear Story Quests 120 times"
+    },
+    {
+      "key": "M_MONTHLY_3822",
+      "value": "Clear Story Quests 140 times"
+    },
+    {
+      "key": "M_MONTHLY_3823",
+      "value": "Clear Story Quests 160 times"
+    },
+    {
+      "key": "M_MONTHLY_3824",
+      "value": "Clear Story Quests 180 times"
+    },
+    {
+      "key": "M_MONTHLY_3825",
+      "value": "Clear Story Quests 200 times"
+    },
+    {
+      "key": "M_MONTHLY_3826",
+      "value": "Clear Story Quests 220 times"
+    },
+    {
+      "key": "M_MONTHLY_3827",
+      "value": "Clear Story Quests 240 times"
+    },
+    {
+      "key": "M_MONTHLY_3828",
+      "value": "Clear Story Quests 260 times"
+    },
+    {
+      "key": "M_MONTHLY_3829",
+      "value": "Clear Story Quests 280 times"
+    },
+    {
+      "key": "M_MONTHLY_3830",
+      "value": "Clear Story Quests 300 times"
+    },
+    {
+      "key": "M_MONTHLY_3831",
+      "value": "Clear Story Quests 320 times"
+    },
+    {
+      "key": "M_MONTHLY_3832",
+      "value": "Clear Story Quests 340 times"
+    },
+    {
+      "key": "M_MONTHLY_3833",
+      "value": "Clear Story Quests 360 times"
+    },
+    {
+      "key": "M_MONTHLY_3834",
+      "value": "Clear Story Quests 380 times"
+    },
+    {
+      "key": "M_MONTHLY_3835",
+      "value": "Clear Story Quests 400 times"
+    },
+    {
+      "key": "M_MONTHLY_3836",
+      "value": "Clear Hard Quests 10 times"
+    },
+    {
+      "key": "M_MONTHLY_3837",
+      "value": "Clear Hard Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3838",
+      "value": "Clear Hard Quests 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3839",
+      "value": "Clear Hard Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3840",
+      "value": "Clear Hard Quests 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3841",
+      "value": "Clear Hard Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3842",
+      "value": "Clear Hard Quests 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3843",
+      "value": "Clear Hard Quests 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3844",
+      "value": "Clear Hard Quests 90 times"
+    },
+    {
+      "key": "M_MONTHLY_3845",
+      "value": "Clear Hard Quests 100 times"
+    },
+    {
+      "key": "M_MONTHLY_3846",
+      "value": "Clear Hard Quests 110 times"
+    },
+    {
+      "key": "M_MONTHLY_3847",
+      "value": "Clear Hard Quests 120 times"
+    },
+    {
+      "key": "M_MONTHLY_3848",
+      "value": "Clear Hard Quests 130 times"
+    },
+    {
+      "key": "M_MONTHLY_3849",
+      "value": "Clear Hard Quests 140 times"
+    },
+    {
+      "key": "M_MONTHLY_3850",
+      "value": "Clear Hard Quests 150 times"
+    },
+    {
+      "key": "M_MONTHLY_3851",
+      "value": "Clear Hard Quests 170 times"
+    },
+    {
+      "key": "M_MONTHLY_3852",
+      "value": "Clear Hard Quests 190 times"
+    },
+    {
+      "key": "M_MONTHLY_3853",
+      "value": "Clear Hard Quests 210 times"
+    },
+    {
+      "key": "M_MONTHLY_3854",
+      "value": "Clear Hard Quests 230 times"
+    },
+    {
+      "key": "M_MONTHLY_3855",
+      "value": "Clear Multi Quests 5 times"
+    },
+    {
+      "key": "M_MONTHLY_3856",
+      "value": "Clear Multi Quests 10 times"
+    },
+    {
+      "key": "M_MONTHLY_3857",
+      "value": "Clear Multi Quests 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3858",
+      "value": "Clear Multi Quests 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3859",
+      "value": "Clear Multi Quests 25 times"
+    },
+    {
+      "key": "M_MONTHLY_3860",
+      "value": "Clear Multi Quests 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3861",
+      "value": "Clear Multi Quests 35 times"
+    },
+    {
+      "key": "M_MONTHLY_3862",
+      "value": "Clear Multi Quests 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3863",
+      "value": "Clear Multi Quests 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3864",
+      "value": "Clear Multi Quests 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3865",
+      "value": "Clear Multi Quests 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3866",
+      "value": "Clear Multi Quests 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3867",
+      "value": "Clear Multi Quests 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3868",
+      "value": "Clear Multi Quests 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3869",
+      "value": "Clear Multi Quests 75 times"
+    },
+    {
+      "key": "M_MONTHLY_3870",
+      "value": "Clear Multi Quests 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3871",
+      "value": "Clear Multi Quests 85 times"
+    },
+    {
+      "key": "M_MONTHLY_3872",
+      "value": "Clear Multi Quests 90 times"
+    },
+    {
+      "key": "M_MONTHLY_3873",
+      "value": "Clear Multi Quests 95 times"
+    },
+    {
+      "key": "M_MONTHLY_3874",
+      "value": "Clear Multi Quests 100 times"
+    },
+    {
+      "key": "M_MONTHLY_3875",
+      "value": "Clear the EXP Chamber 3 times"
+    },
+    {
+      "key": "M_MONTHLY_3876",
+      "value": "Clear the EXP Chamber 6 times"
+    },
+    {
+      "key": "M_MONTHLY_3877",
+      "value": "Clear the EXP Chamber 9 times"
+    },
+    {
+      "key": "M_MONTHLY_3878",
+      "value": "Clear the EXP Chamber 12 times"
+    },
+    {
+      "key": "M_MONTHLY_3879",
+      "value": "Clear the EXP Chamber 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3880",
+      "value": "Clear the EXP Chamber 18 times"
+    },
+    {
+      "key": "M_MONTHLY_3881",
+      "value": "Clear the EXP Chamber 21 times"
+    },
+    {
+      "key": "M_MONTHLY_3882",
+      "value": "Clear the EXP Chamber 24 times"
+    },
+    {
+      "key": "M_MONTHLY_3883",
+      "value": "Clear the EXP Chamber 27 times"
+    },
+    {
+      "key": "M_MONTHLY_3884",
+      "value": "Clear the EXP Chamber 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3885",
+      "value": "Clear the EXP Chamber 33 times"
+    },
+    {
+      "key": "M_MONTHLY_3886",
+      "value": "Clear the EXP Chamber 36 times"
+    },
+    {
+      "key": "M_MONTHLY_3887",
+      "value": "Clear the EXP Chamber 39 times"
+    },
+    {
+      "key": "M_MONTHLY_3888",
+      "value": "Clear the EXP Chamber 42 times"
+    },
+    {
+      "key": "M_MONTHLY_3889",
+      "value": "Clear the EXP Chamber 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3890",
+      "value": "Clear the EXP Chamber 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3891",
+      "value": "Clear the EXP Chamber 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3892",
+      "value": "Clear the EXP Chamber 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3893",
+      "value": "Clear the EXP Chamber 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3894",
+      "value": "Clear the EXP Chamber 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3895",
+      "value": "Compete in the Duel Arena 5 times"
+    },
+    {
+      "key": "M_MONTHLY_3896",
+      "value": "Compete in the Duel Arena 10 times"
+    },
+    {
+      "key": "M_MONTHLY_3897",
+      "value": "Compete in the Duel Arena 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3898",
+      "value": "Compete in the Duel Arena 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3899",
+      "value": "Compete in the Duel Arena 25 times"
+    },
+    {
+      "key": "M_MONTHLY_3900",
+      "value": "Compete in the Duel Arena 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3901",
+      "value": "Compete in the Duel Arena 35 times"
+    },
+    {
+      "key": "M_MONTHLY_3902",
+      "value": "Compete in the Duel Arena 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3903",
+      "value": "Compete in the Duel Arena 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3904",
+      "value": "Compete in the Duel Arena 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3905",
+      "value": "Compete in the Duel Arena 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3906",
+      "value": "Compete in the Duel Arena 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3907",
+      "value": "Compete in the Duel Arena 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3908",
+      "value": "Compete in the Duel Arena 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3909",
+      "value": "Compete in the Duel Arena 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3910",
+      "value": "Compete in the Duel Arena 90 times"
+    },
+    {
+      "key": "M_MONTHLY_3911",
+      "value": "Compete in the Duel Arena 100 times"
+    },
+    {
+      "key": "M_MONTHLY_3912",
+      "value": "Compete in the Duel Arena 110 times"
+    },
+    {
+      "key": "M_MONTHLY_3913",
+      "value": "Compete in the Duel Arena 120 times"
+    },
+    {
+      "key": "M_MONTHLY_3914",
+      "value": "Compete in the Duel Arena 130 times"
+    },
+    {
+      "key": "M_MONTHLY_3915",
+      "value": "Collect items found during Chocobo Expedition 10 times"
+    },
+    {
+      "key": "M_MONTHLY_3916",
+      "value": "Collect items found during Chocobo Expedition 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3917",
+      "value": "Collect items found during Chocobo Expedition 20 times"
+    },
+    {
+      "key": "M_MONTHLY_3918",
+      "value": "Collect items found during Chocobo Expedition 25 times"
+    },
+    {
+      "key": "M_MONTHLY_3919",
+      "value": "Collect items found during Chocobo Expedition 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3920",
+      "value": "Collect items found during Chocobo Expedition 35 times"
+    },
+    {
+      "key": "M_MONTHLY_3921",
+      "value": "Collect items found during Chocobo Expedition 40 times"
+    },
+    {
+      "key": "M_MONTHLY_3922",
+      "value": "Collect items found during Chocobo Expedition 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3923",
+      "value": "Collect items found during Chocobo Expedition 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3924",
+      "value": "Collect items found during Chocobo Expedition 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3925",
+      "value": "Collect items found during Chocobo Expedition 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3926",
+      "value": "Collect items found during Chocobo Expedition 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3927",
+      "value": "Collect items found during Chocobo Expedition 70 times"
+    },
+    {
+      "key": "M_MONTHLY_3928",
+      "value": "Collect items found during Chocobo Expedition 75 times"
+    },
+    {
+      "key": "M_MONTHLY_3929",
+      "value": "Collect items found during Chocobo Expedition 80 times"
+    },
+    {
+      "key": "M_MONTHLY_3930",
+      "value": "Collect items found during Chocobo Expedition 85 times"
+    },
+    {
+      "key": "M_MONTHLY_3931",
+      "value": "Collect items found during Chocobo Expedition 90 times"
+    },
+    {
+      "key": "M_MONTHLY_3932",
+      "value": "Enhance Guild Statues 3 times"
+    },
+    {
+      "key": "M_MONTHLY_3933",
+      "value": "Enhance Guild Statues 6 times"
+    },
+    {
+      "key": "M_MONTHLY_3934",
+      "value": "Enhance Guild Statues 9 times"
+    },
+    {
+      "key": "M_MONTHLY_3935",
+      "value": "Enhance Guild Statues 12 times"
+    },
+    {
+      "key": "M_MONTHLY_3936",
+      "value": "Enhance Guild Statues 15 times"
+    },
+    {
+      "key": "M_MONTHLY_3937",
+      "value": "Enhance Guild Statues 18 times"
+    },
+    {
+      "key": "M_MONTHLY_3938",
+      "value": "Enhance Guild Statues 21 times"
+    },
+    {
+      "key": "M_MONTHLY_3939",
+      "value": "Enhance Guild Statues 24 times"
+    },
+    {
+      "key": "M_MONTHLY_3940",
+      "value": "Enhance Guild Statues 27 times"
+    },
+    {
+      "key": "M_MONTHLY_3941",
+      "value": "Enhance Guild Statues 30 times"
+    },
+    {
+      "key": "M_MONTHLY_3942",
+      "value": "Enhance Guild Statues 33 times"
+    },
+    {
+      "key": "M_MONTHLY_3943",
+      "value": "Enhance Guild Statues 36 times"
+    },
+    {
+      "key": "M_MONTHLY_3944",
+      "value": "Enhance Guild Statues 39 times"
+    },
+    {
+      "key": "M_MONTHLY_3945",
+      "value": "Enhance Guild Statues 42 times"
+    },
+    {
+      "key": "M_MONTHLY_3946",
+      "value": "Enhance Guild Statues 45 times"
+    },
+    {
+      "key": "M_MONTHLY_3947",
+      "value": "Enhance Guild Statues 50 times"
+    },
+    {
+      "key": "M_MONTHLY_3948",
+      "value": "Enhance Guild Statues 55 times"
+    },
+    {
+      "key": "M_MONTHLY_3949",
+      "value": "Enhance Guild Statues 60 times"
+    },
+    {
+      "key": "M_MONTHLY_3950",
+      "value": "Enhance Guild Statues 65 times"
+    },
+    {
+      "key": "M_MONTHLY_3951",
+      "value": "Enhance Guild Statues 70 times"
+    },
+    {
       "key": "M_LAPS_P_LUCA_01",
       "value": "Consume 500 Visiore"
     },
@@ -41721,6 +44205,494 @@
       "value": "Enhance Guild Statues 70 times"
     },
     {
+      "key": "M_ST_2203_0001",
+      "value": "Receive Tier 5 Progression Rewards for Daily Missions"
+    },
+    {
+      "key": "M_ST_2203_0002",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat"
+    },
+    {
+      "key": "M_ST_2203_0003",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 2 times"
+    },
+    {
+      "key": "M_ST_2203_0004",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 3 times"
+    },
+    {
+      "key": "M_ST_2203_0005",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 5 times"
+    },
+    {
+      "key": "M_ST_2203_0006",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 10 times"
+    },
+    {
+      "key": "M_ST_2203_0007",
+      "value": "Acquire 100 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2203_0008",
+      "value": "Acquire 250 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2203_0009",
+      "value": "Acquire 500 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2203_0010",
+      "value": "Acquire 750 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2203_0011",
+      "value": "Acquire 1,000 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2203_0012",
+      "value": "Acquire 1,500 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2203_0013",
+      "value": "Acquire 2,000 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2203_0014",
+      "value": "Acquire 100 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2203_0015",
+      "value": "Acquire 250 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2203_0016",
+      "value": "Acquire 500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2203_0017",
+      "value": "Acquire 1,500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2203_0018",
+      "value": "Acquire 2,500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2203_0019",
+      "value": "Acquire 3,500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2203_0020",
+      "value": "Acquire 4,500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2203_0021",
+      "value": "Craft 10 Equipment Items"
+    },
+    {
+      "key": "M_ST_2203_0022",
+      "value": "Craft 25 Equipment Items"
+    },
+    {
+      "key": "M_ST_2203_0023",
+      "value": "Craft 50 Equipment Items"
+    },
+    {
+      "key": "M_ST_2203_0024",
+      "value": "Craft 75 Equipment Items"
+    },
+    {
+      "key": "M_ST_2203_0025",
+      "value": "Craft 100 Equipment Items"
+    },
+    {
+      "key": "M_ST_2203_0026",
+      "value": "Craft 125 Equipment Items"
+    },
+    {
+      "key": "M_ST_2203_0027",
+      "value": "Clear Story Quests 20 times"
+    },
+    {
+      "key": "M_ST_2203_0028",
+      "value": "Clear Story Quests 100 times"
+    },
+    {
+      "key": "M_ST_2203_0029",
+      "value": "Clear Story Quests 200 times"
+    },
+    {
+      "key": "M_ST_2203_0030",
+      "value": "Clear Story Quests 300 times"
+    },
+    {
+      "key": "M_ST_2203_0031",
+      "value": "Clear Story Quests 400 times"
+    },
+    {
+      "key": "M_ST_2203_0032",
+      "value": "Clear Hard Quests 10 times"
+    },
+    {
+      "key": "M_ST_2203_0033",
+      "value": "Clear Hard Quests 50 times"
+    },
+    {
+      "key": "M_ST_2203_0034",
+      "value": "Clear Hard Quests 100 times"
+    },
+    {
+      "key": "M_ST_2203_0035",
+      "value": "Clear Hard Quests 150 times"
+    },
+    {
+      "key": "M_ST_2203_0036",
+      "value": "Clear Hard Quests 230 times"
+    },
+    {
+      "key": "M_ST_2203_0037",
+      "value": "Clear Multi Quests 10 times"
+    },
+    {
+      "key": "M_ST_2203_0038",
+      "value": "Clear Multi Quests 50 times"
+    },
+    {
+      "key": "M_ST_2203_0039",
+      "value": "Clear Multi Quests 100 times"
+    },
+    {
+      "key": "M_ST_2203_0040",
+      "value": "Clear Multi Quests 150 times"
+    },
+    {
+      "key": "M_ST_2203_0041",
+      "value": "Clear Multi Quests 200 times"
+    },
+    {
+      "key": "M_ST_2203_0042",
+      "value": "Clear the EXP Chamber 3 times"
+    },
+    {
+      "key": "M_ST_2203_0043",
+      "value": "Clear the EXP Chamber 15 times"
+    },
+    {
+      "key": "M_ST_2203_0044",
+      "value": "Clear the EXP Chamber 30 times"
+    },
+    {
+      "key": "M_ST_2203_0045",
+      "value": "Clear the EXP Chamber 50 times"
+    },
+    {
+      "key": "M_ST_2203_0046",
+      "value": "Clear the EXP Chamber 70 times"
+    },
+    {
+      "key": "M_ST_2203_0047",
+      "value": "Compete in the Duel Arena 5 times"
+    },
+    {
+      "key": "M_ST_2203_0048",
+      "value": "Compete in the Duel Arena 25 times"
+    },
+    {
+      "key": "M_ST_2203_0049",
+      "value": "Compete in the Duel Arena 50 times"
+    },
+    {
+      "key": "M_ST_2203_0050",
+      "value": "Compete in the Duel Arena 100 times"
+    },
+    {
+      "key": "M_ST_2203_0051",
+      "value": "Compete in the Duel Arena 130 times"
+    },
+    {
+      "key": "M_ST_2203_0052",
+      "value": "Collect items found during Chocobo Expedition 10 times"
+    },
+    {
+      "key": "M_ST_2203_0053",
+      "value": "Collect items found during Chocobo Expedition 25 times"
+    },
+    {
+      "key": "M_ST_2203_0054",
+      "value": "Collect items found during Chocobo Expedition 50 times"
+    },
+    {
+      "key": "M_ST_2203_0055",
+      "value": "Collect items found during Chocobo Expedition 75 times"
+    },
+    {
+      "key": "M_ST_2203_0056",
+      "value": "Collect items found during Chocobo Expedition 90 times"
+    },
+    {
+      "key": "M_ST_2203_0057",
+      "value": "Enhance Guild Statues 3 times"
+    },
+    {
+      "key": "M_ST_2203_0058",
+      "value": "Enhance Guild Statues 15 times"
+    },
+    {
+      "key": "M_ST_2203_0059",
+      "value": "Enhance Guild Statues 30 times"
+    },
+    {
+      "key": "M_ST_2203_0060",
+      "value": "Enhance Guild Statues 50 times"
+    },
+    {
+      "key": "M_ST_2203_0061",
+      "value": "Enhance Guild Statues 70 times"
+    },
+    {
+      "key": "M_ST_2204_0001",
+      "value": "Receive all Rewards up to Tier 5 Progression Rewards for Daily Missions"
+    },
+    {
+      "key": "M_ST_2204_0002",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat"
+    },
+    {
+      "key": "M_ST_2204_0003",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 2 times"
+    },
+    {
+      "key": "M_ST_2204_0004",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 3 times"
+    },
+    {
+      "key": "M_ST_2204_0005",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 5 times"
+    },
+    {
+      "key": "M_ST_2204_0006",
+      "value": "Enhance an Equipment Item to Lv. 50 and maximize a stat 10 times"
+    },
+    {
+      "key": "M_ST_2204_0007",
+      "value": "Acquire 100 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2204_0008",
+      "value": "Acquire 250 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2204_0009",
+      "value": "Acquire 500 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2204_0010",
+      "value": "Acquire 750 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2204_0011",
+      "value": "Acquire 1,000 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2204_0012",
+      "value": "Acquire 1,500 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2204_0013",
+      "value": "Acquire 2,000 Secret Books of Refinement"
+    },
+    {
+      "key": "M_ST_2204_0014",
+      "value": "Acquire 100 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2204_0015",
+      "value": "Acquire 250 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2204_0016",
+      "value": "Acquire 500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2204_0017",
+      "value": "Acquire 1,500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2204_0018",
+      "value": "Acquire 2,500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2204_0019",
+      "value": "Acquire 3,500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2204_0020",
+      "value": "Acquire 4,500 Gil Snappers"
+    },
+    {
+      "key": "M_ST_2204_0021",
+      "value": "Craft 10 Equipment Items"
+    },
+    {
+      "key": "M_ST_2204_0022",
+      "value": "Craft 25 Equipment Items"
+    },
+    {
+      "key": "M_ST_2204_0023",
+      "value": "Craft 50 Equipment Items"
+    },
+    {
+      "key": "M_ST_2204_0024",
+      "value": "Craft 75 Equipment Items"
+    },
+    {
+      "key": "M_ST_2204_0025",
+      "value": "Craft 100 Equipment Items"
+    },
+    {
+      "key": "M_ST_2204_0026",
+      "value": "Craft 125 Equipment Items"
+    },
+    {
+      "key": "M_ST_2204_0027",
+      "value": "Clear Story Quests 20 times"
+    },
+    {
+      "key": "M_ST_2204_0028",
+      "value": "Clear Story Quests 100 times"
+    },
+    {
+      "key": "M_ST_2204_0029",
+      "value": "Clear Story Quests 200 times"
+    },
+    {
+      "key": "M_ST_2204_0030",
+      "value": "Clear Story Quests 300 times"
+    },
+    {
+      "key": "M_ST_2204_0031",
+      "value": "Clear Story Quests 400 times"
+    },
+    {
+      "key": "M_ST_2204_0032",
+      "value": "Clear Hard Quests 10 times"
+    },
+    {
+      "key": "M_ST_2204_0033",
+      "value": "Clear Hard Quests 50 times"
+    },
+    {
+      "key": "M_ST_2204_0034",
+      "value": "Clear Hard Quests 100 times"
+    },
+    {
+      "key": "M_ST_2204_0035",
+      "value": "Clear Hard Quests 150 times"
+    },
+    {
+      "key": "M_ST_2204_0036",
+      "value": "Clear Hard Quests 230 times"
+    },
+    {
+      "key": "M_ST_2204_0037",
+      "value": "Clear Multi Quests 5 times"
+    },
+    {
+      "key": "M_ST_2204_0038",
+      "value": "Clear Multi Quests 25 times"
+    },
+    {
+      "key": "M_ST_2204_0039",
+      "value": "Clear Multi Quests 50 times"
+    },
+    {
+      "key": "M_ST_2204_0040",
+      "value": "Clear Multi Quests 75 times"
+    },
+    {
+      "key": "M_ST_2204_0041",
+      "value": "Clear Multi Quests 100 times"
+    },
+    {
+      "key": "M_ST_2204_0042",
+      "value": "Clear the EXP Chamber 3 times"
+    },
+    {
+      "key": "M_ST_2204_0043",
+      "value": "Clear the EXP Chamber 15 times"
+    },
+    {
+      "key": "M_ST_2204_0044",
+      "value": "Clear the EXP Chamber 30 times"
+    },
+    {
+      "key": "M_ST_2204_0045",
+      "value": "Clear the EXP Chamber 50 times"
+    },
+    {
+      "key": "M_ST_2204_0046",
+      "value": "Clear the EXP Chamber 70 times"
+    },
+    {
+      "key": "M_ST_2204_0047",
+      "value": "Compete in the Duel Arena 5 times"
+    },
+    {
+      "key": "M_ST_2204_0048",
+      "value": "Compete in the Duel Arena 25 times"
+    },
+    {
+      "key": "M_ST_2204_0049",
+      "value": "Compete in the Duel Arena 50 times"
+    },
+    {
+      "key": "M_ST_2204_0050",
+      "value": "Compete in the Duel Arena 100 times"
+    },
+    {
+      "key": "M_ST_2204_0051",
+      "value": "Compete in the Duel Arena 130 times"
+    },
+    {
+      "key": "M_ST_2204_0052",
+      "value": "Collect items found during Chocobo Expedition 10 times"
+    },
+    {
+      "key": "M_ST_2204_0053",
+      "value": "Collect items found during Chocobo Expedition 25 times"
+    },
+    {
+      "key": "M_ST_2204_0054",
+      "value": "Collect items found during Chocobo Expedition 50 times"
+    },
+    {
+      "key": "M_ST_2204_0055",
+      "value": "Collect items found during Chocobo Expedition 75 times"
+    },
+    {
+      "key": "M_ST_2204_0056",
+      "value": "Collect items found during Chocobo Expedition 90 times"
+    },
+    {
+      "key": "M_ST_2204_0057",
+      "value": "Enhance Guild Statues 3 times"
+    },
+    {
+      "key": "M_ST_2204_0058",
+      "value": "Enhance Guild Statues 15 times"
+    },
+    {
+      "key": "M_ST_2204_0059",
+      "value": "Enhance Guild Statues 30 times"
+    },
+    {
+      "key": "M_ST_2204_0060",
+      "value": "Enhance Guild Statues 50 times"
+    },
+    {
+      "key": "M_ST_2204_0061",
+      "value": "Enhance Guild Statues 70 times"
+    },
+    {
       "key": "M_AF_MAT_6",
       "value": "Clear Story Part 1, Chapter 1, Scene 2 [All the Happiness in the World]"
     },
@@ -41918,163 +44890,163 @@
     },
     {
       "key": "M_AWD_P_ELE_1_1",
-      "value": "Title given to players who have cleared 5 types of High Difficulty Quests with only Fire Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Fire Units 5 times"
     },
     {
       "key": "M_AWD_P_ELE_1_2",
-      "value": "Title given to players who have cleared 20 types of High Difficulty Quests with only Fire Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Fire Units 20 times"
     },
     {
       "key": "M_AWD_P_ELE_1_3",
-      "value": "Title given to players who have cleared 50 types of High Difficulty Quests with only Fire Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Fire Units 50 times"
     },
     {
       "key": "M_AWD_P_ELE_1_4",
-      "value": "Title given to players who have cleared 100 types of High Difficulty Quests with only Fire Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Fire Units 100 times"
     },
     {
       "key": "M_AWD_P_ELE_1_5",
-      "value": "Title given to players who have cleared 200 types of High Difficulty Quests with only Fire Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Fire Units 200 times"
     },
     {
       "key": "M_AWD_P_ELE_2_1",
-      "value": "Title given to players who have cleared 5 types of High Difficulty Quests with only Ice Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Ice Units 5 times"
     },
     {
       "key": "M_AWD_P_ELE_2_2",
-      "value": "Title given to players who have cleared 20 types of High Difficulty Quests with only Ice Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Ice Units 20 times"
     },
     {
       "key": "M_AWD_P_ELE_2_3",
-      "value": "Title given to players who have cleared 50 types of High Difficulty Quests with only Ice Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Ice Units 50 times"
     },
     {
       "key": "M_AWD_P_ELE_2_4",
-      "value": "Title given to players who have cleared 100 types of High Difficulty Quests with only Ice Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Ice Units 100 times"
     },
     {
       "key": "M_AWD_P_ELE_2_5",
-      "value": "Title given to players who have cleared 200 types of High Difficulty Quests with only Ice Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Ice Units 200 times"
     },
     {
       "key": "M_AWD_P_ELE_3_1",
-      "value": "Title given to players who have cleared 5 types of High Difficulty Quests with only Wind Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Wind Units 5 times"
     },
     {
       "key": "M_AWD_P_ELE_3_2",
-      "value": "Title given to players who have cleared 20 types of High Difficulty Quests with only Wind Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Wind Units 20 times"
     },
     {
       "key": "M_AWD_P_ELE_3_3",
-      "value": "Title given to players who have cleared 50 types of High Difficulty Quests with only Wind Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Wind Units 50 times"
     },
     {
       "key": "M_AWD_P_ELE_3_4",
-      "value": "Title given to players who have cleared 100 types of High Difficulty Quests with only Wind Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Wind Units 100 times"
     },
     {
       "key": "M_AWD_P_ELE_3_5",
-      "value": "Title given to players who have cleared 200 types of High Difficulty Quests with only Wind Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Wind Units 200 times"
     },
     {
       "key": "M_AWD_P_ELE_4_1",
-      "value": "Title given to players who have cleared 5 types of High Difficulty Quests with only Lightning Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Lightning Units 5 times"
     },
     {
       "key": "M_AWD_P_ELE_4_2",
-      "value": "Title given to players who have cleared 20 types of High Difficulty Quests with only Lightning Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Lightning Units 20 times"
     },
     {
       "key": "M_AWD_P_ELE_4_3",
-      "value": "Title given to players who have cleared 50 types of High Difficulty Quests with only Lightning Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Lightning Units 50 times"
     },
     {
       "key": "M_AWD_P_ELE_4_4",
-      "value": "Title given to players who have cleared 100 types of High Difficulty Quests with only Lightning Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Lightning Units 100 times"
     },
     {
       "key": "M_AWD_P_ELE_4_5",
-      "value": "Title given to players who have cleared 200 types of High Difficulty Quests with only Lightning Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Lightning Units 200 times"
     },
     {
       "key": "M_AWD_P_ELE_5_1",
-      "value": "Title given to players who have cleared 5 types of High Difficulty Quests with only Earth Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Earth Units 5 times"
     },
     {
       "key": "M_AWD_P_ELE_5_2",
-      "value": "Title given to players who have cleared 20 types of High Difficulty Quests with only Earth Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Earth Units 20 times"
     },
     {
       "key": "M_AWD_P_ELE_5_3",
-      "value": "Title given to players who have cleared 50 types of High Difficulty Quests with only Earth Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Earth Units 50 times"
     },
     {
       "key": "M_AWD_P_ELE_5_4",
-      "value": "Title given to players who have cleared 100 types of High Difficulty Quests with only Earth Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Earth Units 100 times"
     },
     {
       "key": "M_AWD_P_ELE_5_5",
-      "value": "Title given to players who have cleared 200 types of High Difficulty Quests with only Earth Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Earth Units 200 times"
     },
     {
       "key": "M_AWD_P_ELE_6_1",
-      "value": "Title given to players who have cleared 5 types of High Difficulty Quests with only Water Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Water Units 5 times"
     },
     {
       "key": "M_AWD_P_ELE_6_2",
-      "value": "Title given to players who have cleared 20 types of High Difficulty Quests with only Water Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Water Units 20 times"
     },
     {
       "key": "M_AWD_P_ELE_6_3",
-      "value": "Title given to players who have cleared 50 types of High Difficulty Quests with only Water Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Water Units 50 times"
     },
     {
       "key": "M_AWD_P_ELE_6_4",
-      "value": "Title given to players who have cleared 100 types of High Difficulty Quests with only Water Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Water Units 100 times"
     },
     {
       "key": "M_AWD_P_ELE_6_5",
-      "value": "Title given to players who have cleared 200 types of High Difficulty Quests with only Water Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Water Units 200 times"
     },
     {
       "key": "M_AWD_P_ELE_7_1",
-      "value": "Title given to players who have cleared 5 types of High Difficulty Quests with only Light Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Light Units 5 times"
     },
     {
       "key": "M_AWD_P_ELE_7_2",
-      "value": "Title given to players who have cleared 20 types of High Difficulty Quests with only Light Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Light Units 20 times"
     },
     {
       "key": "M_AWD_P_ELE_7_3",
-      "value": "Title given to players who have cleared 50 types of High Difficulty Quests with only Light Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Light Units 50 times"
     },
     {
       "key": "M_AWD_P_ELE_7_4",
-      "value": "Title given to players who have cleared 100 types of High Difficulty Quests with only Light Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Light Units 100 times"
     },
     {
       "key": "M_AWD_P_ELE_7_5",
-      "value": "Title given to players who have cleared 200 types of High Difficulty Quests with only Light Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Light Units 200 times"
     },
     {
       "key": "M_AWD_P_ELE_8_1",
-      "value": "Title given to players who have cleared 5 types of High Difficulty Quests with only Dark Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Dark Units 5 times"
     },
     {
       "key": "M_AWD_P_ELE_8_2",
-      "value": "Title given to players who have cleared 20 types of High Difficulty Quests with only Dark Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Dark Units 20 times"
     },
     {
       "key": "M_AWD_P_ELE_8_3",
-      "value": "Title given to players who have cleared 50 types of High Difficulty Quests with only Dark Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Dark Units 50 times"
     },
     {
       "key": "M_AWD_P_ELE_8_4",
-      "value": "Title given to players who have cleared 100 types of High Difficulty Quests with only Dark Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Dark Units 100 times"
     },
     {
       "key": "M_AWD_P_ELE_8_5",
-      "value": "Title given to players who have cleared 200 types of High Difficulty Quests with only Dark Units"
+      "value": "Title given to players who have cleared High Difficulty Quests with only Dark Units 200 times"
     },
     {
       "key": "M_AWD_P_FF04_1",
@@ -42155,6 +45127,30 @@
     {
       "key": "M_AWD_P_FF10_6",
       "value": "Title given to the players that ranked within the top 100 in the Individual High Score Ranking of the FFX Collaboration — Trials of Reckoning"
+    },
+    {
+      "key": "M_AWD_P_FF10_11",
+      "value": "Title given to the player that ranked 1st in the Individual Total Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF10_12",
+      "value": "Title given to the players that ranked within the top 10 in the Individual Total Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF10_13",
+      "value": "Title given to the players that ranked within the top 100 in the Individual Total Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF10_14",
+      "value": "Title given to the player that ranked 1st in the Individual High Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF10_15",
+      "value": "Title given to the players that ranked within the top 10 in the Individual High Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
+      "key": "M_AWD_P_FF10_16",
+      "value": "Title given to the players that ranked within the top 100 in the Individual High Score Ranking of the FFX Collaboration Reissue — Trials of Reckoning II"
     },
     {
       "key": "M_AWD_P_FF07_1",
@@ -42241,6 +45237,18 @@
       "value": "Title awarded to players who ranked within the top 100 for Total Victory Point Ranking in Raid Battles"
     },
     {
+      "key": "M_AWD_P_FF10_7",
+      "value": "Title given to the all members of the Guild that ranked 1st in the Total Score Ranking of the FFX Reissue Guild Raid"
+    },
+    {
+      "key": "M_AWD_P_FF10_8",
+      "value": "Title given to all members of the Guilds that ranked within the top 10 in the Total Score Ranking of the FFX Reissue Guild Raid"
+    },
+    {
+      "key": "M_AWD_P_FF10_9",
+      "value": "Title given to all members of the Guilds that ranked within the top 50 in the Total Score Ranking of the FFX Reissue Guild Raid"
+    },
+    {
       "key": "M_PLY_AWARD_053",
       "value": "Title awarded to players who belong to the Bronze Master class at the end of the Class Match Season"
     },
@@ -42299,6 +45307,18 @@
     {
       "key": "M_PLY_AWARD_093",
       "value": "Title given to players who completed all Quest Missions for the Path of the Conqueror: Waypoint 20 Quest"
+    },
+    {
+      "key": "M_PLY_AWARD_094",
+      "value": "Title given to the Guild Member that ranked 1st for trophy acquisition in the Guild Battle (Azure Dragon Cup 2022)"
+    },
+    {
+      "key": "M_PLY_AWARD_095",
+      "value": "Title given to the Guild Members that ranked within the top 10 for trophy acquisition in the Guild Battle (Azure Dragon Cup 2022)"
+    },
+    {
+      "key": "M_PLY_AWARD_096",
+      "value": "Title given to the Guild Members that ranked within the top 50 for trophy acquisition in the Guild Battle (Azure Dragon Cup 2022)"
     },
     {
       "key": "M_PLY_AWARD_060",
@@ -44857,6 +47877,86 @@
       "value": "Title given to players who have taken Ildyra (Sweetheart) on 10,000 Quests"
     },
     {
+      "key": "M_LW_PA_CH_160_1",
+      "value": "Title given to players who have taken Sadali Crysthea on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_160_2",
+      "value": "Title given to players who have taken Sadali Crysthea on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_160_3",
+      "value": "Title given to players who have taken Sadali Crysthea on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_160_4",
+      "value": "Title given to players who have taken Sadali Crysthea on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_161_1",
+      "value": "Title given to players who have taken Eliza on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_161_2",
+      "value": "Title given to players who have taken Eliza on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_161_3",
+      "value": "Title given to players who have taken Eliza on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_161_4",
+      "value": "Title given to players who have taken Eliza on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_162_1",
+      "value": "Title given to players who have taken Ranell on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_162_2",
+      "value": "Title given to players who have taken Ranell on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_162_3",
+      "value": "Title given to players who have taken Ranell on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_162_4",
+      "value": "Title given to players who have taken Ranell on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_164_1",
+      "value": "Title given to players who have taken Macleod on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_164_2",
+      "value": "Title given to players who have taken Macleod on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_164_3",
+      "value": "Title given to players who have taken Macleod on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_164_4",
+      "value": "Title given to players who have taken Macleod on 10,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_165_1",
+      "value": "Title given to players who have taken Dark Fina on 100 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_165_2",
+      "value": "Title given to players who have taken Dark Fina on 500 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_165_3",
+      "value": "Title given to players who have taken Dark Fina on 3,000 Quests"
+    },
+    {
+      "key": "M_LW_PA_CH_165_4",
+      "value": "Title given to players who have taken Dark Fina on 10,000 Quests"
+    },
+    {
       "key": "M_WW_PA_CH_001_1",
       "value": "Title given to players who have taken Zazan the Unkillable on 100 Quests"
     },
@@ -44951,6 +48051,22 @@
     {
       "key": "M_GL_LW_PA_CH_ESTR_4",
       "value": "Title given to players who have taken Esther on 10,000 Quests"
+    },
+    {
+      "key": "M_GL_LW_PA_CH_JEDN_01_1",
+      "value": "Title given to players who have taken Jayden (Summer) on 100 Quests"
+    },
+    {
+      "key": "M_GL_LW_PA_CH_JEDN_01_2",
+      "value": "Title given to players who have taken Jayden (Summer) on 500 Quests"
+    },
+    {
+      "key": "M_GL_LW_PA_CH_JEDN_01_3",
+      "value": "Title given to players who have taken Jayden (Summer) on 3,000 Quests"
+    },
+    {
+      "key": "M_GL_LW_PA_CH_JEDN_01_4",
+      "value": "Title given to players who have taken Jayden (Summer) on 10,000 Quests"
     },
     {
       "key": "M_AWD_P_PT01_1",

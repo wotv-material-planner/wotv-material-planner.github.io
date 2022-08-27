@@ -34,7 +34,7 @@
     },
     {
       "key": "VC_FF14_MV1",
-      "value": "　Ala Mhigo is at last free from imperial rule, but that liberty may prove fleeting as the Empire moves to both reclaim this bloodied nation and subjugate all of Eorzea. In their hour of need, however, they cannot turn to the Warrior of Light. Nor to the Scions, who yet slumber, their souls adrift. The realm is left to struggle without its saviors, for they have been beckoned beyond time and space─beckoned to the First."
+      "value": "Ala Mhigo is at last free from imperial rule, but that liberty may prove fleeting as the Empire moves to both reclaim this bloodied nation and subjugate all of Eorzea. In their hour of need, however, they cannot turn to the Warrior of Light. Nor to the Scions, who yet slumber, their souls adrift. The realm is left to struggle without its saviors, for they have been beckoned beyond time and space─beckoned to the First."
     },
     {
       "key": "VC_LW_HOLYNIGHT",
@@ -337,6 +337,26 @@
       "value": "　An aeon summoned from the fayth statue of Besaid Island by a hopeful summoner in a faraway world called Spira.<br>The gales raised by its wings and the rays it emits are intensely powerful, making this aeon one its summoner can depend on. <br>The girl who became a full-fledged summoner upon calling forth Valefor would go on to undertake a rigorous journey accompanied by her guardians to defeat the giant fiend Sin."
     },
     {
+      "key": "VC_LW_GLMS",
+      "value": "　Long has the antagonism between Gilgamesh and Sadali endured. Gilgamesh, a being with god-like powers that enable him to break earthly bonds and soar in the heavens, and Sadali, a miraculous man himself possessing great magic that well exceeds the limits of mere mortals. Their fated showdown will surely be a battle so terrible it shakes all creation.<br>The two have differing goals, but their methods have been the same: interfering with the nations of Ardra in order to bring about wars. They can never turn back because they have marched for eons, holding onto things that they cannot cede to one another. Therefore, it seemed inevitable that they would someday clash.<br>Does peace or ruin lie at the culmination of their paths? No matter the outcome, it is almost a certainty that innumerable souls will perish along the way."
+    },
+    {
+      "key": "VC_LW_FRUIT",
+      "value": "　Along their journey, Helena and the others found themselves searching for a source of water to relieve their thirst. They came across an abundance of beautiful fruit growing deep within a forest. The fruit, with its unfamiliar form and brilliant color, causes Eliza to hesitate, but Rafale doesn't waste a moment before picking one and sinking her teeth into it. Eliza almost begins to panic, but Helena's calm voice reassures her.<br>Upon closer inspection, it would seem birds and beasts have consumed their share, indicating the harmless nature of the fruits. With the arduous journey that awaits them after their brief respite, Eliza decides that bringing a bundle of fruit might serve them well. She reaches out to pick another, but Helena gently stops her, explaining that the inhabitants of the forest rely on the fruit as a food source, and thus they should not take more than they immediately need. Embarrassed, Eliza nods and takes a bite of the single fruit she had picked. The fruit of life's dulcet blessing quenches her thirst."
+    },
+    {
+      "key": "VC_LW_FINA_01",
+      "value": "　Fina and Dark Fina. For both of them, their counterpart is an irreplaceable \"other self.\" <br>Though they are the spitting image of each other, their personalities are exact opposites—one pure and innocent, the other fierce and alluring. <br>However, all who have come into contact with them agree that they share the same, characteristic consideration for others.<br>The Finas are resolute in watching over their beloved companions, and the world through which they journeyed together."
+    },
+    {
+      "key": "VC_LW_JEDN_01",
+      "value": "　The midsummer sun hangs high in the sky, and a certain man enjoys the niceties of a life only lived once, lying stretched out on a deck chair on a simmering beach with a refreshing drink in hand. He is none other than Ardra's trailblazer, Jayden. <br>The rulership-seeking stag and his followers were taking a brief respite on a summer day; Lu'Cia and Creysse are in swimsuits, stretched out and sunbathing; Elan and Chunak are racing each other to the rocks in the shallow waters; and the rest are engaged in an intense match over control of a ball. Everyone looks so happy. One might think Rhaldor is nowhere to be seen…but in the distance he can be spotted running along the sandy beach, training his body to his heart's content—probably the most enjoyable thing he could do on a day off duty. <br>The smiles of his followers will become their strength. Knowing this, Jayden vowed anew to unify Ardra under that dazzling summer sky."
+    },
+    {
+      "key": "VC_LW_COMIC",
+      "value": "Lasswell, a knight of Grandshelt who saved the world time and again with his long-time companion Rain, and Jayden, the king of Rundall who aspires to become ruler of the entire continent of Ardra. <br>Visions of these two men, otherwise living in completely separate circumstances and eras, are brought together by the Will of Light. <br>Though a misunderstanding causes them to cross swords, they reconcile after learning of their shared fate. Having overcome a myriad of tribulations, they then become trusted comrades, standing side by side against a powerful enemy threatening their world."
+    },
+    {
       "key": "VC_LW_IBRA",
       "value": " The demon dwelled within a sacred tree, and heard the many prayers of those who paid it pilgrimage. These prayers gave shape to her soul, and to the vessel which it would inhabit.<br>As the years passed, the demon, having heard wish after wish, took an interest in matters of the human heart. She longed to understand humanity.<br>And so she began to involve herself with humankind: to those seeking salvation, she offered her hand, and to those seeking support, she provided her shoulder in solace.<br>Eventually the demon became a part of the people's folklore, and her story has been passed down through generations.<br>When you wish for something, she will surely be there to aid you."
     },
@@ -371,6 +391,10 @@
     {
       "key": "VC_PRS5_MV2",
       "value": "　During their exploration of a certain place, three heroes from a distant world encounter individuals who resemble their past targets—people who had long since undergone changes of heart.<br>When they discover that these are Cognitions, they attempt to hunt them down, but find themselves transported to an unfamiliar place...<br>The three friends unanimously decide to continue their pursuit of the mysterious cognitive entities, while also searching for a way to return to their original world."
+    },
+    {
+      "key": "VC_LW_ADLD2",
+      "value": "　The heavily falling snow obstructs their field of vision, preventing the allied armies from advancing. Lilyth struggles to hold back the never-ending onslaught of enemy troops, at a loss as to whether to retreat for the time being. It only takes a moment's hesitation—an enemy’s blade finds an opening, which Lilyth parries just in the nick of time. <br>Thinking that a retreat was the only choice after all, she prepares to give the signal to her troops, but a magical blast from Kilphe tears through the air right before her eyes. Lilyth raises her head hearing Kilphe's encouraging words, \"Now is not the time to retreat!\" When her legs froze in that moment of hesitation, it was Adelard's encouraging voice that echoed, \"I have your back!\"<br>Though they once crossed blades as enemies, the group now trusts their lives to one another on the battlefield. At the end of this road lies a future where all can go forward side by side, without any war or strife. Steeled in this belief, Lilyth blazes across the battlefield once more."
     },
     {
       "key": "VC_LW_IGNT",
@@ -414,7 +438,7 @@
     },
     {
       "key": "VC_FF14_MV2",
-      "value": "　Here a new adventure begins in a world where light ushers all unto oblivion. But hope is not yet lost, for where there is light there is shadow."
+      "value": "Here a new adventure begins in a world where light ushers all unto oblivion. But hope is not yet lost, for where there is light there is shadow."
     },
     {
       "key": "VC_LW_NEWYEAR",

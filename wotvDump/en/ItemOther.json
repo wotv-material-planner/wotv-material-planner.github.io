@@ -2098,19 +2098,19 @@
     },
     {
       "key": "IT_JB_MM_LLN_2",
-      "value": ""
+      "value": "R Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_LLN_3",
-      "value": ""
+      "value": "SR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_LLN_4",
-      "value": ""
+      "value": "MR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_LLN_5",
-      "value": ""
+      "value": "UR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_IBRA",
@@ -2358,18 +2358,98 @@
     },
     {
       "key": "IT_JB_MM_BNI_2",
-      "value": ""
+      "value": "R Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_BNI_3",
-      "value": ""
+      "value": "SR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_BNI_4",
-      "value": ""
+      "value": "MR Soul Medal Exchange Shop"
     },
     {
       "key": "IT_JB_MM_BNI_5",
+      "value": "UR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_SDLE",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_SDLE_2",
+      "value": "R Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_3",
+      "value": "SR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_4",
+      "value": "MR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_5",
+      "value": "UR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_DAC",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_DAC_2",
+      "value": "R Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_DAC_3",
+      "value": "SR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_DAC_4",
+      "value": "MR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_DAC_5",
+      "value": "UR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_2",
+      "value": "R Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_3",
+      "value": "SR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_4",
+      "value": "MR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_5",
+      "value": "UR Soul Medal Exchange Shop"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_2",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_3",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_4",
+      "value": ""
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_5",
       "value": ""
     },
     {
@@ -3617,6 +3697,26 @@
       "value": "General Shop / Whimsy Shop / Chocobo Expedition / Soul Star Exchange Shop"
     },
     {
+      "key": "IT_PI_LW_SDLE",
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition / Soul Star Exchange Shop"
+    },
+    {
+      "key": "IT_PI_LW_IREZ",
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition / Soul Star Exchange Shop"
+    },
+    {
+      "key": "IT_PI_LW_RNEL",
+      "value": "Ranell Acquisition Quest Missions"
+    },
+    {
+      "key": "IT_PI_LW_FINA_01",
+      "value": "General Shop / Whimsy Shop / Chocobo Expedition / Soul Star Exchange Shop"
+    },
+    {
+      "key": "IT_PI_LW_JEDN_01",
+      "value": ""
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/N Soul Medal – Mindsphere Exchange Shop"
     },
@@ -3782,7 +3882,7 @@
     },
     {
       "key": "IT_SP_LW_VADM",
-      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/SR Soul Medal – Mindsphere Exchange Shop"
     },
     {
       "key": "IT_SP_LW_MURM",
@@ -3974,11 +4074,11 @@
     },
     {
       "key": "IT_SP_LW_DEAN",
-      "value": ""
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_SP_GL_LW_FRVA",
-      "value": ""
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_SP_FF14_UR",
@@ -4034,7 +4134,7 @@
     },
     {
       "key": "IT_SP_LW_ZZAN_01",
-      "value": ""
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_SP_LW_MORE",
@@ -4078,7 +4178,7 @@
     },
     {
       "key": "IT_SP_TOMB_UR",
-      "value": ""
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_SP_GL_LW_WNTR_UR",
@@ -4158,7 +4258,7 @@
     },
     {
       "key": "IT_SP_LW_ESTR",
-      "value": ""
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_SP_PRS5_UR",
@@ -4182,6 +4282,22 @@
     },
     {
       "key": "IT_SP_LW_IRDL_01",
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal – Mindsphere Exchange Shop"
+    },
+    {
+      "key": "IT_SP_LW_SDLE",
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal – Mindsphere Exchange Shop"
+    },
+    {
+      "key": "IT_SP_LW_IREZ",
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal – Mindsphere Exchange Shop"
+    },
+    {
+      "key": "IT_SP_LW_RNEL",
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+    },
+    {
+      "key": "IT_SP_LW_FINA_01",
       "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit/UR Soul Medal – Mindsphere Exchange Shop"
     },
     {
@@ -4793,12 +4909,20 @@
       "value": ""
     },
     {
+      "key": "IT_AF_AW_LMIG",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_AW_MINU",
+      "value": ""
+    },
+    {
       "key": "IT_AF_AW_GLOVE",
       "value": "Arena Medal Exchange Shop / PVP Medal Exchange Shop"
     },
     {
       "key": "IT_AF_AW_BOOK",
-      "value": ""
+      "value": "Arena Medal Exchange Shop / PVP Medal Exchange Shop"
     },
     {
       "key": "IT_AF_MAT_FIRE_01",
@@ -5409,6 +5533,18 @@
       "value": "General Shop"
     },
     {
+      "key": "IT_AF_LW_BOW_016",
+      "value": "General Shop"
+    },
+    {
+      "key": "IT_AF_LW_ACC_073",
+      "value": "General Shop"
+    },
+    {
+      "key": "IT_AF_LW_ACC_049",
+      "value": "General Shop"
+    },
+    {
       "key": "IT_AF_LW_ACC_054",
       "value": ""
     },
@@ -5417,7 +5553,15 @@
       "value": "General Shop"
     },
     {
+      "key": "IT_AF_LW_ACC_078",
+      "value": "General Shop"
+    },
+    {
       "key": "IT_AF_PRS5_ACC_002",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_FF10_ACCE_002",
       "value": ""
     },
     {
@@ -5627,6 +5771,26 @@
     {
       "key": "IT_AF_PRS5_SWO_000",
       "value": ""
+    },
+    {
+      "key": "IT_AF_LW_ROD_027",
+      "value": "General Shop"
+    },
+    {
+      "key": "IT_AF_LW_MAC_013",
+      "value": "General Shop"
+    },
+    {
+      "key": "IT_AF_LW_BSW_011",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_GL_LW_ACC_090",
+      "value": ""
+    },
+    {
+      "key": "IT_AF_GL_LW_GUN_013",
+      "value": "General Shop"
     },
     {
       "key": "IT_AF_AW_LCIO",
@@ -5989,6 +6153,10 @@
       "value": ""
     },
     {
+      "key": "IT_EC_MEDAL_GF_6th",
+      "value": ""
+    },
+    {
       "key": "IT_EC_MEDAL_CNY21",
       "value": ""
     },
@@ -6014,6 +6182,14 @@
     },
     {
       "key": "IT_EC_MEDAL_SU2021_C",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_MEDAL_SU2022_A",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_MEDAL_SU2022_B",
       "value": ""
     },
     {
@@ -6326,6 +6502,62 @@
     },
     {
       "key": "IT_EC_SUMMON_06_03_B",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_07_U_03_A",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_07_VC_03_A",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_07_U_03_B",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_07_03_A",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_07_VC_03_B",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_A",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_B",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_A",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_B",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_C",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_C",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_D",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_U_SEASON",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_V_SEASON",
       "value": ""
     },
     {
@@ -7149,7 +7381,7 @@
       "value": ""
     },
     {
-      "key": "IT_EC_FF10_2",
+      "key": "IT_EC_FF10_3",
       "value": ""
     },
     {
@@ -7157,11 +7389,27 @@
       "value": ""
     },
     {
+      "key": "IT_EC_FF10_7",
+      "value": ""
+    },
+    {
       "key": "IT_EC_TOMB_1",
       "value": ""
     },
     {
+      "key": "IT_EC_TOMB_1_R",
+      "value": ""
+    },
+    {
       "key": "IT_EC_TOMB_2",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_TOMB_3",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_TOMB_4",
       "value": ""
     },
     {
@@ -7545,6 +7793,22 @@
       "value": ""
     },
     {
+      "key": "IT_US_G_U_UR_05",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_U_UR_06",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_U_UR_07",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_U_UR_08",
+      "value": ""
+    },
+    {
       "key": "IT_US_G_U_SSR_99_01",
       "value": ""
     },
@@ -7901,6 +8165,10 @@
       "value": ""
     },
     {
+      "key": "IT_US_GL_SE_UR_U_03",
+      "value": ""
+    },
+    {
       "key": "IT_US_G_U_99UR_GL_01",
       "value": ""
     },
@@ -8130,6 +8398,14 @@
     },
     {
       "key": "IT_US_SE_AW-ITEM_15",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_16",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_17",
       "value": ""
     },
     {
@@ -8750,7 +9026,7 @@
     },
     {
       "key": "IT_SP_LW_SLEN",
-      "value": ""
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
     },
     {
       "key": "IT_VPI_LW_SLEN",
@@ -8814,6 +9090,30 @@
     },
     {
       "key": "IT_VPI_FF10_VLFR",
+      "value": ""
+    },
+    {
+      "key": "IT_VPI_LW_GLMS",
+      "value": "General Shop / UR Vision Medal Exchange Shop / Vision Star Exchange Shop"
+    },
+    {
+      "key": "IT_VPI_LW_FRUIT",
+      "value": "General Shop / Vision Star Exchange Shop"
+    },
+    {
+      "key": "IT_VPI_LW_FINA_01",
+      "value": "General Shop / Vision Star Exchange Shop"
+    },
+    {
+      "key": "IT_VPI_LW_JEDN_01",
+      "value": ""
+    },
+    {
+      "key": "IT_VPI_LW_COMIC",
+      "value": ""
+    },
+    {
+      "key": "IT_VPI_LW_ADLD2",
       "value": ""
     },
     {
@@ -9041,6 +9341,14 @@
       "value": ""
     },
     {
+      "key": "IT_EC_RAID_24",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_RAID_25",
+      "value": ""
+    },
+    {
       "key": "IT_US_GL_SE_SB_EXP_1",
       "value": ""
     },
@@ -9090,6 +9398,10 @@
     },
     {
       "key": "IT_US_GL_SE_SB_EXP13",
+      "value": ""
+    },
+    {
+      "key": "IT_US_GL_SE_SB_EXP14",
       "value": ""
     },
     {
@@ -9413,6 +9725,74 @@
       "value": ""
     },
     {
+      "key": "IT_US_SE_PI_GL_71",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_72",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_73",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_74",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_75",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_76",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_77",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_78",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_79",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_80",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_81",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_82",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_83",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_87",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_88",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_89",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_GL_90",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_VPI_GL_16",
       "value": ""
     },
@@ -9446,6 +9826,18 @@
     },
     {
       "key": "IT_US_SE_VPI_GL_24",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_25",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_26",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_27",
       "value": ""
     },
     {
@@ -9849,6 +10241,42 @@
       "value": ""
     },
     {
+      "key": "IT_PT_SKIP_FFX_1",
+      "value": ""
+    },
+    {
+      "key": "IT_PT_BSSKIP_FF10_1",
+      "value": ""
+    },
+    {
+      "key": "IT_PT_BOSS_FF10_1",
+      "value": ""
+    },
+    {
+      "key": "IT_PT_SKIP_FFX_2",
+      "value": ""
+    },
+    {
+      "key": "IT_PT_BSSKIP_FF10_2",
+      "value": ""
+    },
+    {
+      "key": "IT_PT_BOSS_FF10_2",
+      "value": ""
+    },
+    {
+      "key": "IT_PT_SKIP_002",
+      "value": ""
+    },
+    {
+      "key": "IT_PT_BSSKIP_002",
+      "value": ""
+    },
+    {
+      "key": "IT_PT_BOSS_002",
+      "value": ""
+    },
+    {
       "key": "IT_JP_UP_01",
       "value": ""
     },
@@ -9945,6 +10373,14 @@
       "value": ""
     },
     {
+      "key": "IT_STAMP_2203",
+      "value": ""
+    },
+    {
+      "key": "IT_STAMP_2204",
+      "value": ""
+    },
+    {
       "key": "IT_KEY_JP",
       "value": ""
     },
@@ -9994,34 +10430,6 @@
     },
     {
       "key": "IT_US_SE_JB_05_ANNIV_01",
-      "value": ""
-    },
-    {
-      "key": "IT_PT_SKIP_FFX_1",
-      "value": ""
-    },
-    {
-      "key": "IT_PT_BSSKIP_FF10_1",
-      "value": ""
-    },
-    {
-      "key": "IT_PT_BOSS_FF10_1",
-      "value": ""
-    },
-    {
-      "key": "IT_EC_FF10_3",
-      "value": ""
-    },
-    {
-      "key": "IT_PT_SKIP_002",
-      "value": ""
-    },
-    {
-      "key": "IT_PT_BSSKIP_002",
-      "value": ""
-    },
-    {
-      "key": "IT_PT_BOSS_002",
       "value": ""
     },
     {
@@ -10421,6 +10829,62 @@
       "value": ""
     },
     {
+      "key": "IT_US_G_PU_U_FES2206",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_FES2206_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_SDLE",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_SDLE_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_IREZ",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_IREZ_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_CD30",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_CD30_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_FINA_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_FINA_01_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_JEDN_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_JEDN_01_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_MORE_01",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_U_MORE_01_10",
+      "value": ""
+    },
+    {
       "key": "IT_US_G_PU_V_FFX",
       "value": ""
     },
@@ -10434,6 +10898,26 @@
     },
     {
       "key": "IT_US_G_PU_V_VLFR_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_GLMS",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_GLMS_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_FRUIT",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_FRUIT_10",
+      "value": ""
+    },
+    {
+      "key": "IT_US_G_PU_V_FINA_01",
       "value": ""
     },
     {
@@ -10538,6 +11022,10 @@
     },
     {
       "key": "IT_US_SE_VC_PI_2ANNI",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_U_PI_XTAL_01",
       "value": ""
     },
     {
@@ -10677,6 +11165,14 @@
       "value": ""
     },
     {
+      "key": "IT_US_SE_PI_COM_13",
+      "value": ""
+    },
+    {
+      "key": "IT_US_SE_PI_COM_14",
+      "value": ""
+    },
+    {
       "key": "IT_US_SE_AF_SUP_04",
       "value": ""
     },
@@ -10757,6 +11253,10 @@
       "value": ""
     },
     {
+      "key": "IT_EC_MEDAL_EQPT_B",
+      "value": ""
+    },
+    {
       "key": "IT_EC_SUMMON_SUMM_01",
       "value": ""
     },
@@ -10765,11 +11265,19 @@
       "value": ""
     },
     {
+      "key": "IT_EC_SUMMON_FES_04",
+      "value": ""
+    },
+    {
       "key": "IT_EC_SUMMON_FES_05",
       "value": ""
     },
     {
       "key": "IT_EC_SUMMON_FES_06",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_SUMMON_FES_07",
       "value": ""
     },
     {
@@ -10818,6 +11326,10 @@
     },
     {
       "key": "IT_EC_MEDAL_11MDL",
+      "value": ""
+    },
+    {
+      "key": "IT_EC_MEDAL_12MDL",
       "value": ""
     },
     {
@@ -10890,6 +11402,18 @@
     },
     {
       "key": "IT_EC_FF10_1_R",
+      "value": ""
+    },
+    {
+      "key": "IT_PI_LW_MCRD",
+      "value": "Macleod Acquisition Quest Missions"
+    },
+    {
+      "key": "IT_SP_LW_MCRD",
+      "value": "Obtained when the amount of unit shards acquired exceeds the retainable limit."
+    },
+    {
+      "key": "IT_EC_FFEXU_1",
       "value": ""
     }
   ]

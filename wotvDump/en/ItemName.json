@@ -2373,6 +2373,86 @@
       "value": "Operative's Memory (Red)"
     },
     {
+      "key": "IT_JB_MM_SDLE",
+      "value": "Crystal Sanctum Founder's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_2",
+      "value": "Crystal Sanctum Founder's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_3",
+      "value": "Crystal Sanctum Founder's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_4",
+      "value": "Crystal Sanctum Founder's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_5",
+      "value": "Crystal Sanctum Founder's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_DAC",
+      "value": "Hunter's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_DAC_2",
+      "value": "Hunter's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_DAC_3",
+      "value": "Hunter's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_DAC_4",
+      "value": "Hunter's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_DAC_5",
+      "value": "Hunter's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01",
+      "value": "Sorceress of Hess's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_2",
+      "value": "Sorceress of Hess's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_3",
+      "value": "Sorceress of Hess's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_4",
+      "value": "Sorceress of Hess's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_5",
+      "value": "Sorceress of Hess's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01",
+      "value": "Beachside Stag's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_2",
+      "value": "Beachside Stag's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_3",
+      "value": "Beachside Stag's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_4",
+      "value": "Beachside Stag's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_5",
+      "value": "Beachside Stag's Memory (Red)"
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "Fire Alcryst (Green)"
     },
@@ -3617,6 +3697,26 @@
       "value": "Ildyra (Sweetheart) Unit Shard"
     },
     {
+      "key": "IT_PI_LW_SDLE",
+      "value": "Sadali Crysthea Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_IREZ",
+      "value": "Eliza Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_RNEL",
+      "value": "Ranell Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_FINA_01",
+      "value": "Dark Fina Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_JEDN_01",
+      "value": "Jayden (Summer) Unit Shard"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "Mont Leonis Mindsphere"
     },
@@ -4183,6 +4283,22 @@
     {
       "key": "IT_SP_LW_IRDL_01",
       "value": "Ildyra (Sweetheart) Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_SDLE",
+      "value": "Sadali Crysthea Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_IREZ",
+      "value": "Eliza Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_RNEL",
+      "value": "Ranell Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_FINA_01",
+      "value": "Dark Fina Mindsphere"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -4791,6 +4907,14 @@
     {
       "key": "IT_AF_AW_VERN",
       "value": "Secret Book of Refinement (Silent Sollerets)"
+    },
+    {
+      "key": "IT_AF_AW_LMIG",
+      "value": "Secret Book of Refinement (Sapphire Ear Cuffs)"
+    },
+    {
+      "key": "IT_AF_AW_MINU",
+      "value": "Secret Book of Refinement (Arcane Tuning Rod)"
     },
     {
       "key": "IT_AF_AW_GLOVE",
@@ -5409,6 +5533,18 @@
       "value": "Bow of the Divine Flame: Dilla Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_BOW_016",
+      "value": "Cataract Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_ACC_073",
+      "value": "Thornlet Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_ACC_049",
+      "value": "Beastbane Pendant Crafting Recipe"
+    },
+    {
       "key": "IT_AF_LW_ACC_054",
       "value": "Evilbane Pendant Crafting Recipe"
     },
@@ -5417,8 +5553,16 @@
       "value": "White Cape Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_ACC_078",
+      "value": "Jeweled Belt Crafting Recipe"
+    },
+    {
       "key": "IT_AF_PRS5_ACC_002",
       "value": "Jack Frost Doll Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_FF10_ACCE_002",
+      "value": "Auron's Sunglasses Crafting Recipe"
     },
     {
       "key": "IT_AF_FF6_ACC_003",
@@ -5627,6 +5771,26 @@
     {
       "key": "IT_AF_PRS5_SWO_000",
       "value": "Rapier Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_ROD_027",
+      "value": "Doom Twilight Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_MAC_013",
+      "value": "Diamond Mace Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_BSW_011",
+      "value": "Crimson Saber Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_GL_LW_ACC_090",
+      "value": "Mindflayer's Belt Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_GL_LW_GUN_013",
+      "value": "Hydropump Blaster Crafting Recipe"
     },
     {
       "key": "IT_AF_AW_LCIO",
@@ -5989,6 +6153,10 @@
       "value": "Global Festival Medal F"
     },
     {
+      "key": "IT_EC_MEDAL_GF_6th",
+      "value": "FFBE Global 6th Anniversary Summon Medal"
+    },
+    {
       "key": "IT_EC_MEDAL_CNY21",
       "value": "Ox Medal"
     },
@@ -6015,6 +6183,14 @@
     {
       "key": "IT_EC_MEDAL_SU2021_C",
       "value": "Summer 2021 Medal C"
+    },
+    {
+      "key": "IT_EC_MEDAL_SU2022_A",
+      "value": "Summer Festival 2022 Summon Medal A"
+    },
+    {
+      "key": "IT_EC_MEDAL_SU2022_B",
+      "value": "Summer Festival 2022 Summon Medal B"
     },
     {
       "key": "IT_EC_MEDAL_W2021R",
@@ -6327,6 +6503,62 @@
     {
       "key": "IT_EC_SUMMON_06_03_B",
       "value": "June Featured Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_U_03_A",
+      "value": "July Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_VC_03_A",
+      "value": "July Vision Card Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_U_03_B",
+      "value": "July Unit Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_03_A",
+      "value": "July Featured Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_VC_03_B",
+      "value": "July Vision Card Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_A",
+      "value": "August Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_B",
+      "value": "August Unit Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_A",
+      "value": "August Vision Card Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_B",
+      "value": "August Vision Card Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_C",
+      "value": "August Unit Summon Medal C"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_C",
+      "value": "August Vision Card Summon Medal C"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_D",
+      "value": "August Unit Summon Medal D"
+    },
+    {
+      "key": "IT_EC_SUMMON_U_SEASON",
+      "value": "[Limited Seasonal Reissue] Unit Summon Medal"
+    },
+    {
+      "key": "IT_EC_SUMMON_V_SEASON",
+      "value": "[Limited Seasonal Reissue] Vision Card Summon Medal"
     },
     {
       "key": "IT_EC_SUMMON_1st_GL1",
@@ -7149,20 +7381,36 @@
       "value": "FFX Event Medal"
     },
     {
-      "key": "IT_EC_FF10_2",
-      "value": "FFX Reissue Event Medal"
+      "key": "IT_EC_FF10_3",
+      "value": "[FFX] Trials of Reckoning Medal"
     },
     {
       "key": "IT_EC_FF10_6",
       "value": "FFX Vision Card Summon Medal"
     },
     {
+      "key": "IT_EC_FF10_7",
+      "value": "[FFX] Trials of Reckoning Medal II"
+    },
+    {
       "key": "IT_EC_TOMB_1",
       "value": "TR Event Medal"
     },
     {
+      "key": "IT_EC_TOMB_1_R",
+      "value": "TR Reissue Event Medal"
+    },
+    {
       "key": "IT_EC_TOMB_2",
       "value": "TR Summon Medal"
+    },
+    {
+      "key": "IT_EC_TOMB_3",
+      "value": "Crystal Dynamics 30th Anniversary Commemorative Unit Summon Medal"
+    },
+    {
+      "key": "IT_EC_TOMB_4",
+      "value": "Crystal Dynamics 30th Anniversary Commemorative Vision Card Summon Medal"
     },
     {
       "key": "IT_US_G_FFT_01",
@@ -7545,6 +7793,22 @@
       "value": "[Fan Meeting] UR Unit Guaranteed Summon Ticket"
     },
     {
+      "key": "IT_US_G_U_UR_05",
+      "value": "Fire/Lightning-Type UR Unit Guaranteed Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_U_UR_06",
+      "value": "Ice/Earth-Type UR Unit Guaranteed Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_U_UR_07",
+      "value": "Water/Light-Type UR Unit Guaranteed Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_U_UR_08",
+      "value": "Wind/Dark-Type UR Unit Guaranteed Summon Ticket"
+    },
+    {
       "key": "IT_US_G_U_SSR_99_01",
       "value": "[Beginners Only] Recommended Lv. 99 MR Unit Summon Ticket"
     },
@@ -7901,6 +8165,10 @@
       "value": "Select Lv. 99 UR Unit Summon Ticket"
     },
     {
+      "key": "IT_US_GL_SE_UR_U_03",
+      "value": "Select FFBE Unit Summon Ticket"
+    },
+    {
       "key": "IT_US_G_U_99UR_GL_01",
       "value": "Lv. 99 UR Unit Summon Ticket"
     },
@@ -8131,6 +8399,14 @@
     {
       "key": "IT_US_SE_AW-ITEM_15",
       "value": "Select Awakening Prism x600 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_16",
+      "value": "Select Awakening Prism x260 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_17",
+      "value": "Select Awakening Prism x50 Summon Ticket"
     },
     {
       "key": "IT_VPI_LW_GLEM",
@@ -8817,6 +9093,30 @@
       "value": "\"Valefor\" Vision Card Shard"
     },
     {
+      "key": "IT_VPI_LW_GLMS",
+      "value": "\"Culmination\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_FRUIT",
+      "value": "\"Fruit of Life\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_FINA_01",
+      "value": "\"The Other Me\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_JEDN_01",
+      "value": "\"Stag of the Shining Summer\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_COMIC",
+      "value": "\"Friend or Foe?\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_ADLD2",
+      "value": "\"Blood on the Ice\" Vision Card Shard"
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "Growth Egg (N)"
     },
@@ -9041,6 +9341,14 @@
       "value": "Revival Raid Medal III"
     },
     {
+      "key": "IT_EC_RAID_24",
+      "value": "August Raid Medal"
+    },
+    {
+      "key": "IT_EC_RAID_25",
+      "value": "Revival Raid Medal IV"
+    },
+    {
       "key": "IT_US_GL_SE_SB_EXP_1",
       "value": "Select Element Magicite (M) x500 Summon Ticket"
     },
@@ -9091,6 +9399,10 @@
     {
       "key": "IT_US_GL_SE_SB_EXP13",
       "value": "Select Element Magicite (XL) x200 Summon Ticket"
+    },
+    {
+      "key": "IT_US_GL_SE_SB_EXP14",
+      "value": "Select Element Magicite (XL) x1,000 Summon Ticket"
     },
     {
       "key": "IT_US_GL_SE_VPI_01",
@@ -9413,6 +9725,74 @@
       "value": "[Updates #19] Select Unit Shard x40 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_PI_GL_71",
+      "value": "[July Login Bonus] Select Unit Shard x5 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_72",
+      "value": "[FFBE Global 6th Anniversary] Select MR Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_73",
+      "value": "[FFBE Global 6th Anniversary] Select MR Unit Shard x500 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_74",
+      "value": "[FFBE Global 6th Anniversary] Select MR Unit Shard x50 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_75",
+      "value": "[FFBE Global 6th Anniversary] Select FFBE Unit Shard x80 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_76",
+      "value": "[FFBE Global 6th Anniversary] Select FFBE Unit Mindsphere x80 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_77",
+      "value": "[12 Million Downloads] Select Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_78",
+      "value": "[Updates #20] Select Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_79",
+      "value": "[August Login Bonus] Select Unit Shard x5 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_80",
+      "value": "[Porcelain Tower] Select UR Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_81",
+      "value": "[FF EXVIUS UNIVERSE] Select Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_82",
+      "value": "Select Summer Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_83",
+      "value": "Select Summer Unit Shard x80 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_87",
+      "value": "[Compensation] Select Fire/Lightning-Type UR Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_88",
+      "value": "[Compensation] Select Ice/Earth-Type UR Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_89",
+      "value": "[Compensation] Select Water/Light-Type UR Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_90",
+      "value": "[Compensation] Select Wind/Dark-Type UR Unit Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_VPI_GL_16",
       "value": "[First Anniversary Celebration] Select UR Vision Card Shard x50 Summon Ticket"
     },
@@ -9447,6 +9827,18 @@
     {
       "key": "IT_US_SE_VPI_GL_24",
       "value": "[Updates #19] Select Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_25",
+      "value": "[Updates #20] Select Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_26",
+      "value": "[12 Million Downloads Part II] Select UR Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_27",
+      "value": "[Compensation] Select UR Vision Card Shard x275 Summon Ticket"
     },
     {
       "key": "IT_US_SE_VPI_11",
@@ -9849,6 +10241,42 @@
       "value": "[FFIV] Boss Battle Ticket II"
     },
     {
+      "key": "IT_PT_SKIP_FFX_1",
+      "value": "[FFX] Trials of Reckoning Quest Skip Ticket"
+    },
+    {
+      "key": "IT_PT_BSSKIP_FF10_1",
+      "value": "[FFX] Trials of Reckoning Boss Skip Ticket"
+    },
+    {
+      "key": "IT_PT_BOSS_FF10_1",
+      "value": "[FFX] Boss Battle Ticket"
+    },
+    {
+      "key": "IT_PT_SKIP_FFX_2",
+      "value": "[FFX] Trials of Reckoning Quest Skip Ticket II"
+    },
+    {
+      "key": "IT_PT_BSSKIP_FF10_2",
+      "value": "[FFX] Trials of Reckoning Boss Skip Ticket II"
+    },
+    {
+      "key": "IT_PT_BOSS_FF10_2",
+      "value": "[FFX] Boss Battle Ticket II"
+    },
+    {
+      "key": "IT_PT_SKIP_002",
+      "value": "Trials of Reckoning Quest Skip Ticket"
+    },
+    {
+      "key": "IT_PT_BSSKIP_002",
+      "value": "Trials of Reckoning Boss Skip Ticket"
+    },
+    {
+      "key": "IT_PT_BOSS_002",
+      "value": "Boss Battle Ticket"
+    },
+    {
       "key": "IT_JP_UP_01",
       "value": "Ovalite (S)"
     },
@@ -9945,6 +10373,14 @@
       "value": "July Token"
     },
     {
+      "key": "IT_STAMP_2203",
+      "value": "August Token"
+    },
+    {
+      "key": "IT_STAMP_2204",
+      "value": "September Token"
+    },
+    {
       "key": "IT_KEY_JP",
       "value": "JP Key"
     },
@@ -9995,34 +10431,6 @@
     {
       "key": "IT_US_SE_JB_05_ANNIV_01",
       "value": "Select Spinel x365 Summon Ticket"
-    },
-    {
-      "key": "IT_PT_SKIP_FFX_1",
-      "value": "[FFX] Trials of Reckoning Quest Skip Ticket"
-    },
-    {
-      "key": "IT_PT_BSSKIP_FF10_1",
-      "value": "[FFX] Trials of Reckoning Boss Skip Ticket"
-    },
-    {
-      "key": "IT_PT_BOSS_FF10_1",
-      "value": "[FFX] Boss Battle Ticket"
-    },
-    {
-      "key": "IT_EC_FF10_3",
-      "value": "[FFX] Trials of Reckoning Medal"
-    },
-    {
-      "key": "IT_PT_SKIP_002",
-      "value": "Trials of Reckoning Quest Skip Ticket"
-    },
-    {
-      "key": "IT_PT_BSSKIP_002",
-      "value": "Trials of Reckoning Boss Skip Ticket"
-    },
-    {
-      "key": "IT_PT_BOSS_002",
-      "value": "Boss Battle Ticket"
     },
     {
       "key": "IT_EC_POINT_002",
@@ -10421,6 +10829,62 @@
       "value": "FFX Reissue Featured Unit 10x Summon Ticket"
     },
     {
+      "key": "IT_US_G_PU_U_FES2206",
+      "value": "[Crystal Festival Reissue] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_FES2206_10",
+      "value": "[Crystal Festival Reissue] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_SDLE",
+      "value": "[Sadali Crysthea] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_SDLE_10",
+      "value": "[Sadali Crysthea] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_IREZ",
+      "value": "[Eliza] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_IREZ_10",
+      "value": "[Eliza] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_CD30",
+      "value": "[Crystal Dynamics 30th] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_CD30_10",
+      "value": "[Crystal Dynamics 30th] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_FINA_01",
+      "value": "[Dark Fina] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_FINA_01_10",
+      "value": "[Dark Fina] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_JEDN_01",
+      "value": "[Jayden (Summer)] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_JEDN_01_10",
+      "value": "[Jayden (Summer)] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_MORE_01",
+      "value": "[Limited Seasonal Reissue] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_MORE_01_10",
+      "value": "[Limited Seasonal Reissue] Featured 10x Summon Ticket"
+    },
+    {
       "key": "IT_US_G_PU_V_FFX",
       "value": "FFX Reissue Featured Vision Card Summon Ticket"
     },
@@ -10435,6 +10899,26 @@
     {
       "key": "IT_US_G_PU_V_VLFR_10",
       "value": "[Valefor] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_GLMS",
+      "value": "[Culmination] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_GLMS_10",
+      "value": "[Culmination] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_FRUIT",
+      "value": "[Fruit of Life] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_FRUIT_10",
+      "value": "[Fruit of Life] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_FINA_01",
+      "value": "[The Other Me] Featured Summon Ticket"
     },
     {
       "key": "IT_US_G_P5R_01",
@@ -10539,6 +11023,10 @@
     {
       "key": "IT_US_SE_VC_PI_2ANNI",
       "value": "[Second Anniversary Celebration] Select UR Vision Card Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_U_PI_XTAL_01",
+      "value": "Select Warrior of the Crystals Summon Ticket"
     },
     {
       "key": "IT_EC_FF7_1",
@@ -10677,8 +11165,16 @@
       "value": "Select Element Fragment of Thought x600 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_PI_COM_13",
+      "value": "Select Element Fragment of Thought x250 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_COM_14",
+      "value": "Select Element Fragment of Thought x50 Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_AF_SUP_04",
-      "value": "Select Equipment Seal x10 Summon Ticket"
+      "value": "Select Equipment Seal x30 Summon Ticket"
     },
     {
       "key": "IT_US_SE_AF_SUP_05",
@@ -10757,6 +11253,10 @@
       "value": "Equipment Summon Medal A"
     },
     {
+      "key": "IT_EC_MEDAL_EQPT_B",
+      "value": "Equipment Summon Medal B"
+    },
+    {
       "key": "IT_EC_SUMMON_SUMM_01",
       "value": "[Reissue Festival] Summer Summon Medal"
     },
@@ -10765,12 +11265,20 @@
       "value": "Crystal Festival Summon Medal C"
     },
     {
+      "key": "IT_EC_SUMMON_FES_04",
+      "value": "Crystal Festival Reissue Summon Medal"
+    },
+    {
       "key": "IT_EC_SUMMON_FES_05",
       "value": "Crystal Festival Summon Medal E"
     },
     {
       "key": "IT_EC_SUMMON_FES_06",
       "value": "Crystal Festival Reissue Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_FES_07",
+      "value": "Crystal Festival Reissue Summon Medal"
     },
     {
       "key": "IT_EC_SUMMON_2nd_02",
@@ -10819,6 +11327,10 @@
     {
       "key": "IT_EC_MEDAL_11MDL",
       "value": "11 Million Downloads Summon Medal"
+    },
+    {
+      "key": "IT_EC_MEDAL_12MDL",
+      "value": "12 Million Downloads Summon Medal"
     },
     {
       "key": "IT_US_SE_JB_02_15",
@@ -10891,6 +11403,18 @@
     {
       "key": "IT_EC_FF10_1_R",
       "value": "FFX Reissue Event Medal"
+    },
+    {
+      "key": "IT_PI_LW_MCRD",
+      "value": "Macleod Unit Shard"
+    },
+    {
+      "key": "IT_SP_LW_MCRD",
+      "value": "Macleod Mindsphere"
+    },
+    {
+      "key": "IT_EC_FFEXU_1",
+      "value": "Creeping Malice Event Medal"
     }
   ]
 }

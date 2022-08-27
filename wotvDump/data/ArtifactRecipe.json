@@ -4195,6 +4195,44 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_BSW_011",
+      "recipe": "IT_AF_LW_BSW_011",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BSW_011",
+          "num": 1
+        }
+      ],
+      "from_iname": "AF_LW_BSW_011"
+    },
+    {
+      "iname": "AF_LW_BSW_011_1",
+      "recipe": "IT_AF_LW_BSW_011",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BSW_011",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BSW_011",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_UR",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_LW_BSW_011",
+      "plus": 1
+    },
+    {
       "iname": "AF_LW_KAT_001",
       "recipe": "IT_AF_LW_KAT_001",
       "gil": 5000,
@@ -5140,6 +5178,31 @@
       ],
       "from_iname": "AF_LW_KAT_008",
       "plus": 5
+    },
+    {
+      "iname": "AF_LW_KAT_008_6",
+      "recipe": "IT_AF_LW_KAT_008",
+      "gil": 25000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_KAT_008",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_KAT_008_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_UR",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_LW_KAT_008",
+      "plus": 6
     },
     {
       "iname": "AF_LW_KAT_011",
@@ -7417,6 +7480,31 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_SPE_004_6",
+      "recipe": "IT_AF_LW_SPE_004",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_SPE_004",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_SPE_004_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_SSR",
+          "num": 7
+        }
+      ],
+      "from_iname": "AF_LW_SPE_004",
+      "plus": 6
+    },
+    {
       "iname": "AF_LW_SPE_006",
       "recipe": "IT_AF_LW_SPE_006",
       "gil": 15000,
@@ -9056,6 +9144,31 @@
       ],
       "from_iname": "AF_LW_DAG_006",
       "plus": 5
+    },
+    {
+      "iname": "AF_LW_DAG_006_6",
+      "recipe": "IT_AF_LW_DAG_006",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_DAG_006",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_DAG_006_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_SSR",
+          "num": 7
+        }
+      ],
+      "from_iname": "AF_LW_DAG_006",
+      "plus": 6
     },
     {
       "iname": "AF_FF6_DAG_000",
@@ -14107,6 +14220,472 @@
       ],
       "from_iname": "AF_LW_MAC_003",
       "plus": 6
+    },
+    {
+      "iname": "AF_LW_MAC_009",
+      "recipe": "IT_AF_LW_MAC_009",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_009",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_009"
+    },
+    {
+      "iname": "AF_LW_MAC_009_1",
+      "recipe": "IT_AF_LW_MAC_009",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_009",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_009",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_MAC_009_2",
+      "recipe": "IT_AF_LW_MAC_009",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_009",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_009",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_MAC_009_3",
+      "recipe": "IT_AF_LW_MAC_009",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_009",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_009",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_MAC_009_4",
+      "recipe": "IT_AF_LW_MAC_009",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_009",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_009",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_MAC_009_5",
+      "recipe": "IT_AF_LW_MAC_009",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_009",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_009_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_009",
+      "plus": 5
+    },
+    {
+      "iname": "AF_LW_MAC_013",
+      "recipe": "IT_AF_LW_MAC_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_013",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_HEART_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BOMB",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_013"
+    },
+    {
+      "iname": "AF_LW_MAC_013_1",
+      "recipe": "IT_AF_LW_MAC_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_HEART_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BOMB",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_013",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_MAC_013_2",
+      "recipe": "IT_AF_LW_MAC_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_HEART_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BOMB",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_013",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_MAC_013_3",
+      "recipe": "IT_AF_LW_MAC_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_HEART_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BOMB",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_013",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_MAC_013_4",
+      "recipe": "IT_AF_LW_MAC_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_HEART_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BOMB",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_013",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_MAC_013_5",
+      "recipe": "IT_AF_LW_MAC_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_MAC_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_MAC_013_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_HEART_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BOMB",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_MAC_013",
+      "plus": 5
     },
     {
       "iname": "AF_LW_AXE_001",
@@ -20708,6 +21287,31 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_CLT_005_6",
+      "recipe": "IT_AF_LW_CLT_005",
+      "gil": 25000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_CLT_005",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_CLT_005_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_UR",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_LW_CLT_005",
+      "plus": 6
+    },
+    {
       "iname": "AF_FF1_ARM_002",
       "recipe": "IT_AF_FF1_ARM_002",
       "gil": 15000,
@@ -23692,239 +24296,6 @@
       "plus": 5
     },
     {
-      "iname": "AF_LW_MAC_009",
-      "recipe": "IT_AF_LW_MAC_009",
-      "gil": 15000,
-      "craft": [
-        {
-          "type": 0,
-          "id": "IT_AF_LW_MAC_009",
-          "num": 1
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_SAP_03",
-          "num": 30
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_BONE",
-          "num": 5
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_WATER_01",
-          "num": 5
-        }
-      ],
-      "from_iname": "AF_LW_MAC_009"
-    },
-    {
-      "iname": "AF_LW_MAC_009_1",
-      "recipe": "IT_AF_LW_MAC_009",
-      "gil": 15000,
-      "craft": [
-        {
-          "type": 0,
-          "id": "IT_AF_LW_MAC_009",
-          "num": 1
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009",
-          "num": 1,
-          "lv": 1
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009",
-          "num": 1,
-          "lv": 1
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_SAP_03",
-          "num": 30
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_BONE",
-          "num": 5
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_WATER_01",
-          "num": 5
-        }
-      ],
-      "from_iname": "AF_LW_MAC_009",
-      "plus": 1
-    },
-    {
-      "iname": "AF_LW_MAC_009_2",
-      "recipe": "IT_AF_LW_MAC_009",
-      "gil": 15000,
-      "craft": [
-        {
-          "type": 0,
-          "id": "IT_AF_LW_MAC_009",
-          "num": 1
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009_1",
-          "num": 1,
-          "lv": 10
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009_1",
-          "num": 1,
-          "lv": 10
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_SAP_03",
-          "num": 30
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_BONE",
-          "num": 5
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_WATER_01",
-          "num": 5
-        }
-      ],
-      "from_iname": "AF_LW_MAC_009",
-      "plus": 2
-    },
-    {
-      "iname": "AF_LW_MAC_009_3",
-      "recipe": "IT_AF_LW_MAC_009",
-      "gil": 15000,
-      "craft": [
-        {
-          "type": 0,
-          "id": "IT_AF_LW_MAC_009",
-          "num": 1
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009_2",
-          "num": 1,
-          "lv": 20
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009_2",
-          "num": 1,
-          "lv": 20
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_SAP_03",
-          "num": 30
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_BONE",
-          "num": 5
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_WATER_01",
-          "num": 5
-        }
-      ],
-      "from_iname": "AF_LW_MAC_009",
-      "plus": 3
-    },
-    {
-      "iname": "AF_LW_MAC_009_4",
-      "recipe": "IT_AF_LW_MAC_009",
-      "gil": 15000,
-      "craft": [
-        {
-          "type": 0,
-          "id": "IT_AF_LW_MAC_009",
-          "num": 1
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009_3",
-          "num": 1,
-          "lv": 30
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009_3",
-          "num": 1,
-          "lv": 30
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_SAP_03",
-          "num": 30
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_BONE",
-          "num": 5
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_WATER_01",
-          "num": 5
-        }
-      ],
-      "from_iname": "AF_LW_MAC_009",
-      "plus": 4
-    },
-    {
-      "iname": "AF_LW_MAC_009_5",
-      "recipe": "IT_AF_LW_MAC_009",
-      "gil": 15000,
-      "craft": [
-        {
-          "type": 0,
-          "id": "IT_AF_LW_MAC_009",
-          "num": 1
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009_4",
-          "num": 1,
-          "lv": 40
-        },
-        {
-          "type": 1,
-          "id": "AF_LW_MAC_009_4",
-          "num": 1,
-          "lv": 40
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_SAP_03",
-          "num": 30
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_BONE",
-          "num": 5
-        },
-        {
-          "type": 0,
-          "id": "IT_AF_MAT_WATER_01",
-          "num": 5
-        }
-      ],
-      "from_iname": "AF_LW_MAC_009",
-      "plus": 5
-    },
-    {
       "iname": "AF_LW_BOW_004",
       "recipe": "IT_AF_LW_BOW_004",
       "gil": 15000,
@@ -26109,6 +26480,239 @@
         }
       ],
       "from_iname": "AF_LW_BOW_014",
+      "plus": 5
+    },
+    {
+      "iname": "AF_LW_BOW_016",
+      "recipe": "IT_AF_LW_BOW_016",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_016",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_016"
+    },
+    {
+      "iname": "AF_LW_BOW_016_1",
+      "recipe": "IT_AF_LW_BOW_016",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_016",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_016",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_BOW_016_2",
+      "recipe": "IT_AF_LW_BOW_016",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_016",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_016",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_BOW_016_3",
+      "recipe": "IT_AF_LW_BOW_016",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_016",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_016",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_BOW_016_4",
+      "recipe": "IT_AF_LW_BOW_016",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_016",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_016",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_BOW_016_5",
+      "recipe": "IT_AF_LW_BOW_016",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_016",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_016_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_016",
       "plus": 5
     },
     {
@@ -32019,6 +32623,239 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_ACC_049",
+      "recipe": "IT_AF_LW_ACC_049",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_049",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WOLF",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_049"
+    },
+    {
+      "iname": "AF_LW_ACC_049_1",
+      "recipe": "IT_AF_LW_ACC_049",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_049",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WOLF",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_049",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_ACC_049_2",
+      "recipe": "IT_AF_LW_ACC_049",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_049",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WOLF",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_049",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_ACC_049_3",
+      "recipe": "IT_AF_LW_ACC_049",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_049",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WOLF",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_049",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_ACC_049_4",
+      "recipe": "IT_AF_LW_ACC_049",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_049",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WOLF",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_049",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_ACC_049_5",
+      "recipe": "IT_AF_LW_ACC_049",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_049",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_049_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WOLF",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_049",
+      "plus": 5
+    },
+    {
       "iname": "AF_LW_ACC_054",
       "recipe": "IT_AF_LW_ACC_054",
       "gil": 15000,
@@ -33008,6 +33845,269 @@
         }
       ],
       "from_iname": "AF_PRS5_ACC_002",
+      "plus": 5
+    },
+    {
+      "iname": "AF_FF10_ACCE_002",
+      "recipe": "IT_AF_FF10_ACCE_002",
+      "gil": 25000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_FF10_ACCE_002",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_02",
+          "num": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_02",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_FF10_ACCE_002"
+    },
+    {
+      "iname": "AF_FF10_ACCE_002_1",
+      "recipe": "IT_AF_FF10_ACCE_002",
+      "gil": 25000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_FF10_ACCE_002",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_02",
+          "num": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_02",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_FF10_ACCE_002",
+      "plus": 1
+    },
+    {
+      "iname": "AF_FF10_ACCE_002_2",
+      "recipe": "IT_AF_FF10_ACCE_002",
+      "gil": 25000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_FF10_ACCE_002",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_02",
+          "num": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_02",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_FF10_ACCE_002",
+      "plus": 2
+    },
+    {
+      "iname": "AF_FF10_ACCE_002_3",
+      "recipe": "IT_AF_FF10_ACCE_002",
+      "gil": 25000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_FF10_ACCE_002",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_02",
+          "num": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_02",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_FF10_ACCE_002",
+      "plus": 3
+    },
+    {
+      "iname": "AF_FF10_ACCE_002_4",
+      "recipe": "IT_AF_FF10_ACCE_002",
+      "gil": 25000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_FF10_ACCE_002",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_02",
+          "num": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_02",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_FF10_ACCE_002",
+      "plus": 4
+    },
+    {
+      "iname": "AF_FF10_ACCE_002_5",
+      "recipe": "IT_AF_FF10_ACCE_002",
+      "gil": 25000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_FF10_ACCE_002",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_FF10_ACCE_002_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_YARN_02",
+          "num": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_BONE",
+          "num": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_02",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_FF10_ACCE_002",
       "plus": 5
     },
     {
@@ -34206,6 +35306,239 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_ROD_027",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027"
+    },
+    {
+      "iname": "AF_LW_ROD_027_1",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_ROD_027_2",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_ROD_027_3",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_ROD_027_4",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_ROD_027_5",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 5
+    },
+    {
       "iname": "AF_LW_ROD_029",
       "recipe": "IT_AF_LW_ROD_029",
       "gil": 15000,
@@ -34439,6 +35772,472 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_ACC_073",
+      "recipe": "IT_AF_LW_ACC_073",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_073",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ZUUU",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_073"
+    },
+    {
+      "iname": "AF_LW_ACC_073_1",
+      "recipe": "IT_AF_LW_ACC_073",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_073",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ZUUU",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_073",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_ACC_073_2",
+      "recipe": "IT_AF_LW_ACC_073",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_073",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ZUUU",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_073",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_ACC_073_3",
+      "recipe": "IT_AF_LW_ACC_073",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_073",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ZUUU",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_073",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_ACC_073_4",
+      "recipe": "IT_AF_LW_ACC_073",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_073",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ZUUU",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_073",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_ACC_073_5",
+      "recipe": "IT_AF_LW_ACC_073",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_073",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_073_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAP_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ZUUU",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_073",
+      "plus": 5
+    },
+    {
+      "iname": "AF_LW_ACC_078",
+      "recipe": "IT_AF_LW_ACC_078",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_078",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_078"
+    },
+    {
+      "iname": "AF_LW_ACC_078_1",
+      "recipe": "IT_AF_LW_ACC_078",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_078",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_078",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_ACC_078_2",
+      "recipe": "IT_AF_LW_ACC_078",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_078",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_078",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_ACC_078_3",
+      "recipe": "IT_AF_LW_ACC_078",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_078",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_078",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_ACC_078_4",
+      "recipe": "IT_AF_LW_ACC_078",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_078",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_078",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_ACC_078_5",
+      "recipe": "IT_AF_LW_ACC_078",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ACC_078",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ACC_078_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ACC_078",
+      "plus": 5
+    },
+    {
       "iname": "AF_GL_TOMB_GUN_000",
       "recipe": "IT_AF_GL_TOMB_GUN_000",
       "gil": 15000,
@@ -34669,6 +36468,497 @@
         }
       ],
       "from_iname": "AF_GL_TOMB_GUN_000",
+      "plus": 5
+    },
+    {
+      "iname": "AF_GL_TOMB_GUN_000_6",
+      "recipe": "IT_AF_GL_TOMB_GUN_000",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_TOMB_GUN_000",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_TOMB_GUN_000_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_SSR",
+          "num": 7
+        }
+      ],
+      "from_iname": "AF_GL_TOMB_GUN_000",
+      "plus": 6
+    },
+    {
+      "iname": "AF_GL_LW_ACC_090",
+      "recipe": "IT_AF_GL_LW_ACC_090",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_ACC_090",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_ACC_090"
+    },
+    {
+      "iname": "AF_GL_LW_ACC_090_1",
+      "recipe": "IT_AF_GL_LW_ACC_090",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_ACC_090",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_ACC_090",
+      "plus": 1
+    },
+    {
+      "iname": "AF_GL_LW_ACC_090_2",
+      "recipe": "IT_AF_GL_LW_ACC_090",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_ACC_090",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_ACC_090",
+      "plus": 2
+    },
+    {
+      "iname": "AF_GL_LW_ACC_090_3",
+      "recipe": "IT_AF_GL_LW_ACC_090",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_ACC_090",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_ACC_090",
+      "plus": 3
+    },
+    {
+      "iname": "AF_GL_LW_ACC_090_4",
+      "recipe": "IT_AF_GL_LW_ACC_090",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_ACC_090",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_ACC_090",
+      "plus": 4
+    },
+    {
+      "iname": "AF_GL_LW_ACC_090_5",
+      "recipe": "IT_AF_GL_LW_ACC_090",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_ACC_090",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_ACC_090_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SAND_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_ARMN",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_ACC_090",
+      "plus": 5
+    },
+    {
+      "iname": "AF_GL_LW_GUN_013",
+      "recipe": "IT_AF_GL_LW_GUN_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_GUN_013",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_MYTHRIL",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WIND_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_GUN_013"
+    },
+    {
+      "iname": "AF_GL_LW_GUN_013_1",
+      "recipe": "IT_AF_GL_LW_GUN_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_GUN_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_MYTHRIL",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WIND_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_GUN_013",
+      "plus": 1
+    },
+    {
+      "iname": "AF_GL_LW_GUN_013_2",
+      "recipe": "IT_AF_GL_LW_GUN_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_GUN_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_MYTHRIL",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WIND_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_GUN_013",
+      "plus": 2
+    },
+    {
+      "iname": "AF_GL_LW_GUN_013_3",
+      "recipe": "IT_AF_GL_LW_GUN_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_GUN_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_MYTHRIL",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WIND_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_GUN_013",
+      "plus": 3
+    },
+    {
+      "iname": "AF_GL_LW_GUN_013_4",
+      "recipe": "IT_AF_GL_LW_GUN_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_GUN_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_MYTHRIL",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WIND_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_GUN_013",
+      "plus": 4
+    },
+    {
+      "iname": "AF_GL_LW_GUN_013_5",
+      "recipe": "IT_AF_GL_LW_GUN_013",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_GL_LW_GUN_013",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_GL_LW_GUN_013_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WING_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_MYTHRIL",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WIND_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_GL_LW_GUN_013",
       "plus": 5
     },
     {

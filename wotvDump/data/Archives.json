@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "iname": "AC_GL_ART_CRF_01",
-      "section_group_iname": "SEG_GL_ART_CRF_01",
-      "hurl": "ac_gl_art_crf_01",
-      "type": 1,
-      "keyitem1": "IT_KEY_ARCHIVE",
-      "keynum1": 1,
-      "keytime": 86400
-    },
-    {
       "iname": "AC_ART_CRF_02",
       "section_group_iname": "SEG_ART_CRF_02",
       "hurl": "ac_art_crf_02",
@@ -94,6 +85,24 @@
       "iname": "AC_ART_CRF_12",
       "section_group_iname": "SEG_ART_CRF_12",
       "hurl": "ac_art_crf_12",
+      "type": 1,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
+      "iname": "AC_ART_CRF_14",
+      "section_group_iname": "SEG_ART_CRF_14",
+      "hurl": "ac_art_crf_14",
+      "type": 1,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
+      "iname": "AC_ART_CRF_15",
+      "section_group_iname": "SEG_ART_CRF_15",
+      "hurl": "ac_art_crf_15",
       "type": 1,
       "keyitem1": "IT_KEY_ARCHIVE",
       "keynum1": 1,
@@ -283,6 +292,18 @@
       "keytime": 86400
     },
     {
+      "iname": "AC_15_01",
+      "section_group_iname": "SEG_15_01",
+      "shop_inames": [
+        "Event-Summon_20220601_LEELA"
+      ],
+      "hurl": "ac_15_01",
+      "type": 0,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
       "iname": "AC_16_01",
       "section_group_iname": "SEG_16_01",
       "shop_inames": [
@@ -307,6 +328,15 @@
       "iname": "AC_CRIS",
       "section_group_iname": "SEG_CRIS",
       "hurl": "ac_cris_01",
+      "type": 2,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
+      "iname": "AC_SERL",
+      "section_group_iname": "SEG_SERL",
+      "hurl": "ac_serl",
       "type": 2,
       "keyitem1": "IT_KEY_ARCHIVE",
       "keynum1": 1,

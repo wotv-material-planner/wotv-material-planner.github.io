@@ -1205,6 +1205,10 @@
       "value": ""
     },
     {
+      "key": "JB_LW_LIB_WIND",
+      "value": ""
+    },
+    {
       "key": "JB_LW_LIB_SOIL",
       "value": ""
     },
@@ -1261,11 +1265,35 @@
       "value": ""
     },
     {
+      "key": "JB_LW_BNI_DARK",
+      "value": ""
+    },
+    {
       "key": "JB_LW_BNI_EX_M",
       "value": ""
     },
     {
       "key": "JB_LW_IRDL_01_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_RNEL_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_SDLE",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_SDLE_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_DAC_FIRE",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_DAC_ICE",
       "value": ""
     },
     {
@@ -1737,6 +1765,10 @@
       "value": ""
     },
     {
+      "key": "JB_LW_VADM_M",
+      "value": ""
+    },
+    {
       "key": "JB_LW_MIIA_M",
       "value": ""
     },
@@ -1874,6 +1906,22 @@
     },
     {
       "key": "JB_LW_SLEN_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_FINA_01",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_FINA_01_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_JEDN_01",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_JEDN_01_M",
       "value": ""
     },
     {
@@ -2017,6 +2065,14 @@
       "value": ""
     },
     {
+      "key": "JB_LW_SCR_WIND",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_SCR_DARK",
+      "value": ""
+    },
+    {
       "key": "JB_LW_SCR_EX_M",
       "value": ""
     },
@@ -2073,11 +2129,19 @@
       "value": ""
     },
     {
+      "key": "JB_LW_LLN_ICE",
+      "value": ""
+    },
+    {
       "key": "JB_LW_LLN_EX_M",
       "value": ""
     },
     {
       "key": "JB_LW_LATH_01_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MCRD_M",
       "value": ""
     },
     {
@@ -2186,6 +2250,14 @@
     },
     {
       "key": "JB_LW_RARD_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_DAC_EX_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_IREZ_M",
       "value": ""
     }
   ]

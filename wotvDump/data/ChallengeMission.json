@@ -14765,7 +14765,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_01_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_01_3"
     },
     {
       "iname": "CM_PRO_GL_LILS_01_02",
@@ -14785,7 +14785,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_02_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_02_3"
     },
     {
       "iname": "CM_PRO_GL_LILS_01_03",
@@ -14805,7 +14805,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_03_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_03_3"
     },
     {
       "iname": "CM_PRO_GL_LILS_01_04",
@@ -14825,7 +14825,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_04_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_04_3"
     },
     {
       "iname": "CM_PRO_GL_LILS_01_05",
@@ -14845,7 +14845,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_05_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_05_3"
     },
     {
       "iname": "CM_PRO_GL_LILS_01_06",
@@ -14865,7 +14865,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_06_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_06_3"
     },
     {
       "iname": "CM_PRO_GL_LILS_01_07",
@@ -14885,7 +14885,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_07_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_07_3"
     },
     {
       "iname": "CM_PRO_GL_LILS_01_08",
@@ -14905,7 +14905,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_08_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_08_3"
     },
     {
       "iname": "CM_PRO_GL_LILS_01_09",
@@ -14925,7 +14925,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_LILS_01_09_2"
+      "chk_ver": "CM_PRO_GL_LILS_01_09_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_01",
@@ -14945,7 +14945,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_01_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_01_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_02",
@@ -14965,7 +14965,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_02_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_02_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_03",
@@ -14985,7 +14985,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_03_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_03_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_04",
@@ -15005,7 +15005,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_04_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_04_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_05",
@@ -15025,7 +15025,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_05_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_05_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_06",
@@ -15045,7 +15045,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_06_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_06_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_07",
@@ -15065,7 +15065,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_07_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_07_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_08",
@@ -15085,7 +15085,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_08_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_08_3"
     },
     {
       "iname": "CM_PRO_GL_KTON_01_09",
@@ -15105,7 +15105,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_KTON_01_09_2"
+      "chk_ver": "CM_PRO_GL_KTON_01_09_3"
     },
     {
       "iname": "CM_PRO_GL_CRLT_01",
@@ -15638,7 +15638,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_01_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_01_3"
     },
     {
       "iname": "CM_PRO_GL_QILF_01_02",
@@ -15658,7 +15658,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_02_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_02_3"
     },
     {
       "iname": "CM_PRO_GL_QILF_01_03",
@@ -15678,7 +15678,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_03_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_03_3"
     },
     {
       "iname": "CM_PRO_GL_QILF_01_04",
@@ -15698,7 +15698,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_04_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_04_3"
     },
     {
       "iname": "CM_PRO_GL_QILF_01_05",
@@ -15718,7 +15718,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_05_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_05_3"
     },
     {
       "iname": "CM_PRO_GL_QILF_01_06",
@@ -15738,7 +15738,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_06_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_06_3"
     },
     {
       "iname": "CM_PRO_GL_QILF_01_07",
@@ -15758,7 +15758,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_07_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_07_3"
     },
     {
       "iname": "CM_PRO_GL_QILF_01_08",
@@ -15778,7 +15778,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_08_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_08_3"
     },
     {
       "iname": "CM_PRO_GL_QILF_01_09",
@@ -15798,7 +15798,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_QILF_01_09_2"
+      "chk_ver": "CM_PRO_GL_QILF_01_09_3"
     },
     {
       "iname": "CM_PRO_GL_V_STFES_01",
@@ -15998,7 +15998,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_01_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_01_3"
     },
     {
       "iname": "CM_PRO_GL_ELSR_01_02",
@@ -16018,7 +16018,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_02_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_02_3"
     },
     {
       "iname": "CM_PRO_GL_ELSR_01_03",
@@ -16038,7 +16038,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_03_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_03_3"
     },
     {
       "iname": "CM_PRO_GL_ELSR_01_04",
@@ -16058,7 +16058,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_04_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_04_3"
     },
     {
       "iname": "CM_PRO_GL_ELSR_01_05",
@@ -16078,7 +16078,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_05_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_05_3"
     },
     {
       "iname": "CM_PRO_GL_ELSR_01_06",
@@ -16098,7 +16098,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_06_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_06_3"
     },
     {
       "iname": "CM_PRO_GL_ELSR_01_07",
@@ -16118,7 +16118,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_07_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_07_3"
     },
     {
       "iname": "CM_PRO_GL_ELSR_01_08",
@@ -16138,7 +16138,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_08_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_08_3"
     },
     {
       "iname": "CM_PRO_GL_ELSR_01_09",
@@ -16158,7 +16158,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_ELSR_01_09_2"
+      "chk_ver": "CM_PRO_GL_ELSR_01_09_3"
     },
     {
       "iname": "CM_PRO_GL_CLUD_01",
@@ -17960,7 +17960,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_01"
+      "chk_ver": "CM_PRO_GL_V_TOMB_01_1"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB_02",
@@ -17980,7 +17980,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_02"
+      "chk_ver": "CM_PRO_GL_V_TOMB_02_1"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB_03",
@@ -18000,7 +18000,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_03"
+      "chk_ver": "CM_PRO_GL_V_TOMB_03_1"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB_04",
@@ -18020,18 +18020,18 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_04"
+      "chk_ver": "CM_PRO_GL_V_TOMB_04_1"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB_05",
       "index": 5,
       "grpID": "CM_PRO_GL_V_TOMB_1",
       "condition": {
-        "type": 52,
+        "type": 51,
         "sval": [
           "VC_TOMB_MV1"
         ],
-        "ival": 1
+        "ival": 25
       },
       "rewards": [
         {
@@ -18040,7 +18040,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_05"
+      "chk_ver": "CM_PRO_GL_V_TOMB_05_1"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB_06",
@@ -18060,7 +18060,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_06"
+      "chk_ver": "CM_PRO_GL_V_TOMB_06_1"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB_07",
@@ -18080,7 +18080,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_07"
+      "chk_ver": "CM_PRO_GL_V_TOMB_07_1"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB_08",
@@ -18100,7 +18100,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_08"
+      "chk_ver": "CM_PRO_GL_V_TOMB_08_1"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB_09",
@@ -18120,18 +18120,18 @@
           "num": 15
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_TOMB_09"
+      "chk_ver": "CM_PRO_GL_V_TOMB_09_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_01",
       "index": 1,
       "grpID": "CM_PRO_GL_TOMB_1",
       "condition": {
-        "type": 251,
+        "type": 16,
         "sval": [
-          "CM_PRO_GL_TOMB"
+          "UN_TOMB_P_LARA"
         ],
-        "ival": 1
+        "ival": 30
       },
       "rewards": [
         {
@@ -18140,7 +18140,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_01"
+      "chk_ver": "CM_PRO_GL_TOMB_01_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_02",
@@ -18160,7 +18160,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_02"
+      "chk_ver": "CM_PRO_GL_TOMB_02_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_03",
@@ -18180,7 +18180,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_03"
+      "chk_ver": "CM_PRO_GL_TOMB_03_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_04",
@@ -18200,7 +18200,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_04"
+      "chk_ver": "CM_PRO_GL_TOMB_04_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_05",
@@ -18220,7 +18220,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_05"
+      "chk_ver": "CM_PRO_GL_TOMB_05_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_06",
@@ -18240,7 +18240,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_06"
+      "chk_ver": "CM_PRO_GL_TOMB_06_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_07",
@@ -18260,7 +18260,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_07"
+      "chk_ver": "CM_PRO_GL_TOMB_07_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_08",
@@ -18280,7 +18280,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_08"
+      "chk_ver": "CM_PRO_GL_TOMB_08_1"
     },
     {
       "iname": "CM_PRO_GL_TOMB_09",
@@ -18300,7 +18300,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_TOMB_09"
+      "chk_ver": "CM_PRO_GL_TOMB_09_1"
     },
     {
       "iname": "CM_PRO_GL_SLEN_01",
@@ -18320,7 +18320,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_01_2"
+      "chk_ver": "CM_PRO_GL_SLEN_01_3"
     },
     {
       "iname": "CM_PRO_GL_SLEN_02",
@@ -18340,7 +18340,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_02_2"
+      "chk_ver": "CM_PRO_GL_SLEN_02_3"
     },
     {
       "iname": "CM_PRO_GL_SLEN_03",
@@ -18360,7 +18360,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_03_2"
+      "chk_ver": "CM_PRO_GL_SLEN_03_3"
     },
     {
       "iname": "CM_PRO_GL_SLEN_04",
@@ -18380,7 +18380,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_04_2"
+      "chk_ver": "CM_PRO_GL_SLEN_04_3"
     },
     {
       "iname": "CM_PRO_GL_SLEN_05",
@@ -18400,7 +18400,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_05_2"
+      "chk_ver": "CM_PRO_GL_SLEN_05_3"
     },
     {
       "iname": "CM_PRO_GL_SLEN_06",
@@ -18420,7 +18420,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_06_2"
+      "chk_ver": "CM_PRO_GL_SLEN_06_3"
     },
     {
       "iname": "CM_PRO_GL_SLEN_07",
@@ -18440,7 +18440,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_07_2"
+      "chk_ver": "CM_PRO_GL_SLEN_07_3"
     },
     {
       "iname": "CM_PRO_GL_SLEN_08",
@@ -18460,7 +18460,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_08_2"
+      "chk_ver": "CM_PRO_GL_SLEN_08_3"
     },
     {
       "iname": "CM_PRO_GL_SLEN_09",
@@ -18480,7 +18480,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_SLEN_09_2"
+      "chk_ver": "CM_PRO_GL_SLEN_09_3"
     },
     {
       "iname": "CM_PRO_GL_V_USER1_01",
@@ -22269,7 +22269,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_01_3"
+      "chk_ver": "CM_PRO_GL_IBRA_01_4"
     },
     {
       "iname": "CM_PRO_GL_IBRA_02",
@@ -22289,7 +22289,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_02_3"
+      "chk_ver": "CM_PRO_GL_IBRA_02_4"
     },
     {
       "iname": "CM_PRO_GL_IBRA_03",
@@ -22309,7 +22309,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_03_3"
+      "chk_ver": "CM_PRO_GL_IBRA_03_4"
     },
     {
       "iname": "CM_PRO_GL_IBRA_04",
@@ -22329,7 +22329,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_04_3"
+      "chk_ver": "CM_PRO_GL_IBRA_04_4"
     },
     {
       "iname": "CM_PRO_GL_IBRA_05",
@@ -22349,7 +22349,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_05_3"
+      "chk_ver": "CM_PRO_GL_IBRA_05_4"
     },
     {
       "iname": "CM_PRO_GL_IBRA_06",
@@ -22369,7 +22369,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_06_3"
+      "chk_ver": "CM_PRO_GL_IBRA_06_4"
     },
     {
       "iname": "CM_PRO_GL_IBRA_07",
@@ -22389,7 +22389,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_07_3"
+      "chk_ver": "CM_PRO_GL_IBRA_07_4"
     },
     {
       "iname": "CM_PRO_GL_IBRA_08",
@@ -22409,7 +22409,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_08_3"
+      "chk_ver": "CM_PRO_GL_IBRA_08_4"
     },
     {
       "iname": "CM_PRO_GL_IBRA_09",
@@ -22429,7 +22429,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_IBRA_09_3"
+      "chk_ver": "CM_PRO_GL_IBRA_09_4"
     },
     {
       "iname": "CM_PRO_GL_V_IBRA_01",
@@ -23862,7 +23862,7 @@
         "sval": [
           "UN_LW_P_MORE_01"
         ],
-        "ival": 1
+        "ival": 30
       },
       "rewards": [
         {
@@ -23871,7 +23871,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_01"
+      "chk_ver": "CM_PRO_GL_MORE_01_01_1"
     },
     {
       "iname": "CM_PRO_GL_MORE_01_02",
@@ -23891,7 +23891,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_02"
+      "chk_ver": "CM_PRO_GL_MORE_01_02_1"
     },
     {
       "iname": "CM_PRO_GL_MORE_01_03",
@@ -23911,7 +23911,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_03"
+      "chk_ver": "CM_PRO_GL_MORE_01_03_1"
     },
     {
       "iname": "CM_PRO_GL_MORE_01_04",
@@ -23931,7 +23931,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_04"
+      "chk_ver": "CM_PRO_GL_MORE_01_04_1"
     },
     {
       "iname": "CM_PRO_GL_MORE_01_05",
@@ -23951,7 +23951,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_05"
+      "chk_ver": "CM_PRO_GL_MORE_01_05_1"
     },
     {
       "iname": "CM_PRO_GL_MORE_01_06",
@@ -23971,7 +23971,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_06"
+      "chk_ver": "CM_PRO_GL_MORE_01_06_1"
     },
     {
       "iname": "CM_PRO_GL_MORE_01_07",
@@ -23991,7 +23991,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_07"
+      "chk_ver": "CM_PRO_GL_MORE_01_07_1"
     },
     {
       "iname": "CM_PRO_GL_MORE_01_08",
@@ -24011,7 +24011,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_08"
+      "chk_ver": "CM_PRO_GL_MORE_01_08_1"
     },
     {
       "iname": "CM_PRO_GL_MORE_01_09",
@@ -24031,7 +24031,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_MORE_01_09"
+      "chk_ver": "CM_PRO_GL_MORE_01_09_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_01",
@@ -24051,7 +24051,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_01"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_01_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_02",
@@ -24071,7 +24071,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_02"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_02_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_03",
@@ -24091,7 +24091,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_03"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_03_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_04",
@@ -24111,18 +24111,18 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_04"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_04_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_05",
       "index": 5,
       "grpID": "CM_PRO_GL_V_MORE_01_1",
       "condition": {
-        "type": 52,
+        "type": 51,
         "sval": [
           "VC_LW_MORE01"
         ],
-        "ival": 1
+        "ival": 25
       },
       "rewards": [
         {
@@ -24131,7 +24131,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_05"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_05_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_06",
@@ -24151,7 +24151,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_06"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_06_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_07",
@@ -24171,7 +24171,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_07"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_07_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_08",
@@ -24191,7 +24191,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_08"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_08_1"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01_09",
@@ -24211,7 +24211,7 @@
           "num": 15
         }
       ],
-      "chk_ver": "CM_PRO_GL_V_MORE_01_09"
+      "chk_ver": "CM_PRO_GL_V_MORE_01_09_1"
     },
     {
       "iname": "CM_PRO_GL_LNY_2022_01",
@@ -29841,7 +29841,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_01"
+      "chk_ver": "CM_PRO_GL_ESTR_01_1"
     },
     {
       "iname": "CM_PRO_GL_ESTR_02",
@@ -29861,7 +29861,7 @@
           "num": 5
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_02"
+      "chk_ver": "CM_PRO_GL_ESTR_02_1"
     },
     {
       "iname": "CM_PRO_GL_ESTR_03",
@@ -29881,7 +29881,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_03"
+      "chk_ver": "CM_PRO_GL_ESTR_03_1"
     },
     {
       "iname": "CM_PRO_GL_ESTR_04",
@@ -29901,7 +29901,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_04"
+      "chk_ver": "CM_PRO_GL_ESTR_04_1"
     },
     {
       "iname": "CM_PRO_GL_ESTR_05",
@@ -29921,7 +29921,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_05"
+      "chk_ver": "CM_PRO_GL_ESTR_05_1"
     },
     {
       "iname": "CM_PRO_GL_ESTR_06",
@@ -29941,7 +29941,7 @@
           "num": 10
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_06"
+      "chk_ver": "CM_PRO_GL_ESTR_06_1"
     },
     {
       "iname": "CM_PRO_GL_ESTR_07",
@@ -29961,7 +29961,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_07"
+      "chk_ver": "CM_PRO_GL_ESTR_07_1"
     },
     {
       "iname": "CM_PRO_GL_ESTR_08",
@@ -29981,7 +29981,7 @@
           "num": 20
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_08"
+      "chk_ver": "CM_PRO_GL_ESTR_08_1"
     },
     {
       "iname": "CM_PRO_GL_ESTR_09",
@@ -30001,7 +30001,7 @@
           "num": 40
         }
       ],
-      "chk_ver": "CM_PRO_GL_ESTR_09"
+      "chk_ver": "CM_PRO_GL_ESTR_09_1"
     },
     {
       "iname": "CM_PRO_GL_V_LW_ESTR_01",
@@ -32690,6 +32690,1611 @@
         }
       ],
       "chk_ver": "CM_PRO_GL_V_FF10_VLFR_09"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_SDLE"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_01"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 84,
+        "sval": [
+          "UN_LW_P_SDLE"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_02"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_SDLE"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_SDLE",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_03"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_SDLE,JB_LW_SDLE"
+        ],
+        "ival": 6
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_SDLE",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_04"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_SDLE"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_SDLE",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_05"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_SDLE,JB_LW_SDLE"
+        ],
+        "ival": 9
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_SDLE",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_06"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_SDLE"
+        ],
+        "ival": 60
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_SDLE",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_07"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_SDLE"
+        ],
+        "ival": 70
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_SDLE",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_08"
+    },
+    {
+      "iname": "CM_PRO_GL_SDLE_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_SDLE_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_SDLE"
+        ],
+        "ival": 75
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_SDLE",
+          "num": 40
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_SDLE_09"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 5
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_01"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_02"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 15
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_03"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 20
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_04"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 52,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_05"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_06"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_07"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_08"
+    },
+    {
+      "iname": "CM_PRO_GL_V_GLMS_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_V_GLMS_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_GLMS"
+        ],
+        "ival": 65
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_GLMS",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_GLMS_09"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_IREZ"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_01"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 84,
+        "sval": [
+          "UN_LW_P_IREZ"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_02"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_IREZ"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_IREZ",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_03"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_IREZ,JB_LW_DAC_ICE"
+        ],
+        "ival": 6
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_IREZ",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_04"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_IREZ"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_IREZ",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_05"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_IREZ,JB_LW_DAC_ICE"
+        ],
+        "ival": 9
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_IREZ",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_06"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_IREZ"
+        ],
+        "ival": 60
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_IREZ",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_07"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_IREZ"
+        ],
+        "ival": 70
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_IREZ",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_08"
+    },
+    {
+      "iname": "CM_PRO_GL_IREZ_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_IREZ_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_IREZ"
+        ],
+        "ival": 75
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_IREZ",
+          "num": 40
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_IREZ_09"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 5
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_01"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_02"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 15
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_03"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 20
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_04"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 52,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_05"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_06"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_07"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_08"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FRUIT_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_V_FRUIT_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FRUIT"
+        ],
+        "ival": 65
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FRUIT",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FRUIT_09"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_FINA_01"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_01"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 84,
+        "sval": [
+          "UN_LW_P_FINA_01"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_02"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_FINA_01"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_FINA_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_03"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_FINA_01,JB_LW_FINA_01"
+        ],
+        "ival": 6
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_FINA_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_04"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_FINA_01"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_FINA_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_05"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_FINA_01,JB_LW_FINA_01"
+        ],
+        "ival": 9
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_FINA_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_06"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_FINA_01"
+        ],
+        "ival": 60
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_FINA_01",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_07"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_FINA_01"
+        ],
+        "ival": 70
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_FINA_01",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_08"
+    },
+    {
+      "iname": "CM_PRO_GL_FINA_01_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_FINA_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_FINA_01"
+        ],
+        "ival": 75
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_FINA_01",
+          "num": 40
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FINA_01_09"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 5
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_01"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_02"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 15
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_03"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 20
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_04"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 52,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_05"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_06"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_07"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_08"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FINA_01_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_V_FINA_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_FINA_01"
+        ],
+        "ival": 65
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_FINA_01",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_FINA_01_09"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JEDN_01"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_01"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 84,
+        "sval": [
+          "UN_LW_P_JEDN_01"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_02"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JEDN_01"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JEDN_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_03"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_JEDN_01,JB_LW_JEDN_01"
+        ],
+        "ival": 6
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JEDN_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_04"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JEDN_01"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JEDN_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_05"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_JEDN_01,JB_LW_JEDN_01"
+        ],
+        "ival": 9
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JEDN_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_06"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JEDN_01"
+        ],
+        "ival": 60
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JEDN_01",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_07"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JEDN_01"
+        ],
+        "ival": 70
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JEDN_01",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_08"
+    },
+    {
+      "iname": "CM_PRO_GL_JEDN_01_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_JEDN_01_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JEDN_01"
+        ],
+        "ival": 75
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JEDN_01",
+          "num": 40
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_JEDN_01_09"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 5
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_01"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_02"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 15
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_03"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 20
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_04"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 52,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_05"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_06"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_07"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_08"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN_01_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_V_JEDN_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_JEDN_01"
+        ],
+        "ival": 65
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_JEDN_01",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_V_JEDN_01_09"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_01",
+      "index": 1,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 28,
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_01"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_02",
+      "index": 2,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 9,
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_02"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_03",
+      "index": 3,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_COMIC"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_03"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_04",
+      "index": 4,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 52,
+        "sval": [
+          "VC_LW_COMIC"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_04"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_05",
+      "index": 5,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 5,
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_05"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_06",
+      "index": 6,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 51,
+        "sval": [
+          "VC_LW_COMIC"
+        ],
+        "ival": 55
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_06"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_07",
+      "index": 7,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 52,
+        "sval": [
+          "VC_LW_COMIC"
+        ],
+        "ival": 2
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_07"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_08",
+      "index": 8,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 26,
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 25
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_08"
+    },
+    {
+      "iname": "CM_PRO_GL_FFEXU_01_09",
+      "index": 9,
+      "grpID": "CM_PRO_GL_FFEXU_01_1",
+      "condition": {
+        "type": 15,
+        "ival": 3
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_VPI_LW_COMIC",
+          "num": 30
+        }
+      ],
+      "chk_ver": "CM_PRO_GL_FFEXU_01_09"
     }
   ]
 }

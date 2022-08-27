@@ -21,6 +21,10 @@
       "value": "Guild Title Mission"
     },
     {
+      "key": "GMG_AW_2022_1",
+      "value": "Guild Title Mission"
+    },
+    {
       "key": "MG_DAILY_001",
       "value": "Daily Mission"
     },
@@ -223,6 +227,10 @@
     {
       "key": "MG_MP_QEST_22",
       "value": "Story Quest Pack Part 2 VII"
+    },
+    {
+      "key": "MG_MP_QEST_23",
+      "value": "Story Quest Pack Part 2 VIII"
     },
     {
       "key": "MG_MP_GL_RANK_01",
@@ -649,6 +657,34 @@
       "value": "Raid Support Daily Mission"
     },
     {
+      "key": "MG_GL_DAILY_RAID_101",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_102",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_103",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_104",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_105",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_106",
+      "value": "Raid Support Daily Mission"
+    },
+    {
+      "key": "MG_GL_DAILY_RAID_107",
+      "value": "Raid Support Daily Mission"
+    },
+    {
       "key": "MG_GL_DY_RAID_01",
       "value": "Raid Participation Daily Mission"
     },
@@ -759,6 +795,38 @@
     {
       "key": "MG_MU_P5R_1_07",
       "value": "[Multi] Brutal Difficulty Metaverse Fragment: Casino — Manager Area [EX3]"
+    },
+    {
+      "key": "MG_EV_RC_BST_01",
+      "value": "Beast Hunt Quest"
+    },
+    {
+      "key": "MG_MU_RC_BST_01",
+      "value": "[Multi] Beast Hunt Quest"
+    },
+    {
+      "key": "MG_RNEL01_01",
+      "value": "Ranell Acquisition Quest"
+    },
+    {
+      "key": "MG_RNEL01_02",
+      "value": "High Difficulty Ranell Acquisition Ex-Quest"
+    },
+    {
+      "key": "MG_MU_RNEL01_01",
+      "value": "[Multi] High Difficulty Ranell Acquisition Ex-Quest"
+    },
+    {
+      "key": "MG_MCRD01_01",
+      "value": "Macleod Acquisition Quest"
+    },
+    {
+      "key": "MG_MCRD01_02",
+      "value": "High Difficulty Macleod Acquisition Ex-Quest"
+    },
+    {
+      "key": "MG_MU_MCRD01_01",
+      "value": "[Multi] High Difficulty Macleod Acquisition Ex-Quest"
     },
     {
       "key": "MG_FF14_1_01",
@@ -925,6 +993,54 @@
       "value": "FFX Character Quest II"
     },
     {
+      "key": "MG_EV_ART_CRF_28",
+      "value": "Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_28",
+      "value": "[Multi] Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_29",
+      "value": "Brutal Difficulty Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_29",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_30",
+      "value": "Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_30",
+      "value": "[Multi] Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_31",
+      "value": "Brutal Difficulty Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_31",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_32",
+      "value": "Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_32",
+      "value": "[Multi] Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_33",
+      "value": "Brutal Difficulty Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_33",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Prunus Lamina)"
+    },
+    {
       "key": "MG_GL_NIER_CH_01",
       "value": "NieR:Automata Character Quest"
     },
@@ -991,6 +1107,22 @@
     {
       "key": "MG_MU_TOMB_1_03",
       "value": "[Multi] Brutal Difficulty Tomb Raider [EX1]"
+    },
+    {
+      "key": "MG_GL_FFEXU_02_01",
+      "value": "Creeping Malice EX"
+    },
+    {
+      "key": "MG_GL_FFEXU_02_02",
+      "value": "Brutal Difficulty Creeping Malice EX"
+    },
+    {
+      "key": "MG_GL_MU_FFEXU_02_01",
+      "value": "[Multi] Creeping Malice EX"
+    },
+    {
+      "key": "MG_GL_MU_FFEXU_02_02",
+      "value": "[Multi] Brutal Difficulty Creeping Malice EX"
     },
     {
       "key": "MG_GL_FF7_CH_01",
@@ -1357,6 +1489,18 @@
       "value": "Check Out the PV"
     },
     {
+      "key": "MG_GL_LW_SNS_35",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "MG_GL_LW_SNS_36",
+      "value": "Watch the YouTube Video"
+    },
+    {
+      "key": "MG_GL_LW_SNS_37",
+      "value": "Check Out the PV"
+    },
+    {
       "key": "MG_EV_SHIV_01",
       "value": "Shiva Challenge"
     },
@@ -1423,6 +1567,22 @@
     {
       "key": "MG_EV_ART_CRF_01",
       "value": "Equipment Training Quest"
+    },
+    {
+      "key": "MG_EV_GL_ART_CRF_03",
+      "value": "Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "MG_MU_GL_ART_CRF_03",
+      "value": "[Multi] Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "MG_EV_GL_ART_CRF_04",
+      "value": "Brutal Difficulty Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "MG_MU_GL_ART_CRF_04",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Hydropump Blaster)"
     },
     {
       "key": "MG_EV_RC_DEM_01",
@@ -1602,11 +1762,11 @@
     },
     {
       "key": "MG_EV_ART_CRF_NO",
-      "value": "Equipment Training Quest"
+      "value": "Equipment Training Quest (Sleep Blade)"
     },
     {
       "key": "MG_MU_ART_CRF_NO",
-      "value": "[Multi] Equipment Training Quest"
+      "value": "[Multi] Equipment Training Quest (Sleep Blade)"
     },
     {
       "key": "MG_EV_ART_CRF_02",
@@ -2065,6 +2225,10 @@
       "value": "[Multi] High Difficulty Secret Book Reward Quest (Book, Staff, Armor)"
     },
     {
+      "key": "MG_EV_RNDM_01",
+      "value": "Random Battle Quest"
+    },
+    {
       "key": "MG_BR_WATER",
       "value": "Selection Quest (Water Edition)"
     },
@@ -2145,6 +2309,14 @@
       "value": "Trials of Reckoning Quest — Hard"
     },
     {
+      "key": "MG_PT_FF10_02_1",
+      "value": "Trials of Reckoning Quest — Normal"
+    },
+    {
+      "key": "MG_PT_FF10_02_2",
+      "value": "Trials of Reckoning Quest — Hard"
+    },
+    {
       "key": "MG_PT_LW_01_1",
       "value": "Trials of Reckoning Quest — Normal"
     },
@@ -2166,6 +2338,10 @@
     },
     {
       "key": "MG_MU_RAID_RV_04",
+      "value": "Raid Boss Revival"
+    },
+    {
+      "key": "MG_MU_RAID_GL_RV_01",
       "value": "Raid Boss Revival"
     },
     {
@@ -2610,6 +2786,62 @@
     },
     {
       "key": "MG_DAILY_GL_035_7",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_038_1",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_038_2",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_038_3",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_038_4",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_038_5",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_038_6",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_038_7",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_038_8",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_038_9",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_038_10",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_038_11",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_038_12",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_038_13",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_038_14",
       "value": "Trials of Reckoning Support Daily Mission"
     },
     {
@@ -3370,6 +3602,62 @@
     },
     {
       "key": "MG_MONTHLY_115_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
+      "key": "MG_MONTHLY_116_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_116_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_116_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_116_4",
+      "value": "[Monthly Mission] EXP Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_116_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_116_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_116_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
+      "key": "MG_MONTHLY_117_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_117_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_117_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_117_4",
+      "value": "[Monthly Mission] EXP Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_117_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_117_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_117_7",
       "value": "[Monthly Mission] Guild Statues"
     },
     {
@@ -4258,6 +4546,102 @@
     },
     {
       "key": "MG_ST_2202_12",
+      "value": "Guild Statues"
+    },
+    {
+      "key": "MG_ST_2203_01",
+      "value": "Daily Missions"
+    },
+    {
+      "key": "MG_ST_2203_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2203_03",
+      "value": "Acquire Item (Secret Book of Refinement)"
+    },
+    {
+      "key": "MG_ST_2203_04",
+      "value": "Acquire Item (Gil Snapper)"
+    },
+    {
+      "key": "MG_ST_2203_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2203_06",
+      "value": "Story Quests"
+    },
+    {
+      "key": "MG_ST_2203_07",
+      "value": "Hard Quests"
+    },
+    {
+      "key": "MG_ST_2203_08",
+      "value": "Multi Quests"
+    },
+    {
+      "key": "MG_ST_2203_09",
+      "value": "EXP Chamber"
+    },
+    {
+      "key": "MG_ST_2203_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2203_11",
+      "value": "Chocobo Expeditions"
+    },
+    {
+      "key": "MG_ST_2203_12",
+      "value": "Guild Statues"
+    },
+    {
+      "key": "MG_ST_2204_01",
+      "value": "Daily Missions"
+    },
+    {
+      "key": "MG_ST_2204_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2204_03",
+      "value": "Acquire Item (Secret Book of Refinement)"
+    },
+    {
+      "key": "MG_ST_2204_04",
+      "value": "Acquire Item (Gil Snapper)"
+    },
+    {
+      "key": "MG_ST_2204_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2204_06",
+      "value": "Story Quests"
+    },
+    {
+      "key": "MG_ST_2204_07",
+      "value": "Hard Quests"
+    },
+    {
+      "key": "MG_ST_2204_08",
+      "value": "Multi Quests"
+    },
+    {
+      "key": "MG_ST_2204_09",
+      "value": "EXP Chamber"
+    },
+    {
+      "key": "MG_ST_2204_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2204_11",
+      "value": "Chocobo Expeditions"
+    },
+    {
+      "key": "MG_ST_2204_12",
       "value": "Guild Statues"
     },
     {

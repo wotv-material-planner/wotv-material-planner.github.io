@@ -414,15 +414,15 @@
     },
     {
       "key": "UN_FF10_P_TIDU",
-      "value": "Masakazu Morita"
+      "value": "–"
     },
     {
       "key": "UN_FF10_P_YUNA",
-      "value": "Mayuko Aoki"
+      "value": "–"
     },
     {
       "key": "UN_FF10_P_ARON",
-      "value": "Hideo Ishikawa"
+      "value": "–"
     },
     {
       "key": "UN_NIER_P_N2TB",
@@ -598,7 +598,7 @@
     },
     {
       "key": "UN_LW_P_IBRA",
-      "value": ""
+      "value": "–"
     },
     {
       "key": "UN_LW_P_STIA",
@@ -659,6 +659,42 @@
     {
       "key": "UN_LW_P_IRDL_01",
       "value": "Yurika Aizawa"
+    },
+    {
+      "key": "UN_LW_P_SDLE",
+      "value": "Daisuke Hirakawa"
+    },
+    {
+      "key": "UN_LW_TU_SDLE",
+      "value": "Daisuke Hirakawa"
+    },
+    {
+      "key": "UN_LW_P_IREZ",
+      "value": "Risa Shimizu"
+    },
+    {
+      "key": "UN_LW_TU_IREZ",
+      "value": "Risa Shimizu"
+    },
+    {
+      "key": "UN_LW_P_RNEL",
+      "value": "Akari Kito"
+    },
+    {
+      "key": "UN_LW_P_MCRD",
+      "value": "Yoshihisa Kawahara"
+    },
+    {
+      "key": "UN_LW_P_FINA_01",
+      "value": "Inori Minase"
+    },
+    {
+      "key": "UN_LW_TU_FINA_01",
+      "value": "Inori Minase"
+    },
+    {
+      "key": "UN_LW_P_JEDN_01",
+      "value": "Daisuke Ono"
     },
     {
       "key": "UN_LW_EMPTI",
@@ -910,6 +946,26 @@
     },
     {
       "key": "UN_LW_E_RYER",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RYER_02",
+      "value": "Marika Kohno"
+    },
+    {
+      "key": "UN_LW_E_SDLE",
+      "value": "Daisuke Hirakawa"
+    },
+    {
+      "key": "UN_LW_E_AYKA",
+      "value": "Kaede Hondo"
+    },
+    {
+      "key": "UN_LW_E_MLNA",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_RNEL_QE",
       "value": ""
     },
     {
@@ -1333,6 +1389,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_TH_00_BEA",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_TH_00_HUN_G",
       "value": ""
     },
@@ -1509,6 +1569,22 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_SO_00_AXD",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SO_00_WGN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SO_00_PSI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SO_00_BNI",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_SO_03_SWN",
       "value": ""
     },
@@ -1678,6 +1754,10 @@
     },
     {
       "key": "UN_LW_E_SO_03_TIM",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SO_03_DAC",
       "value": ""
     },
     {
@@ -1906,6 +1986,10 @@
     },
     {
       "key": "UN_LW_E_PR_02_TIM_2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_PR_02_CLR2",
       "value": ""
     },
     {
@@ -2198,6 +2282,54 @@
     },
     {
       "key": "UN_LW_E_RI_08_MGK",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT00_09",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_THI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_HUN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_KNT",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_MNK",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_LAN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT01_09",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_THI",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_HUN",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_KNT",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_MNK",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_LAN",
       "value": ""
     },
     {
@@ -2889,6 +3021,10 @@
       "value": ""
     },
     {
+      "key": "UN_FF10_E_DKFN_01",
+      "value": ""
+    },
+    {
       "key": "UN_FF10_E_DFDZ",
       "value": ""
     },
@@ -2902,6 +3038,18 @@
     },
     {
       "key": "UN_FF10_E_YNLS_PT_HA",
+      "value": ""
+    },
+    {
+      "key": "UN_FF10_E_VLFR",
+      "value": ""
+    },
+    {
+      "key": "UN_FF10_E_YN_PT_NO_1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF10_E_VLFR_PT_HA",
       "value": ""
     },
     {
@@ -3033,6 +3181,10 @@
       "value": ""
     },
     {
+      "key": "UN_GL_LW_E_MDFY_02",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_MDFY_SIREN",
       "value": ""
     },
@@ -3137,6 +3289,22 @@
       "value": ""
     },
     {
+      "key": "UN_FF10_E_DKFN_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF10_E_DFDZ_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF10_E_YNLS_GR1",
+      "value": ""
+    },
+    {
+      "key": "UN_FF10_E_VLFR_GR1",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_OCHU_QE",
       "value": ""
     },
@@ -3205,6 +3373,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_OMEG_GL_RV",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_OMEG_SIREN",
       "value": ""
     },
@@ -3229,6 +3401,10 @@
       "value": ""
     },
     {
+      "key": "UN_LW_E_SHGN_02",
+      "value": ""
+    },
+    {
       "key": "UN_LW_E_HLDV",
       "value": ""
     },
@@ -3246,6 +3422,14 @@
     },
     {
       "key": "UN_LW_E_WRAT",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_WRAT_01",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_WRAT_02",
       "value": ""
     },
     {
@@ -3298,6 +3482,18 @@
     },
     {
       "key": "UN_LW_E_DMCM_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_ELEM_05_R",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_WYVN_01_RAID",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_DMCM_RAID_02",
       "value": ""
     },
     {
@@ -4745,15 +4941,35 @@
       "value": "Satoshi Mikami"
     },
     {
+      "key": "UN_LW_E_FINA",
+      "value": "Akane Fujita"
+    },
+    {
+      "key": "UN_LW_E_RSNC",
+      "value": "You Taichi"
+    },
+    {
+      "key": "UN_LW_E_SCIA",
+      "value": "Rei Shimoda"
+    },
+    {
+      "key": "UN_LW_E_VRID",
+      "value": "Anri Katsu"
+    },
+    {
       "key": "UN_LW_E_SO_02_ARC",
       "value": ""
     },
     {
-      "key": "UN_LW_P_SDLE",
-      "value": "Daisuke Hirakawa"
+      "key": "UN_LW_E_SO_02_BNI",
+      "value": ""
     },
     {
       "key": "UN_LW_E_GHUL",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_E_GHUL_01",
       "value": ""
     },
     {

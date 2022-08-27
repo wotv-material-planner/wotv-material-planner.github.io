@@ -661,6 +661,42 @@
       "value": "Heart Sparked by Love"
     },
     {
+      "key": "UN_LW_P_SDLE",
+      "value": "Self-Proclaimed God"
+    },
+    {
+      "key": "UN_LW_TU_SDLE",
+      "value": "Self-Proclaimed God"
+    },
+    {
+      "key": "UN_LW_P_IREZ",
+      "value": "Black-Haired Drifter"
+    },
+    {
+      "key": "UN_LW_TU_IREZ",
+      "value": "Black-Haired Drifter"
+    },
+    {
+      "key": "UN_LW_P_RNEL",
+      "value": "Immoral Handmaid"
+    },
+    {
+      "key": "UN_LW_P_MCRD",
+      "value": "Ardent Purger"
+    },
+    {
+      "key": "UN_LW_P_FINA_01",
+      "value": "The Other Fina"
+    },
+    {
+      "key": "UN_LW_TU_FINA_01",
+      "value": "The Other Fina"
+    },
+    {
+      "key": "UN_LW_P_JEDN_01",
+      "value": "Smoldering Summer Bullet"
+    },
+    {
       "key": "UN_LW_EMPTI",
       "value": ""
     },
@@ -910,6 +946,26 @@
     },
     {
       "key": "UN_LW_E_RYER",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_RYER_02",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SDLE",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_AYKA",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_MLNA",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_RNEL_QE",
       "value": "Enemy/NPC"
     },
     {
@@ -1333,6 +1389,10 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_TH_00_BEA",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_TH_00_HUN_G",
       "value": "Enemy/NPC"
     },
@@ -1509,6 +1569,22 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_SO_00_AXD",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SO_00_WGN",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SO_00_PSI",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SO_00_BNI",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_SO_03_SWN",
       "value": "Enemy/NPC"
     },
@@ -1678,6 +1754,10 @@
     },
     {
       "key": "UN_LW_E_SO_03_TIM",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SO_03_DAC",
       "value": "Enemy/NPC"
     },
     {
@@ -1906,6 +1986,10 @@
     },
     {
       "key": "UN_LW_E_PR_02_TIM_2",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_PR_02_CLR2",
       "value": "Enemy/NPC"
     },
     {
@@ -2198,6 +2282,54 @@
     },
     {
       "key": "UN_LW_E_RI_08_MGK",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT00_09",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_THI",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_HUN",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_KNT",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_MNK",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT00_09_LAN",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT01_09",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_THI",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_HUN",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_KNT",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_MNK",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SYT01_09_LAN",
       "value": "Enemy/NPC"
     },
     {
@@ -2889,6 +3021,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_FF10_E_DKFN_01",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_FF10_E_DFDZ",
       "value": "Enemy"
     },
@@ -2902,6 +3038,18 @@
     },
     {
       "key": "UN_FF10_E_YNLS_PT_HA",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF10_E_VLFR",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF10_E_YN_PT_NO_1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF10_E_VLFR_PT_HA",
       "value": "Enemy"
     },
     {
@@ -3033,6 +3181,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_GL_LW_E_MDFY_02",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_MDFY_SIREN",
       "value": "Enemy"
     },
@@ -3137,6 +3289,22 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_FF10_E_DKFN_GR1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF10_E_DFDZ_GR1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF10_E_YNLS_GR1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF10_E_VLFR_GR1",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_OCHU_QE",
       "value": "Enemy"
     },
@@ -3205,6 +3373,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_OMEG_GL_RV",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_OMEG_SIREN",
       "value": "Enemy"
     },
@@ -3229,6 +3401,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_SHGN_02",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_HLDV",
       "value": "Enemy"
     },
@@ -3246,6 +3422,14 @@
     },
     {
       "key": "UN_LW_E_WRAT",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_WRAT_01",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_WRAT_02",
       "value": "Enemy"
     },
     {
@@ -3298,6 +3482,18 @@
     },
     {
       "key": "UN_LW_E_DMCM_RAID",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_ELEM_05_R",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_WYVN_01_RAID",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_DMCM_RAID_02",
       "value": "Enemy"
     },
     {
@@ -4745,15 +4941,35 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_FINA",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_RSNC",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SCIA",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_VRID",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_SO_02_ARC",
       "value": "Enemy/NPC"
     },
     {
-      "key": "UN_LW_P_SDLE",
-      "value": "Self-Proclaimed God"
+      "key": "UN_LW_E_SO_02_BNI",
+      "value": "Enemy/NPC"
     },
     {
       "key": "UN_LW_E_GHUL",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_GHUL_01",
       "value": "Enemy"
     },
     {

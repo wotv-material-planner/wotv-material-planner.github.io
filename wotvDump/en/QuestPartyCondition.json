@@ -107,6 +107,22 @@
     {
       "key": "PR_LCIO",
       "value": ""
+    },
+    {
+      "key": "PR_GL_SDLE",
+      "value": "Set Formation with Specific Units"
+    },
+    {
+      "key": "PR_GL_IREZ",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_FINA_01",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_JEDN_01",
+      "value": "Set Formation with a Specific Unit"
     }
   ]
 }

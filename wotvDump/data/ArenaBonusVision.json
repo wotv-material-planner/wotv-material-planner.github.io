@@ -3212,18 +3212,6 @@
         },
         {
           "rate": 75,
-          "iname": "VC_LW_ANIM"
-        },
-        {
-          "rate": 75,
-          "iname": "VC_LW_IFRT"
-        },
-        {
-          "rate": 75,
-          "iname": "VC_LW_BCRD"
-        },
-        {
-          "rate": 75,
           "iname": "VC_FF10_MV1"
         },
         {
@@ -3231,16 +3219,317 @@
           "iname": "VC_LW_BAHM"
         },
         {
-          "rate": 50,
-          "iname": "VC_LW_OMEG"
+          "rate": 75,
+          "iname": "VC_LW_DEAN"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_ESTR"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_SLEN"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_USER1"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_IBRA"
         },
         {
           "rate": 50,
-          "iname": "VC_LW_THLA"
+          "iname": "VC_LW_ANIM"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_IFRT"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BCRD"
         },
         {
           "rate": 50,
           "iname": "VC_FF10_MV2"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00077",
+      "visioncards": [
+        {
+          "rate": 75,
+          "iname": "VC_FF10_VLFR"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_TYPN"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_FF10_MV2"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_FF10_MV1"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BAHM"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ANIM"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_IFRT"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BCRD"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00078",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_LW_GLMS"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_FF10_VLFR"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_TYPN"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_FF10_MV2"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_FF10_MV1"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_BAHM"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00079",
+      "visioncards": [
+        {
+          "rate": 75,
+          "iname": "VC_LW_ODIN_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_FF10_VLFR"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_GLMS"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_LSWL"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_FF10_MV1"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_HLNA"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_FF10_MV2"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00080",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_LW_FRUIT"
+        },
+        {
+          "rate": 100,
+          "iname": "VC_TOMB_MV1"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_FF10_VLFR"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_FF10_MV1"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_HLNA"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_FF10_MV2"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00081",
+      "visioncards": [
+        {
+          "rate": 75,
+          "iname": "VC_LW_FRUIT"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_TOMB_MV1"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_HLNA"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_GABL"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_MACR"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_GRSR"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00082",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_LW_FINA_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_TOMB_MV1"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_HLNA"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_RAIN"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00083",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_LW_JEDN_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_FINA_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_TYPN"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_COMIC"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_TOMB_MV1"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_LSWL"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_TSLP"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00084",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_LW_JEDN_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_MORE01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_TYPN"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ADLD2"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_COMIC"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_LSWL"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_FINA_01"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BV_00085",
+      "visioncards": [
+        {
+          "rate": 100,
+          "iname": "VC_LW_JEDN_01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_MORE01"
+        },
+        {
+          "rate": 75,
+          "iname": "VC_LW_TYPN"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_ADLD2"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_COMIC"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_LSWL"
+        },
+        {
+          "rate": 50,
+          "iname": "VC_LW_FINA_01"
         }
       ]
     }

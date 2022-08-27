@@ -824,6 +824,36 @@
       "piece_iname": "IT_PI_LW_IRDL_01",
       "spirit_iname": "IT_SP_LW_IRDL_01",
       "rate": 100
+    },
+    {
+      "piece_iname": "IT_PI_LW_SDLE",
+      "spirit_iname": "IT_SP_LW_SDLE",
+      "rate": 100
+    },
+    {
+      "piece_iname": "IT_PI_LW_IREZ",
+      "spirit_iname": "IT_SP_LW_IREZ",
+      "rate": 100
+    },
+    {
+      "piece_iname": "IT_PI_LW_RNEL",
+      "spirit_iname": "IT_SP_LW_RNEL",
+      "rate": 100
+    },
+    {
+      "piece_iname": "IT_PI_LW_MCRD",
+      "spirit_iname": "IT_SP_LW_MCRD",
+      "rate": 100
+    },
+    {
+      "piece_iname": "IT_PI_LW_FINA_01",
+      "spirit_iname": "IT_SP_LW_FINA_01",
+      "rate": 100
+    },
+    {
+      "piece_iname": "IT_PI_LW_JEDN_01",
+      "spirit_iname": "IT_SP_LW_SUMM_UR",
+      "rate": 100
     }
   ]
 }

@@ -2373,6 +2373,86 @@
       "value": "An item required to enhance a Job (Operative) at Lv. 15"
     },
     {
+      "key": "IT_JB_MM_SDLE",
+      "value": "An item required to enhance a Job (Crystal Sanctum Founder) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_2",
+      "value": "An item required to enhance a Job (Crystal Sanctum Founder) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_3",
+      "value": "An item required to enhance a Job (Crystal Sanctum Founder) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_4",
+      "value": "An item required to enhance a Job (Crystal Sanctum Founder) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_SDLE_5",
+      "value": "An item required to enhance a Job (Crystal Sanctum Founder) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_DAC",
+      "value": "An item required to enhance a Job (Hunter) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_DAC_2",
+      "value": "An item required to enhance a Job (Hunter) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_DAC_3",
+      "value": "An item required to enhance a Job (Hunter) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_DAC_4",
+      "value": "An item required to enhance a Job (Hunter) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_DAC_5",
+      "value": "An item required to enhance a Job (Hunter) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01",
+      "value": "An item required to enhance a Job (Sorceress of Hess) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_2",
+      "value": "An item required to enhance a Job (Sorceress of Hess) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_3",
+      "value": "An item required to enhance a Job (Sorceress of Hess) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_4",
+      "value": "An item required to enhance a Job (Sorceress of Hess) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_FINA_01_5",
+      "value": "An item required to enhance a Job (Sorceress of Hess) at Lv. 15"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01",
+      "value": "An item required to enhance a Job (Beachside Stag) at Lv. 3"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_2",
+      "value": "An item required to enhance a Job (Beachside Stag) at Lv. 6"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_3",
+      "value": "An item required to enhance a Job (Beachside Stag) at Lv. 9"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_4",
+      "value": "An item required to enhance a Job (Beachside Stag) at Lv. 12"
+    },
+    {
+      "key": "IT_JB_MM_JEDN_01_5",
+      "value": "An item required to enhance a Job (Beachside Stag) at Lv. 15"
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "An item required to enhance a fire unit's Job at Lvs. 2<space=1>–<space=1>3"
     },
@@ -3617,6 +3697,26 @@
       "value": "An item required to Limit Break a unit"
     },
     {
+      "key": "IT_PI_LW_SDLE",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_IREZ",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_RNEL",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_FINA_01",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_PI_LW_JEDN_01",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "An item required to enhance Mont Leonis's EX Job"
     },
@@ -4183,6 +4283,22 @@
     {
       "key": "IT_SP_LW_IRDL_01",
       "value": "An item required to enhance Ildyra (Sweetheart)'s EX Job"
+    },
+    {
+      "key": "IT_SP_LW_SDLE",
+      "value": "An item required to enhance Sadali Crysthea's EX Job"
+    },
+    {
+      "key": "IT_SP_LW_IREZ",
+      "value": "An item required to enhance Eliza's EX Job"
+    },
+    {
+      "key": "IT_SP_LW_RNEL",
+      "value": "An item required to enhance Ranell's EX Job"
+    },
+    {
+      "key": "IT_SP_LW_FINA_01",
+      "value": "An item required to enhance Dark Fina's EX Job"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -4791,6 +4907,14 @@
     {
       "key": "IT_AF_AW_VERN",
       "value": "Silent Sollerets Awakening Material"
+    },
+    {
+      "key": "IT_AF_AW_LMIG",
+      "value": "Sapphire Ear Cuffs Awakening Material"
+    },
+    {
+      "key": "IT_AF_AW_MINU",
+      "value": "Arcane Tuning Rod Awakening Material"
     },
     {
       "key": "IT_AF_AW_GLOVE",
@@ -5409,6 +5533,18 @@
       "value": "A recipe required to craft a Bow of the Divine Flame: Dilla"
     },
     {
+      "key": "IT_AF_LW_BOW_016",
+      "value": "A recipe required to craft a Cataract"
+    },
+    {
+      "key": "IT_AF_LW_ACC_073",
+      "value": "A recipe required to craft a Thornlet"
+    },
+    {
+      "key": "IT_AF_LW_ACC_049",
+      "value": "A recipe required to craft a Beastbane Pendant"
+    },
+    {
       "key": "IT_AF_LW_ACC_054",
       "value": "A recipe required to craft an Evilbane Pendant"
     },
@@ -5417,8 +5553,16 @@
       "value": "A recipe required to craft a White Cape"
     },
     {
+      "key": "IT_AF_LW_ACC_078",
+      "value": "A recipe required to craft a Jeweled Belt"
+    },
+    {
       "key": "IT_AF_PRS5_ACC_002",
       "value": "A recipe required to craft a Jack Frost Doll"
+    },
+    {
+      "key": "IT_AF_FF10_ACCE_002",
+      "value": "A recipe required to craft Auron's Sunglasses"
     },
     {
       "key": "IT_AF_FF6_ACC_003",
@@ -5627,6 +5771,26 @@
     {
       "key": "IT_AF_PRS5_SWO_000",
       "value": "A recipe required to craft a Rapier"
+    },
+    {
+      "key": "IT_AF_LW_ROD_027",
+      "value": "A recipe required to craft a Doom Twilight"
+    },
+    {
+      "key": "IT_AF_LW_MAC_013",
+      "value": "A recipe required to craft a Diamond Mace"
+    },
+    {
+      "key": "IT_AF_LW_BSW_011",
+      "value": "A recipe required to craft a Crimson Saber"
+    },
+    {
+      "key": "IT_AF_GL_LW_ACC_090",
+      "value": "A recipe required to craft a Mindflayer's Belt"
+    },
+    {
+      "key": "IT_AF_GL_LW_GUN_013",
+      "value": "A recipe required to craft a Hydropump Blaster"
     },
     {
       "key": "IT_AF_AW_LCIO",
@@ -5989,6 +6153,10 @@
       "value": "A medal that can be acquired from specific Summons (Expires 17:59, 5/17/2022, World Time (PST))"
     },
     {
+      "key": "IT_EC_MEDAL_GF_6th",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 7/12/2022, World Time (PST))"
+    },
+    {
       "key": "IT_EC_MEDAL_CNY21",
       "value": "A medal that can be exchanged for various items at the Ox Medal Unit and Vision Card Training Material Exchange Shop and Ox Medal Equipment Training Material Exchange Shop."
     },
@@ -6015,6 +6183,14 @@
     {
       "key": "IT_EC_MEDAL_SU2021_C",
       "value": "A medal that can be acquired during the Summer 2021 Part III — Featured New Unit Summon, the Summer 2021 Part III — Elsirelle (Summer) Release 9-Step 10x Summon, and the Summer 2021 Part III — Applicable Water UR Unit Guaranteed Step Up 10x Summon and exchanged for various items at the Summer 2021 Medal (C) Exchange Shop (Expires 23:59, 9/14/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_MEDAL_SU2022_A",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 9/13/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_MEDAL_SU2022_B",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 9/13/2022, World Time (PST))"
     },
     {
       "key": "IT_EC_MEDAL_W2021R",
@@ -6329,6 +6505,62 @@
       "value": "A medal that can be acquired during the Early Summer 2022 Part IV — \"Dragon King Advent, Bahamut\" Featured 5-Step 10x Summon (Expires 23:59, 7/5/2022, World Time (PST))"
     },
     {
+      "key": "IT_EC_SUMMON_07_U_03_A",
+      "value": "A medal that can be acquired from specific Summons (Expires 21:59, 7/26/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_VC_03_A",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/2/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_U_03_B",
+      "value": "A medal that can be acquired during the Featured New Unit Summon, the Version Upgrade Celebration — Eliza Featured 9-Step 10x Summon, and the Version Upgrade Celebration — Eliza Featured 5-Step 10x Summon (Expires 23:59, 8/9/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_03_A",
+      "value": "A medal that can be acquired during the Version Upgrade Celebration — Helena (Black-Robed Witch) & \"Black Rose of the Battlefield\" Featured 10x Summon (Expires 23:59, 8/9/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_07_VC_03_B",
+      "value": "A medal that can be acquired from specific Summons (Expires 17:59, 8/16/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_A",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/23/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_B",
+      "value": "A medal that can be acquired from specific Summons (Expires 17:59, 8/16/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_A",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/30/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_B",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/23/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_C",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/23/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_VC_03_C",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/30/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_08_U_03_D",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/30/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_U_SEASON",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 9/13/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_V_SEASON",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 9/13/2022, World Time (PST))"
+    },
+    {
       "key": "IT_EC_SUMMON_1st_GL1",
       "value": "A medal that can be exchanged for unit and vision card shards released by 4/14/2021, World Time (PST). *Cannot be used for limited or collaborative shards other than Tidus, Yuna, Auron, \"Suteki Da Ne,\" \"A Place Unknown,\" \"Exorcists,\" and \"Winter Holiday Party.\" *Shards for units or vision cards releasing during the Exchange Shop duration will not appear until they are released."
     },
@@ -6370,23 +6602,23 @@
     },
     {
       "key": "IT_US_SE_JB_05_GL_13",
-      "value": "A ticket that allows the user to summon 30 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 13 – 15."
+      "value": "A ticket that allows the user to summon 30 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 13 – 15."
     },
     {
       "key": "IT_US_SE_JB_04_GL_14",
-      "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 10 – 12."
+      "value": "A ticket that allows the user to summon 30 of one type of Citrine (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 10 – 12."
     },
     {
       "key": "IT_US_SE_JB_03_GL_12",
-      "value": "A ticket that allows the user to summon 30 of one type of Charoite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 7 – 9."
+      "value": "A ticket that allows the user to summon 30 of one type of Charoite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 7 – 9."
     },
     {
       "key": "IT_US_SE_JB_02_GL_09",
-      "value": "A ticket that allows the user to summon 30 of one type of Azurite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 4 – 6."
+      "value": "A ticket that allows the user to summon 30 of one type of Azurite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 4 – 6."
     },
     {
       "key": "IT_US_SE_JB_01_GL_09",
-      "value": "A ticket that allows the user to summon 15 of one type of Jadeite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 1 – 3."
+      "value": "A ticket that allows the user to summon 15 of one type of Jadeite (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves, Book) necessary to enhance a Job at Lv. 1 – 3."
     },
     {
       "key": "IT_US_SE_JB_05_GL_07",
@@ -7149,20 +7381,36 @@
       "value": "An item that can be acquired in FFX Collaborative Events and exchanged for various items at the FFX Event Medal Exchange Shop. This medal cannot be exchanged outside of the specified exchange shop period."
     },
     {
-      "key": "IT_EC_FF10_2",
-      "value": "A medal that can be acquired from reissued FFX Collaborative Event Quests."
+      "key": "IT_EC_FF10_3",
+      "value": "A medal that can be acquired from the FFX Collaboration — Trials of Reckoning"
     },
     {
       "key": "IT_EC_FF10_6",
       "value": "A medal that can be acquired from specific Summons (Expires 17:59, 8/16/2022, World Time (PST))"
     },
     {
+      "key": "IT_EC_FF10_7",
+      "value": "A medal that can be acquired from the FFX Collaboration Reissue — Trials of Reckoning II"
+    },
+    {
       "key": "IT_EC_TOMB_1",
       "value": "An item that can be acquired in TR Collaborative Events and exchanged for various items at the TR Event Medal Exchange Shop. This medal cannot be exchanged outside of the specified exchange shop period."
     },
     {
+      "key": "IT_EC_TOMB_1_R",
+      "value": "A medal that can be acquired from reissued Tomb Raider Event Quests."
+    },
+    {
       "key": "IT_EC_TOMB_2",
       "value": "A medal that can be acquired during the Tomb Raider Collaborative Summon, the Tomb Raider Collaboration — Applicable Water UR Unit Guaranteed Step Up 10x Summon, and the Tomb Raider Collaboration — EX Festival 9-Step 10x Summon and exchanged for various items at the TR Summon Medal Exchange Shop (Expires 23:59, 11/2/2021, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_TOMB_3",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/30/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_TOMB_4",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/30/2022, World Time (PST))"
     },
     {
       "key": "IT_US_G_FFT_01",
@@ -7545,6 +7793,22 @@
       "value": "A Summon Ticket for a unit of UR rarity released by 8/18/2021, World Time (PST). *Cannot be used for limited or collaborative units"
     },
     {
+      "key": "IT_US_G_U_UR_05",
+      "value": "A Summon Ticket for a UR unit of the applicable elements released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_G_U_UR_06",
+      "value": "A Summon Ticket for a UR unit of the applicable elements released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_G_U_UR_07",
+      "value": "A Summon Ticket for a UR unit of the applicable elements released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_G_U_UR_08",
+      "value": "A Summon Ticket for a UR unit of the applicable elements released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
       "key": "IT_US_G_U_SSR_99_01",
       "value": "A ticket that allows the user to summon one of the following fully-enhanced Lv. 99 MR units: Fina, Adelard, Chel, Livialle, Dario Hourne, Salire, Tyytas, or Ramada."
     },
@@ -7901,6 +8165,10 @@
       "value": "A ticket that allows the user to select and summon a Lv. 99 unit of UR rarity released by 5/19/2021. *Caution: If you select a unit you already possess, it will be converted into 40 unit shards. *Cannot be used for Gilgamesh, Sterne (Knight of Ruin), Mont (King of Leonis), or limited or collaborative units."
     },
     {
+      "key": "IT_US_GL_SE_UR_U_03",
+      "value": "A Select FFBE Unit Summon Ticket which can be used to summon one of the following FFBE units: Esther, Ibara, Starlight Elena, Duane, Fryevia, Charlotte, Sakura, Lasswell, Rain, Aileen, Mediena, or Ayaka."
+    },
+    {
       "key": "IT_US_G_U_99UR_GL_01",
       "value": "A ticket that allows the user to summon a fully enhanced Lv. 99 unit of UR rarity released by 8/4/2021. *Caution: If the enhanced unit you summon is already in your possession, Unit Lv. (EXP) / Times Awakened / Limit Breaks will be overwritten to the higher values. *Cannot be used for Gilgamesh, Sterne (Knight of Ruin), Mont (King of Leonis), Helena (Black-Robed Witch), or limited or collaborative units."
     },
@@ -8131,6 +8399,14 @@
     {
       "key": "IT_US_SE_AW-ITEM_15",
       "value": "A ticket that allows the user to select from 8 elements to summon 600 Awakening Prisms"
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_16",
+      "value": "A ticket that allows the user to select from 8 elements to summon 260 Awakening Prisms"
+    },
+    {
+      "key": "IT_US_SE_AW-ITEM_17",
+      "value": "A ticket that allows the user to select from 8 elements to summon 50 Awakening Prisms"
     },
     {
       "key": "IT_VPI_LW_GLEM",
@@ -8817,6 +9093,30 @@
       "value": "An item required to awaken a vision card"
     },
     {
+      "key": "IT_VPI_LW_GLMS",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_FRUIT",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_FINA_01",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_JEDN_01",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_COMIC",
+      "value": "An item required to awaken a vision card"
+    },
+    {
+      "key": "IT_VPI_LW_ADLD2",
+      "value": "An item required to awaken a vision card"
+    },
+    {
       "key": "IT_VC_EXP_01",
       "value": "Grants vision card EXP (S)"
     },
@@ -9041,6 +9341,14 @@
       "value": "A medal that can be acquired from Raid Boss Revivals"
     },
     {
+      "key": "IT_EC_RAID_24",
+      "value": "A medal that can be acquired from Raid Battles"
+    },
+    {
+      "key": "IT_EC_RAID_25",
+      "value": "A medal that can be acquired from Raid Boss Revivals"
+    },
+    {
       "key": "IT_US_GL_SE_SB_EXP_1",
       "value": "A ticket that allows the user to select from 8 elements to summon 500 Magicite (M) necessary for enhancing espers"
     },
@@ -9091,6 +9399,10 @@
     {
       "key": "IT_US_GL_SE_SB_EXP13",
       "value": "A ticket that allows the user to select from 8 elements to summon 200 Magicite (XL) necessary for enhancing espers"
+    },
+    {
+      "key": "IT_US_GL_SE_SB_EXP14",
+      "value": "A ticket that allows the user to select from 8 elements to summon 1,000 Magicite (XL) necessary for enhancing espers"
     },
     {
       "key": "IT_US_GL_SE_VPI_01",
@@ -9254,11 +9566,11 @@
     },
     {
       "key": "IT_US_SE_PI_GL_31",
-      "value": "A Select UR Unit Shard x50 Summon Ticket for units released by 5/18/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+      "value": "A Select UR Unit Shard x50 Summon Ticket for units released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
     },
     {
       "key": "IT_US_SE_PI_GL_32",
-      "value": "A Select UR Unit Shard x100 Summon Ticket for units released by 5/18/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+      "value": "A Select UR Unit Shard x100 Summon Ticket for units released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
     },
     {
       "key": "IT_US_SE_PI_GL_33",
@@ -9342,11 +9654,11 @@
     },
     {
       "key": "IT_US_SE_PI_GL_53",
-      "value": "A Select R-UR Unit Shard x100 Summon Ticket for units released by 5/18/2022, World Time (PST). *Cannot be used for 100-cost, limited, or collaborative units"
+      "value": "A Select R-UR Unit Shard x100 Summon Ticket for units released by 7/20/2022, World Time (PST). *Cannot be used for 100-cost, limited, or collaborative units"
     },
     {
       "key": "IT_US_SE_PI_GL_54",
-      "value": "A Select R–UR Vision Card Shard x100 Summon Ticket for vision cards released by 5/11/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
+      "value": "A Select R–UR Vision Card Shard x100 Summon Ticket for vision cards released by 7/13/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
     },
     {
       "key": "IT_US_SE_PI_GL_55",
@@ -9354,11 +9666,11 @@
     },
     {
       "key": "IT_US_SE_PI_GL_56",
-      "value": "A Select R–UR Unit Shard x400 Summon Ticket for units released by 5/18/2022, World Time (PST). *Cannot be used for 100-cost, limited, or collaborative units."
+      "value": "A Select R-UR Unit Shard x400 Summon Ticket for units released by 7/20/2022, World Time (PST). *Cannot be used for 100-cost, limited, or collaborative units"
     },
     {
       "key": "IT_US_SE_PI_GL_57",
-      "value": "A Select R–UR Vision Card Shard x175 Summon Ticket for vision cards released by 5/11/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
+      "value": "A Select R–UR Vision Card Shard x175 Summon Ticket for vision cards released by 7/13/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
     },
     {
       "key": "IT_US_SE_PI_GL_58",
@@ -9413,6 +9725,74 @@
       "value": "A Select Unit Shard x40 Summon Ticket for units of R to UR rarity released by 6/1/2022, World Time (PST). *Cannot be used for limited or collaborative units."
     },
     {
+      "key": "IT_US_SE_PI_GL_71",
+      "value": "A Select Unit Shard x5 Summon Ticket for units of R to UR rarity released by 7/6/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_72",
+      "value": "A Select MR Unit Summon Ticket for units released by 2/3/2021, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_73",
+      "value": "A Select MR Unit Shard x500 Summon Ticket for units released by 2/3/2021, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_74",
+      "value": "A Select MR Unit Shard x50 Summon Ticket for units released by 2/3/2021, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_75",
+      "value": "A Select FFBE Unit Shard x80 Summon Ticket which can be used to summon shards for one of the following FFBE units: Esther, Ibara, Starlight Elena, Duane, Fryevia, Charlotte, Sakura, Lasswell, Rain, Aileen, Mediena, or Ayaka."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_76",
+      "value": "A Select FFBE Unit Mindsphere x80 Summon Ticket which can be used to summon Mindspheres for one of the following FFBE units: Esther, Ibara, Starlight Elena, Duane, Fryevia, Charlotte, Sakura, Lasswell, Rain, Aileen, Mediena, or Ayaka."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_77",
+      "value": "A Select Unit Shard x20 Summon Ticket for units of R to UR rarity released by 6/15/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_78",
+      "value": "A Select Unit Shard x40 Summon Ticket for units of R to UR rarity released by 7/6/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_79",
+      "value": "A Select Unit Shard x5 Summon Ticket for units of R to UR rarity released by 8/3/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_80",
+      "value": "A Select UR Unit Shard x40 Summon Ticket for units released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_81",
+      "value": "A Select Unit Shard x40 Summon Ticket for units of R to UR rarity released by 8/3/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_82",
+      "value": "A Select Summer Unit Summon Ticket that can be used for one of the following Summer units: Jayden (Summer), Elsirelle (Summer), Kilphe (Summer), Lilyth (Summer), or Kitone (Summer)."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_83",
+      "value": "A Select Summer Unit Shard x80 Summon Ticket that can be used for Jayden (Summer), Elsirelle (Summer), Kilphe (Summer), Lilyth (Summer), or Kitone (Summer)."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_87",
+      "value": "A Select Summon Ticket for a UR unit of the applicable elements released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_88",
+      "value": "A Select Summon Ticket for a UR unit of the applicable elements released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_89",
+      "value": "A Select Summon Ticket for a UR unit of the applicable elements released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
+      "key": "IT_US_SE_PI_GL_90",
+      "value": "A Select Summon Ticket for a UR unit of the applicable elements released by 7/20/2022, World Time (PST). *Cannot be used for limited or collaborative units."
+    },
+    {
       "key": "IT_US_SE_VPI_GL_16",
       "value": "A Select UR Vision Card Shard x50 Summon Ticket for vision cards released by 2/10/2021, World Time (PST). *Cannot be used for limited or collaborative vision cards."
     },
@@ -9442,11 +9822,23 @@
     },
     {
       "key": "IT_US_SE_VPI_GL_23",
-      "value": "A Select UR Vision Card Shard x25 Summon Ticket for vision cards released by 6/8/2022, World Time (PST). *Cannot be used for limited or collaborative vision cards"
+      "value": "A Select UR Vision Card Shard x25 Summon Ticket for vision cards released by 8/10/2022, World Time (PST). *Cannot be used for limited or collaborative vision cards."
     },
     {
       "key": "IT_US_SE_VPI_GL_24",
       "value": "A Select Vision Card Shard x25 Summon Ticket for vision cards of R to UR rarity released by 5/25/2022, World Time (PST). *Cannot be used for limited or collaborative vision cards."
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_25",
+      "value": "A Select Vision Card Shard x25 Summon Ticket for vision cards of R to UR rarity released by 6/8/2022, World Time (PST). *Cannot be used for limited or collaborative vision cards."
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_26",
+      "value": "A Select UR Vision Card Shard x25 Summon Ticket for vision cards released by 7/13/2022, World Time (PST). *Cannot be used for limited or collaborative vision cards"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_27",
+      "value": "A Select UR Vision Card Shard x275 Summon Ticket for vision cards released by 5/25/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
     },
     {
       "key": "IT_US_SE_VPI_11",
@@ -9538,19 +9930,19 @@
     },
     {
       "key": "IT_US_2AN_SE_UR_U_01",
-      "value": "A Select UR Unit Summon Ticket for units released by 5/18/2022, World Time (PST). *Cannot be used for 100-cost, limited, or collaborative units."
+      "value": "A Select UR Unit Summon Ticket for units released by 7/20/2022, World Time (PST). *Cannot be used for 100-cost, limited, or collaborative units."
     },
     {
       "key": "IT_US_2AN_SE_PI_01",
-      "value": "A Select UR Unit Shard x600 Summon Ticket for units released by 5/18/2022, World Time (PST). *Cannot be used for 100-cost, limited, or collaborative units."
+      "value": "A Select UR Unit Shard x600 Summon Ticket for units released by 7/20/2022, World Time (PST). *Cannot be used for 100-cost, limited, or collaborative units."
     },
     {
       "key": "IT_US_2AN_SE_UR_V_01",
-      "value": "A Select UR Vision Card Summon Ticket for vision cards released by 5/11/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards"
+      "value": "A Select UR Vision Card Summon Ticket for vision cards released by 7/13/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
     },
     {
       "key": "IT_US_2AN_SE_VPI_01",
-      "value": "A Select UR Vision Card Shard x275 Summon Ticket for vision cards released by 5/11/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
+      "value": "A Select UR Vision Card Shard x275 Summon Ticket for vision cards released by 7/13/2022, World Time (PST). *Cannot be used for 90-cost, limited, or collaborative vision cards."
     },
     {
       "key": "IT_US_SE_SSR_U_01",
@@ -9849,6 +10241,42 @@
       "value": "A ticket that can be used to challenge a FFIV Collaboration — Trials of Reckoning II Boss"
     },
     {
+      "key": "IT_PT_SKIP_FFX_1",
+      "value": "A ticket that can be used to skip FFX Collaboration — Trials of Reckoning battles"
+    },
+    {
+      "key": "IT_PT_BSSKIP_FF10_1",
+      "value": "A ticket that can be used to skip FFX Collaboration — Trials of Reckoning Boss Battles"
+    },
+    {
+      "key": "IT_PT_BOSS_FF10_1",
+      "value": "A ticket that can be used to challenge a FFX Collaboration — Trials of Reckoning Boss"
+    },
+    {
+      "key": "IT_PT_SKIP_FFX_2",
+      "value": "A ticket that can be used to skip FFX Collaboration Reissue — Trials of Reckoning II battles"
+    },
+    {
+      "key": "IT_PT_BSSKIP_FF10_2",
+      "value": "A ticket that can be used to skip FFX Collaboration Reissue — Trials of Reckoning II Boss Battles"
+    },
+    {
+      "key": "IT_PT_BOSS_FF10_2",
+      "value": "A ticket that can be used to challenge an FFX Collaboration Reissue — Trials of Reckoning II Boss"
+    },
+    {
+      "key": "IT_PT_SKIP_002",
+      "value": "A ticket that can be used to skip Trials of Reckoning battles"
+    },
+    {
+      "key": "IT_PT_BSSKIP_002",
+      "value": "A ticket that can be used to skip Trials of Reckoning Boss Battles"
+    },
+    {
+      "key": "IT_PT_BOSS_002",
+      "value": "A ticket that can be used to challenge a Trials of Reckoning Boss"
+    },
+    {
       "key": "IT_JP_UP_01",
       "value": "Increases JP acquired (S) during Quests (excluding Crystals)"
     },
@@ -9945,6 +10373,14 @@
       "value": "An item required for July's Benefit Exchange"
     },
     {
+      "key": "IT_STAMP_2203",
+      "value": "An item required for August's Benefit Exchange"
+    },
+    {
+      "key": "IT_STAMP_2204",
+      "value": "An item required for September's Benefit Exchange"
+    },
+    {
       "key": "IT_KEY_JP",
       "value": "Unlocks a specified Key Quest once"
     },
@@ -9995,34 +10431,6 @@
     {
       "key": "IT_US_SE_JB_05_ANNIV_01",
       "value": "A ticket that allows the user to summon 365 of one type of Spinel (Sword, Greatsword, Fists, Katana, Spear, Dagger, Ninja Blade, Bow, Gun, Staff, Mace, Axe, Gloves) necessary to enhance a Job at Lv. 13 – 15."
-    },
-    {
-      "key": "IT_PT_SKIP_FFX_1",
-      "value": "A ticket that can be used to skip FFX Collaboration — Trials of Reckoning battles"
-    },
-    {
-      "key": "IT_PT_BSSKIP_FF10_1",
-      "value": "A ticket that can be used to skip FFX Collaboration — Trials of Reckoning Boss Battles"
-    },
-    {
-      "key": "IT_PT_BOSS_FF10_1",
-      "value": "A ticket that can be used to challenge a FFX Collaboration — Trials of Reckoning Boss"
-    },
-    {
-      "key": "IT_EC_FF10_3",
-      "value": "A medal that can be acquired from the FFX Collaboration — Trials of Reckoning"
-    },
-    {
-      "key": "IT_PT_SKIP_002",
-      "value": "A ticket that can be used to skip Trials of Reckoning battles"
-    },
-    {
-      "key": "IT_PT_BSSKIP_002",
-      "value": "A ticket that can be used to skip Trials of Reckoning Boss Battles"
-    },
-    {
-      "key": "IT_PT_BOSS_002",
-      "value": "A ticket that can be used to challenge a Trials of Reckoning Boss"
     },
     {
       "key": "IT_EC_POINT_002",
@@ -10421,6 +10829,62 @@
       "value": "A ticket that can be used to perform a 10x summon for the FINAL FANTASY X Reissue Collaborative Summon — Yuna or the FINAL FANTASY X Reissue Collaborative Summon — Auron (Expires 23:59, 8/2/2022, World Time (PST))"
     },
     {
+      "key": "IT_US_G_PU_U_FES2206",
+      "value": "A ticket that can be used to perform the Crystal Festival — Warriors of the Crystals Summon (Expires 23:59, 7/5/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_FES2206_10",
+      "value": "A ticket that can be used to perform the Crystal Festival — Warriors of the Crystals 10x Summon (Expires 23:59, 7/5/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_SDLE",
+      "value": "A ticket that can be used to perform a Featured New Unit Summon (Expires 17:59, 7/19/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_SDLE_10",
+      "value": "A ticket that can be used to perform a Featured New Unit 10x Summon (Expires 17:59, 7/19/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_IREZ",
+      "value": "A ticket that can be used to perform a Featured New Unit Summon (Expires 23:59, 8/2/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_IREZ_10",
+      "value": "A ticket that can be used to perform a Featured New Unit 10x Summon (Expires 23:59, 8/2/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_CD30",
+      "value": "A ticket that can be used to perform a Crystal Dynamics 30th Anniversary Commemorative Unit Featured Summon or a Crystal Dynamics 30th Anniversary Commemorative Vision Card Featured Summon (Expires 23:59, 8/23/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_CD30_10",
+      "value": "A ticket that can be used to perform a 10x summon for the Crystal Dynamics 30th Anniversary Commemorative Unit Featured Summon or the Crystal Dynamics 30th Anniversary Commemorative Vision Card Featured Summon (Expires 23:59, 8/23/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_FINA_01",
+      "value": "A ticket that can be used to perform a Featured New Unit Summon (Expires 17:59, 8/16/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_FINA_01_10",
+      "value": "A ticket that can be used to perform a Featured New Unit 10x Summon (Expires 17:59, 8/16/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_JEDN_01",
+      "value": "A ticket that can be used to perform a Summer Festival 2022 — Featured New Unit Summon (Expires 23:59, 9/6/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_JEDN_01_10",
+      "value": "A ticket that can be used to perform a Summer Festival 2022 — Featured New Unit 10x Summon (Expires 23:59, 9/6/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_MORE_01",
+      "value": "A ticket that can be used to perform a 2.5 Year Anniversary Countdown Part I — Limited Seasonal Reissue Moore the Merrier Featured Summon or a 2.5 Year Anniversary Countdown Part I — Limited Seasonal Reissue \"Fervor of the Festival\" Featured Summon (Expires 23:59, 9/6/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_U_MORE_01_10",
+      "value": "A ticket that can be used to perform a 10x summon for the 2.5 Year Anniversary Countdown Part I — Limited Seasonal Reissue Moore the Merrier Featured Summon or the 2.5 Year Anniversary Countdown Part I — Limited Seasonal Reissue \"Fervor of the Festival\" Featured Summon (Expires 23:59, 9/6/2022, World Time (PST))"
+    },
+    {
       "key": "IT_US_G_PU_V_FFX",
       "value": "A ticket that can be used to perform a FINAL FANTASY X Reissue Collaborative Summon — \"Suteki Da Ne\" (Expires 23:59, 8/2/2022, World Time (PST))"
     },
@@ -10435,6 +10899,26 @@
     {
       "key": "IT_US_G_PU_V_VLFR_10",
       "value": "A ticket that can be used to perform a 10x summon for the FINAL FANTASY X Reissue Collaborative Summon — \"Valefor\" (Expires 23:59, 8/2/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_V_GLMS",
+      "value": "A ticket that can be used to perform a Featured New Vision Card Summon (Expires 21:59, 7/26/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_V_GLMS_10",
+      "value": "A ticket that can be used to perform a Featured New Vision Card 10x Summon (Expires 21:59, 7/26/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_V_FRUIT",
+      "value": "A ticket that can be used to perform a Featured New Vision Card Summon (Expires 23:59, 8/9/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_V_FRUIT_10",
+      "value": "A ticket that can be used to perform a Featured New Vision Card 10x Summon (Expires 23:59, 8/9/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_US_G_PU_V_FINA_01",
+      "value": "A ticket that can be used to perform a Featured New Vision Card Summon (Expires 23:59, 8/23/2022, World Time (PST))"
     },
     {
       "key": "IT_US_G_P5R_01",
@@ -10539,6 +11023,10 @@
     {
       "key": "IT_US_SE_VC_PI_2ANNI",
       "value": "A Select UR Vision Card Shard x20 Summon Ticket for vision cards released by 2/16/2022, World Time (PST). *Cannot be used for limited or collaborative vision cards"
+    },
+    {
+      "key": "IT_US_SE_U_PI_XTAL_01",
+      "value": "A Select Warrior of the Crystals Summon Ticket that can be used to summon Jeume, Cetia, Ranan, Velis, or Astrius."
     },
     {
       "key": "IT_EC_FF7_1",
@@ -10677,8 +11165,16 @@
       "value": "A ticket that allows the user to select from 8 elements to summon 600 Fragments of Thought necessary for awakening"
     },
     {
+      "key": "IT_US_SE_PI_COM_13",
+      "value": "A ticket that allows the user to select from 8 elements to summon 250 Fragments of Thought necessary for awakening"
+    },
+    {
+      "key": "IT_US_SE_PI_COM_14",
+      "value": "A ticket that allows the user to select from 8 elements to summon 50 Fragments of Thought necessary for awakening"
+    },
+    {
       "key": "IT_US_SE_AF_SUP_04",
-      "value": "A ticket that allows the user to summon 10 of one type of Equipment Seal (Life, Attack, Magic, Spirit, Defense, Evasion, Skill, Damage)."
+      "value": "A ticket that allows the user to summon 30 of one type of Equipment Seal (Life, Attack, Magic, Spirit, Defense, Evasion, Skill, Damage)."
     },
     {
       "key": "IT_US_SE_AF_SUP_05",
@@ -10757,6 +11253,10 @@
       "value": "A medal that can be acquired from specific Summons (Expires 23:59, 3/1/2022, World Time (PST))"
     },
     {
+      "key": "IT_EC_MEDAL_EQPT_B",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/9/2022, World Time (PST))"
+    },
+    {
       "key": "IT_EC_SUMMON_SUMM_01",
       "value": "A medal that can be acquired from specific Summons (Expires 23:59, 3/15/2022, World Time (PST))"
     },
@@ -10765,12 +11265,20 @@
       "value": "A medal that can be acquired from specific Summons (Expires 23:59, 3/29/2022, World Time (PST))"
     },
     {
+      "key": "IT_EC_SUMMON_FES_04",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/9/2022, World Time (PST))"
+    },
+    {
       "key": "IT_EC_SUMMON_FES_05",
       "value": "A medal that can be acquired from specific Summons (Expires 23:59, 5/24/2022, World Time (PST))"
     },
     {
       "key": "IT_EC_SUMMON_FES_06",
       "value": "A medal that can be acquired from specific Summons (Expires 17:59, 4/26/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_SUMMON_FES_07",
+      "value": "A medal that can be acquired from specific Summons (Expires 23:59, 8/9/2022, World Time (PST))"
     },
     {
       "key": "IT_EC_SUMMON_2nd_02",
@@ -10819,6 +11327,10 @@
     {
       "key": "IT_EC_MEDAL_11MDL",
       "value": "A medal that can be acquired from specific Summons (Expires 23:59, 5/31/2022, World Time (PST))"
+    },
+    {
+      "key": "IT_EC_MEDAL_12MDL",
+      "value": "A medal that can be acquired from specific Summons (Expires 21:59, 7/26/2022, World Time (PST))"
     },
     {
       "key": "IT_US_SE_JB_02_15",
@@ -10891,6 +11403,18 @@
     {
       "key": "IT_EC_FF10_1_R",
       "value": "An item that can be acquired in FFX Collaborative Events and exchanged for various items at the FFX Reissue Event Medal Exchange Shop. This medal cannot be exchanged outside of the specified exchange shop period."
+    },
+    {
+      "key": "IT_PI_LW_MCRD",
+      "value": "An item required to Limit Break a unit"
+    },
+    {
+      "key": "IT_SP_LW_MCRD",
+      "value": "An item required to enhance Macleod's EX Job"
+    },
+    {
+      "key": "IT_EC_FFEXU_1",
+      "value": "An item that can be acquired in EXVIUS UNIVERSE Creeping Malice Collaborative Events and exchanged for various items at the Creeping Malice Event Medal Exchange Shop. This medal cannot be exchanged outside of the specified exchange shop period."
     }
   ]
 }

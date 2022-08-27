@@ -333,6 +333,22 @@
       "value": "Came, Saw, Conquered"
     },
     {
+      "key": "LW_PA_00094",
+      "value": "Azure Dragon Cup 2022 Victor"
+    },
+    {
+      "key": "LW_PA_00095",
+      "value": "Azure Dragon Cup 2022 Top 10"
+    },
+    {
+      "key": "LW_PA_00096",
+      "value": "Azure Dragon Cup 2022 Top 50"
+    },
+    {
+      "key": "LW_PA_00097",
+      "value": "Hunter of the Beastly Pack"
+    },
+    {
       "key": "AWD_P_Anniv_1",
       "value": "Celebrating the First Anniversary"
     },
@@ -359,6 +375,30 @@
     {
       "key": "AWD_P_FF10_6",
       "value": "That's how it's done."
+    },
+    {
+      "key": "AWD_P_FF10_11",
+      "value": "Surpasser of One's Father"
+    },
+    {
+      "key": "AWD_P_FF10_12",
+      "value": "Blitzball Striker"
+    },
+    {
+      "key": "AWD_P_FF10_13",
+      "value": "Zanarkand's Star Player"
+    },
+    {
+      "key": "AWD_P_FF10_14",
+      "value": "Guide to the Eternal Calm"
+    },
+    {
+      "key": "AWD_P_FF10_15",
+      "value": "Realizer of One's Father's Dream"
+    },
+    {
+      "key": "AWD_P_FF10_16",
+      "value": "Dancer of the Sending"
     },
     {
       "key": "AWD_P_FF07_1",
@@ -447,6 +487,22 @@
     {
       "key": "AWD_P_P5R_4",
       "value": "Resolution Clear as Glass"
+    },
+    {
+      "key": "AWD_P_FF10_7",
+      "value": "The Purest Kiss"
+    },
+    {
+      "key": "AWD_P_FF10_8",
+      "value": "A Fleeting Dream"
+    },
+    {
+      "key": "AWD_P_FF10_9",
+      "value": "Suteki Da Ne"
+    },
+    {
+      "key": "AWD_P_FF10_10",
+      "value": "Dream of the Fayth"
     },
     {
       "key": "AWD_P_Anniv_2",
@@ -2989,6 +3045,86 @@
       "value": "Heart Sparked by Love"
     },
     {
+      "key": "LW_PA_CH_160_1",
+      "value": "Sadali Fan"
+    },
+    {
+      "key": "LW_PA_CH_160_2",
+      "value": "Sadali Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_160_3",
+      "value": "Sadali Devotee"
+    },
+    {
+      "key": "LW_PA_CH_160_4",
+      "value": "Self-Proclaimed God"
+    },
+    {
+      "key": "LW_PA_CH_161_1",
+      "value": "Eliza Fan"
+    },
+    {
+      "key": "LW_PA_CH_161_2",
+      "value": "Eliza Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_161_3",
+      "value": "Eliza Devotee"
+    },
+    {
+      "key": "LW_PA_CH_161_4",
+      "value": "Black-Haired Drifter"
+    },
+    {
+      "key": "LW_PA_CH_162_1",
+      "value": "Ranell Fan"
+    },
+    {
+      "key": "LW_PA_CH_162_2",
+      "value": "Ranell Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_162_3",
+      "value": "Ranell Devotee"
+    },
+    {
+      "key": "LW_PA_CH_162_4",
+      "value": "Immoral Handmaid"
+    },
+    {
+      "key": "LW_PA_CH_164_1",
+      "value": "Macleod Fan"
+    },
+    {
+      "key": "LW_PA_CH_164_2",
+      "value": "Macleod Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_164_3",
+      "value": "Macleod Devotee"
+    },
+    {
+      "key": "LW_PA_CH_164_4",
+      "value": "Ardent Purger"
+    },
+    {
+      "key": "LW_PA_CH_165_1",
+      "value": "Dark Fina Fan"
+    },
+    {
+      "key": "LW_PA_CH_165_2",
+      "value": "Dark Fina Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_165_3",
+      "value": "Dark Fina Devotee"
+    },
+    {
+      "key": "LW_PA_CH_165_4",
+      "value": "The Other Fina"
+    },
+    {
       "key": "LW_GL_PA_CH_FRVA_1",
       "value": "Fryevia Fan"
     },
@@ -3083,6 +3219,22 @@
     {
       "key": "LW_GL_PA_CH_ESTR_4",
       "value": "Hero of Thunder"
+    },
+    {
+      "key": "LW_GL_PA_CH_JEDN_01_1",
+      "value": "Jayden (Summer) Fan"
+    },
+    {
+      "key": "LW_GL_PA_CH_JEDN_01_2",
+      "value": "Jayden (Summer) Enthusiast"
+    },
+    {
+      "key": "LW_GL_PA_CH_JEDN_01_3",
+      "value": "Jayden (Summer) Devotee"
+    },
+    {
+      "key": "LW_GL_PA_CH_JEDN_01_4",
+      "value": "Smoldering Summer Bullet"
     },
     {
       "key": "WW_PA_CH_001_1",

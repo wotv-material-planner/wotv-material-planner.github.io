@@ -3826,16 +3826,8 @@
       "iname": "ARENA_GL_BU_00118",
       "units": [
         {
-          "rate": 100,
+          "rate": 75,
           "iname": "UN_LW_P_IRDL_01"
-        },
-        {
-          "rate": 75,
-          "iname": "UN_LW_P_RYER_02"
-        },
-        {
-          "rate": 75,
-          "iname": "UN_LW_P_SERL"
         },
         {
           "rate": 75,
@@ -3862,24 +3854,441 @@
           "iname": "UN_LW_P_VSTR"
         },
         {
-          "rate": 50,
-          "iname": "UN_LW_P_RSNC"
+          "rate": 75,
+          "iname": "UN_LW_P_JUME"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_STIA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_LNAN"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_BELS"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ASTR"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_LMIG"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_FRVA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_DEAN"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_SLEN"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_IBRA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ESTR"
         },
         {
           "rate": 50,
-          "iname": "UN_LW_P_THLA_01"
+          "iname": "UN_LW_P_RYER_02"
         },
         {
           "rate": 50,
-          "iname": "UN_LW_P_WHIS"
+          "iname": "UN_LW_P_SERL"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00119",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_LW_P_SDLE"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_JUME"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_STIA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_LNAN"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_BELS"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ASTR"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_LMIG"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_IRDL_01"
         },
         {
           "rate": 50,
-          "iname": "UN_LW_P_CLEY"
+          "iname": "UN_LW_P_RYER_02"
         },
         {
           "rate": 50,
-          "iname": "UN_LW_P_SEVR"
+          "iname": "UN_LW_P_SERL"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_FF10_P_YUNA"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_FF10_P_ARON"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SZRT"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_DRND"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_VSTR"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00120",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_LW_P_SDLE"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_VADM"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_KTON"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_MONT_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_LMIG"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_IRDL_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_FF10_P_YUNA"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_FF10_P_ARON"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SZRT"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_DRND"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_VSTR"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SERL"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_MRLK"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_RYER"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00121",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_LW_P_IREZ"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_FF10_P_YUNA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_FF10_P_ARON"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_RNEL"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SDLE"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_HLNA_01"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00122",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_TOMB_P_LARA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_FF10_P_TIDU"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_FF10_P_YUNA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_FF10_P_ARON"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_IREZ"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_HLNA_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_VNLA"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_RYEL"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_DRIO"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SIRM"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00123",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_LW_P_FINA_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_TOMB_P_LARA"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_MCRD"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SAKR"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_IREZ"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00124",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_LW_P_FINA_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_TOMB_P_LARA"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_RAIN"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_FINA"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_UNII"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00125",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_LW_P_JEDN_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_KTON_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_LILS_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_QILF_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ELSR_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_FINA_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_TOMB_P_LARA"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_LSWL"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_VKTR"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_HLNA"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_SRJS"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00126",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_LW_P_JEDN_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_MORE_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_KTON_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_LILS_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_QILF_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ELSR_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_FINA_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_LSWL"
+        }
+      ]
+    },
+    {
+      "iname": "ARENA_GL_BU_00127",
+      "units": [
+        {
+          "rate": 100,
+          "iname": "UN_LW_P_JEDN_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_MORE_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_KTON_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_LILS_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_QILF_01"
+        },
+        {
+          "rate": 75,
+          "iname": "UN_LW_P_ELSR_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_FINA_01"
+        },
+        {
+          "rate": 50,
+          "iname": "UN_LW_P_LSWL"
         }
       ]
     }
