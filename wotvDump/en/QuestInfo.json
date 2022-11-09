@@ -109,6 +109,22 @@
       "value": "Quest Information<br>None"
     },
     {
+      "key": "QE_EV_WEEK_01_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_WEEK_02_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_WEEK_03_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_WEEK_04_1",
+      "value": "Quest Information<br>None"
+    },
+    {
       "key": "QE_EV_AW_HIGH_01",
       "value": "Quest Information<br>None"
     },
@@ -2030,7 +2046,7 @@
     },
     {
       "key": "QE_ST_01130310",
-      "value": "Quest Information<br>Recommended: Unit Lv. 91, Job Lv. 14"
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8"
     },
     {
       "key": "QE_ST_01140101",
@@ -3313,6 +3329,166 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 93, Job Lv. 14"
     },
     {
+      "key": "QE_ST_02090301",
+      "value": "Quest Information<br>Recommended: Unit Lv. 84, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090302",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090303",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090304",
+      "value": "Quest Information<br>Recommended: Unit Lv. 86, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090305",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090306",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090307",
+      "value": "Quest Information<br>Recommended: Unit Lv. 88, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090308",
+      "value": "Quest Information<br>Recommended: Unit Lv. 89, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090309",
+      "value": "Quest Information<br>Recommended: Unit Lv. 89, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02090310",
+      "value": "Quest Information<br>Recommended: Unit Lv. 94, Job Lv. 14"
+    },
+    {
+      "key": "QE_ST_02100101",
+      "value": "Quest Information<br>Recommended: Unit Lv. 82, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100102",
+      "value": "Quest Information<br>Recommended: Unit Lv. 83, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100103",
+      "value": "Quest Information<br>Recommended: Unit Lv. 83, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100104",
+      "value": "Quest Information<br>Recommended: Unit Lv. 84, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100105",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100106",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100107",
+      "value": "Quest Information<br>Recommended: Unit Lv. 86, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100108",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100109",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100110",
+      "value": "Quest Information<br>Recommended: Unit Lv. 92, Job Lv. 14"
+    },
+    {
+      "key": "QE_ST_02100201",
+      "value": "Quest Information<br>Recommended: Unit Lv. 83, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100202",
+      "value": "Quest Information<br>Recommended: Unit Lv. 84, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100203",
+      "value": "Quest Information<br>Recommended: Unit Lv. 84, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100204",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100205",
+      "value": "Quest Information<br>Recommended: Unit Lv. 86, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100206",
+      "value": "Quest Information<br>Recommended: Unit Lv. 86, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100207",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100208",
+      "value": "Quest Information<br>Recommended: Unit Lv. 88, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100209",
+      "value": "Quest Information<br>Recommended: Unit Lv. 88, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100210",
+      "value": "Quest Information<br>Recommended: Unit Lv. 93, Job Lv. 14"
+    },
+    {
+      "key": "QE_ST_02100301",
+      "value": "Quest Information<br>Recommended: Unit Lv. 84, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100302",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100303",
+      "value": "Quest Information<br>Recommended: Unit Lv. 85, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100304",
+      "value": "Quest Information<br>Recommended: Unit Lv. 86, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100305",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100306",
+      "value": "Quest Information<br>Recommended: Unit Lv. 87, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100307",
+      "value": "Quest Information<br>Recommended: Unit Lv. 88, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100308",
+      "value": "Quest Information<br>Recommended: Unit Lv. 89, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100309",
+      "value": "Quest Information<br>Recommended: Unit Lv. 89, Job Lv. 13"
+    },
+    {
+      "key": "QE_ST_02100310",
+      "value": "Quest Information<br>Recommended: Unit Lv. 94, Job Lv. 14"
+    },
+    {
       "key": "QE_HA_LW_ZZAN",
       "value": "Quest Information<br>Recommended: Unit Lv. 17, Job Lv. 3<br>Conditions to Unlock: Acquire Unit [Zazan]"
     },
@@ -3474,7 +3650,7 @@
     },
     {
       "key": "QE_HA_LW_MACR",
-      "value": "Quest Information<br>Recommended: Unit Lv. 53, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Machérie Hourne]"
+      "value": "Quest Information<br>Recommended: Unit Lv. 53, Job Lv. 10<br>Conditions to Unlock: Acquire Unit [Machrie Hourne]"
     },
     {
       "key": "QE_HA_LW_GLMS",
@@ -3658,7 +3834,7 @@
     },
     {
       "key": "QE_HA_LW_LMRE",
-      "value": "Quest Information<br>Recommended: Unit Lv. 68, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Lemuré]"
+      "value": "Quest Information<br>Recommended: Unit Lv. 68, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Lemur]"
     },
     {
       "key": "QE_HA_LW_GRSR_01",
@@ -3725,6 +3901,22 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12<br>Conditions to Unlock: Acquire Unit [Dark Fina]"
     },
     {
+      "key": "QE_HA_LW_MA_02",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12<br>Conditions to Unlock: Acquire Unit [Machrie (Queen of Hourne)]"
+    },
+    {
+      "key": "QE_HA_LW_GR_02",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12<br>Conditions to Unlock: Acquire Unit [Glaciela (Flagbearer of Reform)]"
+    },
+    {
+      "key": "QE_HA_LW_SHNC",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12<br>Conditions to Unlock: Acquire Unit [Chunak]"
+    },
+    {
+      "key": "QE_HA_LW_ALIA",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12<br>Conditions to Unlock: Acquire Unit [Alaya Rundall]"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Zazan] is at least Lv. 40"
     },
@@ -3781,6 +3973,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Naiah] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_NAIA2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Naiah] is at least Lv. 80<br>Cleared [Character Quest: Naiah]"
+    },
+    {
       "key": "QE_CH_LW_SRJS",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Serjes] is at least Lv. 40"
     },
@@ -3807,6 +4003,10 @@
     {
       "key": "QE_CH_LW_VADM",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Vadim] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_VADM2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Vadim] is at least Lv. 80<br>Cleared [Character Quest: Vadim]"
     },
     {
       "key": "QE_CH_LW_MURM",
@@ -3869,6 +4069,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Rairyuu] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_RIRY2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Rairyuu] is at least Lv. 80<br>Cleared [Character Quest: Rairyuu]"
+    },
+    {
       "key": "QE_CH_LW_VSTR",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Vistralle] is at least Lv. 40"
     },
@@ -3923,6 +4127,10 @@
     {
       "key": "QE_CH_LW_SDLX",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Shadowlynx] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_SDLX2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Shadowlynx] is at least Lv. 80<br>Cleared [Character Quest: Shadowlynx]"
     },
     {
       "key": "QE_CH_LW_NASR",
@@ -4010,11 +4218,11 @@
     },
     {
       "key": "QE_CH_LW_MACR",
-      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Machérie Hourne] is at least Lv. 40"
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Machrie Hourne] is at least Lv. 40"
     },
     {
       "key": "QE_CH_LW_MACR2",
-      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Machérie Hourne] is at least Lv. 80<br>Cleared [Character Quest: Machérie Hourne]"
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Machrie Hourne] is at least Lv. 80<br>Cleared [Character Quest: Machrie Hourne]"
     },
     {
       "key": "QE_CH_LW_GLMS",
@@ -4069,8 +4277,16 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Adelard] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_ADLD2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Adelard] is at least Lv. 80<br>Cleared [Character Quest: Adelard]"
+    },
+    {
       "key": "QE_CH_LW_THLA",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Salire] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_THLA2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Salire] is at least Lv. 80<br>Cleared [Character Quest: Salire]"
     },
     {
       "key": "QE_CH_LW_VKTR",
@@ -4083,6 +4299,10 @@
     {
       "key": "QE_CH_GL_LW_FRVA",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Fryevia] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_GL_LW_FRVA2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Fryevia] is at least Lv. 80<br>Cleared [Character Quest: Fryevia]"
     },
     {
       "key": "QE_CH_LW_RAIN",
@@ -4137,6 +4357,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Raviesse] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_LVES2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Raviesse] is at least Lv. 80<br>Cleared [Character Quest: Raviesse]"
+    },
+    {
       "key": "QE_CH_FF14_YSTL",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Y'shtola] is at least Lv. 40"
     },
@@ -4157,12 +4381,24 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Ramza] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_FFT_RAMZ2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Ramza] is at least Lv. 80<br>Cleared [Character Quest: Ramza]"
+    },
+    {
       "key": "QE_CH_FFT_GFGR",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Gaffgarion] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_FFT_GFGR2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Gaffgarion] is at least Lv. 80<br>Cleared [Character Quest: Gaffgarion]"
+    },
+    {
       "key": "QE_CH_FFT_ORND",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Orlandeau] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_FFT_ORND2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Orlandeau] is at least Lv. 80<br>Cleared [Character Quest: Orlandeau]"
     },
     {
       "key": "QE_CH_FF1_WROL",
@@ -4173,12 +4409,24 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Mustadio] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_FFT_MSTD2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Mustadio] is at least Lv. 80<br>Cleared [Character Quest: Mustadio]"
+    },
+    {
       "key": "QE_CH_FFT_AGRA",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Agrias] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_FFT_AGRA2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Agrias] is at least Lv. 80<br>Cleared [Character Quest: Agrias]"
+    },
+    {
       "key": "QE_CH_FFT_DELT",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Delita] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_FFT_DELT2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Delita] is at least Lv. 80<br>Cleared [Character Quest: Delita]"
     },
     {
       "key": "QE_CH_LW_IRDL",
@@ -4187,6 +4435,10 @@
     {
       "key": "QE_CH_LW_STRN_01",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Sterne (Knight of Ruin)] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_ST_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Sterne (Knight of Ruin)] is at least Lv. 80<br>Cleared [Character Quest: Sterne (Knight of Ruin)]"
     },
     {
       "key": "QE_CH_LW_LSWL",
@@ -4201,6 +4453,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Glaciela Wezette] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_GRSR2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Glaciela Wezette] is at least Lv. 80<br>Cleared [Character Quest: Glaciela Wezette]"
+    },
+    {
       "key": "QE_CH_LW_RRIR",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Loreila] is at least Lv. 40"
     },
@@ -4209,8 +4465,16 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Little Leela (Halloween)] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_RY_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Little Leela (Halloween)] is at least Lv. 80<br>Cleared [Character Quest: Little Leela (Halloween)]"
+    },
+    {
       "key": "QE_CH_LW_RIRY_01",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Rairyuu (Halloween)] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_RI_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Rairyuu (Halloween)] is at least Lv. 80<br>Cleared [Character Quest: Rairyuu (Halloween)]"
     },
     {
       "key": "QE_CH_LW_SCAL",
@@ -4250,11 +4514,11 @@
     },
     {
       "key": "QE_CH_LW_MA_01",
-      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Machérie (Winter)] is at least Lv. 40"
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Machrie (Winter)] is at least Lv. 40"
     },
     {
       "key": "QE_CH_GL_LW_MA_01_2",
-      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Machérie (Winter)] is at least Lv. 80<br>Cleared [Character Quest: Machérie (Winter)]"
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Machrie (Winter)] is at least Lv. 80<br>Cleared [Character Quest: Machrie (Winter)]"
     },
     {
       "key": "QE_CH_LW_LATH",
@@ -4289,6 +4553,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Rhaldor] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_RARD2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Rhaldor] is at least Lv. 80<br>Cleared [Character Quest: Rhaldor]"
+    },
+    {
       "key": "QE_CH_LW_ELSI",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Ellshra] is at least Lv. 40"
     },
@@ -4297,8 +4565,16 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Vinera (Winter)] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_VN_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Vinera (Winter)] is at least Lv. 80<br>Cleared [Character Quest: Vinera (Winter)]"
+    },
+    {
       "key": "QE_CH_LW_VKTR_01",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Viktora (Winter)] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_VK_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Viktora (Winter)] is at least Lv. 80<br>Cleared [Character Quest: Viktora (Winter)]"
     },
     {
       "key": "QE_CH_LW_CRIS",
@@ -4373,6 +4649,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Helena (Black-Robed Witch)] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_HL_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Helena (Black-Robed Witch)] is at least Lv. 80<br>Cleared [Character Quest: Helena (Black-Robed Witch)]"
+    },
+    {
       "key": "QE_CH_LW_THLA_01",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Salire (Sweetheart)] is at least Lv. 40"
     },
@@ -4385,12 +4665,24 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Zazan the Unkillable] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_GL_LW_ZZAN_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Zazan the Unkillable] is at least Lv. 80<br>Cleared [Character Quest: Zazan the Unkillable]"
+    },
+    {
       "key": "QE_CH_LW_MORE",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Moore] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_MORE2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Moore] is at least Lv. 80<br>Cleared [Character Quest: Moore]"
+    },
+    {
       "key": "QE_CH_LW_CWEL",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Corwell] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_CWEL2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Corwell] is at least Lv. 80<br>Cleared [Character Quest: Corwell]"
     },
     {
       "key": "QE_CH_LW_LILS_01",
@@ -4417,6 +4709,10 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Charlotte] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_CRLT2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Charlotte] is at least Lv. 80<br>Cleared [Character Quest: Charlotte]"
+    },
+    {
       "key": "QE_CH_LW_VLRC",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Velric] is at least Lv. 40"
     },
@@ -4438,7 +4734,7 @@
     },
     {
       "key": "QE_CH_LW_LMRE",
-      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Lemuré] is at least Lv. 40"
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Lemur] is at least Lv. 40"
     },
     {
       "key": "QE_CH_LW_GRGS",
@@ -4463,6 +4759,10 @@
     {
       "key": "QE_CH_LW_GRSR_01",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Glaciela (Regalia)] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_GR_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Glaciela (Regalia)] is at least Lv. 80<br>Cleared [Character Quest: Glaciela (Regalia)]"
     },
     {
       "key": "QE_CH_GL_TOMB_LARA",
@@ -4491,6 +4791,10 @@
     {
       "key": "QE_CH_LW_FDRC_01",
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Frederika (Halloween)] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_FD_01_2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12<br>Conditions to Unlock: Unit [Frederika (Halloween)] is at least Lv. 80<br>Cleared [Character Quest: Frederika (Halloween)]"
     },
     {
       "key": "QE_CH_LW_LMIG",
@@ -4641,6 +4945,42 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Jayden (Summer)] is at least Lv. 40"
     },
     {
+      "key": "QE_CH_LW_MA_02",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Machrie (Queen of Hourne)] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_FF13_LTNG",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Lightning] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_FF13_HOPE",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Hope] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_FF13_SNOW",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Snow] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_GR_02",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Glaciela (Flagbearer of Reform)] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_SHNC",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Chunak] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_LBRK",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Rivelka] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_ALIA",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Alaya Rundall] is at least Lv. 40"
+    },
+    {
+      "key": "QE_CH_LW_LUCA_01",
+      "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Lu'Cia (Halloween)] is at least Lv. 40"
+    },
+    {
       "key": "QE_EV_GL_CDOWN_01_9",
       "value": "Six-Month Anniversary in 9 Days"
     },
@@ -4733,6 +5073,34 @@
       "value": "Second Anniversary in 1 day"
     },
     {
+      "key": "QE_EV_2_5ANV_1",
+      "value": "2.5 Year Anniversary in 7 Days"
+    },
+    {
+      "key": "QE_EV_2_5ANV_2",
+      "value": "2.5 Year Anniversary in 6 Days"
+    },
+    {
+      "key": "QE_EV_2_5ANV_3",
+      "value": "2.5 Year Anniversary in 5 Days"
+    },
+    {
+      "key": "QE_EV_2_5ANV_4",
+      "value": "2.5 Year Anniversary in 4 Days"
+    },
+    {
+      "key": "QE_EV_2_5ANV_5",
+      "value": "2.5 Year Anniversary in 3 Days"
+    },
+    {
+      "key": "QE_EV_2_5ANV_6",
+      "value": "2.5 Year Anniversary in 2 Days"
+    },
+    {
+      "key": "QE_EV_2_5ANV_7",
+      "value": "2.5 Year Anniversary in 1 Day"
+    },
+    {
       "key": "QE_EV_GL_TWCQ_FIR",
       "value": "Quest Information<br>Recommended: Unit Lv. 1, Job Lv. 1"
     },
@@ -4770,435 +5138,483 @@
     },
     {
       "key": "QE_PT_001_01",
-      "value": "High Score Reward<br>・Acquire at 110 points.<br>・Acquire at 150 points.<br>・Acquire at 190 points."
+      "value": "High Score Reward<br>Acquire at 110 points.<br>Acquire at 150 points.<br>Acquire at 190 points."
     },
     {
       "key": "QE_PT_001_02",
-      "value": "High Score Reward<br>・Acquire at 120 points.<br>・Acquire at 160 points.<br>・Acquire at 200 points."
+      "value": "High Score Reward<br>Acquire at 120 points.<br>Acquire at 160 points.<br>Acquire at 200 points."
     },
     {
       "key": "QE_PT_001_03",
-      "value": "High Score Reward<br>・Acquire at 140 points.<br>・Acquire at 180 points.<br>・Acquire at 240 points."
+      "value": "High Score Reward<br>Acquire at 140 points.<br>Acquire at 180 points.<br>Acquire at 240 points."
     },
     {
       "key": "QE_PT_001_04",
-      "value": "High Score Reward<br>・Acquire at 150 points.<br>・Acquire at 190 points.<br>・Acquire at 250 points."
+      "value": "High Score Reward<br>Acquire at 150 points.<br>Acquire at 190 points.<br>Acquire at 250 points."
     },
     {
       "key": "QE_PT_001_05",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 220 points.<br>・Acquire at 280 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 220 points.<br>Acquire at 280 points."
     },
     {
       "key": "QE_PT_001_HA01",
-      "value": "High Score Reward<br>・Acquire at 410 points.<br>・Acquire at 540 points.<br>・Acquire at 700 points."
+      "value": "High Score Reward<br>Acquire at 410 points.<br>Acquire at 540 points.<br>Acquire at 700 points."
     },
     {
       "key": "QE_PT_001_HA02",
-      "value": "High Score Reward<br>・Acquire at 430 points.<br>・Acquire at 560 points.<br>・Acquire at 720 points."
+      "value": "High Score Reward<br>Acquire at 430 points.<br>Acquire at 560 points.<br>Acquire at 720 points."
     },
     {
       "key": "QE_PT_001_HA03",
-      "value": "High Score Reward<br>・Acquire at 460 points.<br>・Acquire at 600 points.<br>・Acquire at 770 points."
+      "value": "High Score Reward<br>Acquire at 460 points.<br>Acquire at 600 points.<br>Acquire at 770 points."
     },
     {
       "key": "QE_PT_001_HA04",
-      "value": "High Score Reward<br>・Acquire at 470 points.<br>・Acquire at 620 points.<br>・Acquire at 800 points."
+      "value": "High Score Reward<br>Acquire at 470 points.<br>Acquire at 620 points.<br>Acquire at 800 points."
     },
     {
       "key": "QE_PT_001_HA05",
-      "value": "High Score Reward<br>・Acquire at 500 points.<br>・Acquire at 660 points.<br>・Acquire at 850 points."
+      "value": "High Score Reward<br>Acquire at 500 points.<br>Acquire at 660 points.<br>Acquire at 850 points."
     },
     {
       "key": "QE_PT_001_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1050 points.<br>・Acquire at 1380 points.<br>・Acquire at 1780 points."
+      "value": "High Score Reward<br>Acquire at 1050 points.<br>Acquire at 1380 points.<br>Acquire at 1780 points."
     },
     {
       "key": "QE_PT_001_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 2070 points.<br>・Acquire at 2710 points.<br>・Acquire at 3520 points."
+      "value": "High Score Reward<br>Acquire at 2070 points.<br>Acquire at 2710 points.<br>Acquire at 3520 points."
     },
     {
       "key": "QE_PT_002_01",
-      "value": "High Score Reward<br>・Acquire at 110 points.<br>・Acquire at 150 points.<br>・Acquire at 190 points."
+      "value": "High Score Reward<br>Acquire at 110 points.<br>Acquire at 150 points.<br>Acquire at 190 points."
     },
     {
       "key": "QE_PT_002_02",
-      "value": "High Score Reward<br>・Acquire at 120 points.<br>・Acquire at 160 points.<br>・Acquire at 200 points."
+      "value": "High Score Reward<br>Acquire at 120 points.<br>Acquire at 160 points.<br>Acquire at 200 points."
     },
     {
       "key": "QE_PT_002_03",
-      "value": "High Score Reward<br>・Acquire at 140 points.<br>・Acquire at 180 points.<br>・Acquire at 240 points."
+      "value": "High Score Reward<br>Acquire at 140 points.<br>Acquire at 180 points.<br>Acquire at 240 points."
     },
     {
       "key": "QE_PT_002_04",
-      "value": "High Score Reward<br>・Acquire at 150 points.<br>・Acquire at 190 points.<br>・Acquire at 250 points."
+      "value": "High Score Reward<br>Acquire at 150 points.<br>Acquire at 190 points.<br>Acquire at 250 points."
     },
     {
       "key": "QE_PT_002_05",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 220 points.<br>・Acquire at 280 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 220 points.<br>Acquire at 280 points."
     },
     {
       "key": "QE_PT_002_HA01",
-      "value": "High Score Reward<br>・Acquire at 410 points.<br>・Acquire at 540 points.<br>・Acquire at 700 points."
+      "value": "High Score Reward<br>Acquire at 410 points.<br>Acquire at 540 points.<br>Acquire at 700 points."
     },
     {
       "key": "QE_PT_002_HA02",
-      "value": "High Score Reward<br>・Acquire at 430 points.<br>・Acquire at 560 points.<br>・Acquire at 720 points."
+      "value": "High Score Reward<br>Acquire at 430 points.<br>Acquire at 560 points.<br>Acquire at 720 points."
     },
     {
       "key": "QE_PT_002_HA03",
-      "value": "High Score Reward<br>・Acquire at 460 points.<br>・Acquire at 600 points.<br>・Acquire at 770 points."
+      "value": "High Score Reward<br>Acquire at 460 points.<br>Acquire at 600 points.<br>Acquire at 770 points."
     },
     {
       "key": "QE_PT_002_HA04",
-      "value": "High Score Reward<br>・Acquire at 470 points.<br>・Acquire at 620 points.<br>・Acquire at 800 points."
+      "value": "High Score Reward<br>Acquire at 470 points.<br>Acquire at 620 points.<br>Acquire at 800 points."
     },
     {
       "key": "QE_PT_002_HA05",
-      "value": "High Score Reward<br>・Acquire at 500 points.<br>・Acquire at 660 points.<br>・Acquire at 850 points."
+      "value": "High Score Reward<br>Acquire at 500 points.<br>Acquire at 660 points.<br>Acquire at 850 points."
     },
     {
       "key": "QE_PT_002_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1050 points.<br>・Acquire at 1380 points.<br>・Acquire at 1780 points."
+      "value": "High Score Reward<br>Acquire at 1050 points.<br>Acquire at 1380 points.<br>Acquire at 1780 points."
     },
     {
       "key": "QE_PT_002_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 2070 points.<br>・Acquire at 2710 points.<br>・Acquire at 3520 points."
+      "value": "High Score Reward<br>Acquire at 2070 points.<br>Acquire at 2710 points.<br>Acquire at 3520 points."
     },
     {
       "key": "QE_PT_003_01",
-      "value": "High Score Reward<br>・Acquire at 110 points.<br>・Acquire at 150 points.<br>・Acquire at 190 points."
+      "value": "High Score Reward<br>Acquire at 110 points.<br>Acquire at 150 points.<br>Acquire at 190 points."
     },
     {
       "key": "QE_PT_003_02",
-      "value": "High Score Reward<br>・Acquire at 120 points.<br>・Acquire at 160 points.<br>・Acquire at 200 points."
+      "value": "High Score Reward<br>Acquire at 120 points.<br>Acquire at 160 points.<br>Acquire at 200 points."
     },
     {
       "key": "QE_PT_003_03",
-      "value": "High Score Reward<br>・Acquire at 140 points.<br>・Acquire at 180 points.<br>・Acquire at 240 points."
+      "value": "High Score Reward<br>Acquire at 140 points.<br>Acquire at 180 points.<br>Acquire at 240 points."
     },
     {
       "key": "QE_PT_003_04",
-      "value": "High Score Reward<br>・Acquire at 150 points.<br>・Acquire at 190 points.<br>・Acquire at 250 points."
+      "value": "High Score Reward<br>Acquire at 150 points.<br>Acquire at 190 points.<br>Acquire at 250 points."
     },
     {
       "key": "QE_PT_003_05",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 220 points.<br>・Acquire at 280 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 220 points.<br>Acquire at 280 points."
     },
     {
       "key": "QE_PT_003_HA01",
-      "value": "High Score Reward<br>・Acquire at 410 points.<br>・Acquire at 540 points.<br>・Acquire at 700 points."
+      "value": "High Score Reward<br>Acquire at 410 points.<br>Acquire at 540 points.<br>Acquire at 700 points."
     },
     {
       "key": "QE_PT_003_HA02",
-      "value": "High Score Reward<br>・Acquire at 430 points.<br>・Acquire at 560 points.<br>・Acquire at 720 points."
+      "value": "High Score Reward<br>Acquire at 430 points.<br>Acquire at 560 points.<br>Acquire at 720 points."
     },
     {
       "key": "QE_PT_003_HA03",
-      "value": "High Score Reward<br>・Acquire at 460 points.<br>・Acquire at 600 points.<br>・Acquire at 770 points."
+      "value": "High Score Reward<br>Acquire at 460 points.<br>Acquire at 600 points.<br>Acquire at 770 points."
     },
     {
       "key": "QE_PT_003_HA04",
-      "value": "High Score Reward<br>・Acquire at 470 points.<br>・Acquire at 620 points.<br>・Acquire at 800 points."
+      "value": "High Score Reward<br>Acquire at 470 points.<br>Acquire at 620 points.<br>Acquire at 800 points."
     },
     {
       "key": "QE_PT_003_HA05",
-      "value": "High Score Reward<br>・Acquire at 500 points.<br>・Acquire at 660 points.<br>・Acquire at 850 points."
+      "value": "High Score Reward<br>Acquire at 500 points.<br>Acquire at 660 points.<br>Acquire at 850 points."
     },
     {
       "key": "QE_PT_003_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1050 points.<br>・Acquire at 1380 points.<br>・Acquire at 1780 points."
+      "value": "High Score Reward<br>Acquire at 1050 points.<br>Acquire at 1380 points.<br>Acquire at 1780 points."
     },
     {
       "key": "QE_PT_003_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 2070 points.<br>・Acquire at 2710 points.<br>・Acquire at 3520 points."
+      "value": "High Score Reward<br>Acquire at 2070 points.<br>Acquire at 2710 points.<br>Acquire at 3520 points."
     },
     {
       "key": "QE_PT_004_01",
-      "value": "High Score Reward<br>・Acquire at 110 points.<br>・Acquire at 150 points.<br>・Acquire at 190 points."
+      "value": "High Score Reward<br>Acquire at 110 points.<br>Acquire at 150 points.<br>Acquire at 190 points."
     },
     {
       "key": "QE_PT_004_02",
-      "value": "High Score Reward<br>・Acquire at 120 points.<br>・Acquire at 160 points.<br>・Acquire at 200 points."
+      "value": "High Score Reward<br>Acquire at 120 points.<br>Acquire at 160 points.<br>Acquire at 200 points."
     },
     {
       "key": "QE_PT_004_03",
-      "value": "High Score Reward<br>・Acquire at 140 points.<br>・Acquire at 180 points.<br>・Acquire at 240 points."
+      "value": "High Score Reward<br>Acquire at 140 points.<br>Acquire at 180 points.<br>Acquire at 240 points."
     },
     {
       "key": "QE_PT_004_04",
-      "value": "High Score Reward<br>・Acquire at 150 points.<br>・Acquire at 190 points.<br>・Acquire at 250 points."
+      "value": "High Score Reward<br>Acquire at 150 points.<br>Acquire at 190 points.<br>Acquire at 250 points."
     },
     {
       "key": "QE_PT_004_05",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 220 points.<br>・Acquire at 280 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 220 points.<br>Acquire at 280 points."
     },
     {
       "key": "QE_PT_004_HA01",
-      "value": "High Score Reward<br>・Acquire at 410 points.<br>・Acquire at 540 points.<br>・Acquire at 700 points."
+      "value": "High Score Reward<br>Acquire at 410 points.<br>Acquire at 540 points.<br>Acquire at 700 points."
     },
     {
       "key": "QE_PT_004_HA02",
-      "value": "High Score Reward<br>・Acquire at 430 points.<br>・Acquire at 560 points.<br>・Acquire at 720 points."
+      "value": "High Score Reward<br>Acquire at 430 points.<br>Acquire at 560 points.<br>Acquire at 720 points."
     },
     {
       "key": "QE_PT_004_HA03",
-      "value": "High Score Reward<br>・Acquire at 460 points.<br>・Acquire at 600 points.<br>・Acquire at 770 points."
+      "value": "High Score Reward<br>Acquire at 460 points.<br>Acquire at 600 points.<br>Acquire at 770 points."
     },
     {
       "key": "QE_PT_004_HA04",
-      "value": "High Score Reward<br>・Acquire at 470 points.<br>・Acquire at 620 points.<br>・Acquire at 800 points."
+      "value": "High Score Reward<br>Acquire at 470 points.<br>Acquire at 620 points.<br>Acquire at 800 points."
     },
     {
       "key": "QE_PT_004_HA05",
-      "value": "High Score Reward<br>・Acquire at 500 points.<br>・Acquire at 660 points.<br>・Acquire at 850 points."
+      "value": "High Score Reward<br>Acquire at 500 points.<br>Acquire at 660 points.<br>Acquire at 850 points."
     },
     {
       "key": "QE_PT_004_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1050 points.<br>・Acquire at 1380 points.<br>・Acquire at 1780 points."
+      "value": "High Score Reward<br>Acquire at 1050 points.<br>Acquire at 1380 points.<br>Acquire at 1780 points."
     },
     {
       "key": "QE_PT_004_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 2070 points.<br>・Acquire at 2710 points.<br>・Acquire at 3520 points."
+      "value": "High Score Reward<br>Acquire at 2070 points.<br>Acquire at 2710 points.<br>Acquire at 3520 points."
     },
     {
       "key": "QE_PT_005_01",
-      "value": "High Score Reward<br>・Acquire at 110 points.<br>・Acquire at 150 points.<br>・Acquire at 190 points."
+      "value": "High Score Reward<br>Acquire at 110 points.<br>Acquire at 150 points.<br>Acquire at 190 points."
     },
     {
       "key": "QE_PT_005_02",
-      "value": "High Score Reward<br>・Acquire at 120 points.<br>・Acquire at 160 points.<br>・Acquire at 200 points."
+      "value": "High Score Reward<br>Acquire at 120 points.<br>Acquire at 160 points.<br>Acquire at 200 points."
     },
     {
       "key": "QE_PT_005_03",
-      "value": "High Score Reward<br>・Acquire at 140 points.<br>・Acquire at 180 points.<br>・Acquire at 240 points."
+      "value": "High Score Reward<br>Acquire at 140 points.<br>Acquire at 180 points.<br>Acquire at 240 points."
     },
     {
       "key": "QE_PT_005_04",
-      "value": "High Score Reward<br>・Acquire at 150 points.<br>・Acquire at 190 points.<br>・Acquire at 250 points."
+      "value": "High Score Reward<br>Acquire at 150 points.<br>Acquire at 190 points.<br>Acquire at 250 points."
     },
     {
       "key": "QE_PT_005_05",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 220 points.<br>・Acquire at 280 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 220 points.<br>Acquire at 280 points."
     },
     {
       "key": "QE_PT_005_HA01",
-      "value": "High Score Reward<br>・Acquire at 410 points.<br>・Acquire at 540 points.<br>・Acquire at 700 points."
+      "value": "High Score Reward<br>Acquire at 410 points.<br>Acquire at 540 points.<br>Acquire at 700 points."
     },
     {
       "key": "QE_PT_005_HA02",
-      "value": "High Score Reward<br>・Acquire at 430 points.<br>・Acquire at 560 points.<br>・Acquire at 720 points."
+      "value": "High Score Reward<br>Acquire at 430 points.<br>Acquire at 560 points.<br>Acquire at 720 points."
     },
     {
       "key": "QE_PT_005_HA03",
-      "value": "High Score Reward<br>・Acquire at 460 points.<br>・Acquire at 600 points.<br>・Acquire at 770 points."
+      "value": "High Score Reward<br>Acquire at 460 points.<br>Acquire at 600 points.<br>Acquire at 770 points."
     },
     {
       "key": "QE_PT_005_HA04",
-      "value": "High Score Reward<br>・Acquire at 470 points.<br>・Acquire at 620 points.<br>・Acquire at 800 points."
+      "value": "High Score Reward<br>Acquire at 470 points.<br>Acquire at 620 points.<br>Acquire at 800 points."
     },
     {
       "key": "QE_PT_005_HA05",
-      "value": "High Score Reward<br>・Acquire at 500 points.<br>・Acquire at 660 points.<br>・Acquire at 850 points."
+      "value": "High Score Reward<br>Acquire at 500 points.<br>Acquire at 660 points.<br>Acquire at 850 points."
     },
     {
       "key": "QE_PT_005_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1050 points.<br>・Acquire at 1380 points.<br>・Acquire at 1780 points."
+      "value": "High Score Reward<br>Acquire at 1050 points.<br>Acquire at 1380 points.<br>Acquire at 1780 points."
     },
     {
       "key": "QE_PT_005_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 2070 points.<br>・Acquire at 2710 points.<br>・Acquire at 3520 points."
+      "value": "High Score Reward<br>Acquire at 2070 points.<br>Acquire at 2710 points.<br>Acquire at 3520 points."
     },
     {
       "key": "QE_PT_006_01",
-      "value": "High Score Reward<br>・Acquire at 110 points.<br>・Acquire at 150 points.<br>・Acquire at 190 points."
+      "value": "High Score Reward<br>Acquire at 110 points.<br>Acquire at 150 points.<br>Acquire at 190 points."
     },
     {
       "key": "QE_PT_006_02",
-      "value": "High Score Reward<br>・Acquire at 120 points.<br>・Acquire at 160 points.<br>・Acquire at 200 points."
+      "value": "High Score Reward<br>Acquire at 120 points.<br>Acquire at 160 points.<br>Acquire at 200 points."
     },
     {
       "key": "QE_PT_006_03",
-      "value": "High Score Reward<br>・Acquire at 140 points.<br>・Acquire at 180 points.<br>・Acquire at 240 points."
+      "value": "High Score Reward<br>Acquire at 140 points.<br>Acquire at 180 points.<br>Acquire at 240 points."
     },
     {
       "key": "QE_PT_006_04",
-      "value": "High Score Reward<br>・Acquire at 150 points.<br>・Acquire at 190 points.<br>・Acquire at 250 points."
+      "value": "High Score Reward<br>Acquire at 150 points.<br>Acquire at 190 points.<br>Acquire at 250 points."
     },
     {
       "key": "QE_PT_006_05",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 220 points.<br>・Acquire at 280 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 220 points.<br>Acquire at 280 points."
     },
     {
       "key": "QE_PT_006_HA01",
-      "value": "High Score Reward<br>・Acquire at 410 points.<br>・Acquire at 540 points.<br>・Acquire at 700 points."
+      "value": "High Score Reward<br>Acquire at 410 points.<br>Acquire at 540 points.<br>Acquire at 700 points."
     },
     {
       "key": "QE_PT_006_HA02",
-      "value": "High Score Reward<br>・Acquire at 430 points.<br>・Acquire at 560 points.<br>・Acquire at 720 points."
+      "value": "High Score Reward<br>Acquire at 430 points.<br>Acquire at 560 points.<br>Acquire at 720 points."
     },
     {
       "key": "QE_PT_006_HA03",
-      "value": "High Score Reward<br>・Acquire at 460 points.<br>・Acquire at 600 points.<br>・Acquire at 770 points."
+      "value": "High Score Reward<br>Acquire at 460 points.<br>Acquire at 600 points.<br>Acquire at 770 points."
     },
     {
       "key": "QE_PT_006_HA04",
-      "value": "High Score Reward<br>・Acquire at 470 points.<br>・Acquire at 620 points.<br>・Acquire at 800 points."
+      "value": "High Score Reward<br>Acquire at 470 points.<br>Acquire at 620 points.<br>Acquire at 800 points."
     },
     {
       "key": "QE_PT_006_HA05",
-      "value": "High Score Reward<br>・Acquire at 500 points.<br>・Acquire at 660 points.<br>・Acquire at 850 points."
+      "value": "High Score Reward<br>Acquire at 500 points.<br>Acquire at 660 points.<br>Acquire at 850 points."
     },
     {
       "key": "QE_PT_006_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1050 points.<br>・Acquire at 1380 points.<br>・Acquire at 1780 points."
+      "value": "High Score Reward<br>Acquire at 1050 points.<br>Acquire at 1380 points.<br>Acquire at 1780 points."
     },
     {
       "key": "QE_PT_006_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 2070 points.<br>・Acquire at 2710 points.<br>・Acquire at 3520 points."
+      "value": "High Score Reward<br>Acquire at 2070 points.<br>Acquire at 2710 points.<br>Acquire at 3520 points."
     },
     {
       "key": "QE_PT_007_01",
-      "value": "High Score Reward<br>・Acquire at 110 points.<br>・Acquire at 150 points.<br>・Acquire at 190 points."
+      "value": "High Score Reward<br>Acquire at 110 points.<br>Acquire at 150 points.<br>Acquire at 190 points."
     },
     {
       "key": "QE_PT_007_02",
-      "value": "High Score Reward<br>・Acquire at 120 points.<br>・Acquire at 160 points.<br>・Acquire at 200 points."
+      "value": "High Score Reward<br>Acquire at 120 points.<br>Acquire at 160 points.<br>Acquire at 200 points."
     },
     {
       "key": "QE_PT_007_03",
-      "value": "High Score Reward<br>・Acquire at 140 points.<br>・Acquire at 180 points.<br>・Acquire at 240 points."
+      "value": "High Score Reward<br>Acquire at 140 points.<br>Acquire at 180 points.<br>Acquire at 240 points."
     },
     {
       "key": "QE_PT_007_04",
-      "value": "High Score Reward<br>・Acquire at 150 points.<br>・Acquire at 190 points.<br>・Acquire at 250 points."
+      "value": "High Score Reward<br>Acquire at 150 points.<br>Acquire at 190 points.<br>Acquire at 250 points."
     },
     {
       "key": "QE_PT_007_05",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 220 points.<br>・Acquire at 280 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 220 points.<br>Acquire at 280 points."
     },
     {
       "key": "QE_PT_007_HA01",
-      "value": "High Score Reward<br>・Acquire at 410 points.<br>・Acquire at 540 points.<br>・Acquire at 700 points."
+      "value": "High Score Reward<br>Acquire at 410 points.<br>Acquire at 540 points.<br>Acquire at 700 points."
     },
     {
       "key": "QE_PT_007_HA02",
-      "value": "High Score Reward<br>・Acquire at 430 points.<br>・Acquire at 560 points.<br>・Acquire at 720 points."
+      "value": "High Score Reward<br>Acquire at 430 points.<br>Acquire at 560 points.<br>Acquire at 720 points."
     },
     {
       "key": "QE_PT_007_HA03",
-      "value": "High Score Reward<br>・Acquire at 460 points.<br>・Acquire at 600 points.<br>・Acquire at 770 points."
+      "value": "High Score Reward<br>Acquire at 460 points.<br>Acquire at 600 points.<br>Acquire at 770 points."
     },
     {
       "key": "QE_PT_007_HA04",
-      "value": "High Score Reward<br>・Acquire at 470 points.<br>・Acquire at 620 points.<br>・Acquire at 800 points."
+      "value": "High Score Reward<br>Acquire at 470 points.<br>Acquire at 620 points.<br>Acquire at 800 points."
     },
     {
       "key": "QE_PT_007_HA05",
-      "value": "High Score Reward<br>・Acquire at 500 points.<br>・Acquire at 660 points.<br>・Acquire at 850 points."
+      "value": "High Score Reward<br>Acquire at 500 points.<br>Acquire at 660 points.<br>Acquire at 850 points."
     },
     {
       "key": "QE_PT_007_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1050 points.<br>・Acquire at 1380 points.<br>・Acquire at 1780 points."
+      "value": "High Score Reward<br>Acquire at 1050 points.<br>Acquire at 1380 points.<br>Acquire at 1780 points."
     },
     {
       "key": "QE_PT_007_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 2070 points.<br>・Acquire at 2710 points.<br>・Acquire at 3520 points."
+      "value": "High Score Reward<br>Acquire at 2070 points.<br>Acquire at 2710 points.<br>Acquire at 3520 points."
     },
     {
       "key": "QE_PT_008_01",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 280 points.<br>・Acquire at 480 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 280 points.<br>Acquire at 480 points."
     },
     {
       "key": "QE_PT_008_02",
-      "value": "High Score Reward<br>・Acquire at 190 points.<br>・Acquire at 310 points.<br>・Acquire at 530 points."
+      "value": "High Score Reward<br>Acquire at 190 points.<br>Acquire at 310 points.<br>Acquire at 530 points."
     },
     {
       "key": "QE_PT_008_03",
-      "value": "High Score Reward<br>・Acquire at 220 points.<br>・Acquire at 350 points.<br>・Acquire at 600 points."
+      "value": "High Score Reward<br>Acquire at 220 points.<br>Acquire at 350 points.<br>Acquire at 600 points."
     },
     {
       "key": "QE_PT_008_04",
-      "value": "High Score Reward<br>・Acquire at 230 points.<br>・Acquire at 380 points.<br>・Acquire at 650 points."
+      "value": "High Score Reward<br>Acquire at 230 points.<br>Acquire at 380 points.<br>Acquire at 650 points."
     },
     {
       "key": "QE_PT_008_05",
-      "value": "High Score Reward<br>・Acquire at 270 points.<br>・Acquire at 430 points.<br>・Acquire at 740 points."
+      "value": "High Score Reward<br>Acquire at 270 points.<br>Acquire at 430 points.<br>Acquire at 740 points."
     },
     {
       "key": "QE_PT_008_HA01",
-      "value": "High Score Reward<br>・Acquire at 570 points.<br>・Acquire at 950 points.<br>・Acquire at 1640 points."
+      "value": "High Score Reward<br>Acquire at 570 points.<br>Acquire at 950 points.<br>Acquire at 1640 points."
     },
     {
       "key": "QE_PT_008_HA02",
-      "value": "High Score Reward<br>・Acquire at 620 points.<br>・Acquire at 1020 points.<br>・Acquire at 1760 points."
+      "value": "High Score Reward<br>Acquire at 620 points.<br>Acquire at 1020 points.<br>Acquire at 1760 points."
     },
     {
       "key": "QE_PT_008_HA03",
-      "value": "High Score Reward<br>・Acquire at 660 points.<br>・Acquire at 1090 points.<br>・Acquire at 1880 points."
+      "value": "High Score Reward<br>Acquire at 660 points.<br>Acquire at 1090 points.<br>Acquire at 1880 points."
     },
     {
       "key": "QE_PT_008_HA04",
-      "value": "High Score Reward<br>・Acquire at 690 points.<br>・Acquire at 1150 points.<br>・Acquire at 1970 points."
+      "value": "High Score Reward<br>Acquire at 690 points.<br>Acquire at 1150 points.<br>Acquire at 1970 points."
     },
     {
       "key": "QE_PT_008_HA05",
-      "value": "High Score Reward<br>・Acquire at 730 points.<br>・Acquire at 1220 points.<br>・Acquire at 2090 points."
+      "value": "High Score Reward<br>Acquire at 730 points.<br>Acquire at 1220 points.<br>Acquire at 2090 points."
     },
     {
       "key": "QE_PT_008_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1690 points.<br>・Acquire at 2700 points.<br>・Acquire at 4280 points."
+      "value": "High Score Reward<br>Acquire at 1690 points.<br>Acquire at 2700 points.<br>Acquire at 4280 points."
     },
     {
       "key": "QE_PT_008_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 4110 points.<br>・Acquire at 6400 points.<br>・Acquire at 9960 points."
+      "value": "High Score Reward<br>Acquire at 4110 points.<br>Acquire at 6400 points.<br>Acquire at 9960 points."
     },
     {
       "key": "QE_PT_009_01",
-      "value": "High Score Reward<br>・Acquire at 160 points.<br>・Acquire at 240 points.<br>・Acquire at 320 points."
+      "value": "High Score Reward<br>Acquire at 160 points.<br>Acquire at 240 points.<br>Acquire at 320 points."
     },
     {
       "key": "QE_PT_009_02",
-      "value": "High Score Reward<br>・Acquire at 170 points.<br>・Acquire at 260 points.<br>・Acquire at 360 points."
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 260 points.<br>Acquire at 360 points."
     },
     {
       "key": "QE_PT_009_03",
-      "value": "High Score Reward<br>・Acquire at 190 points.<br>・Acquire at 290 points.<br>・Acquire at 410 points."
+      "value": "High Score Reward<br>Acquire at 190 points.<br>Acquire at 290 points.<br>Acquire at 410 points."
     },
     {
       "key": "QE_PT_009_04",
-      "value": "High Score Reward<br>・Acquire at 210 points.<br>・Acquire at 320 points.<br>・Acquire at 440 points."
+      "value": "High Score Reward<br>Acquire at 210 points.<br>Acquire at 320 points.<br>Acquire at 440 points."
     },
     {
       "key": "QE_PT_009_05",
-      "value": "High Score Reward<br>・Acquire at 240 points.<br>・Acquire at 360 points.<br>・Acquire at 500 points."
+      "value": "High Score Reward<br>Acquire at 240 points.<br>Acquire at 360 points.<br>Acquire at 500 points."
     },
     {
       "key": "QE_PT_009_HA01",
-      "value": "High Score Reward<br>・Acquire at 510 points.<br>・Acquire at 790 points.<br>・Acquire at 1100 points."
+      "value": "High Score Reward<br>Acquire at 510 points.<br>Acquire at 790 points.<br>Acquire at 1100 points."
     },
     {
       "key": "QE_PT_009_HA02",
-      "value": "High Score Reward<br>・Acquire at 550 points.<br>・Acquire at 850 points.<br>・Acquire at 1180 points."
+      "value": "High Score Reward<br>Acquire at 550 points.<br>Acquire at 850 points.<br>Acquire at 1180 points."
     },
     {
       "key": "QE_PT_009_HA03",
-      "value": "High Score Reward<br>・Acquire at 590 points.<br>・Acquire at 910 points.<br>・Acquire at 1260 points."
+      "value": "High Score Reward<br>Acquire at 590 points.<br>Acquire at 910 points.<br>Acquire at 1260 points."
     },
     {
       "key": "QE_PT_009_HA04",
-      "value": "High Score Reward<br>・Acquire at 620 points.<br>・Acquire at 950 points.<br>・Acquire at 1320 points."
+      "value": "High Score Reward<br>Acquire at 620 points.<br>Acquire at 950 points.<br>Acquire at 1320 points."
     },
     {
       "key": "QE_PT_009_HA05",
-      "value": "High Score Reward<br>・Acquire at 660 points.<br>・Acquire at 1010 points.<br>・Acquire at 1400 points."
+      "value": "High Score Reward<br>Acquire at 660 points.<br>Acquire at 1010 points.<br>Acquire at 1400 points."
     },
     {
       "key": "QE_PT_009_BOSS_1",
-      "value": "High Score Reward<br>・Acquire at 1520 points.<br>・Acquire at 2250 points.<br>・Acquire at 2870 points."
+      "value": "High Score Reward<br>Acquire at 1520 points.<br>Acquire at 2250 points.<br>Acquire at 2870 points."
     },
     {
       "key": "QE_PT_009_BOSS_2",
-      "value": "High Score Reward<br>・Acquire at 3700 points.<br>・Acquire at 5340 points.<br>・Acquire at 6680 points."
+      "value": "High Score Reward<br>Acquire at 3700 points.<br>Acquire at 5340 points.<br>Acquire at 6680 points."
+    },
+    {
+      "key": "QE_PT_010_01",
+      "value": "High Score Reward<br>Acquire at 160 points.<br>Acquire at 240 points.<br>Acquire at 320 points."
+    },
+    {
+      "key": "QE_PT_010_02",
+      "value": "High Score Reward<br>Acquire at 170 points.<br>Acquire at 260 points.<br>Acquire at 360 points."
+    },
+    {
+      "key": "QE_PT_010_03",
+      "value": "High Score Reward<br>Acquire at 190 points.<br>Acquire at 290 points.<br>Acquire at 410 points."
+    },
+    {
+      "key": "QE_PT_010_04",
+      "value": "High Score Reward<br>Acquire at 210 points.<br>Acquire at 320 points.<br>Acquire at 440 points."
+    },
+    {
+      "key": "QE_PT_010_05",
+      "value": "High Score Reward<br>Acquire at 240 points.<br>Acquire at 360 points.<br>Acquire at 500 points."
+    },
+    {
+      "key": "QE_PT_010_HA01",
+      "value": "High Score Reward<br>Acquire at 510 points.<br>Acquire at 790 points.<br>Acquire at 1100 points."
+    },
+    {
+      "key": "QE_PT_010_HA02",
+      "value": "High Score Reward<br>Acquire at 550 points.<br>Acquire at 850 points.<br>Acquire at 1180 points."
+    },
+    {
+      "key": "QE_PT_010_HA03",
+      "value": "High Score Reward<br>Acquire at 590 points.<br>Acquire at 910 points.<br>Acquire at 1260 points."
+    },
+    {
+      "key": "QE_PT_010_HA04",
+      "value": "High Score Reward<br>Acquire at 620 points.<br>Acquire at 950 points.<br>Acquire at 1320 points."
+    },
+    {
+      "key": "QE_PT_010_HA05",
+      "value": "High Score Reward<br>Acquire at 660 points.<br>Acquire at 1010 points.<br>Acquire at 1400 points."
+    },
+    {
+      "key": "QE_PT_010_BOSS_1",
+      "value": "High Score Reward<br>Acquire at 1520 points.<br>Acquire at 2250 points.<br>Acquire at 2870 points."
+    },
+    {
+      "key": "QE_PT_010_BOSS_2",
+      "value": "High Score Reward<br>Acquire at 3700 points.<br>Acquire at 5340 points.<br>Acquire at 6680 points."
     },
     {
       "key": "QE_SB_TYPN_02",
@@ -5449,7 +5865,7 @@
       "value": "Quest Information<br>None"
     },
     {
-      "key": "QE_MU_FFT_EX_02",
+      "key": "QE_EV_FFT_EX_04",
       "value": "Quest Information<br>None"
     },
     {
@@ -5497,7 +5913,7 @@
       "value": "Quest Information<br>None"
     },
     {
-      "key": "QE_MU_FFT_EX_01",
+      "key": "QE_EV_FFT_EX_03",
       "value": "Quest Information<br>None"
     },
     {
@@ -5985,6 +6401,146 @@
       "value": "Quest Information<br>None"
     },
     {
+      "key": "QE_MU_EV_17_EX",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_EV_17_EX_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_EV_18_EX2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_EV_18_EX_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_EV_18_EX",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_EV_18_EX_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_ART_CRF_55",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_56",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_ART_CRF_45",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_46",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_EV_LB_EX1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_EV_LB_EX2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_EV_LB_EX3",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_FFT_EX_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_FFT_EX_03",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_FFT_EX_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_FFT_EX_04",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_FF13_EX_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_FF13_EX_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_ART_CRF_43",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_44",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_ART_CRF_31",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_32",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_MU_CHAL_05_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_CHAL_05_03",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_115_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_115_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_114_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_114_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_113_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_113_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_112_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_112_2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_111_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_MU_AEX_111_2",
+      "value": "Quest Information<br>None"
+    },
+    {
       "key": "QE_MU_GL_FFEXU_02_EX",
       "value": "Quest Information<br>None"
     },
@@ -6051,46 +6607,6 @@
     {
       "key": "QE_MU_RC_BST_02",
       "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
-    },
-    {
-      "key": "QE_MU_AEX_115_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_115_2",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_114_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_114_2",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_113_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_113_2",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_112_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_112_2",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_111_1",
-      "value": "Quest Information<br>None"
-    },
-    {
-      "key": "QE_MU_AEX_111_2",
-      "value": "Quest Information<br>None"
     },
     {
       "key": "QE_RAID_GL_RV_01_01",
@@ -6222,6 +6738,54 @@
     },
     {
       "key": "QE_MU_P5R_EX_04",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_03",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_04",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_05",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_06",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_07",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_08",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_09",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_10",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_EX_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_FF13_EX_02",
       "value": "Quest Information<br>None"
     },
     {
@@ -6438,6 +7002,110 @@
     },
     {
       "key": "QE_EV_16_EX_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_03",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_04",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_05",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_06",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_07",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_08",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_09",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_10",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_EX",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_17_EX_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_03",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_04",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_05",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_06",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_07",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_08",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_09",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_10",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_EX",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_EX_1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_EX2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_18_EX_2",
       "value": "Quest Information<br>None"
     },
     {
@@ -6746,6 +7414,42 @@
     },
     {
       "key": "QE_EV_MCRD_EX4",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals. Enemies will disappear immediately when HP reaches 0."
+    },
+    {
+      "key": "QE_EV_LBRK_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_LBRK_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_LBRK_03",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_LBRK_04",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_LBRK_05",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_LBRK_EX1",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_LBRK_EX2",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_LBRK_EX3",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_LBRK_EX4",
       "value": "Quest Information<br>Enemies in this quest do not drop Crystals. Enemies will disappear immediately when HP reaches 0."
     },
     {
@@ -8121,6 +8825,18 @@
       "value": "Quest Information<br>Hint: Be prepared for status ailments."
     },
     {
+      "key": "QE_CHAL_05_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_CHAL_05_02",
+      "value": "Quest Information<br>Hint: Take care with the Initial Placement of your allies!"
+    },
+    {
+      "key": "QE_CHAL_05_03",
+      "value": "Quest Information<br>Hint: Take care with the Initial Placement of your allies! *Enemies in this quest do not drop Crystals."
+    },
+    {
       "key": "QE_EV_SB_EXP_FIR",
       "value": "Quest Information<br>Recommended: Unit Lv. 60, Job Lv. 10"
     },
@@ -8186,15 +8902,15 @@
     },
     {
       "key": "QE_EV_ARENA_01_1",
-      "value": "Quest Information<br>・No Items <br>・Created based on party actually used in the Arena, though some stats differ."
+      "value": "Quest Information<br>No Items <br>Created based on party actually used in the Arena, though some stats differ."
     },
     {
       "key": "QE_EV_ARENA_01_2",
-      "value": "Quest Information<br>・No Items <br>・Created based on party actually used in the Arena, though some stats differ."
+      "value": "Quest Information<br>No Items <br>Created based on party actually used in the Arena, though some stats differ."
     },
     {
       "key": "QE_EV_ARENA_01_3",
-      "value": "Quest Information<br>・No Items <br>・Created based on party actually used in the Arena, though some stats differ."
+      "value": "Quest Information<br>No Items <br>Created based on party actually used in the Arena, though some stats differ."
     },
     {
       "key": "QE_EV_VKTR_01",
@@ -8365,6 +9081,54 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
     },
     {
+      "key": "QE_EV_MACR_02_01",
+      "value": "Quest Information<br>Recommended: Unit Lv. 30, Job Lv. 6"
+    },
+    {
+      "key": "QE_EV_MACR_02_02",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
+    },
+    {
+      "key": "QE_EV_MACR_02_03",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 10"
+    },
+    {
+      "key": "QE_EV_MACR_02_04",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_EV_GRSR_02_01",
+      "value": "Quest Information<br>Recommended: Unit Lv. 30, Job Lv. 6"
+    },
+    {
+      "key": "QE_EV_GRSR_02_02",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
+    },
+    {
+      "key": "QE_EV_GRSR_02_03",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 10"
+    },
+    {
+      "key": "QE_EV_GRSR_02_04",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
+      "key": "QE_EV_ALIA_01",
+      "value": "Quest Information<br>Recommended: Unit Lv. 30, Job Lv. 6"
+    },
+    {
+      "key": "QE_EV_ALIA_02",
+      "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 10"
+    },
+    {
+      "key": "QE_EV_ALIA_03",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 10"
+    },
+    {
+      "key": "QE_EV_ALIA_04",
+      "value": "Quest Information<br>Recommended: Unit Lv. 80, Job Lv. 12"
+    },
+    {
       "key": "QE_EV_GL_TU_IREZ",
       "value": "Quest Information<br>None"
     },
@@ -8374,6 +9138,34 @@
     },
     {
       "key": "QE_EV_GL_TU_JEDN_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_GL_TU_MACR_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_GL_TU_LTNG",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_GL_TU_SNOW",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_GL_TU_GRSR_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_GL_TU_LUCA_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_GL_TU_SHNC",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_GL_TU_ALIA",
       "value": "Quest Information<br>None"
     },
     {
@@ -8509,6 +9301,14 @@
       "value": "Quest Information<br>None"
     },
     {
+      "key": "QE_EV_ART_CRF_31",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_ART_CRF_32",
+      "value": "Quest Information<br>None"
+    },
+    {
       "key": "QE_EV_ART_CRF_33",
       "value": "Quest Information<br>None"
     },
@@ -8546,6 +9346,30 @@
     },
     {
       "key": "QE_EV_ART_CRF_42",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_ART_CRF_43",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_ART_CRF_44",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_ART_CRF_45",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_ART_CRF_46",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_ART_CRF_55",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_EV_ART_CRF_56",
       "value": "Quest Information<br>None"
     },
     {
@@ -8865,6 +9689,10 @@
       "value": "Quest Information<br>None"
     },
     {
+      "key": "QE_BR_SHINE_14",
+      "value": "Quest Information<br>None"
+    },
+    {
       "key": "QE_BR_SOIL_01",
       "value": "Quest Information<br>None"
     },
@@ -8914,6 +9742,10 @@
     },
     {
       "key": "QE_BR_SOIL_13",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_BR_SOIL_14",
       "value": "Quest Information<br>None"
     },
     {
@@ -9165,6 +9997,18 @@
       "value": "Quest Information<br>None"
     },
     {
+      "key": "QE_BR_ICE_11",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_BR_ICE_12",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_BR_ICE_13",
+      "value": "Quest Information<br>None"
+    },
+    {
       "key": "QE_BR_WATER_01",
       "value": "Quest Information<br>None"
     },
@@ -9202,6 +10046,18 @@
     },
     {
       "key": "QE_BR_WATER_10",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_BR_WATER_11",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_BR_WATER_12",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_BR_WATER_13",
       "value": "Quest Information<br>None"
     },
     {
@@ -9403,6 +10259,22 @@
     {
       "key": "QE_SB_ANIM_02",
       "value": "Quest Information<br>Hint: Being inflicted with Poison from Anima's Bio Corrosion lowers DEF and SPR, so prepare for battle with Poison Res or a means to remove Poison!"
+    },
+    {
+      "key": "QE_SB_SRTN_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_SB_SRTN_02",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_SB_TSLP_01_01",
+      "value": "Quest Information<br>None"
+    },
+    {
+      "key": "QE_SB_TSLP_01_02",
+      "value": "Quest Information<br>None"
     },
     {
       "key": "QE_SB_MABR_01",
@@ -9771,6 +10643,66 @@
     {
       "key": "QE_GRA_EV_20_3",
       "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to CT Down and AGI Down. "
+    },
+    {
+      "key": "QE_GRA_EV_21_1",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to CT Down and AGI Down. "
+    },
+    {
+      "key": "QE_GRA_EV_21_2",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to CT Down and AGI Down. "
+    },
+    {
+      "key": "QE_GRA_EV_21_3",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to CT Down and AGI Down. "
+    },
+    {
+      "key": "QE_GRA_EV_22_1",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to CT Down and AGI Down. "
+    },
+    {
+      "key": "QE_GRA_EV_22_2",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to CT Down and AGI Down. "
+    },
+    {
+      "key": "QE_GRA_EV_22_3",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to CT Down and AGI Down. "
+    },
+    {
+      "key": "QE_GRA_EV_23_1",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
+    },
+    {
+      "key": "QE_GRA_EV_23_2",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
+    },
+    {
+      "key": "QE_GRA_EV_23_3",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
+    },
+    {
+      "key": "QE_GRA_EV_24_1",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
+    },
+    {
+      "key": "QE_GRA_EV_24_2",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
+    },
+    {
+      "key": "QE_GRA_EV_24_3",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
+    },
+    {
+      "key": "QE_GRA_EV_25_1",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
+    },
+    {
+      "key": "QE_GRA_EV_25_2",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
+    },
+    {
+      "key": "QE_GRA_EV_25_3",
+      "value": "Quest Information<br>Enemies in this quest do not drop Crystals.<br>Effective Strategy: This boss is susceptible to Slow. "
     },
     {
       "key": "QE_RAID_EV_06_01",
@@ -10610,71 +11542,71 @@
     },
     {
       "key": "QE_EV_WAVE_001",
-      "value": "Quest Information<br>・You will receive rewards for clearing this Quest even if your party is defeated.<br>・Enemies in this quest do not drop Crystals."
+      "value": "Quest Information<br>You will receive rewards for clearing this Quest even if your party is defeated.<br>Enemies in this quest do not drop Crystals."
     },
     {
       "key": "QE_EV_NEWMAP_001",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NEWMAP_002",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NEWMAP_003",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NEWMAP_004",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NMAP_003_1",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NMAP_003_2",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NMAP_003_3",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NMAP_004_1",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NMAP_004_2",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_NMAP_004_3",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_GL_NMAP_001_1",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_GL_NMAP_001_2",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_GL_NMAP_001_3",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_GL_NMAP_002_1",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_GL_NMAP_002_2",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_EV_GL_NMAP_002_3",
-      "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+      "value": "Quest Information<br>This quest is a trial of the new Guild Battle.<br>Deploy three characters using Auto Battle to closely mimic an actual battle."
     },
     {
       "key": "QE_ARENA_00001",
@@ -10865,6 +11797,26 @@
       "value": "DEF Up/Courage Nullify"
     },
     {
+      "key": "QE_ARENA_GL_00030",
+      "value": "Earth Attack Up/Earth Unit AGI Up"
+    },
+    {
+      "key": "QE_ARENA_GL_00031",
+      "value": "Critical Hit Rate Up/SPR Up"
+    },
+    {
+      "key": "QE_ARENA_GL_00032",
+      "value": "Wind Attack Up/Ice Attack Res Up"
+    },
+    {
+      "key": "QE_ARENA_GL_00033",
+      "value": "Dark Attack Up/Dark Unit AGI Up"
+    },
+    {
+      "key": "QE_ARENA_GL_00034",
+      "value": "Ice Unit ATK Up"
+    },
+    {
       "key": "QE_GVG_00001",
       "value": "None"
     },
@@ -11030,7 +11982,7 @@
     },
     {
       "key": "QE_GVG_GL_00024",
-      "value": "Lightning Attack Up/Lightning Unit DEF Up "
+      "value": "Lightning Attack Up/Lightning Unit DEF Up"
     },
     {
       "key": "QE_GVG_GL_00025",
@@ -11083,6 +12035,26 @@
     {
       "key": "QE_GVG_GL_00037",
       "value": "Wind Unit Missile Attack Up/DEF Up"
+    },
+    {
+      "key": "QE_GVG_GL_00038",
+      "value": "Earth Attack Up/Earth Unit AGI Up"
+    },
+    {
+      "key": "QE_GVG_GL_00039",
+      "value": "Ice Attack Up/Ice Unit Area Attack Res Up"
+    },
+    {
+      "key": "QE_GVG_GL_00040",
+      "value": "Haste Nullify/Wind Unit SPR Up"
+    },
+    {
+      "key": "QE_GVG_GL_00041",
+      "value": "SPR Piercing Rate Up/Dark Unit MAG Up"
+    },
+    {
+      "key": "QE_GVG_GL_00042",
+      "value": "Ice Unit ATK Up"
     },
     {
       "key": "QE_PVP_FRE_0001",
@@ -11234,6 +12206,26 @@
     },
     {
       "key": "QE_PVP_FRE_GL_0034",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0035",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0036",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0037",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0038",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0039",
       "value": "None"
     },
     {
@@ -11401,6 +12393,18 @@
       "value": "None"
     },
     {
+      "key": "QE_PVP_FRI_0071",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRI_0072",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRI_0079",
+      "value": "None"
+    },
+    {
       "key": "QE_PVP_FRI_GL_0001",
       "value": "None"
     },
@@ -11410,6 +12414,10 @@
     },
     {
       "key": "QE_PVP_FRI_GL_0003",
+      "value": "None"
+    },
+    {
+      "key": "QE_PVP_FRI_GL_0004",
       "value": "None"
     },
     {
@@ -11474,6 +12482,10 @@
     },
     {
       "key": "QE_PVP_RANK_0017",
+      "value": ""
+    },
+    {
+      "key": "QE_PVP_RANK_GL_0001",
       "value": ""
     },
     {
@@ -11598,23 +12610,23 @@
     },
     {
       "key": "QE_GHUNT_001",
-      "value": "Quest Information<br>・You will receive rewards for clearing this Quest even if your party is defeated.<br>・Enemies in this quest do not drop Crystals."
+      "value": "Quest Information<br>You will receive rewards for clearing this Quest even if your party is defeated.<br>Enemies in this quest do not drop Crystals."
     },
     {
       "key": "QE_GHUNT_002",
-      "value": "Quest Information<br>・You will receive rewards for clearing this Quest even if your party is defeated.<br>・Enemies in this quest do not drop Crystals."
+      "value": "Quest Information<br>You will receive rewards for clearing this Quest even if your party is defeated.<br>Enemies in this quest do not drop Crystals."
     },
     {
       "key": "QE_GHUNT_003",
-      "value": "Quest Information<br>・You will receive rewards for clearing this Quest even if your party is defeated.<br>・Enemies in this quest do not drop Crystals."
+      "value": "Quest Information<br>You will receive rewards for clearing this Quest even if your party is defeated.<br>Enemies in this quest do not drop Crystals."
     },
     {
       "key": "QE_GHUNT_004",
-      "value": "Quest Information<br>・You will receive rewards for clearing this Quest even if your party is defeated.<br>・Enemies in this quest do not drop Crystals."
+      "value": "Quest Information<br>You will receive rewards for clearing this Quest even if your party is defeated.<br>Enemies in this quest do not drop Crystals."
     },
     {
       "key": "QE_GHUNT_FF1_1",
-      "value": "Quest Information<br>・You will receive rewards for clearing this Quest even if your party is defeated.<br>・Enemies in this quest do not drop Crystals."
+      "value": "Quest Information<br>You will receive rewards for clearing this Quest even if your party is defeated.<br>Enemies in this quest do not drop Crystals."
     },
     {
       "key": "QE_VC_LW_GLEM",
@@ -11634,7 +12646,7 @@
     },
     {
       "key": "QE_VC_LW_SOKYU",
-      "value": "Quest Information<br>Recommended: Unit Lv. 68, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [Second Division of the Kingdom of Leonis, «Caelum»]"
+      "value": "Quest Information<br>Recommended: Unit Lv. 68, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [Second Division of the Kingdom of Leonis, Caelum]"
     },
     {
       "key": "QE_VC_LW_TRNNG",
@@ -11681,8 +12693,20 @@
       "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [The Other Me]"
     },
     {
+      "key": "QE_VC_LW_SRTN",
+      "value": "Quest Information<br>Recommended: Unit Lv. 69, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [Princess of Verdant Vengeance, Sheratan]"
+    },
+    {
       "key": "QE_VC_LW_TSLP",
       "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [Gale-Begetting Heavenly Four, Tetra Sylphid]"
+    },
+    {
+      "key": "QE_VC_LW_TSLP_01",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12<br>Conditions to Unlock: Acquire Vision Card [Vexing Vortex, Dark Tetra Sylphid]"
+    },
+    {
+      "key": "QE_VC_LW_JEDN2",
+      "value": "Quest Information<br>Recommended: Unit Lv. 70, Job Lv. 12<br>Conditions to Unlock: Acquire Vision Card [Intersecting Destinies]"
     },
     {
       "key": "QE_VC_LW_THDG",
@@ -11698,7 +12722,7 @@
     },
     {
       "key": "QE_VC_LW_ROBST",
-      "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [Hourne's First Division, «Solidus»]"
+      "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11<br>Conditions to Unlock: Acquire Vision Card [Hourne's First Division, Solidus]"
     },
     {
       "key": "QE_VC_LW_FNRR",
@@ -11934,7 +12958,7 @@
     },
     {
       "key": "QE_VC_LW_GUREN",
-      "value": "Quest Information<br>Recommended: Unit Lv. 46, Job Lv. 8<br>Conditions to Unlock: Acquire Vision Card [Chivalrous Outlaws, «Rubeus»]"
+      "value": "Quest Information<br>Recommended: Unit Lv. 46, Job Lv. 8<br>Conditions to Unlock: Acquire Vision Card [Chivalrous Outlaws, Rubeus]"
     },
     {
       "key": "QE_VC_LW_CHCB",

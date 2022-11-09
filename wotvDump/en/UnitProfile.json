@@ -697,11 +697,51 @@
       "value": "Smoldering Summer Bullet"
     },
     {
+      "key": "UN_LW_P_MACR_02",
+      "value": "Illustrious Queen"
+    },
+    {
+      "key": "UN_FF13_P_LTNG",
+      "value": "Soldier Defying Fate"
+    },
+    {
+      "key": "UN_FF13_P_HOPE",
+      "value": "Avenger to Savior"
+    },
+    {
+      "key": "UN_FF13_P_SNOW",
+      "value": "Leader of NORA"
+    },
+    {
+      "key": "UN_LW_P_GRSR_02",
+      "value": "Azure Spear of Reform"
+    },
+    {
+      "key": "UN_LW_P_SHNC",
+      "value": "Veracious Blade Demon"
+    },
+    {
+      "key": "UN_LW_P_LBRK",
+      "value": "Empty Battle Maiden"
+    },
+    {
+      "key": "UN_LW_P_LUCA_01",
+      "value": "Servant of the Underqueen"
+    },
+    {
+      "key": "UN_LW_P_ALIA",
+      "value": "Blue-Eyed Double Gunner"
+    },
+    {
       "key": "UN_LW_EMPTI",
       "value": ""
     },
     {
       "key": "UN_LW_E_IRDL",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_IRDL_01",
       "value": "Enemy/NPC"
     },
     {
@@ -730,6 +770,14 @@
     },
     {
       "key": "UN_LW_E_MACR",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_MACR_01",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_MACR_02",
       "value": "Enemy/NPC"
     },
     {
@@ -806,6 +854,10 @@
     },
     {
       "key": "UN_LW_E_FDRC",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_FDRC_01",
       "value": "Enemy/NPC"
     },
     {
@@ -905,6 +957,10 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_VNLA_01",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_DIAA",
       "value": "Enemy/NPC"
     },
@@ -949,6 +1005,10 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_RYER_01",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_RYER_02",
       "value": "Enemy/NPC"
     },
@@ -966,6 +1026,18 @@
     },
     {
       "key": "UN_LW_E_RNEL_QE",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_IREZ",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SONL",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_FRAZ",
       "value": "Enemy/NPC"
     },
     {
@@ -1241,6 +1313,14 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_RU_01_DAC",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_RU_01_BNI",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_TH_00",
       "value": "Enemy/NPC"
     },
@@ -1393,6 +1473,14 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_TH_00_DAC",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_TH_00_RAB",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_TH_00_HUN_G",
       "value": "Enemy/NPC"
     },
@@ -1478,6 +1566,14 @@
     },
     {
       "key": "UN_LW_E_TH_00_MGK_G",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_TH_00_DAC_G",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_TH_00_LLN_G",
       "value": "Enemy/NPC"
     },
     {
@@ -1585,6 +1681,10 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_SO_00_LLN",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_SO_03_SWN",
       "value": "Enemy/NPC"
     },
@@ -1662,6 +1762,14 @@
     },
     {
       "key": "UN_LW_E_SO_02_TIM",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SO_02_MSM",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SO_02_DAC",
       "value": "Enemy/NPC"
     },
     {
@@ -1758,6 +1866,10 @@
     },
     {
       "key": "UN_LW_E_SO_03_DAC",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SO_03_DRG",
       "value": "Enemy/NPC"
     },
     {
@@ -1961,6 +2073,22 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_PR_01_BNI",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_PR_01_DAC",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_PR_01_AXD",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_PR_01_LLN",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_PR_02_CLR",
       "value": "Enemy/NPC"
     },
@@ -2014,6 +2142,10 @@
     },
     {
       "key": "UN_LW_E_PR_02_SCR",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_PR_02_MSM",
       "value": "Enemy/NPC"
     },
     {
@@ -2282,6 +2414,10 @@
     },
     {
       "key": "UN_LW_E_RI_08_MGK",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_RI_08_MSW",
       "value": "Enemy/NPC"
     },
     {
@@ -2885,6 +3021,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_TSLP_01",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_OCHU",
       "value": "Enemy"
     },
@@ -3165,6 +3305,10 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_TSLP_01_SREN",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_OCHU_SIREN",
       "value": "Enemy"
     },
@@ -3302,6 +3446,26 @@
     },
     {
       "key": "UN_FF10_E_VLFR_GR1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_FALC_GR1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_ANIM_GR1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_GSRC_GR1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_EFKS_GR1",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_USMG_GR1",
       "value": "Enemy"
     },
     {
@@ -3565,6 +3729,34 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_FF13_E_USMG",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_FALC",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_CPPF",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_GSRC",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_GSRC_NO",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_GSRC_HA",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_FF13_E_FANG",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_TH_00_BEA_R",
       "value": "Enemy/NPC"
     },
@@ -3593,7 +3785,15 @@
       "value": "Enemy"
     },
     {
+      "key": "UN_LW_E_SRTN",
+      "value": "Enemy"
+    },
+    {
       "key": "UN_LW_E_ANIM_SIREN",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_SRTN_SIREN",
       "value": "Enemy"
     },
     {
@@ -4589,6 +4789,30 @@
       "value": ""
     },
     {
+      "key": "UN_LW_S_SRTN",
+      "value": "Esper"
+    },
+    {
+      "key": "UN_LW_S_SRTN_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_SRTN_AW2",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_TSLP_01",
+      "value": "Esper"
+    },
+    {
+      "key": "UN_LW_S_TSLP_01_AW1",
+      "value": ""
+    },
+    {
+      "key": "UN_LW_S_TSLP_01_AW2",
+      "value": ""
+    },
+    {
       "key": "UN_LW_S_OMEG_AW1",
       "value": ""
     },
@@ -4945,6 +5169,10 @@
       "value": "Enemy/NPC"
     },
     {
+      "key": "UN_LW_E_FINA_01",
+      "value": "Enemy/NPC"
+    },
+    {
       "key": "UN_LW_E_RSNC",
       "value": "Enemy/NPC"
     },
@@ -4954,6 +5182,22 @@
     },
     {
       "key": "UN_LW_E_VRID",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SLEN",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_ZZAN_01",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_SIRM",
+      "value": "Enemy/NPC"
+    },
+    {
+      "key": "UN_LW_E_NEAA",
       "value": "Enemy/NPC"
     },
     {
@@ -4970,6 +5214,10 @@
     },
     {
       "key": "UN_LW_E_GHUL_01",
+      "value": "Enemy"
+    },
+    {
+      "key": "UN_LW_E_GHUL_02",
       "value": "Enemy"
     },
     {

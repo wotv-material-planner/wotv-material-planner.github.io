@@ -56,17 +56,17 @@
     },
     {
       "iname": "CM_PRO_013",
-      "priority": 99,
+      "priority": 16,
       "banner": "ChallengeTab_GL_RIRY_01",
-      "begin_at": "2022/03/02",
-      "end_at": "2022/03/15 23:59:59"
+      "begin_at": "2022/10/18 18:30:00",
+      "end_at": "2022/11/08 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_RYER_01",
-      "priority": 99,
+      "priority": 15,
       "banner": "ChallengeTab_GL_RYER_01_02",
-      "begin_at": "2022/03/02",
-      "end_at": "2022/03/15 23:59:59"
+      "begin_at": "2022/10/18 18:30:00",
+      "end_at": "2022/11/08 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_HWLT",
@@ -128,15 +128,15 @@
       "iname": "CM_PRO_GL_RAMD_01",
       "priority": 99,
       "banner": "ChallengeTab_GL_RAMD_01_02",
-      "begin_at": "2021/12/14 22:30:00",
-      "end_at": "2022/01/04 23:59:59"
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/27 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_MACR_01",
       "priority": 99,
       "banner": "ChallengeTab_GL_MACR_01_02",
-      "begin_at": "2021/12/14 22:30:00",
-      "end_at": "2022/01/04 23:59:59"
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/27 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_WINT_2020",
@@ -212,15 +212,15 @@
       "iname": "CM_PRO_GL_VNLA_01",
       "priority": 99,
       "banner": "ChallengeTab_GL_VNLA_01_02",
-      "begin_at": "2021/12/14 22:30:00",
-      "end_at": "2022/01/04 23:59:59"
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/27 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_VKTR_01",
       "priority": 99,
       "banner": "ChallengeTab_GL_VKTR_01_02",
-      "begin_at": "2021/12/14 22:30:00",
-      "end_at": "2022/01/04 23:59:59"
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/27 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_GABL",
@@ -490,14 +490,14 @@
     },
     {
       "iname": "CM_PRO_GL_LILS_01",
-      "priority": 9,
+      "priority": 99,
       "banner": "ChallengeTab_GL_LILS_01_01",
       "begin_at": "2022/08/16 18:30:00",
       "end_at": "2022/09/06 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_KTON_01",
-      "priority": 8,
+      "priority": 99,
       "banner": "ChallengeTab_GL_KTON_01_01",
       "begin_at": "2022/08/16 18:30:00",
       "end_at": "2022/09/06 23:59:59"
@@ -525,7 +525,7 @@
     },
     {
       "iname": "CM_PRO_GL_QILF_01",
-      "priority": 6,
+      "priority": 99,
       "banner": "ChallengeTab_GL_QILF_01_01",
       "begin_at": "2022/08/16 18:30:00",
       "end_at": "2022/09/06 23:59:59"
@@ -539,7 +539,7 @@
     },
     {
       "iname": "CM_PRO_GL_ELSR_01",
-      "priority": 7,
+      "priority": 99,
       "banner": "ChallengeTab_GL_ELSR_01_01",
       "begin_at": "2022/08/16 18:30:00",
       "end_at": "2022/09/06 23:59:59"
@@ -609,21 +609,21 @@
     },
     {
       "iname": "CM_PRO_GL_V_XMAS",
-      "priority": 99,
+      "priority": 78,
       "banner": "ChallengeTab_GL_VC_XMAS_01",
-      "begin_at": "2021/12/14 22:30:00",
-      "end_at": "2022/01/04 23:59:59"
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/27 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_TOMB",
-      "priority": 79,
+      "priority": 99,
       "banner": "ChallengeTab_tomb_02",
       "begin_at": "2022/07/26 22:30:00",
       "end_at": "2022/08/23 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_TOMB",
-      "priority": 78,
+      "priority": 99,
       "banner": "ChallengeTab_tomb_01",
       "begin_at": "2022/07/26 22:30:00",
       "end_at": "2022/08/23 23:59:59"
@@ -632,8 +632,8 @@
       "iname": "CM_PRO_GL_SLEN",
       "priority": 99,
       "banner": "ChallengeTab_GL_SLEN_02",
-      "begin_at": "2022/06/29",
-      "end_at": "2022/07/05 23:59:59"
+      "begin_at": "2022/08/31",
+      "end_at": "2022/09/20 17:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_USER1",
@@ -679,24 +679,24 @@
     },
     {
       "iname": "CM_PRO_GL_FDRC_01",
-      "priority": 99,
-      "banner": "ChallengeTab_GL_FDRC_01_01",
-      "begin_at": "2022/03/02",
-      "end_at": "2022/03/15 23:59:59"
+      "priority": 14,
+      "banner": "ChallengeTab_GL_FDRC_01_02",
+      "begin_at": "2022/10/18 18:30:00",
+      "end_at": "2022/11/08 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_HALL2",
-      "priority": 99,
+      "priority": 4,
       "banner": "ChallengeTab_GL_VC_HALL2_01",
-      "begin_at": "2022/03/02",
-      "end_at": "2022/03/15 23:59:59"
+      "begin_at": "2022/10/26",
+      "end_at": "2022/11/08 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_HALL",
-      "priority": 99,
+      "priority": 5,
       "banner": "ChallengeTab_GL_VC_HALL_01",
-      "begin_at": "2022/03/02",
-      "end_at": "2022/03/15 23:59:59"
+      "begin_at": "2022/10/26",
+      "end_at": "2022/11/08 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_OBRN",
@@ -765,15 +765,15 @@
       "iname": "CM_PRO_GL_LATH_01",
       "priority": 99,
       "banner": "ChallengeTab_GL_LATH_01_01",
-      "begin_at": "2021/12/14 22:30:00",
-      "end_at": "2022/01/04 23:59:59"
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/27 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_XMAS2",
       "priority": 99,
       "banner": "ChallengeTab_GL_VC_LW_XMAS2_01",
-      "begin_at": "2021/12/14 22:30:00",
-      "end_at": "2022/01/04 23:59:59"
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/27 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_ASTORY",
@@ -786,8 +786,8 @@
       "iname": "CM_PRO_GL_IBRA",
       "priority": 99,
       "banner": "ChallengeTab_GL_IBRA_02",
-      "begin_at": "2022/06/29",
-      "end_at": "2022/07/05 23:59:59"
+      "begin_at": "2022/08/31",
+      "end_at": "2022/09/20 17:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_IBRA",
@@ -847,14 +847,14 @@
     },
     {
       "iname": "CM_PRO_GL_MORE_01",
-      "priority": 4,
+      "priority": 99,
       "banner": "ChallengeTab_GL_MORE_01_01",
       "begin_at": "2022/08/24",
       "end_at": "2022/09/06 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_MORE_01",
-      "priority": 5,
+      "priority": 99,
       "banner": "ChallengeTab_GL_VC_MORE01_02",
       "begin_at": "2022/08/24",
       "end_at": "2022/09/06 23:59:59"
@@ -1029,8 +1029,8 @@
       "iname": "CM_PRO_GL_ESTR",
       "priority": 99,
       "banner": "ChallengeTab_GL_ESTR_02",
-      "begin_at": "2022/06/29",
-      "end_at": "2022/07/05 23:59:59"
+      "begin_at": "2022/08/31",
+      "end_at": "2022/09/20 17:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_LW_ESTR",
@@ -1174,31 +1174,208 @@
     },
     {
       "iname": "CM_PRO_GL_V_FINA_01",
-      "priority": 77,
+      "priority": 99,
       "banner": "ChallengeTab_GL_VC_FINA_01",
       "begin_at": "2022/08/10",
       "end_at": "2022/08/23 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_JEDN_01",
-      "priority": 1,
+      "priority": 99,
       "banner": "ChallengeTab_GL_JEDN_01_01",
       "begin_at": "2022/08/16 18:30:00",
       "end_at": "2022/09/06 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_V_JEDN_01",
-      "priority": 2,
+      "priority": 99,
       "banner": "ChallengeTab_GL_VC_JEDN_01_01",
       "begin_at": "2022/08/16 18:30:00",
       "end_at": "2022/09/06 23:59:59"
     },
     {
       "iname": "CM_PRO_GL_FFEXU_01",
-      "priority": 3,
+      "priority": 99,
       "banner": "ChallengeTab_GL_FFEXU_01",
       "begin_at": "2022/08/16 18:30:00",
       "end_at": "2022/09/06 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_ZZAN_01",
+      "priority": 99,
+      "banner": "ChallengeTab_GL_VC_ZZAN_01_01",
+      "begin_at": "2022/08/31",
+      "end_at": "2022/09/20 17:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_MACR_02",
+      "priority": 99,
+      "banner": "ChallengeTab_GL_MACR_02_01",
+      "begin_at": "2022/09/07",
+      "end_at": "2022/09/20 17:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_SRTN",
+      "priority": 99,
+      "banner": "ChallengeTab_GL_VC_SRTN_01",
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/27 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_LTNG",
+      "priority": 10,
+      "banner": "ChallengeTab_FF13_Nur_02",
+      "begin_at": "2022/09/20 18:30:00",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_SNOW",
+      "priority": 11,
+      "banner": "ChallengeTab_FF13_Nur_03",
+      "begin_at": "2022/09/20 18:30:00",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_HOPE",
+      "priority": 12,
+      "banner": "ChallengeTab_FF13_Nur_01",
+      "begin_at": "2022/09/20 18:30:00",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_098",
+      "priority": 13,
+      "banner": "ChallengeTab_FF13_01",
+      "begin_at": "2022/09/20 18:30:00",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_c220921",
+      "priority": 99,
+      "banner": "ChallengeTab_GL_c220921",
+      "bgnr": 2,
+      "begin_at": "2022/09/20 18:30:00",
+      "end_at": "2022/10/18 17:59:59",
+      "period_day_num": 28
+    },
+    {
+      "iname": "CM_PRO_GL_V_FF13_MV1",
+      "priority": 7,
+      "banner": "ChallengeTab_FF13_FF13Mv1_01",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FF13_MV2",
+      "priority": 8,
+      "banner": "ChallengeTab_FF13_FF13Mv2_01",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FF13_MV3",
+      "priority": 9,
+      "banner": "ChallengeTab_FF13_FF13Mv3_01",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_099",
+      "priority": 73,
+      "banner": "ChallengeTab_GL_FFT",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/01 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_RAMZ",
+      "priority": 74,
+      "banner": "ChallengeTab_GL_FFT0ramz",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/01 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_ORND",
+      "priority": 75,
+      "banner": "ChallengeTab_GL_FFT0ornd",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/01 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_AGRA",
+      "priority": 76,
+      "banner": "ChallengeTab_GL_FFT0agra",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/01 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_DELT",
+      "priority": 77,
+      "banner": "ChallengeTab_GL_FFT0delt",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/01 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FFT_MV1",
+      "priority": 78,
+      "banner": "ChallengeTab_GL_FFTMv1",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/01 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_FFT_MV3",
+      "priority": 79,
+      "banner": "ChallengeTab_GL_FFTMv3",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/11/01 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_GRSR_02",
+      "priority": 99,
+      "banner": "ChallengeTab_GL_GRSR_02_01",
+      "begin_at": "2022/10/05",
+      "end_at": "2022/10/18 17:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_TSLP_01",
+      "priority": 99,
+      "banner": "ChallengeTab_GL_VC_TSLP_01_01",
+      "begin_at": "2022/10/12",
+      "end_at": "2022/10/25 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_LUCA_01",
+      "priority": 6,
+      "banner": "ChallengeTab_GL_LUCA_01_01",
+      "begin_at": "2022/10/18 18:30:00",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_SHNC",
+      "priority": 72,
+      "banner": "ChallengeTab_GL_SHNC_01",
+      "begin_at": "2022/10/18 18:30:00",
+      "end_at": "2022/11/01 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_HALL3",
+      "priority": 2,
+      "banner": "ChallengeTab_GL_VC_HALL3_01",
+      "begin_at": "2022/10/26",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_V_JEDN2",
+      "priority": 3,
+      "banner": "ChallengeTab_GL_VC_JEDN2_01",
+      "begin_at": "2022/10/26",
+      "end_at": "2022/11/08 23:59:59"
+    },
+    {
+      "iname": "CM_PRO_GL_ALIA",
+      "priority": 1,
+      "banner": "ChallengeTab_GL_ALIA_01",
+      "begin_at": "2022/11/02",
+      "end_at": "2022/11/15 17:59:59"
     }
   ]
 }

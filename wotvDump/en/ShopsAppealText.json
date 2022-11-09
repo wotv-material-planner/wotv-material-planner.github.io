@@ -334,7 +334,7 @@
     },
     {
       "key": "84",
-      "value": "<line-height=15>Version Upgrade Celebration Shop "
+      "value": "<line-height=15>Version Upgrade Celebration Shop"
     },
     {
       "key": "85",
@@ -394,7 +394,7 @@
     },
     {
       "key": "99",
-      "value": "<line-height=15>Second Anniversary Countdown<br>Part II Shop "
+      "value": "<line-height=15>Second Anniversary Countdown<br>Part II Shop"
     },
     {
       "key": "100",
@@ -466,7 +466,7 @@
     },
     {
       "key": "117",
-      "value": "<line-height=15>12 Million Downloads Shop "
+      "value": "<line-height=15>12 Million Downloads Shop"
     },
     {
       "key": "118",
@@ -495,6 +495,46 @@
     {
       "key": "124",
       "value": "<line-height=15>2.5 Year Anniversary Countdown<br>Part I Shop"
+    },
+    {
+      "key": "125",
+      "value": "<line-height=15>2.5 Year Anniversary Countdown<br>Part II Shop"
+    },
+    {
+      "key": "126",
+      "value": "<line-height=15>2.5 Year Anniversary Countdown<br>Part III Shop"
+    },
+    {
+      "key": "127",
+      "value": "<line-height=15>2.5 Year Anniversary Countdown<br>Part IV Shop"
+    },
+    {
+      "key": "128",
+      "value": "<line-height=15>FFXIII<br>Collaboration Shop"
+    },
+    {
+      "key": "129",
+      "value": "<line-height=15>FFT<br>Collaboration Reissue 2022 Shop"
+    },
+    {
+      "key": "130",
+      "value": "<line-height=15>2.5 Year Anniversary<br>Part III Shop"
+    },
+    {
+      "key": "131",
+      "value": "<line-height=15>2.5 Year Anniversary<br>Part IV Shop"
+    },
+    {
+      "key": "132",
+      "value": "<line-height=15>13 Million Downloads Shop"
+    },
+    {
+      "key": "133",
+      "value": "<line-height=15>Autumn 2022 Shop"
+    },
+    {
+      "key": "134",
+      "value": "<line-height=15>Upcoming JP 3rd<br>Anniversary Shop"
     }
   ]
 }

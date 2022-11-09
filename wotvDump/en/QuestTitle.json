@@ -109,6 +109,22 @@
       "value": "Pot Chamber (Advanced)"
     },
     {
+      "key": "QE_EV_WEEK_01_1",
+      "value": "Wayfarer's Chamber (Novice)"
+    },
+    {
+      "key": "QE_EV_WEEK_02_1",
+      "value": "Wayfarer's Chamber (Intermediate)"
+    },
+    {
+      "key": "QE_EV_WEEK_03_1",
+      "value": "Wayfarer's Chamber (Advanced)"
+    },
+    {
+      "key": "QE_EV_WEEK_04_1",
+      "value": "Wayfarer's Chamber (Professional)"
+    },
+    {
       "key": "QE_EV_AW_HIGH_01",
       "value": "[High Difficulty] Training Chamber Lv. 1"
     },
@@ -594,11 +610,11 @@
     },
     {
       "key": "QE_ST_01020101",
-      "value": "«Fortem» Move Out I"
+      "value": "Fortem Move Out I"
     },
     {
       "key": "QE_ST_01020102",
-      "value": "«Fortem» Move Out II"
+      "value": "Fortem Move Out II"
     },
     {
       "key": "QE_ST_01020103",
@@ -626,7 +642,7 @@
     },
     {
       "key": "QE_ST_01020109",
-      "value": "«Fortem» Has Arrived"
+      "value": "Fortem Has Arrived"
     },
     {
       "key": "QE_ST_01020110",
@@ -794,7 +810,7 @@
     },
     {
       "key": "QE_ST_01030301",
-      "value": "«Nitor» Move Out"
+      "value": "Nitor Move Out"
     },
     {
       "key": "QE_ST_01030302",
@@ -1070,7 +1086,7 @@
     },
     {
       "key": "QE_ST_01050310",
-      "value": "«Solidus»"
+      "value": "Solidus"
     },
     {
       "key": "QE_ST_01060101",
@@ -1170,7 +1186,7 @@
     },
     {
       "key": "QE_ST_01060305",
-      "value": "«Solidus», Charge!"
+      "value": "Solidus, Charge!"
     },
     {
       "key": "QE_ST_01060306",
@@ -1218,11 +1234,11 @@
     },
     {
       "key": "QE_ST_01070107",
-      "value": "«Rubeus» I"
+      "value": "Rubeus I"
     },
     {
       "key": "QE_ST_01070108",
-      "value": "«Rubeus» II"
+      "value": "Rubeus II"
     },
     {
       "key": "QE_ST_01070109",
@@ -1302,7 +1318,7 @@
     },
     {
       "key": "QE_ST_01070308",
-      "value": "«Solidus», Retreat"
+      "value": "Solidus, Retreat"
     },
     {
       "key": "QE_ST_01070309",
@@ -1342,11 +1358,11 @@
     },
     {
       "key": "QE_ST_01080108",
-      "value": "«Fortem» and «Caelum» I"
+      "value": "Fortem and Caelum I"
     },
     {
       "key": "QE_ST_01080109",
-      "value": "«Fortem» and «Caelum» II"
+      "value": "Fortem and Caelum II"
     },
     {
       "key": "QE_ST_01080110",
@@ -1358,7 +1374,7 @@
     },
     {
       "key": "QE_ST_01080202",
-      "value": "Viktora’s Scheme"
+      "value": "Viktoras Scheme"
     },
     {
       "key": "QE_ST_01080203",
@@ -1390,11 +1406,11 @@
     },
     {
       "key": "QE_ST_01080210",
-      "value": "Hourne’s Pride"
+      "value": "Hournes Pride"
     },
     {
       "key": "QE_ST_01080301",
-      "value": "Lilyth’s Dream"
+      "value": "Lilyths Dream"
     },
     {
       "key": "QE_ST_01080302",
@@ -1434,7 +1450,7 @@
     },
     {
       "key": "QE_ST_01090101",
-      "value": "Representing «Fortem»"
+      "value": "Representing Fortem"
     },
     {
       "key": "QE_ST_01090102",
@@ -1534,11 +1550,11 @@
     },
     {
       "key": "QE_ST_01090306",
-      "value": "«Spirare» I"
+      "value": "Spirare I"
     },
     {
       "key": "QE_ST_01090307",
-      "value": "«Spirare» II"
+      "value": "Spirare II"
     },
     {
       "key": "QE_ST_01090308",
@@ -1566,11 +1582,11 @@
     },
     {
       "key": "QE_ST_01100104",
-      "value": "The Devastation of «Rubeus» I"
+      "value": "The Devastation of Rubeus I"
     },
     {
       "key": "QE_ST_01100105",
-      "value": "The Devastation of «Rubeus» II"
+      "value": "The Devastation of Rubeus II"
     },
     {
       "key": "QE_ST_01100106",
@@ -1610,15 +1626,15 @@
     },
     {
       "key": "QE_ST_01100205",
-      "value": "In Search of Machérie I"
+      "value": "In Search of Machrie I"
     },
     {
       "key": "QE_ST_01100206",
-      "value": "In Search of Machérie II"
+      "value": "In Search of Machrie II"
     },
     {
       "key": "QE_ST_01100207",
-      "value": "In Search of Machérie III"
+      "value": "In Search of Machrie III"
     },
     {
       "key": "QE_ST_01100208",
@@ -2154,7 +2170,7 @@
     },
     {
       "key": "QE_ST_01150101",
-      "value": "The Fangs of «Stiriae»"
+      "value": "The Fangs of Stiriae"
     },
     {
       "key": "QE_ST_01150102",
@@ -2162,7 +2178,7 @@
     },
     {
       "key": "QE_ST_01150103",
-      "value": "Machérie's Whereabouts"
+      "value": "Machrie's Whereabouts"
     },
     {
       "key": "QE_ST_01150104",
@@ -2170,7 +2186,7 @@
     },
     {
       "key": "QE_ST_01150105",
-      "value": "«Solidus» Advances"
+      "value": "Solidus Advances"
     },
     {
       "key": "QE_ST_01150106",
@@ -2290,7 +2306,7 @@
     },
     {
       "key": "QE_ST_02010105",
-      "value": "«Calorum» Advances"
+      "value": "Calorum Advances"
     },
     {
       "key": "QE_ST_02010106",
@@ -2782,11 +2798,11 @@
     },
     {
       "key": "QE_ST_02050108",
-      "value": "The «Royal Thorns» I"
+      "value": "The Royal Thorns I"
     },
     {
       "key": "QE_ST_02050109",
-      "value": "The «Royal Thorns» II"
+      "value": "The Royal Thorns II"
     },
     {
       "key": "QE_ST_02050110",
@@ -3074,11 +3090,11 @@
     },
     {
       "key": "QE_ST_02070301",
-      "value": "The Eyes of «Stiriae» I"
+      "value": "The Eyes of Stiriae I"
     },
     {
       "key": "QE_ST_02070302",
-      "value": "The Eyes of «Stiriae» II"
+      "value": "The Eyes of Stiriae II"
     },
     {
       "key": "QE_ST_02070303",
@@ -3210,11 +3226,11 @@
     },
     {
       "key": "QE_ST_02080305",
-      "value": "The Future of «Fortem» I"
+      "value": "The Future of Fortem I"
     },
     {
       "key": "QE_ST_02080306",
-      "value": "The Future of «Fortem» II"
+      "value": "The Future of Fortem II"
     },
     {
       "key": "QE_ST_02080307",
@@ -3311,6 +3327,166 @@
     {
       "key": "QE_ST_02090210",
       "value": "I Am Not Alone"
+    },
+    {
+      "key": "QE_ST_02090301",
+      "value": "By Denying Us So I"
+    },
+    {
+      "key": "QE_ST_02090302",
+      "value": "By Denying Us So II"
+    },
+    {
+      "key": "QE_ST_02090303",
+      "value": "Past and Future"
+    },
+    {
+      "key": "QE_ST_02090304",
+      "value": "Wariness"
+    },
+    {
+      "key": "QE_ST_02090305",
+      "value": "In King Oberon's Hands I"
+    },
+    {
+      "key": "QE_ST_02090306",
+      "value": "In King Oberon's Hands II"
+    },
+    {
+      "key": "QE_ST_02090307",
+      "value": "Deaths to be Avenged"
+    },
+    {
+      "key": "QE_ST_02090308",
+      "value": "Realization I"
+    },
+    {
+      "key": "QE_ST_02090309",
+      "value": "Realization II"
+    },
+    {
+      "key": "QE_ST_02090310",
+      "value": "Justice Yet Delivered"
+    },
+    {
+      "key": "QE_ST_02100101",
+      "value": "The Snow-White Guard I"
+    },
+    {
+      "key": "QE_ST_02100102",
+      "value": "The Snow-White Guard II"
+    },
+    {
+      "key": "QE_ST_02100103",
+      "value": "Ever Changing"
+    },
+    {
+      "key": "QE_ST_02100104",
+      "value": "Ovis's Choice"
+    },
+    {
+      "key": "QE_ST_02100105",
+      "value": "Somewhere I"
+    },
+    {
+      "key": "QE_ST_02100106",
+      "value": "Somewhere II"
+    },
+    {
+      "key": "QE_ST_02100107",
+      "value": "No Doubts I"
+    },
+    {
+      "key": "QE_ST_02100108",
+      "value": "No Doubts II"
+    },
+    {
+      "key": "QE_ST_02100109",
+      "value": "Thanks, But No Thanks"
+    },
+    {
+      "key": "QE_ST_02100110",
+      "value": "Deeds of the Father"
+    },
+    {
+      "key": "QE_ST_02100201",
+      "value": "Respect"
+    },
+    {
+      "key": "QE_ST_02100202",
+      "value": "For Nador I"
+    },
+    {
+      "key": "QE_ST_02100203",
+      "value": "For Nador II"
+    },
+    {
+      "key": "QE_ST_02100204",
+      "value": "If You Lie to Me"
+    },
+    {
+      "key": "QE_ST_02100205",
+      "value": "Not to Be Underestimated I"
+    },
+    {
+      "key": "QE_ST_02100206",
+      "value": "Not to Be Underestimated II"
+    },
+    {
+      "key": "QE_ST_02100207",
+      "value": "The Ram's Intentions"
+    },
+    {
+      "key": "QE_ST_02100208",
+      "value": "Birthright I"
+    },
+    {
+      "key": "QE_ST_02100209",
+      "value": "Birthright II"
+    },
+    {
+      "key": "QE_ST_02100210",
+      "value": "To Be Free"
+    },
+    {
+      "key": "QE_ST_02100301",
+      "value": "Dirty Work I"
+    },
+    {
+      "key": "QE_ST_02100302",
+      "value": "Dirty Work II"
+    },
+    {
+      "key": "QE_ST_02100303",
+      "value": "New Pages of History"
+    },
+    {
+      "key": "QE_ST_02100304",
+      "value": "Absolutely, Positively I"
+    },
+    {
+      "key": "QE_ST_02100305",
+      "value": "Absolutely, Positively II"
+    },
+    {
+      "key": "QE_ST_02100306",
+      "value": "Seething Bloodlust I"
+    },
+    {
+      "key": "QE_ST_02100307",
+      "value": "Seething Bloodlust II"
+    },
+    {
+      "key": "QE_ST_02100308",
+      "value": "Indignation"
+    },
+    {
+      "key": "QE_ST_02100309",
+      "value": "The V Clan"
+    },
+    {
+      "key": "QE_ST_02100310",
+      "value": "Gleam"
     },
     {
       "key": "QE_HA_LW_ZZAN",
@@ -3474,7 +3650,7 @@
     },
     {
       "key": "QE_HA_LW_MACR",
-      "value": "Shard Quest: Machérie Hourne"
+      "value": "Shard Quest: Machrie Hourne"
     },
     {
       "key": "QE_HA_LW_GLMS",
@@ -3658,7 +3834,7 @@
     },
     {
       "key": "QE_HA_LW_LMRE",
-      "value": "Shard Quest: Lemuré"
+      "value": "Shard Quest: Lemur"
     },
     {
       "key": "QE_HA_LW_GRSR_01",
@@ -3725,6 +3901,22 @@
       "value": "Shard Quest: Dark Fina"
     },
     {
+      "key": "QE_HA_LW_MA_02",
+      "value": "Shard Quest: Machrie (Queen of Hourne)"
+    },
+    {
+      "key": "QE_HA_LW_GR_02",
+      "value": "Shard Quest: Glaciela (Flagbearer of Reform)"
+    },
+    {
+      "key": "QE_HA_LW_SHNC",
+      "value": "Shard Quest: Chunak"
+    },
+    {
+      "key": "QE_HA_LW_ALIA",
+      "value": "Shard Quest: Alaya Rundall"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "Zazan"
     },
@@ -3781,6 +3973,10 @@
       "value": "Naiah"
     },
     {
+      "key": "QE_CH_LW_NAIA2",
+      "value": "Naiah (2)"
+    },
+    {
       "key": "QE_CH_LW_SRJS",
       "value": "Serjes"
     },
@@ -3807,6 +4003,10 @@
     {
       "key": "QE_CH_LW_VADM",
       "value": "Vadim"
+    },
+    {
+      "key": "QE_CH_LW_VADM2",
+      "value": "Vadim (2)"
     },
     {
       "key": "QE_CH_LW_MURM",
@@ -3869,6 +4069,10 @@
       "value": "Rairyuu"
     },
     {
+      "key": "QE_CH_LW_RIRY2",
+      "value": "Rairyuu (2)"
+    },
+    {
       "key": "QE_CH_LW_VSTR",
       "value": "Vistralle"
     },
@@ -3923,6 +4127,10 @@
     {
       "key": "QE_CH_LW_SDLX",
       "value": "Shadowlynx"
+    },
+    {
+      "key": "QE_CH_LW_SDLX2",
+      "value": "Shadowlynx (2)"
     },
     {
       "key": "QE_CH_LW_NASR",
@@ -4010,11 +4218,11 @@
     },
     {
       "key": "QE_CH_LW_MACR",
-      "value": "Machérie Hourne"
+      "value": "Machrie Hourne"
     },
     {
       "key": "QE_CH_LW_MACR2",
-      "value": "Machérie Hourne (2)"
+      "value": "Machrie Hourne (2)"
     },
     {
       "key": "QE_CH_LW_GLMS",
@@ -4069,8 +4277,16 @@
       "value": "Adelard"
     },
     {
+      "key": "QE_CH_LW_ADLD2",
+      "value": "Adelard (2)"
+    },
+    {
       "key": "QE_CH_LW_THLA",
       "value": "Salire"
+    },
+    {
+      "key": "QE_CH_LW_THLA2",
+      "value": "Salire (2)"
     },
     {
       "key": "QE_CH_LW_VKTR",
@@ -4083,6 +4299,10 @@
     {
       "key": "QE_CH_GL_LW_FRVA",
       "value": "Fryevia"
+    },
+    {
+      "key": "QE_CH_GL_LW_FRVA2",
+      "value": "Fryevia (2)"
     },
     {
       "key": "QE_CH_LW_RAIN",
@@ -4137,6 +4357,10 @@
       "value": "Raviesse"
     },
     {
+      "key": "QE_CH_LW_LVES2",
+      "value": "Raviesse (2)"
+    },
+    {
       "key": "QE_CH_FF14_YSTL",
       "value": "Y'shtola"
     },
@@ -4157,12 +4381,24 @@
       "value": "Ramza"
     },
     {
+      "key": "QE_CH_FFT_RAMZ2",
+      "value": "Ramza (2)"
+    },
+    {
       "key": "QE_CH_FFT_GFGR",
       "value": "Gaffgarion"
     },
     {
+      "key": "QE_CH_FFT_GFGR2",
+      "value": "Gaffgarion (2)"
+    },
+    {
       "key": "QE_CH_FFT_ORND",
       "value": "Orlandeau"
+    },
+    {
+      "key": "QE_CH_FFT_ORND2",
+      "value": "Orlandeau (2)"
     },
     {
       "key": "QE_CH_FF1_WROL",
@@ -4173,12 +4409,24 @@
       "value": "Mustadio"
     },
     {
+      "key": "QE_CH_FFT_MSTD2",
+      "value": "Mustadio (2)"
+    },
+    {
       "key": "QE_CH_FFT_AGRA",
       "value": "Agrias"
     },
     {
+      "key": "QE_CH_FFT_AGRA2",
+      "value": "Agrias (2)"
+    },
+    {
       "key": "QE_CH_FFT_DELT",
       "value": "Delita"
+    },
+    {
+      "key": "QE_CH_FFT_DELT2",
+      "value": "Delita (2)"
     },
     {
       "key": "QE_CH_LW_IRDL",
@@ -4187,6 +4435,10 @@
     {
       "key": "QE_CH_LW_STRN_01",
       "value": "Sterne (Knight of Ruin)"
+    },
+    {
+      "key": "QE_CH_LW_ST_01_2",
+      "value": "Sterne (Knight of Ruin) (2)"
     },
     {
       "key": "QE_CH_LW_LSWL",
@@ -4201,6 +4453,10 @@
       "value": "Glaciela Wezette"
     },
     {
+      "key": "QE_CH_LW_GRSR2",
+      "value": "Glaciela Wezette (2)"
+    },
+    {
       "key": "QE_CH_LW_RRIR",
       "value": "Loreila"
     },
@@ -4209,8 +4465,16 @@
       "value": "Little Leela (Halloween)"
     },
     {
+      "key": "QE_CH_LW_RY_01_2",
+      "value": "Little Leela (Halloween) (2)"
+    },
+    {
       "key": "QE_CH_LW_RIRY_01",
       "value": "Rairyuu (Halloween)"
+    },
+    {
+      "key": "QE_CH_LW_RI_01_2",
+      "value": "Rairyuu (Halloween) (2)"
     },
     {
       "key": "QE_CH_LW_SCAL",
@@ -4246,15 +4510,15 @@
     },
     {
       "key": "QE_CH_GL_LW_RAMD_01_2",
-      "value": "Ramada (Winter)"
+      "value": "Ramada (Winter) (2)"
     },
     {
       "key": "QE_CH_LW_MA_01",
-      "value": "Machérie (Winter)"
+      "value": "Machrie (Winter)"
     },
     {
       "key": "QE_CH_GL_LW_MA_01_2",
-      "value": "Machérie (Winter)"
+      "value": "Machrie (Winter) (2)"
     },
     {
       "key": "QE_CH_LW_LATH",
@@ -4289,6 +4553,10 @@
       "value": "Rhaldor"
     },
     {
+      "key": "QE_CH_LW_RARD2",
+      "value": "Rhaldor (2)"
+    },
+    {
       "key": "QE_CH_LW_ELSI",
       "value": "Ellshra"
     },
@@ -4297,8 +4565,16 @@
       "value": "Vinera (Winter)"
     },
     {
+      "key": "QE_CH_LW_VN_01_2",
+      "value": "Vinera (Winter) (2)"
+    },
+    {
       "key": "QE_CH_LW_VKTR_01",
       "value": "Viktora (Winter)"
+    },
+    {
+      "key": "QE_CH_LW_VK_01_2",
+      "value": "Viktora (Winter) (2)"
     },
     {
       "key": "QE_CH_LW_CRIS",
@@ -4373,6 +4649,10 @@
       "value": "Helena (Black-Robed Witch)"
     },
     {
+      "key": "QE_CH_LW_HL_01_2",
+      "value": "Helena (Black-Robed Witch) (2)"
+    },
+    {
       "key": "QE_CH_LW_THLA_01",
       "value": "Salire (Sweetheart)"
     },
@@ -4385,12 +4665,24 @@
       "value": "Zazan the Unkillable"
     },
     {
+      "key": "QE_CH_GL_LW_ZZAN_01_2",
+      "value": "Zazan the Unkillable (2)"
+    },
+    {
       "key": "QE_CH_LW_MORE",
       "value": "Moore"
     },
     {
+      "key": "QE_CH_LW_MORE2",
+      "value": "Moore (2)"
+    },
+    {
       "key": "QE_CH_LW_CWEL",
       "value": "Corwell"
+    },
+    {
+      "key": "QE_CH_LW_CWEL2",
+      "value": "Corwell (2)"
     },
     {
       "key": "QE_CH_LW_LILS_01",
@@ -4417,6 +4709,10 @@
       "value": "Charlotte"
     },
     {
+      "key": "QE_CH_LW_CRLT2",
+      "value": "Charlotte (2)"
+    },
+    {
       "key": "QE_CH_LW_VLRC",
       "value": "Velric"
     },
@@ -4438,7 +4734,7 @@
     },
     {
       "key": "QE_CH_LW_LMRE",
-      "value": "Lemuré"
+      "value": "Lemur"
     },
     {
       "key": "QE_CH_LW_GRGS",
@@ -4463,6 +4759,10 @@
     {
       "key": "QE_CH_LW_GRSR_01",
       "value": "Glaciela (Regalia)"
+    },
+    {
+      "key": "QE_CH_LW_GR_01_2",
+      "value": "Glaciela (Regalia) (2)"
     },
     {
       "key": "QE_CH_GL_TOMB_LARA",
@@ -4491,6 +4791,10 @@
     {
       "key": "QE_CH_LW_FDRC_01",
       "value": "Frederika (Halloween)"
+    },
+    {
+      "key": "QE_CH_LW_FD_01_2",
+      "value": "Frederika (Halloween) (2)"
     },
     {
       "key": "QE_CH_LW_LMIG",
@@ -4641,6 +4945,42 @@
       "value": "Jayden (Summer)"
     },
     {
+      "key": "QE_CH_LW_MA_02",
+      "value": "Machrie (Queen of Hourne)"
+    },
+    {
+      "key": "QE_CH_FF13_LTNG",
+      "value": "Lightning"
+    },
+    {
+      "key": "QE_CH_FF13_HOPE",
+      "value": "Hope"
+    },
+    {
+      "key": "QE_CH_FF13_SNOW",
+      "value": "Snow"
+    },
+    {
+      "key": "QE_CH_LW_GR_02",
+      "value": "Glaciela (Flagbearer of Reform)"
+    },
+    {
+      "key": "QE_CH_LW_SHNC",
+      "value": "Chunak"
+    },
+    {
+      "key": "QE_CH_LW_LBRK",
+      "value": "Rivelka"
+    },
+    {
+      "key": "QE_CH_LW_ALIA",
+      "value": "Alaya Rundall"
+    },
+    {
+      "key": "QE_CH_LW_LUCA_01",
+      "value": "Lu'Cia (Halloween)"
+    },
+    {
       "key": "QE_EV_GL_CDOWN_01_9",
       "value": "Countdown Quest"
     },
@@ -4733,6 +5073,34 @@
       "value": "Countdown Quest"
     },
     {
+      "key": "QE_EV_2_5ANV_1",
+      "value": "Countdown Quest"
+    },
+    {
+      "key": "QE_EV_2_5ANV_2",
+      "value": "Countdown Quest"
+    },
+    {
+      "key": "QE_EV_2_5ANV_3",
+      "value": "Countdown Quest"
+    },
+    {
+      "key": "QE_EV_2_5ANV_4",
+      "value": "Countdown Quest"
+    },
+    {
+      "key": "QE_EV_2_5ANV_5",
+      "value": "Countdown Quest"
+    },
+    {
+      "key": "QE_EV_2_5ANV_6",
+      "value": "Countdown Quest"
+    },
+    {
+      "key": "QE_EV_2_5ANV_7",
+      "value": "Countdown Quest"
+    },
+    {
       "key": "QE_EV_GL_TWCQ_FIR",
       "value": "Porcelain Tower Launch Celebration Quest (Fire)"
     },
@@ -4770,435 +5138,483 @@
     },
     {
       "key": "QE_PT_001_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_001_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_001_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_001_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_001_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_001_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_001_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_001_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_001_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_001_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_001_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_001_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_PT_002_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_002_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_002_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_002_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_002_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_002_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_002_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_002_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_002_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_002_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_002_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_002_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_PT_003_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_003_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_003_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_003_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_003_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_003_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_003_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_003_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_003_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_003_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_003_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_003_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_PT_004_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_004_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_004_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_004_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_004_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_004_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_004_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_004_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_004_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_004_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_004_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_004_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_PT_005_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_005_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_005_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_005_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_005_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_005_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_005_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_005_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_005_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_005_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_005_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_005_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_PT_006_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_006_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_006_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_006_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_006_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_006_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_006_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_006_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_006_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_006_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_006_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_006_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_PT_007_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_007_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_007_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_007_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_007_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_007_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_007_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_007_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_007_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_007_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_007_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_007_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_PT_008_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_008_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_008_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_008_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_008_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_008_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_008_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_008_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_008_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_008_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_008_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_008_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_PT_009_01",
-      "value": "Trials of Reckoning Quest — Normal #1"
+      "value": "Trials of Reckoning Quest  Normal #1"
     },
     {
       "key": "QE_PT_009_02",
-      "value": "Trials of Reckoning Quest — Normal #2"
+      "value": "Trials of Reckoning Quest  Normal #2"
     },
     {
       "key": "QE_PT_009_03",
-      "value": "Trials of Reckoning Quest — Normal #3"
+      "value": "Trials of Reckoning Quest  Normal #3"
     },
     {
       "key": "QE_PT_009_04",
-      "value": "Trials of Reckoning Quest — Normal #4"
+      "value": "Trials of Reckoning Quest  Normal #4"
     },
     {
       "key": "QE_PT_009_05",
-      "value": "Trials of Reckoning Quest — Normal #5"
+      "value": "Trials of Reckoning Quest  Normal #5"
     },
     {
       "key": "QE_PT_009_HA01",
-      "value": "Trials of Reckoning Quest — Hard #1"
+      "value": "Trials of Reckoning Quest  Hard #1"
     },
     {
       "key": "QE_PT_009_HA02",
-      "value": "Trials of Reckoning Quest — Hard #2"
+      "value": "Trials of Reckoning Quest  Hard #2"
     },
     {
       "key": "QE_PT_009_HA03",
-      "value": "Trials of Reckoning Quest — Hard #3"
+      "value": "Trials of Reckoning Quest  Hard #3"
     },
     {
       "key": "QE_PT_009_HA04",
-      "value": "Trials of Reckoning Quest — Hard #4"
+      "value": "Trials of Reckoning Quest  Hard #4"
     },
     {
       "key": "QE_PT_009_HA05",
-      "value": "Trials of Reckoning Quest — Hard #5"
+      "value": "Trials of Reckoning Quest  Hard #5"
     },
     {
       "key": "QE_PT_009_BOSS_1",
-      "value": "Trials of Reckoning Boss Battle — Normal"
+      "value": "Trials of Reckoning Boss Battle  Normal"
     },
     {
       "key": "QE_PT_009_BOSS_2",
-      "value": "Trials of Reckoning Boss Battle — Hard"
+      "value": "Trials of Reckoning Boss Battle  Hard"
+    },
+    {
+      "key": "QE_PT_010_01",
+      "value": "Trials of Reckoning Quest  Normal #1"
+    },
+    {
+      "key": "QE_PT_010_02",
+      "value": "Trials of Reckoning Quest  Normal #2"
+    },
+    {
+      "key": "QE_PT_010_03",
+      "value": "Trials of Reckoning Quest  Normal #3"
+    },
+    {
+      "key": "QE_PT_010_04",
+      "value": "Trials of Reckoning Quest  Normal #4"
+    },
+    {
+      "key": "QE_PT_010_05",
+      "value": "Trials of Reckoning Quest  Normal #5"
+    },
+    {
+      "key": "QE_PT_010_HA01",
+      "value": "Trials of Reckoning Quest  Hard #1"
+    },
+    {
+      "key": "QE_PT_010_HA02",
+      "value": "Trials of Reckoning Quest  Hard #2"
+    },
+    {
+      "key": "QE_PT_010_HA03",
+      "value": "Trials of Reckoning Quest  Hard #3"
+    },
+    {
+      "key": "QE_PT_010_HA04",
+      "value": "Trials of Reckoning Quest  Hard #4"
+    },
+    {
+      "key": "QE_PT_010_HA05",
+      "value": "Trials of Reckoning Quest  Hard #5"
+    },
+    {
+      "key": "QE_PT_010_BOSS_1",
+      "value": "Trials of Reckoning Boss Battle  Normal"
+    },
+    {
+      "key": "QE_PT_010_BOSS_2",
+      "value": "Trials of Reckoning Boss Battle  Hard"
     },
     {
       "key": "QE_SB_TYPN_02",
@@ -5426,31 +5842,31 @@
     },
     {
       "key": "QE_EV_FFT02_01",
-      "value": "[Part II] FINAL FANTASY TACTICS Battle #1"
+      "value": "(Part II) FINAL FANTASY TACTICS Battle #1"
     },
     {
       "key": "QE_EV_FFT02_02",
-      "value": "[Part II] FINAL FANTASY TACTICS Battle #2"
+      "value": "(Part II) FINAL FANTASY TACTICS Battle #2"
     },
     {
       "key": "QE_EV_FFT02_03",
-      "value": "[Part II] FINAL FANTASY TACTICS Battle #3"
+      "value": "(Part II) FINAL FANTASY TACTICS Battle #3"
     },
     {
       "key": "QE_EV_FFT02_04",
-      "value": "[Part II] FINAL FANTASY TACTICS Battle #4"
+      "value": "(Part II) FINAL FANTASY TACTICS Battle #4"
     },
     {
       "key": "QE_EV_FFT02_05",
-      "value": "[Part II] Castled City of Zaland"
+      "value": "(Part II) Castled City of Zaland"
     },
     {
       "key": "QE_EV_FFT_EX_02",
-      "value": "[Part II] FINAL FANTASY TACTICS [EX]"
+      "value": "(Part II) FINAL FANTASY TACTICS (EX)"
     },
     {
-      "key": "QE_MU_FFT_EX_02",
-      "value": "[Part II] FINAL FANTASY TACTICS [EX]"
+      "key": "QE_EV_FFT_EX_04",
+      "value": "Brutal Difficulty FINAL FANTASY TACTICS (Part II) (EX)"
     },
     {
       "key": "QE_EV_FFT_01",
@@ -5466,39 +5882,39 @@
     },
     {
       "key": "QE_EV_FFT_04",
-      "value": "Lionel Castle — Outer Gates"
+      "value": "Lionel Castle  Outer Gates"
     },
     {
       "key": "QE_EV_FFT_05",
-      "value": "Lionel Castle — Interior"
+      "value": "Lionel Castle  Interior"
     },
     {
       "key": "QE_EV_FFT_06",
-      "value": "FINAL FANTASY TACTICS Battle #1 [Intermediate]"
+      "value": "FINAL FANTASY TACTICS Battle #1 (Intermediate)"
     },
     {
       "key": "QE_EV_FFT_07",
-      "value": "FINAL FANTASY TACTICS Battle #2 [Intermediate]"
+      "value": "FINAL FANTASY TACTICS Battle #2 (Intermediate)"
     },
     {
       "key": "QE_EV_FFT_08",
-      "value": "FINAL FANTASY TACTICS Battle #3 [Intermediate]"
+      "value": "FINAL FANTASY TACTICS Battle #3 (Intermediate)"
     },
     {
       "key": "QE_EV_FFT_09",
-      "value": "Lionel Castle — Outer Gates [Intermediate]"
+      "value": "Lionel Castle  Outer Gates (Intermediate)"
     },
     {
       "key": "QE_EV_FFT_10",
-      "value": "Lionel Castle — Interior [Intermediate]"
+      "value": "Lionel Castle  Interior (Intermediate)"
     },
     {
       "key": "QE_EV_FFT_EX_01",
-      "value": "FINAL FANTASY TACTICS [EX]"
+      "value": "FINAL FANTASY TACTICS (EX)"
     },
     {
-      "key": "QE_MU_FFT_EX_01",
-      "value": "FINAL FANTASY TACTICS [EX]"
+      "key": "QE_EV_FFT_EX_03",
+      "value": "Brutal Difficulty FINAL FANTASY TACTICS (EX)"
     },
     {
       "key": "QE_GL_EV_FFEXU_01",
@@ -5514,7 +5930,7 @@
     },
     {
       "key": "QE_EV_FF4_03",
-      "value": "Dwarven Castle — Interior"
+      "value": "Dwarven Castle  Interior"
     },
     {
       "key": "QE_EV_FF4_04",
@@ -5522,7 +5938,7 @@
     },
     {
       "key": "QE_EV_FF4_05",
-      "value": "Dwarven Castle — Crystal Chamber"
+      "value": "Dwarven Castle  Crystal Chamber"
     },
     {
       "key": "QE_EV_FF4_06",
@@ -5534,7 +5950,7 @@
     },
     {
       "key": "QE_EV_FF4_08",
-      "value": "Dwarven Castle — Interior [Intermediate]"
+      "value": "Dwarven Castle  Interior [Intermediate]"
     },
     {
       "key": "QE_EV_FF4_09",
@@ -5542,7 +5958,7 @@
     },
     {
       "key": "QE_EV_FF4_10",
-      "value": "Dwarven Castle — Crystal Chamber [Intermediate]"
+      "value": "Dwarven Castle  Crystal Chamber [Intermediate]"
     },
     {
       "key": "QE_EV_FF4_EX_01",
@@ -5662,11 +6078,11 @@
     },
     {
       "key": "QE_EV_FF10_04",
-      "value": "Dome — Interior"
+      "value": "Dome  Interior"
     },
     {
       "key": "QE_EV_FF10_05",
-      "value": "Dome — The Beyond  "
+      "value": "Dome  The Beyond  "
     },
     {
       "key": "QE_EV_FF10_06",
@@ -5682,11 +6098,11 @@
     },
     {
       "key": "QE_EV_FF10_09",
-      "value": "Dome — Interior [Intermediate]"
+      "value": "Dome  Interior [Intermediate]"
     },
     {
       "key": "QE_EV_FF10_10",
-      "value": "Dome — The Beyond [Intermediate]"
+      "value": "Dome  The Beyond [Intermediate]"
     },
     {
       "key": "QE_EV_FF10_EX_01",
@@ -5794,15 +6210,15 @@
     },
     {
       "key": "QE_EV_FF15_03",
-      "value": "Fort Vaullerey — Lot A"
+      "value": "Fort Vaullerey  Lot A"
     },
     {
       "key": "QE_EV_FF15_04",
-      "value": "Fort Vaullerey — Lot B"
+      "value": "Fort Vaullerey  Lot B"
     },
     {
       "key": "QE_EV_FF15_05",
-      "value": "Fort Vaullerey — Lot C"
+      "value": "Fort Vaullerey  Lot C"
     },
     {
       "key": "QE_EV_FF15_06",
@@ -5814,15 +6230,15 @@
     },
     {
       "key": "QE_EV_FF15_08",
-      "value": "Fort Vaullerey — Lot A [Intermediate]"
+      "value": "Fort Vaullerey  Lot A [Intermediate]"
     },
     {
       "key": "QE_EV_FF15_09",
-      "value": "Fort Vaullerey — Lot B [Intermediate]"
+      "value": "Fort Vaullerey  Lot B [Intermediate]"
     },
     {
       "key": "QE_EV_FF15_10",
-      "value": "Fort Vaullerey — Lot C [Intermediate]"
+      "value": "Fort Vaullerey  Lot C [Intermediate]"
     },
     {
       "key": "QE_EV_FF15_EX_01",
@@ -5985,6 +6401,146 @@
       "value": "Brutal Difficulty Cyrelle Acquisition Quest"
     },
     {
+      "key": "QE_MU_EV_17_EX",
+      "value": "That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "QE_MU_EV_17_EX_1",
+      "value": "Brutal Difficulty That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "QE_MU_EV_18_EX2",
+      "value": "As Blood Demands [EX2]"
+    },
+    {
+      "key": "QE_MU_EV_18_EX_2",
+      "value": "Brutal Difficulty As Blood Demands [EX2]"
+    },
+    {
+      "key": "QE_MU_EV_18_EX",
+      "value": "As Blood Demands [EX]"
+    },
+    {
+      "key": "QE_MU_EV_18_EX_1",
+      "value": "Brutal Difficulty As Blood Demands [EX]"
+    },
+    {
+      "key": "QE_MU_ART_CRF_55",
+      "value": "Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_56",
+      "value": "Brutal Difficulty Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_45",
+      "value": "Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_46",
+      "value": "Brutal Difficulty Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "QE_MU_EV_LB_EX1",
+      "value": "High Difficulty Rivelka Acquisition Ex-Quest"
+    },
+    {
+      "key": "QE_MU_EV_LB_EX2",
+      "value": "Brutal Difficulty Rivelka Acquisition Ex-Quest I"
+    },
+    {
+      "key": "QE_MU_EV_LB_EX3",
+      "value": "Brutal Difficulty Rivelka Acquisition Ex-Quest II"
+    },
+    {
+      "key": "QE_MU_FFT_EX_01",
+      "value": "FINAL FANTASY TACTICS (EX)"
+    },
+    {
+      "key": "QE_MU_FFT_EX_03",
+      "value": "Brutal Difficulty FINAL FANTASY TACTICS (EX)"
+    },
+    {
+      "key": "QE_MU_FFT_EX_02",
+      "value": "(Part II) FINAL FANTASY TACTICS (EX)"
+    },
+    {
+      "key": "QE_MU_FFT_EX_04",
+      "value": "Brutal Difficulty FINAL FANTASY TACTICS (Part II) (EX)"
+    },
+    {
+      "key": "QE_MU_FF13_EX_01",
+      "value": "FINAL FANTASY XIII [EX]"
+    },
+    {
+      "key": "QE_MU_FF13_EX_02",
+      "value": "Brutal Difficulty FINAL FANTASY XIII [EX]"
+    },
+    {
+      "key": "QE_MU_ART_CRF_43",
+      "value": "Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_44",
+      "value": "Brutal Difficulty Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_31",
+      "value": "Equipment Training Quest (Holy Lance)"
+    },
+    {
+      "key": "QE_MU_ART_CRF_32",
+      "value": "Brutal Difficulty Equipment Training Quest (Holy Lance)"
+    },
+    {
+      "key": "QE_MU_CHAL_05_02",
+      "value": "[Brutal Difficulty] Challenge Quest V"
+    },
+    {
+      "key": "QE_MU_CHAL_05_03",
+      "value": "[Nightmare Difficulty] Challenge Quest V"
+    },
+    {
+      "key": "QE_MU_AEX_115_1",
+      "value": "Another Story Chapter 1, Scene 5 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_115_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 5 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_114_1",
+      "value": "Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_114_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 4 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_113_1",
+      "value": "Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_113_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_112_1",
+      "value": "Another Story Chapter 1, Scene 2 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_112_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 2 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_111_1",
+      "value": "Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
+      "key": "QE_MU_AEX_111_2",
+      "value": "Brutal Difficulty Another Story Chapter 1, Scene 1 [EX]"
+    },
+    {
       "key": "QE_MU_GL_FFEXU_02_EX",
       "value": "[Multi] Creeping Malice EX"
     },
@@ -6053,46 +6609,6 @@
       "value": "Brutal Difficulty Beast Hunt Quest"
     },
     {
-      "key": "QE_MU_AEX_115_1",
-      "value": "Another Story Chapter 1, Scene 5 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_115_2",
-      "value": "Brutal Difficulty Another Story Chapter 1, Scene 5 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_114_1",
-      "value": "Another Story Chapter 1, Scene 4 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_114_2",
-      "value": "Brutal Difficulty Another Story Chapter 1, Scene 4 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_113_1",
-      "value": "Another Story Chapter 1, Scene 3 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_113_2",
-      "value": "Brutal Difficulty Another Story Chapter 1, Scene 3 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_112_1",
-      "value": "Another Story Chapter 1, Scene 2 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_112_2",
-      "value": "Brutal Difficulty Another Story Chapter 1, Scene 2 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_111_1",
-      "value": "Another Story Chapter 1, Scene 1 [EX]"
-    },
-    {
-      "key": "QE_MU_AEX_111_2",
-      "value": "Brutal Difficulty Another Story Chapter 1, Scene 1 [EX]"
-    },
-    {
       "key": "QE_RAID_GL_RV_01_01",
       "value": "High Difficulty Omega Revival"
     },
@@ -6146,15 +6662,15 @@
     },
     {
       "key": "QE_EV_P5R_03",
-      "value": "Metaverse Fragment: Old Castle — Central Tower"
+      "value": "Metaverse Fragment: Old Castle  Central Tower"
     },
     {
       "key": "QE_EV_P5R_04",
-      "value": "Metaverse Fragment: Bank — Underground Vault"
+      "value": "Metaverse Fragment: Bank  Underground Vault"
     },
     {
       "key": "QE_EV_P5R_05",
-      "value": "Metaverse Fragment: Casino — Manager Area"
+      "value": "Metaverse Fragment: Casino  Manager Area"
     },
     {
       "key": "QE_EV_P5R_06",
@@ -6166,63 +6682,111 @@
     },
     {
       "key": "QE_EV_P5R_08",
-      "value": "Metaverse Fragment: Old Castle — Central Tower [Intermediate]"
+      "value": "Metaverse Fragment: Old Castle  Central Tower [Intermediate]"
     },
     {
       "key": "QE_EV_P5R_09",
-      "value": "Metaverse Fragment: Bank — Underground Vault [Intermediate]"
+      "value": "Metaverse Fragment: Bank  Underground Vault [Intermediate]"
     },
     {
       "key": "QE_EV_P5R_10",
-      "value": "Metaverse Fragment: Casino — Manager Area [Intermediate]"
+      "value": "Metaverse Fragment: Casino  Manager Area [Intermediate]"
     },
     {
       "key": "QE_EV_P5R_EX_01",
-      "value": "Metaverse Fragment: Old Castle — Central Tower [EX1]"
+      "value": "Metaverse Fragment: Old Castle  Central Tower [EX1]"
     },
     {
       "key": "QE_EV_P5R_EX_02",
-      "value": "Metaverse Fragment: Bank — Underground Vault [EX2]"
+      "value": "Metaverse Fragment: Bank  Underground Vault [EX2]"
     },
     {
       "key": "QE_EV_P5R_EX_04",
-      "value": "Brutal Difficulty Metaverse Fragment: Old Castle — Central Tower [EX1]"
+      "value": "Brutal Difficulty Metaverse Fragment: Old Castle  Central Tower [EX1]"
     },
     {
       "key": "QE_EV_P5R_EX_05",
-      "value": "Brutal Difficulty Metaverse Fragment: Bank — Underground Vault [EX2]"
+      "value": "Brutal Difficulty Metaverse Fragment: Bank  Underground Vault [EX2]"
     },
     {
       "key": "QE_EV_P5R_EX_03",
-      "value": "Metaverse Fragment: Casino — Manager Area [EX3]"
+      "value": "Metaverse Fragment: Casino  Manager Area [EX3]"
     },
     {
       "key": "QE_EV_P5R_EX_06",
-      "value": "Brutal Difficulty Metaverse Fragment: Casino — Manager Area [EX3]"
+      "value": "Brutal Difficulty Metaverse Fragment: Casino  Manager Area [EX3]"
     },
     {
       "key": "QE_MU_P5R_EX_03",
-      "value": "Metaverse Fragment: Casino — Manager Area [EX3]"
+      "value": "Metaverse Fragment: Casino  Manager Area [EX3]"
     },
     {
       "key": "QE_MU_P5R_EX_02",
-      "value": "Metaverse Fragment: Bank — Underground Vault [EX2]"
+      "value": "Metaverse Fragment: Bank  Underground Vault [EX2]"
     },
     {
       "key": "QE_MU_P5R_EX_01",
-      "value": "Metaverse Fragment: Old Castle — Central Tower [EX1]"
+      "value": "Metaverse Fragment: Old Castle  Central Tower [EX1]"
     },
     {
       "key": "QE_MU_P5R_EX_06",
-      "value": "Brutal Difficulty Metaverse Fragment: Casino — Manager Area [EX3]"
+      "value": "Brutal Difficulty Metaverse Fragment: Casino  Manager Area [EX3]"
     },
     {
       "key": "QE_MU_P5R_EX_05",
-      "value": "Brutal Difficulty Metaverse Fragment: Bank — Underground Vault [EX2]"
+      "value": "Brutal Difficulty Metaverse Fragment: Bank  Underground Vault [EX2]"
     },
     {
       "key": "QE_MU_P5R_EX_04",
-      "value": "Brutal Difficulty Metaverse Fragment: Old Castle — Central Tower [EX1]"
+      "value": "Brutal Difficulty Metaverse Fragment: Old Castle  Central Tower [EX1]"
+    },
+    {
+      "key": "QE_EV_FF13_01",
+      "value": "FINAL FANTASY XIII Battle #1"
+    },
+    {
+      "key": "QE_EV_FF13_02",
+      "value": "FINAL FANTASY XIII Battle #2"
+    },
+    {
+      "key": "QE_EV_FF13_03",
+      "value": "Palumpolum  The Agora"
+    },
+    {
+      "key": "QE_EV_FF13_04",
+      "value": "Palumpolum  Western Promenade"
+    },
+    {
+      "key": "QE_EV_FF13_05",
+      "value": "Palumpolum  Rivera Towers"
+    },
+    {
+      "key": "QE_EV_FF13_06",
+      "value": "FINAL FANTASY XIII Battle #1 [Intermediate]"
+    },
+    {
+      "key": "QE_EV_FF13_07",
+      "value": "FINAL FANTASY XIII Battle #2 [Intermediate]"
+    },
+    {
+      "key": "QE_EV_FF13_08",
+      "value": "Palumpolum  The Agora [Intermediate]"
+    },
+    {
+      "key": "QE_EV_FF13_09",
+      "value": "Palumpolum  Western Promenade [Intermediate]"
+    },
+    {
+      "key": "QE_EV_FF13_10",
+      "value": "Palumpolum  Rivera Towers [Intermediate]"
+    },
+    {
+      "key": "QE_EV_FF13_EX_01",
+      "value": "FINAL FANTASY XIII [EX]"
+    },
+    {
+      "key": "QE_EV_FF13_EX_02",
+      "value": "Brutal Difficulty FINAL FANTASY XIII [EX]"
     },
     {
       "key": "QE_RAID_RV_03_01",
@@ -6306,7 +6870,7 @@
     },
     {
       "key": "QE_EV_14_05",
-      "value": "Ep. 5: «Obtritus»"
+      "value": "Ep. 5: Obtritus"
     },
     {
       "key": "QE_EV_14_06",
@@ -6439,6 +7003,110 @@
     {
       "key": "QE_EV_16_EX_1",
       "value": "Brutal Difficulty For the Love of a Smile [EX]"
+    },
+    {
+      "key": "QE_EV_17_01",
+      "value": "Ep. 1: Invaders I"
+    },
+    {
+      "key": "QE_EV_17_02",
+      "value": "Ep. 2: Invaders II"
+    },
+    {
+      "key": "QE_EV_17_03",
+      "value": "Ep. 3: Invaders III"
+    },
+    {
+      "key": "QE_EV_17_04",
+      "value": "Ep. 4: Flames Unleashed I"
+    },
+    {
+      "key": "QE_EV_17_05",
+      "value": "Ep. 5: Flames Unleashed II"
+    },
+    {
+      "key": "QE_EV_17_06",
+      "value": "Ep. 6: Provocation I"
+    },
+    {
+      "key": "QE_EV_17_07",
+      "value": "Ep. 7: Provocation II"
+    },
+    {
+      "key": "QE_EV_17_08",
+      "value": "Ep. 8: The Impenetrable Wall of Hourne I"
+    },
+    {
+      "key": "QE_EV_17_09",
+      "value": "Ep. 9: The Impenetrable Wall of Hourne II"
+    },
+    {
+      "key": "QE_EV_17_10",
+      "value": "Ep. 10: Taller and Tougher "
+    },
+    {
+      "key": "QE_EV_17_EX",
+      "value": "That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "QE_EV_17_EX_1",
+      "value": "Brutal Difficulty That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "QE_EV_18_01",
+      "value": "Ep. 1: To Bordisse Castle I"
+    },
+    {
+      "key": "QE_EV_18_02",
+      "value": "Ep. 2: To Bordisse Castle II"
+    },
+    {
+      "key": "QE_EV_18_03",
+      "value": "Ep. 3: Following from Afar"
+    },
+    {
+      "key": "QE_EV_18_04",
+      "value": "Ep. 4: An Oath Sworn I"
+    },
+    {
+      "key": "QE_EV_18_05",
+      "value": "Ep. 5: An Oath Sworn II"
+    },
+    {
+      "key": "QE_EV_18_06",
+      "value": "Ep. 6: An Oath Sworn III"
+    },
+    {
+      "key": "QE_EV_18_07",
+      "value": "Ep: 7: Obstacles of the Restoration"
+    },
+    {
+      "key": "QE_EV_18_08",
+      "value": "Ep. 8: The Power of Sisterhood I"
+    },
+    {
+      "key": "QE_EV_18_09",
+      "value": "Ep. 9: The Power of Sisterhood II"
+    },
+    {
+      "key": "QE_EV_18_10",
+      "value": "Ep. 10: Roseluna"
+    },
+    {
+      "key": "QE_EV_18_EX",
+      "value": "As Blood Demands [EX]"
+    },
+    {
+      "key": "QE_EV_18_EX_1",
+      "value": "Brutal Difficulty As Blood Demands [EX]"
+    },
+    {
+      "key": "QE_EV_18_EX2",
+      "value": "As Blood Demands [EX2]"
+    },
+    {
+      "key": "QE_EV_18_EX_2",
+      "value": "Brutal Difficulty As Blood Demands [EX2]"
     },
     {
       "key": "QE_EV_GL_TOMB_01",
@@ -6610,39 +7278,39 @@
     },
     {
       "key": "QE_EV_LMRE_01",
-      "value": "Lemuré Acquisition Quest I"
+      "value": "Lemur Acquisition Quest I"
     },
     {
       "key": "QE_EV_LMRE_02",
-      "value": "Lemuré Acquisition Quest II"
+      "value": "Lemur Acquisition Quest II"
     },
     {
       "key": "QE_EV_LMRE_03",
-      "value": "Lemuré Acquisition Quest III"
+      "value": "Lemur Acquisition Quest III"
     },
     {
       "key": "QE_EV_LMRE_04",
-      "value": "Lemuré Acquisition Quest IV"
+      "value": "Lemur Acquisition Quest IV"
     },
     {
       "key": "QE_EV_LMRE_05",
-      "value": "Lemuré Acquisition Quest V"
+      "value": "Lemur Acquisition Quest V"
     },
     {
       "key": "QE_EV_LMRE_EX1",
-      "value": "High Difficulty Lemuré Acquisition Ex-Quest"
+      "value": "High Difficulty Lemur Acquisition Ex-Quest"
     },
     {
       "key": "QE_EV_LMRE_EX2",
-      "value": "Brutal Difficulty Lemuré Acquisition Ex-Quest"
+      "value": "Brutal Difficulty Lemur Acquisition Ex-Quest"
     },
     {
       "key": "QE_MU_EV_LM_EX1",
-      "value": "High Difficulty Lemuré Acquisition Ex-Quest"
+      "value": "High Difficulty Lemur Acquisition Ex-Quest"
     },
     {
       "key": "QE_MU_EV_LM_EX2",
-      "value": "Brutal Difficulty Lemuré Acquisition Ex-Quest"
+      "value": "Brutal Difficulty Lemur Acquisition Ex-Quest"
     },
     {
       "key": "QE_EV_SERL_01",
@@ -6749,40 +7417,76 @@
       "value": "Nightmare Difficulty Macleod Acquisition Ex-Quest"
     },
     {
+      "key": "QE_EV_LBRK_01",
+      "value": "Rivelka Acquisition Quest I"
+    },
+    {
+      "key": "QE_EV_LBRK_02",
+      "value": "Rivelka Acquisition Quest II"
+    },
+    {
+      "key": "QE_EV_LBRK_03",
+      "value": "Rivelka Acquisition Quest III"
+    },
+    {
+      "key": "QE_EV_LBRK_04",
+      "value": "Rivelka Acquisition Quest IV"
+    },
+    {
+      "key": "QE_EV_LBRK_05",
+      "value": "Rivelka Acquisition Quest V"
+    },
+    {
+      "key": "QE_EV_LBRK_EX1",
+      "value": "High Difficulty Rivelka Acquisition Ex-Quest"
+    },
+    {
+      "key": "QE_EV_LBRK_EX2",
+      "value": "Brutal Difficulty Rivelka Acquisition Ex-Quest I"
+    },
+    {
+      "key": "QE_EV_LBRK_EX3",
+      "value": "Brutal Difficulty Rivelka Acquisition Ex-Quest II"
+    },
+    {
+      "key": "QE_EV_LBRK_EX4",
+      "value": "Nightmare Difficulty Rivelka Acquisition Ex-Quest"
+    },
+    {
       "key": "QE_EV_WW_MB1",
-      "value": "Sprouts of Devouring Ep. 1 — Warriors Who Bear the Light"
+      "value": "Sprouts of Devouring Ep. 1  Warriors Who Bear the Light"
     },
     {
       "key": "QE_EV_WW_MB_EX1",
-      "value": "Sprouts of Devouring — EXVIUS UNIVERSE EX1"
+      "value": "Sprouts of Devouring  EXVIUS UNIVERSE EX1"
     },
     {
       "key": "QE_MU_EV_WWMBEX1",
-      "value": "[Multi] Sprouts of Devouring — EXVIUS UNIVERSE EX1"
+      "value": "[Multi] Sprouts of Devouring  EXVIUS UNIVERSE EX1"
     },
     {
       "key": "QE_EV_WW_MB2",
-      "value": "Sprouts of Devouring Ep. 2 — A Frightful Mutation"
+      "value": "Sprouts of Devouring Ep. 2  A Frightful Mutation"
     },
     {
       "key": "QE_EV_WW_MB_EX2",
-      "value": "Sprouts of Devouring — EXVIUS UNIVERSE EX2"
+      "value": "Sprouts of Devouring  EXVIUS UNIVERSE EX2"
     },
     {
       "key": "QE_EV_WW_MB_EX3",
-      "value": "Brutal Difficulty Sprouts of Devouring — EXVIUS UNIVERSE EX2 "
+      "value": "Brutal Difficulty Sprouts of Devouring  EXVIUS UNIVERSE EX2 "
     },
     {
       "key": "QE_MU_EV_WWMBEX2",
-      "value": "[Multi] Sprouts of Devouring — EXVIUS UNIVERSE EX2"
+      "value": "[Multi] Sprouts of Devouring  EXVIUS UNIVERSE EX2"
     },
     {
       "key": "QE_MU_EV_WWMBEX3",
-      "value": "[Multi] Brutal Difficulty Sprouts of Devouring — EXVIUS UNIVERSE EX2 "
+      "value": "[Multi] Brutal Difficulty Sprouts of Devouring  EXVIUS UNIVERSE EX2 "
     },
     {
       "key": "QE_EV_WW_MB3",
-      "value": "Sprouts of Devouring Ep. 3 — Endings and Beginnings"
+      "value": "Sprouts of Devouring Ep. 3  Endings and Beginnings"
     },
     {
       "key": "QE_EV_LSWL_01",
@@ -7514,11 +8218,11 @@
     },
     {
       "key": "QE_EV_11_08",
-      "value": "Ep. 8: The Might of «Crucium» I"
+      "value": "Ep. 8: The Might of Crucium I"
     },
     {
       "key": "QE_EV_11_09",
-      "value": "Ep. 9: The Might of «Crucium» II"
+      "value": "Ep. 9: The Might of Crucium II"
     },
     {
       "key": "QE_EV_11_10",
@@ -7542,7 +8246,7 @@
     },
     {
       "key": "QE_EV_12_01",
-      "value": "Ep. 1: Lemuré"
+      "value": "Ep. 1: Lemur"
     },
     {
       "key": "QE_EV_12_02",
@@ -7890,11 +8594,11 @@
     },
     {
       "key": "QE_EV_AST_010309",
-      "value": "«Spirare» Strikes Back I"
+      "value": "Spirare Strikes Back I"
     },
     {
       "key": "QE_EV_AST_010310",
-      "value": "«Spirare» Strikes Back II"
+      "value": "Spirare Strikes Back II"
     },
     {
       "key": "QE_EV_AST_010401",
@@ -8119,6 +8823,18 @@
     {
       "key": "QE_MU_CHAL_04_03",
       "value": "[Nightmare Difficulty] Challenge Quest IV"
+    },
+    {
+      "key": "QE_CHAL_05_01",
+      "value": "[High Difficulty] Challenge Quest V"
+    },
+    {
+      "key": "QE_CHAL_05_02",
+      "value": "[Brutal Difficulty] Challenge Quest V"
+    },
+    {
+      "key": "QE_CHAL_05_03",
+      "value": "[Nightmare Difficulty] Challenge Quest V"
     },
     {
       "key": "QE_EV_SB_EXP_FIR",
@@ -8365,6 +9081,54 @@
       "value": "[Brutal Difficulty] Crystal Sanctum Founder Training Quest #4"
     },
     {
+      "key": "QE_EV_MACR_02_01",
+      "value": "Steeled Queen Training Quest #1"
+    },
+    {
+      "key": "QE_EV_MACR_02_02",
+      "value": "Steeled Queen Training Quest #2"
+    },
+    {
+      "key": "QE_EV_MACR_02_03",
+      "value": "Steeled Queen Training Quest #3"
+    },
+    {
+      "key": "QE_EV_MACR_02_04",
+      "value": "Steeled Queen Training Quest #4"
+    },
+    {
+      "key": "QE_EV_GRSR_02_01",
+      "value": "Resolute Flagbearer Training Quest #1"
+    },
+    {
+      "key": "QE_EV_GRSR_02_02",
+      "value": "[High Difficulty] Resolute Flagbearer Training Quest #2"
+    },
+    {
+      "key": "QE_EV_GRSR_02_03",
+      "value": "[High Difficulty] Resolute Flagbearer Training Quest #3"
+    },
+    {
+      "key": "QE_EV_GRSR_02_04",
+      "value": "[Brutal Difficulty] Resolute Flagbearer Training Quest #4"
+    },
+    {
+      "key": "QE_EV_ALIA_01",
+      "value": "Dragon Princess Training Quest #1"
+    },
+    {
+      "key": "QE_EV_ALIA_02",
+      "value": "[High Difficulty] Dragon Princess Training Quest #2"
+    },
+    {
+      "key": "QE_EV_ALIA_03",
+      "value": "[High Difficulty] Dragon Princess Training Quest #3"
+    },
+    {
+      "key": "QE_EV_ALIA_04",
+      "value": "[Brutal Difficulty] Dragon Princess Training Quest #4"
+    },
+    {
       "key": "QE_EV_GL_TU_IREZ",
       "value": "Deeds of the Black-Haired Drifter"
     },
@@ -8375,6 +9139,34 @@
     {
       "key": "QE_EV_GL_TU_JEDN_01",
       "value": "Deeds of the Smoldering Summer Bullet"
+    },
+    {
+      "key": "QE_EV_GL_TU_MACR_02",
+      "value": "Machrie (Queen of Hourne) Starter Quest"
+    },
+    {
+      "key": "QE_EV_GL_TU_LTNG",
+      "value": "Deeds of the Soldier Defying Fate"
+    },
+    {
+      "key": "QE_EV_GL_TU_SNOW",
+      "value": "Deeds of the Leader of NORA"
+    },
+    {
+      "key": "QE_EV_GL_TU_GRSR_02",
+      "value": "Glaciela (Flagbearer of Reform) Starter Quest"
+    },
+    {
+      "key": "QE_EV_GL_TU_LUCA_01",
+      "value": "Lu'Cia (Halloween) Starter Quest"
+    },
+    {
+      "key": "QE_EV_GL_TU_SHNC",
+      "value": "Chunak Starter Quest"
+    },
+    {
+      "key": "QE_EV_GL_TU_ALIA",
+      "value": "Alaya Rundall Starter Quest"
     },
     {
       "key": "QE_EV_GL_LOFI_01",
@@ -8509,6 +9301,14 @@
       "value": "Brutal Difficulty Equipment Training Quest (Tyrfing)"
     },
     {
+      "key": "QE_EV_ART_CRF_31",
+      "value": "Equipment Training Quest (Holy Lance)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_32",
+      "value": "Brutal Difficulty Equipment Training Quest (Holy Lance)"
+    },
+    {
       "key": "QE_EV_ART_CRF_33",
       "value": "Equipment Training Quest (Rune Staff)"
     },
@@ -8547,6 +9347,30 @@
     {
       "key": "QE_EV_ART_CRF_42",
       "value": "Brutal Difficulty Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_43",
+      "value": "Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_44",
+      "value": "Brutal Difficulty Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_45",
+      "value": "Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_46",
+      "value": "Brutal Difficulty Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_55",
+      "value": "Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
+      "key": "QE_EV_ART_CRF_56",
+      "value": "Brutal Difficulty Equipment Training Quest (Diaries of a Mischievous Witch)"
     },
     {
       "key": "QE_MU_ART_CRF_20",
@@ -8865,6 +9689,10 @@
       "value": "Selection Quest (Light) #13"
     },
     {
+      "key": "QE_BR_SHINE_14",
+      "value": "Selection Quest (Light) #14"
+    },
+    {
       "key": "QE_BR_SOIL_01",
       "value": "Selection Quest (Earth) #1"
     },
@@ -8915,6 +9743,10 @@
     {
       "key": "QE_BR_SOIL_13",
       "value": "Selection Quest (Earth) #13"
+    },
+    {
+      "key": "QE_BR_SOIL_14",
+      "value": "Selection Quest (Earth) #14"
     },
     {
       "key": "QE_BR_WIND_01",
@@ -9165,6 +9997,18 @@
       "value": "Selection Quest (Ice) #10"
     },
     {
+      "key": "QE_BR_ICE_11",
+      "value": "Selection Quest (Ice) #11"
+    },
+    {
+      "key": "QE_BR_ICE_12",
+      "value": "Selection Quest (Ice) #12"
+    },
+    {
+      "key": "QE_BR_ICE_13",
+      "value": "Selection Quest (Ice) #13"
+    },
+    {
       "key": "QE_BR_WATER_01",
       "value": "Selection Quest (Water) #1"
     },
@@ -9203,6 +10047,18 @@
     {
       "key": "QE_BR_WATER_10",
       "value": "Selection Quest (Water) #10"
+    },
+    {
+      "key": "QE_BR_WATER_11",
+      "value": "Selection Quest (Water) #11"
+    },
+    {
+      "key": "QE_BR_WATER_12",
+      "value": "Selection Quest (Water) #12"
+    },
+    {
+      "key": "QE_BR_WATER_13",
+      "value": "Selection Quest (Water) #13"
     },
     {
       "key": "QE_SB_IFRT_01",
@@ -9403,6 +10259,22 @@
     {
       "key": "QE_SB_ANIM_02",
       "value": "Anima Battle (2)"
+    },
+    {
+      "key": "QE_SB_SRTN_01",
+      "value": "Sheratan Battle"
+    },
+    {
+      "key": "QE_SB_SRTN_02",
+      "value": "Sheratan Battle (2)"
+    },
+    {
+      "key": "QE_SB_TSLP_01_01",
+      "value": "Dark Tetra Sylphid Battle"
+    },
+    {
+      "key": "QE_SB_TSLP_01_02",
+      "value": "Dark Tetra Sylphid Battle (2)"
     },
     {
       "key": "QE_SB_MABR_01",
@@ -9771,6 +10643,66 @@
     {
       "key": "QE_GRA_EV_20_3",
       "value": "Yunalesca Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_21_1",
+      "value": "Falco Velocycle Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_21_2",
+      "value": "Falco Velocycle Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_21_3",
+      "value": "Falco Velocycle Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_22_1",
+      "value": "Anima Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_22_2",
+      "value": "Anima Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_22_3",
+      "value": "Anima Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_23_1",
+      "value": "Geiseric Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_23_2",
+      "value": "Geiseric Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_23_3",
+      "value": "Geiseric Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_24_1",
+      "value": "Elafikeras Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_24_2",
+      "value": "Elafikeras Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_24_3",
+      "value": "Elafikeras Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_25_1",
+      "value": "Ushumgal Subjugator Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_25_2",
+      "value": "Ushumgal Subjugator Guild Raid"
+    },
+    {
+      "key": "QE_GRA_EV_25_3",
+      "value": "Ushumgal Subjugator Guild Raid"
     },
     {
       "key": "QE_RAID_EV_06_01",
@@ -10865,6 +11797,26 @@
       "value": "Cathedral Rear Courtyard"
     },
     {
+      "key": "QE_ARENA_GL_00030",
+      "value": "Plains IV"
+    },
+    {
+      "key": "QE_ARENA_GL_00031",
+      "value": "Ancient Ruins IX"
+    },
+    {
+      "key": "QE_ARENA_GL_00032",
+      "value": "Underground Ruins"
+    },
+    {
+      "key": "QE_ARENA_GL_00033",
+      "value": "Graveyard III"
+    },
+    {
+      "key": "QE_ARENA_GL_00034",
+      "value": "Ancient Ruins X"
+    },
+    {
       "key": "QE_GVG_00001",
       "value": "Arena"
     },
@@ -11085,6 +12037,26 @@
       "value": "Coastline"
     },
     {
+      "key": "QE_GVG_GL_00038",
+      "value": "Plains IV"
+    },
+    {
+      "key": "QE_GVG_GL_00039",
+      "value": "Arena III"
+    },
+    {
+      "key": "QE_GVG_GL_00040",
+      "value": "Cave"
+    },
+    {
+      "key": "QE_GVG_GL_00041",
+      "value": "Graveyard III"
+    },
+    {
+      "key": "QE_GVG_GL_00042",
+      "value": "Ancient Ruins X"
+    },
+    {
       "key": "QE_PVP_FRE_0001",
       "value": "Plains"
     },
@@ -11235,6 +12207,26 @@
     {
       "key": "QE_PVP_FRE_GL_0034",
       "value": "Cathedral Rear Courtyard"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0035",
+      "value": "Plains IV"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0036",
+      "value": "Ancient Ruins IX"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0037",
+      "value": "Underground Ruins"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0038",
+      "value": "Graveyard III"
+    },
+    {
+      "key": "QE_PVP_FRE_GL_0039",
+      "value": "Ancient Ruins X"
     },
     {
       "key": "QE_PVP_FRI_0001",
@@ -11401,6 +12393,18 @@
       "value": "Underground Ruins II"
     },
     {
+      "key": "QE_PVP_FRI_0071",
+      "value": "Plains IV"
+    },
+    {
+      "key": "QE_PVP_FRI_0072",
+      "value": "Ancient Ruins IX"
+    },
+    {
+      "key": "QE_PVP_FRI_0079",
+      "value": "Ancient Ruins X"
+    },
+    {
       "key": "QE_PVP_FRI_GL_0001",
       "value": "Wastelands"
     },
@@ -11411,6 +12415,10 @@
     {
       "key": "QE_PVP_FRI_GL_0003",
       "value": "Coastline II"
+    },
+    {
+      "key": "QE_PVP_FRI_GL_0004",
+      "value": "Mines II (Class Match Rules)"
     },
     {
       "key": "QE_PVP_RANK_0001",
@@ -11474,6 +12482,10 @@
     },
     {
       "key": "QE_PVP_RANK_0017",
+      "value": "Mines II"
+    },
+    {
+      "key": "QE_PVP_RANK_GL_0001",
       "value": "Mines II"
     },
     {
@@ -11634,7 +12646,7 @@
     },
     {
       "key": "QE_VC_LW_SOKYU",
-      "value": "Shard Quest: Second Division of the Kingdom of Leonis, «Caelum»"
+      "value": "Shard Quest: Second Division of the Kingdom of Leonis, Caelum"
     },
     {
       "key": "QE_VC_LW_TRNNG",
@@ -11642,7 +12654,7 @@
     },
     {
       "key": "QE_VC_LW_MACR",
-      "value": "Shard Quest: Trousseau​"
+      "value": "Shard Quest: Trousseau"
     },
     {
       "key": "QE_VC_LW_MURG",
@@ -11681,8 +12693,20 @@
       "value": "Shard Quest: The Other Me"
     },
     {
+      "key": "QE_VC_LW_SRTN",
+      "value": "Shard Quest: Princess of Verdant Vengeance, Sheratan"
+    },
+    {
       "key": "QE_VC_LW_TSLP",
       "value": "Shard Quest: Gale-Begetting Heavenly Four, Tetra Sylphid"
+    },
+    {
+      "key": "QE_VC_LW_TSLP_01",
+      "value": "Shard Quest: Vexing Vortex, Dark Tetra Sylphid"
+    },
+    {
+      "key": "QE_VC_LW_JEDN2",
+      "value": "Shard Quest: Intersecting Destinies"
     },
     {
       "key": "QE_VC_LW_THDG",
@@ -11698,7 +12722,7 @@
     },
     {
       "key": "QE_VC_LW_ROBST",
-      "value": "Shard Quest: Hourne's First Division, «Solidus»"
+      "value": "Shard Quest: Hourne's First Division, Solidus"
     },
     {
       "key": "QE_VC_LW_FNRR",
@@ -11934,7 +12958,7 @@
     },
     {
       "key": "QE_VC_LW_GUREN",
-      "value": "Shard Quest: Chivalrous Outlaws, «Rubeus»"
+      "value": "Shard Quest: Chivalrous Outlaws, Rubeus"
     },
     {
       "key": "QE_VC_LW_CHCB",

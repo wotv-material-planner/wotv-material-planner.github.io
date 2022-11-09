@@ -769,11 +769,23 @@
       "value": "Vanguard Striker Class<br><br>A job that features attack-type abilities like Triple Blow in addition to powerful support-type abilities such as Shout and Tailwind that can aid allies."
     },
     {
+      "key": "JB_FFT_RAMZ_M",
+      "value": "Vanguard Striker Class<br><br>A job that features attack-type abilities like Triple Blow in addition to powerful support-type abilities such as Shout and Tailwind that can aid allies."
+    },
+    {
       "key": "JB_FFT_GFGR",
       "value": "Vanguard Striker Class<br><br>A job that consumes HP to deal high damage and recovers lost HP via the Shadowblade ability."
     },
     {
+      "key": "JB_FFT_GFGR_M",
+      "value": "Vanguard Striker Class<br><br>A job that consumes HP to deal high damage and recovers lost HP via the Shadowblade ability."
+    },
+    {
       "key": "JB_FFT_ORND",
+      "value": "Vanguard Striker Class<br><br>A job with various powerful attacks including Crush Armor, which lowers enemies' DEF, and Hallowed Bolt, which employs a cross-shaped area of effect to deal damage."
+    },
+    {
+      "key": "JB_FFT_ORND_M",
       "value": "Vanguard Striker Class<br><br>A job with various powerful attacks including Crush Armor, which lowers enemies' DEF, and Hallowed Bolt, which employs a cross-shaped area of effect to deal damage."
     },
     {
@@ -861,11 +873,23 @@
       "value": "Vanguard Magic Tank Class<br><br>A job with high fortitude, capable of inflicting enervating status ailments and protecting allies with abilities such as Regen and Barrier."
     },
     {
+      "key": "JB_FFT_AGRA_M",
+      "value": "Vanguard Magic Tank Class<br><br>A job with high fortitude, capable of inflicting enervating status ailments and protecting allies with abilities such as Regen and Barrier."
+    },
+    {
       "key": "JB_FFT_DELT",
       "value": "Vanguard Striker Class<br><br>A job that often inflicts status ailments and debuffs when attacking. Its abilities that damage both HP and AP are especially useful when fighting melee specialists."
     },
     {
+      "key": "JB_FFT_DELT_M",
+      "value": "Vanguard Striker Class<br><br>A job that often inflicts status ailments and debuffs when attacking. Its abilities that damage both HP and AP are especially useful when fighting melee specialists."
+    },
+    {
       "key": "JB_FFT_MSTD",
+      "value": "Middle Guard Striker Class<br><br>A job that attacks from a distance. It excels at three-hit damage attacks and inflicting status ailments such as Disable and Immobilize."
+    },
+    {
+      "key": "JB_FFT_MSTD_M",
       "value": "Middle Guard Striker Class<br><br>A job that attacks from a distance. It excels at three-hit damage attacks and inflicting status ailments such as Disable and Immobilize."
     },
     {
@@ -1213,6 +1237,10 @@
       "value": "Vanguard Spellcaster Class<br><br>A job that can bolster its defense and debuff resistances to take advantage of its high physical attack resistance while fighting on the front lines."
     },
     {
+      "key": "JB_LW_LIB_THUN",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can bolster its defense and debuff resistances to take advantage of its high physical attack resistance while fighting on the front lines."
+    },
+    {
       "key": "JB_LW_LIB_WATER",
       "value": "Vanguard Spellcaster Class<br><br>A job that can bolster its defense and debuff resistances to take advantage of its high physical attack resistance while fighting on the front lines."
     },
@@ -1234,11 +1262,11 @@
     },
     {
       "key": "JB_FF10_YUNA",
-      "value": "Rearguard Healer Class<br><br>A Job that is capable not only of healing, but also has the ability to automatically recover KO’d allies once per battle and attack with the unique power of its aeon."
+      "value": "Rearguard Healer Class<br><br>A Job that is capable not only of healing, but also has the ability to automatically recover KOd allies once per battle and attack with the unique power of its aeon."
     },
     {
       "key": "JB_FF10_YUNA_M",
-      "value": "Rearguard Healer Class<br><br>A Job that is capable not only of healing, but also has the ability to automatically recover KO’d allies once per battle and attack with the unique power of its aeon."
+      "value": "Rearguard Healer Class<br><br>A Job that is capable not only of healing, but also has the ability to automatically recover KOd allies once per battle and attack with the unique power of its aeon."
     },
     {
       "key": "JB_LW_ZZAN",
@@ -1925,6 +1953,94 @@
       "value": "Middle Guard Magic Attacker Class<br><br>A job that can perform long-distance attacks based on its magic stat, bestow AP Auto-Restore on itself, and perform strings of powerful attacks that can hit a wide area of effect or remove buffs from a target."
     },
     {
+      "key": "JB_LW_MACR_02",
+      "value": "Rearguard Spellcaster Class<br><br>A job capable of destroying magic barriers and delivering attacks with a wide area of effect, while also being able to buff itself with a Reraise effect that allows for quick action after reviving."
+    },
+    {
+      "key": "JB_LW_MACR_02_M",
+      "value": "Rearguard Spellcaster Class<br><br>A job capable of destroying magic barriers and delivering attacks with a wide area of effect, while also being able to buff itself with a Reraise effect that allows for quick action after reviving."
+    },
+    {
+      "key": "JB_FF13_LTNG",
+      "value": "Vanguard Striker Class<br><br>A job that can employ a variety of attacks such as both slash and missile attack-type abilities, as well as an attack that destroys physical barriers."
+    },
+    {
+      "key": "JB_FF13_LTNG_M",
+      "value": "Vanguard Striker Class<br><br>A job that can employ a variety of attacks such as both slash and missile attack-type abilities, as well as an attack that destroys physical barriers."
+    },
+    {
+      "key": "JB_FF13_HOPE",
+      "value": "Rearguard Spellcaster Class<br><br>A job that offers support to allies by bestowing buffs that raise physical damage and more while also employing Casting Time to deliver high-powered, wide-ranged magic attacks."
+    },
+    {
+      "key": "JB_FF13_HOPE_M",
+      "value": "Rearguard Spellcaster Class<br><br>A job that offers support to allies by bestowing buffs that raise physical damage and more while also employing Casting Time to deliver high-powered, wide-ranged magic attacks."
+    },
+    {
+      "key": "JB_FF13_SNOW",
+      "value": "Vanguard Physical Tank Class<br><br>A job that utilizes Courage for high durability and deals damage to enemies with high defense by using an attack that increases its own DEF Piercing Rate."
+    },
+    {
+      "key": "JB_FF13_SNOW_M",
+      "value": "Vanguard Physical Tank Class<br><br>A job that utilizes Courage for high durability and deals damage to enemies with high defense by using an attack that increases its own DEF Piercing Rate."
+    },
+    {
+      "key": "JB_LW_GRSR_02",
+      "value": "Vanguard Striker Class<br><br>A spear-wielding job that employs two-panel piercing attacks. It is especially adept at building chains because of its abilities that unleash consecutive hits."
+    },
+    {
+      "key": "JB_LW_GRSR_02_M",
+      "value": "Vanguard Striker Class<br><br>A spear-wielding job that employs two-panel piercing attacks. It is especially adept at building chains because of its abilities that unleash consecutive hits."
+    },
+    {
+      "key": "JB_LW_ALIA",
+      "value": "Middle Guard Striker Class<br><br>A job that can employ attacks from a distance and specializes in abilities that sabotage the enemy like a Barrier-destroying three-hit combo and a Frostbite-inflicting attack."
+    },
+    {
+      "key": "JB_LW_ALIA_M",
+      "value": "Middle Guard Striker Class<br><br>A job that can employ attacks from a distance and specializes in abilities that sabotage the enemy like a Barrier-destroying three-hit combo and a Frostbite-inflicting attack."
+    },
+    {
+      "key": "JB_LW_MHA_FIRE",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_MHA_ICE",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_MHA_WIND",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_MHA_SOIL",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_MHA_THUN",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_MHA_WATER",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_MHA_SHINE",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_MHA_DARK",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_MHA_EX_M",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
+      "key": "JB_LW_LUCA_01_M",
+      "value": "Vanguard Spellcaster Class<br><br>A job that can be effective on the front lines thanks to its high physical attack resistance and ability to disrupt the enemies' movements, and by bestowing AP damage to its own attacks while also shielding itself with Protect."
+    },
+    {
       "key": "JB_LW_VERN_M",
       "value": "Vanguard Striker Class<br><br>A spear-wielding job that employs two-panel piercing attacks. Critical Hit rates can be boosted for even greater damage."
     },
@@ -2018,6 +2134,10 @@
     },
     {
       "key": "JB_LW_FDRC_01_M",
+      "value": "Vanguard Striker Class<br><br>A job specializing in evasive combat that can enhance its evasion and use an ability that hits multiple enemies and lowers their accuracy."
+    },
+    {
+      "key": "JB_LW_SHNC_M",
       "value": "Vanguard Striker Class<br><br>A job specializing in evasive combat that can enhance its evasion and use an ability that hits multiple enemies and lowers their accuracy."
     },
     {
@@ -2245,6 +2365,10 @@
       "value": "Vanguard Magic Attacker Class<br><br>A job with support abilities that greatly enhance stats from the outset of battle, allowing the user to aim to end battles quickly with powerful magic-dependent abilities."
     },
     {
+      "key": "JB_LW_LBRK_M",
+      "value": "Vanguard Magic Attacker Class<br><br>A job with support abilities that greatly enhance stats from the outset of battle, allowing the user to aim to end battles quickly with powerful magic-dependent abilities."
+    },
+    {
       "key": "JB_LW_RSNC_M",
       "value": "Rearguard Healer Class<br><br>A job that can restore allies' HP and offer aid such as elemental attack enhancement."
     },
@@ -2259,6 +2383,10 @@
     {
       "key": "JB_LW_IREZ_M",
       "value": "Middle Guard Striker Class<br><br>A job that can use long-distance attacks, increase its own range, and use an ability with casting time to pierce DEF and Missile Res."
+    },
+    {
+      "key": "JB_LW_CLE",
+      "value": ""
     }
   ]
 }

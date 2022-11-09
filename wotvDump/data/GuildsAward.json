@@ -540,6 +540,69 @@
       "collabo": 1
     },
     {
+      "iname": "AWD_G_FF13_1",
+      "order_no": 77,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_G_FF13_2",
+      "order_no": 78,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_G_FF13_3",
+      "order_no": 79,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_G_FF13_4",
+      "order_no": 80,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_G_FF13_5",
+      "order_no": 81,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_G_FF13_6",
+      "order_no": 82,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_G_FF13_7",
+      "order_no": 83,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_G_FF13_8",
+      "order_no": 84,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_G_FF13_9",
+      "order_no": 85,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
       "iname": "AWD_G_LGGB01_1",
       "order_no": 26,
       "type": 2,
@@ -626,6 +689,27 @@
     {
       "iname": "AWD_G_S2022_1_3",
       "order_no": 54,
+      "type": 2,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "AWD_G_S2022_2_1",
+      "order_no": 74,
+      "type": 2,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "AWD_G_S2022_2_2",
+      "order_no": 75,
+      "type": 2,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "AWD_G_S2022_2_3",
+      "order_no": 76,
       "type": 2,
       "grade": 4,
       "collabo": 0

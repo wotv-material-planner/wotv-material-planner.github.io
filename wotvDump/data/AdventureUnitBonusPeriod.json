@@ -767,6 +767,72 @@
       "begin_at": "2022/08/24",
       "end_at": "2022/08/30 23:59:59",
       "bonus_set_id": "BONUS_GL_123"
+    },
+    {
+      "iname": "GL_PERIOD_127",
+      "begin_at": "2022/08/31",
+      "end_at": "2022/09/06 23:59:59",
+      "bonus_set_id": "BONUS_GL_124"
+    },
+    {
+      "iname": "GL_PERIOD_128",
+      "begin_at": "2022/09/07",
+      "end_at": "2022/09/13 23:59:59",
+      "bonus_set_id": "BONUS_GL_125"
+    },
+    {
+      "iname": "GL_PERIOD_129",
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/20 17:59:59",
+      "bonus_set_id": "BONUS_GL_126"
+    },
+    {
+      "iname": "GL_PERIOD_130",
+      "begin_at": "2022/09/20 18:30:00",
+      "end_at": "2022/09/27 23:59:59",
+      "bonus_set_id": "BONUS_GL_127"
+    },
+    {
+      "iname": "GL_PERIOD_131",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/10/04 23:59:59",
+      "bonus_set_id": "BONUS_GL_128"
+    },
+    {
+      "iname": "GL_PERIOD_132",
+      "begin_at": "2022/10/05",
+      "end_at": "2022/10/11 23:59:59",
+      "bonus_set_id": "BONUS_GL_129"
+    },
+    {
+      "iname": "GL_PERIOD_133",
+      "begin_at": "2022/10/12",
+      "end_at": "2022/10/18 17:59:59",
+      "bonus_set_id": "BONUS_GL_130"
+    },
+    {
+      "iname": "GL_PERIOD_134",
+      "begin_at": "2022/10/18 18:30:00",
+      "end_at": "2022/10/25 23:59:59",
+      "bonus_set_id": "BONUS_GL_131"
+    },
+    {
+      "iname": "GL_PERIOD_135",
+      "begin_at": "2022/10/26",
+      "end_at": "2022/11/01 23:59:59",
+      "bonus_set_id": "BONUS_GL_132"
+    },
+    {
+      "iname": "GL_PERIOD_136",
+      "begin_at": "2022/11/02",
+      "end_at": "2022/11/08 23:59:59",
+      "bonus_set_id": "BONUS_GL_133"
+    },
+    {
+      "iname": "GL_PERIOD_137",
+      "begin_at": "2022/11/09",
+      "end_at": "2022/11/15 23:59:59",
+      "bonus_set_id": "BONUS_GL_134"
     }
   ]
 }

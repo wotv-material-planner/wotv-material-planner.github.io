@@ -6241,6 +6241,166 @@
       }
     },
     {
+      "iname": "JBLV_LW_MHA_M_FIRE",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_FIRE",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_S_FIRE",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_FIRE",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_M_ICE",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_ICE",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_S_ICE",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_ICE",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_M_WIND",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_WIND",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_S_WIND",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_WIND",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_M_SOIL",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_SOIL",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_S_SOIL",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_SOIL",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_M_THUN",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_THUNDER",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_S_THUN",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_THUNDER",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_M_WATER",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_WATER",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_S_WATER",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_WATER",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_M_SHINE",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_SHINE",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_S_SHINE",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_SHINE",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_M_DARK",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_DARK",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MHA_S_DARK",
+      "gil": "JBMAT_JB_GIL_S",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_DARK",
+        "m4": "JBMAT_JB_BOOK"
+      }
+    },
+    {
       "iname": "JBLV_LW_AXD_M_FIRE",
       "gil": "JBMAT_JB_GIL_M",
       "items": {
@@ -8962,6 +9122,231 @@
         "m2": "JM_EX_SUMMUR_M",
         "m3": "JM_EX_GUN_M",
         "m4": "JM_EXEM_WIND_M",
+        "m5": "JM_EX_GUN_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MACR_02_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_SOIL",
+        "m4": "JBMAT_JB_MACE"
+      }
+    },
+    {
+      "iname": "JBLV_LW_MACR_02_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_MACR_02_M",
+        "m3": "JM_EX_MACE_M",
+        "m4": "JM_EXEM_SOIL_M",
+        "m5": "JM_EX_MACE_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_FF13_LTNG_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_THUNDER",
+        "m4": "JBMAT_JB_SWORD"
+      }
+    },
+    {
+      "iname": "JBLV_FF13_LTNG_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FF13UR_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_THUNDER_M",
+        "m5": "JM_EX_SWORD_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_FF13_HOPE_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SHINE",
+        "m4": "JBMAT_JB_GLOVE"
+      }
+    },
+    {
+      "iname": "JBLV_FF13_HOPE_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FF13UR_M",
+        "m3": "JM_EX_GLOVE_M",
+        "m4": "JM_EXEM_SHINE_M",
+        "m5": "JM_EX_GLOVE_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_FF13_SNOW_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_ICE",
+        "m4": "JBMAT_JB_FIST"
+      }
+    },
+    {
+      "iname": "JBLV_FF13_SNOW_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FF13UR_M",
+        "m3": "JM_EX_FIST_M",
+        "m4": "JM_EXEM_ICE_M",
+        "m5": "JM_EX_FIST_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_FFT_RAMZ_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FFTUR_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_SHINE_M",
+        "m5": "JM_EX_SWORD_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_FFT_GFGR_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_GFGR_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_DARK_M",
+        "m5": "JM_EX_SWORD_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_FFT_ORND_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FFTUR_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_THUNDER_M",
+        "m5": "JM_EX_SWORD_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_FFT_AGRA_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FFTUR_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_ICE_M",
+        "m5": "JM_EX_SWORD_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_FFT_DELT_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FFTUR_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_FIRE_M",
+        "m5": "JM_EX_SWORD_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_FFT_MSTD_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_FFTSSR_M",
+        "m3": "JM_EX_GUN_M",
+        "m4": "JM_EXEM_SOIL_M",
+        "m5": "JM_EX_GUN_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_GRSR_02_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_WIND",
+        "m4": "JBMAT_JB_SPEAR"
+      }
+    },
+    {
+      "iname": "JBLV_LW_GRSR_02_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_GRSR_02_M",
+        "m3": "JM_EX_SPEAR_M",
+        "m4": "JM_EXEM_WIND_M",
+        "m5": "JM_EX_SPEAR_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_SHNC_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_SHNC_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_WATER_M",
+        "m5": "JM_EX_SWORD_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_LBRK_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_LBRK_M",
+        "m3": "JM_EX_GLOVE_M",
+        "m4": "JM_EXEM_FIRE_M",
+        "m5": "JM_EX_GLOVE_AN_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_LUCA_01_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_HALLUR_M",
+        "m3": "JM_EX_BOOK_M",
+        "m4": "JM_EXEM_DARK_M",
+        "m5": "JM_EX_BOOK_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_LW_ALIA_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_ICE",
+        "m4": "JBMAT_JB_GUN"
+      }
+    },
+    {
+      "iname": "JBLV_LW_ALIA_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_ALIA_M",
+        "m3": "JM_EX_GUN_M",
+        "m4": "JM_EXEM_ICE_M",
         "m5": "JM_EX_GUN_DR_M"
       }
     }

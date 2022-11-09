@@ -734,6 +734,24 @@
       ]
     },
     {
+      "iname": "IT_VPI_LW_SRTN",
+      "questlist": [
+        "QE_VC_LW_SRTN"
+      ]
+    },
+    {
+      "iname": "IT_VPI_LW_TSLP_01",
+      "questlist": [
+        "QE_VC_LW_TSLP_01"
+      ]
+    },
+    {
+      "iname": "IT_VPI_LW_JEDN2",
+      "questlist": [
+        "QE_VC_LW_JEDN2"
+      ]
+    },
+    {
       "iname": "IT_VPI_LW_ADLD2",
       "questlist": [
         "QE_EV_VC_ADLD_1",
@@ -744,6 +762,7 @@
       "iname": "IT_VC_EXP_01",
       "questlist": [
         "QE_EV_VCEXP_01",
+        "QE_EV_WEEK_01_1",
         "QE_VC_LW_GLEM",
         "QE_VC_LW_IFRT",
         "QE_VC_LW_SIRE",
@@ -760,7 +779,10 @@
         "QE_VC_LW_GLMS",
         "QE_VC_LW_FRUIT",
         "QE_VC_LW_FINA_01",
+        "QE_VC_LW_SRTN",
         "QE_VC_LW_TSLP",
+        "QE_VC_LW_TSLP_01",
+        "QE_VC_LW_JEDN2",
         "QE_VC_LW_THDG",
         "QE_VC_LW_CBVP1",
         "QE_VC_LW_DABL",
@@ -867,6 +889,10 @@
         "QE_EV_VCEXP_02",
         "QE_EV_VCEXP_03",
         "QE_EV_VCEXP_04",
+        "QE_EV_WEEK_01_1",
+        "QE_EV_WEEK_02_1",
+        "QE_EV_WEEK_03_1",
+        "QE_EV_WEEK_04_1",
         "QE_EV_MT_01_1",
         "QE_EV_MT_04_1",
         "QE_EV_MT_02_1",
@@ -912,7 +938,10 @@
         "QE_VC_LW_GLMS",
         "QE_VC_LW_FRUIT",
         "QE_VC_LW_FINA_01",
+        "QE_VC_LW_SRTN",
         "QE_VC_LW_TSLP",
+        "QE_VC_LW_TSLP_01",
+        "QE_VC_LW_JEDN2",
         "QE_VC_LW_THDG",
         "QE_VC_LW_CBVP1",
         "QE_VC_LW_DABL",
@@ -1018,6 +1047,9 @@
         "QE_EV_VCEXP_02",
         "QE_EV_VCEXP_03",
         "QE_EV_VCEXP_04",
+        "QE_EV_WEEK_02_1",
+        "QE_EV_WEEK_03_1",
+        "QE_EV_WEEK_04_1",
         "QE_EV_MT_01_1",
         "QE_EV_MT_04_1",
         "QE_EV_MT_02_1",
@@ -1063,7 +1095,10 @@
         "QE_VC_LW_GLMS",
         "QE_VC_LW_FRUIT",
         "QE_VC_LW_FINA_01",
+        "QE_VC_LW_SRTN",
         "QE_VC_LW_TSLP",
+        "QE_VC_LW_TSLP_01",
+        "QE_VC_LW_JEDN2",
         "QE_VC_LW_THDG",
         "QE_VC_LW_CBVP1",
         "QE_VC_LW_DABL",
@@ -1167,6 +1202,7 @@
       "iname": "IT_VC_EXP_04",
       "questlist": [
         "QE_EV_VCEXP_04",
+        "QE_EV_WEEK_04_1",
         "QE_EV_1ANV_01",
         "QE_EV_GL_WINT_21_01",
         "QE_VC_LW_GLEM",
@@ -1185,7 +1221,10 @@
         "QE_VC_LW_GLMS",
         "QE_VC_LW_FRUIT",
         "QE_VC_LW_FINA_01",
+        "QE_VC_LW_SRTN",
         "QE_VC_LW_TSLP",
+        "QE_VC_LW_TSLP_01",
+        "QE_VC_LW_JEDN2",
         "QE_VC_LW_THDG",
         "QE_VC_LW_CBVP1",
         "QE_VC_LW_DABL",

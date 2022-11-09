@@ -14,7 +14,7 @@
     },
     {
       "key": "VC_LW_SOKYU",
-      "value": "Second Division of the Kingdom of Leonis, «Caelum»"
+      "value": "Second Division of the Kingdom of Leonis, Caelum"
     },
     {
       "key": "VC_LW_TRAINING",
@@ -22,7 +22,7 @@
     },
     {
       "key": "VC_LW_MACR",
-      "value": "Trousseau​"
+      "value": "Trousseau"
     },
     {
       "key": "VC_LW_MURG",
@@ -94,7 +94,7 @@
     },
     {
       "key": "VC_LW_ROBUST",
-      "value": "Hourne’s First Division, «Solidus»"
+      "value": "Hournes First Division, Solidus"
     },
     {
       "key": "VC_LW_FNRR",
@@ -290,11 +290,11 @@
     },
     {
       "key": "VC_LW_ANV1",
-      "value": "Second-Anniversary Banquet — Part I"
+      "value": "Second-Anniversary Banquet  Part I"
     },
     {
       "key": "VC_LW_ANV2",
-      "value": "Second-Anniversary Banquet — Part II"
+      "value": "Second-Anniversary Banquet  Part II"
     },
     {
       "key": "VC_LW_ODIN_01",
@@ -349,12 +349,44 @@
       "value": "The Other Me"
     },
     {
+      "key": "VC_LW_SRTN",
+      "value": "Princess of Verdant Vengeance, Sheratan"
+    },
+    {
+      "key": "VC_FF13_MV1",
+      "value": "Odin's Chosen"
+    },
+    {
+      "key": "VC_FF13_MV2",
+      "value": "Alexander's Chosen"
+    },
+    {
+      "key": "VC_FF13_MV3",
+      "value": "Shiva's Chosen"
+    },
+    {
+      "key": "VC_LW_TSLP_01",
+      "value": "Vexing Vortex, Dark Tetra Sylphid"
+    },
+    {
+      "key": "VC_LW_JEDN2",
+      "value": "Intersecting Destinies"
+    },
+    {
+      "key": "VC_LW_HALL3",
+      "value": "Nightmare Before Halloween"
+    },
+    {
       "key": "VC_LW_JEDN_01",
       "value": "Stag of the Shining Summer"
     },
     {
       "key": "VC_LW_COMIC",
       "value": "Friend or Foe?"
+    },
+    {
+      "key": "VC_LW_ZZAN_01",
+      "value": "Rise of the Immortal"
     },
     {
       "key": "VC_LW_IBRA",
@@ -502,7 +534,7 @@
     },
     {
       "key": "VC_LW_GUREN",
-      "value": "Chivalrous Outlaws, «Rubeus»"
+      "value": "Chivalrous Outlaws, Rubeus"
     },
     {
       "key": "VC_LW_CHCB",
@@ -597,10 +629,6 @@
       "value": "Explosive Orb, Bomb"
     },
     {
-      "key": "VC_LW_JOBCRYSTAL",
-      "value": "Job Crystal"
-    },
-    {
       "key": "VC_LW_BYLO",
       "value": "Gluttonous King's Arrival"
     },
@@ -619,6 +647,10 @@
     {
       "key": "VC_LW_RIRY",
       "value": "Fun Time"
+    },
+    {
+      "key": "VC_LW_JOBCRYSTAL",
+      "value": "Job Crystal"
     },
     {
       "key": "VC_LW_LEONIS",
@@ -662,11 +694,11 @@
     },
     {
       "key": "VC_LW_TRSV_01",
-      "value": "Long-Distance Communication Device «Heaven»"
+      "value": "Long-Distance Communication Device Heaven"
     },
     {
       "key": "VC_LW_TRSV_02",
-      "value": "Long-Distance Communication Device «Earth»"
+      "value": "Long-Distance Communication Device Earth"
     },
     {
       "key": "VC_LW_MIRROR",

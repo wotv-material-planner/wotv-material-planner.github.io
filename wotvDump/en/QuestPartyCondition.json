@@ -123,6 +123,34 @@
     {
       "key": "PR_GL_JEDN_01",
       "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_MACR_02",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_LTNG",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_SNOW",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_GRSR_02",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_LUCA_01",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_SHNC",
+      "value": "Set Formation with a Specific Unit"
+    },
+    {
+      "key": "PR_GL_ALIA",
+      "value": "Set Formation with a Specific Unit"
     }
   ]
 }

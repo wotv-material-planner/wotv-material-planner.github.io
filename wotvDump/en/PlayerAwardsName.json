@@ -210,27 +210,27 @@
     },
     {
       "key": "AWD_P_FF04_1",
-      "value": "FFIV Collaboration — Trials of Reckoning — Individual Total Score Rank 1"
+      "value": "FFIV Collaboration  Trials of Reckoning  Individual Total Score Rank 1"
     },
     {
       "key": "AWD_P_FF04_2",
-      "value": "FFIV Collaboration — Trials of Reckoning — Individual Total Score Top 10"
+      "value": "FFIV Collaboration  Trials of Reckoning  Individual Total Score Top 10"
     },
     {
       "key": "AWD_P_FF04_3",
-      "value": "FFIV Collaboration — Trials of Reckoning — Individual Total Score Top 100"
+      "value": "FFIV Collaboration  Trials of Reckoning  Individual Total Score Top 100"
     },
     {
       "key": "AWD_P_FF04_4",
-      "value": "FFIV Collaboration — Trials of Reckoning — Individual High Score Rank 1"
+      "value": "FFIV Collaboration  Trials of Reckoning  Individual High Score Rank 1"
     },
     {
       "key": "AWD_P_FF04_5",
-      "value": "FFIV Collaboration — Trials of Reckoning — Individual High Score Top 10"
+      "value": "FFIV Collaboration  Trials of Reckoning  Individual High Score Top 10"
     },
     {
       "key": "AWD_P_FF04_6",
-      "value": "FFIV Collaboration — Trials of Reckoning — Individual High Score Top 100"
+      "value": "FFIV Collaboration  Trials of Reckoning  Individual High Score Top 100"
     },
     {
       "key": "AWD_P_FF04_7",
@@ -347,6 +347,30 @@
     {
       "key": "LW_PA_00097",
       "value": "Hunter of the Beastly Pack"
+    },
+    {
+      "key": "LW_PA_00098",
+      "value": "Born for Battle"
+    },
+    {
+      "key": "LW_PA_00099",
+      "value": "Battle Hardened"
+    },
+    {
+      "key": "LW_PA_00100",
+      "value": "Autumnbreeze Adversary"
+    },
+    {
+      "key": "LW_PA_00101",
+      "value": "Vermilion Bird Cup 2022 Victor"
+    },
+    {
+      "key": "LW_PA_00102",
+      "value": "Vermilion Bird Cup 2022 Top 10"
+    },
+    {
+      "key": "LW_PA_00103",
+      "value": "Vermilion Bird Cup 2022 Top 50"
     },
     {
       "key": "AWD_P_Anniv_1",
@@ -503,6 +527,46 @@
     {
       "key": "AWD_P_FF10_10",
       "value": "Dream of the Fayth"
+    },
+    {
+      "key": "AWD_P_FF13_1",
+      "value": "Knight of Light"
+    },
+    {
+      "key": "AWD_P_FF13_2",
+      "value": "Bolt upon the Battlefield"
+    },
+    {
+      "key": "AWD_P_FF13_3",
+      "value": "Commando"
+    },
+    {
+      "key": "AWD_P_FF13_4",
+      "value": "Hero of the Future"
+    },
+    {
+      "key": "AWD_P_FF13_5",
+      "value": "A Hope for the Future"
+    },
+    {
+      "key": "AWD_P_FF13_6",
+      "value": "Ravager"
+    },
+    {
+      "key": "AWD_P_FF13_7",
+      "value": "Keep your eyes front. I'll watch the rear."
+    },
+    {
+      "key": "AWD_P_FF13_8",
+      "value": "Indomitable Hero"
+    },
+    {
+      "key": "AWD_P_FF13_9",
+      "value": "Hothead"
+    },
+    {
+      "key": "AWD_P_FF13_10",
+      "value": "Sentinel"
     },
     {
       "key": "AWD_P_Anniv_2",
@@ -662,15 +726,15 @@
     },
     {
       "key": "LW_PA_CH_010_1",
-      "value": "Machérie Fan"
+      "value": "Machrie Fan"
     },
     {
       "key": "LW_PA_CH_010_2",
-      "value": "Machérie Enthusiast"
+      "value": "Machrie Enthusiast"
     },
     {
       "key": "LW_PA_CH_010_3",
-      "value": "Machérie Devotee"
+      "value": "Machrie Devotee"
     },
     {
       "key": "LW_PA_CH_010_4",
@@ -1270,15 +1334,15 @@
     },
     {
       "key": "LW_PA_CH_048_1",
-      "value": "Machérie (Winter) Fan"
+      "value": "Machrie (Winter) Fan"
     },
     {
       "key": "LW_PA_CH_048_2",
-      "value": "Machérie (Winter) Enthusiast"
+      "value": "Machrie (Winter) Enthusiast"
     },
     {
       "key": "LW_PA_CH_048_3",
-      "value": "Machérie (Winter) Devotee"
+      "value": "Machrie (Winter) Devotee"
     },
     {
       "key": "LW_PA_CH_048_4",
@@ -2406,15 +2470,15 @@
     },
     {
       "key": "LW_PA_CH_119_1",
-      "value": "Lemuré Fan"
+      "value": "Lemur Fan"
     },
     {
       "key": "LW_PA_CH_119_2",
-      "value": "Lemuré Enthusiast"
+      "value": "Lemur Enthusiast"
     },
     {
       "key": "LW_PA_CH_119_3",
-      "value": "Lemuré Devotee"
+      "value": "Lemur Devotee"
     },
     {
       "key": "LW_PA_CH_119_4",
@@ -3123,6 +3187,150 @@
     {
       "key": "LW_PA_CH_165_4",
       "value": "The Other Fina"
+    },
+    {
+      "key": "LW_PA_CH_166_1",
+      "value": "Machrie (Queen of Hourne) Fan"
+    },
+    {
+      "key": "LW_PA_CH_166_2",
+      "value": "Machrie (Queen of Hourne) Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_166_3",
+      "value": "Machrie (Queen of Hourne) Devotee"
+    },
+    {
+      "key": "LW_PA_CH_166_4",
+      "value": "Illustrious Queen"
+    },
+    {
+      "key": "LW_PA_CH_167_1",
+      "value": "Lightning Fan"
+    },
+    {
+      "key": "LW_PA_CH_167_2",
+      "value": "Lightning Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_167_3",
+      "value": "Lightning Devotee"
+    },
+    {
+      "key": "LW_PA_CH_167_4",
+      "value": "Soldier Defying Fate"
+    },
+    {
+      "key": "LW_PA_CH_168_1",
+      "value": "Hope Fan"
+    },
+    {
+      "key": "LW_PA_CH_168_2",
+      "value": "Hope Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_168_3",
+      "value": "Hope Devotee"
+    },
+    {
+      "key": "LW_PA_CH_168_4",
+      "value": "Avenger to Savior"
+    },
+    {
+      "key": "LW_PA_CH_169_1",
+      "value": "Snow Fan"
+    },
+    {
+      "key": "LW_PA_CH_169_2",
+      "value": "Snow Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_169_3",
+      "value": "Snow Devotee"
+    },
+    {
+      "key": "LW_PA_CH_169_4",
+      "value": "Leader of NORA"
+    },
+    {
+      "key": "LW_PA_CH_170_1",
+      "value": "Glaciela (Flagbearer of Reform) Fan"
+    },
+    {
+      "key": "LW_PA_CH_170_2",
+      "value": "Glaciela (Flagbearer of Reform) Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_170_3",
+      "value": "Glaciela (Flagbearer of Reform) Devotee"
+    },
+    {
+      "key": "LW_PA_CH_170_4",
+      "value": "Azure Spear of Reform"
+    },
+    {
+      "key": "LW_PA_CH_171_1",
+      "value": "Chunak Fan"
+    },
+    {
+      "key": "LW_PA_CH_171_2",
+      "value": "Chunak Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_171_3",
+      "value": "Chunak Devotee"
+    },
+    {
+      "key": "LW_PA_CH_171_4",
+      "value": "Veracious Blade Demon"
+    },
+    {
+      "key": "LW_PA_CH_172_1",
+      "value": "Rivelka Fan"
+    },
+    {
+      "key": "LW_PA_CH_172_2",
+      "value": "Rivelka Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_172_3",
+      "value": "Rivelka Devotee"
+    },
+    {
+      "key": "LW_PA_CH_172_4",
+      "value": "Empty Battle Maiden"
+    },
+    {
+      "key": "LW_PA_CH_173_1",
+      "value": "Alaya Fan"
+    },
+    {
+      "key": "LW_PA_CH_173_2",
+      "value": "Alaya Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_173_3",
+      "value": "Alaya Devotee"
+    },
+    {
+      "key": "LW_PA_CH_173_4",
+      "value": "Blue-Eyed Double Gunner"
+    },
+    {
+      "key": "LW_PA_CH_183_1",
+      "value": "Lu'Cia (Halloween) Fan"
+    },
+    {
+      "key": "LW_PA_CH_183_2",
+      "value": "Lu'Cia (Halloween) Enthusiast"
+    },
+    {
+      "key": "LW_PA_CH_183_3",
+      "value": "Lu'Cia (Halloween) Devotee"
+    },
+    {
+      "key": "LW_PA_CH_183_4",
+      "value": "Servant of the Underqueen"
     },
     {
       "key": "LW_GL_PA_CH_FRVA_1",

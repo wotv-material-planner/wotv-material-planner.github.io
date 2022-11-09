@@ -631,6 +631,30 @@
       "value_s1": "UN_LW_P_FINA_01"
     },
     {
+      "iname": "COND_HA_LW_MA_02",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_LW_P_MACR_02"
+    },
+    {
+      "iname": "COND_HA_LW_GR_02",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_LW_P_GRSR_02"
+    },
+    {
+      "iname": "COND_HA_LW_SHNC",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_LW_P_SHNC"
+    },
+    {
+      "iname": "COND_HA_LW_ALIA",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_LW_P_ALIA"
+    },
+    {
       "iname": "COND_CH_LW_MONT",
       "type": 1,
       "value_i1": 40,
@@ -733,6 +757,12 @@
       "value_s1": "UN_LW_P_RIRY"
     },
     {
+      "iname": "COND_CH_LW_RIRY2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_RIRY"
+    },
+    {
       "iname": "COND_CH_LW_VSTR",
       "type": 1,
       "value_i1": 40,
@@ -817,6 +847,12 @@
       "value_s1": "UN_LW_P_NAIA"
     },
     {
+      "iname": "COND_CH_LW_NAIA2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_NAIA"
+    },
+    {
       "iname": "COND_CH_LW_SRJS",
       "type": 1,
       "value_i1": 40,
@@ -838,6 +874,12 @@
       "iname": "COND_CH_LW_VADM",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_VADM"
+    },
+    {
+      "iname": "COND_CH_LW_VADM2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_VADM"
     },
     {
@@ -979,6 +1021,12 @@
       "value_s1": "UN_LW_P_SDLX"
     },
     {
+      "iname": "COND_CH_LW_SDLX2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_SDLX"
+    },
+    {
       "iname": "COND_CH_LW_RA_01",
       "type": 1,
       "value_i1": 40,
@@ -1045,15 +1093,33 @@
       "value_s1": "UN_FFT_P_RAMZ"
     },
     {
+      "iname": "COND_CH_FFT_R_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_FFT_P_RAMZ"
+    },
+    {
       "iname": "COND_CH_FFT_GFGR",
       "type": 1,
       "value_i1": 40,
       "value_s1": "UN_FFT_P_GFGR"
     },
     {
+      "iname": "COND_CH_FFT_G_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_FFT_P_GFGR"
+    },
+    {
       "iname": "COND_CH_FFT_ORND",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_FFT_P_ORND"
+    },
+    {
+      "iname": "COND_CH_FFT_O_2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_FFT_P_ORND"
     },
     {
@@ -1105,9 +1171,21 @@
       "value_s1": "UN_LW_P_ADLD"
     },
     {
+      "iname": "COND_CH_LW_ADLD2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_ADLD"
+    },
+    {
       "iname": "COND_CH_LW_THLA",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_THLA"
+    },
+    {
+      "iname": "COND_CH_LW_THLA2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_THLA"
     },
     {
@@ -1195,9 +1273,21 @@
       "value_s1": "UN_LW_P_LVES"
     },
     {
+      "iname": "COND_CH_LW_LVES2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_LVES"
+    },
+    {
       "iname": "COND_CH_FFT_MSTD",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_FFT_P_MSTD"
+    },
+    {
+      "iname": "COND_CH_FFT_M_2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_FFT_P_MSTD"
     },
     {
@@ -1207,9 +1297,21 @@
       "value_s1": "UN_FFT_P_DELT"
     },
     {
+      "iname": "COND_CH_FFT_D_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_FFT_P_DELT"
+    },
+    {
       "iname": "COND_CH_FFT_AGRA",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_FFT_P_AGRA"
+    },
+    {
+      "iname": "COND_CH_FFT_A_2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_FFT_P_AGRA"
     },
     {
@@ -1222,6 +1324,12 @@
       "iname": "COND_CH_LW_ST_01",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_STRN_01"
+    },
+    {
+      "iname": "COND_CH_ST_01_2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_STRN_01"
     },
     {
@@ -1240,6 +1348,12 @@
       "iname": "COND_CH_LW_GRSR",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_GRSR"
+    },
+    {
+      "iname": "COND_CH_LW_GRSR2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_GRSR"
     },
     {
@@ -1351,6 +1465,12 @@
       "value_s1": "UN_LW_P_RARD"
     },
     {
+      "iname": "COND_CH_LW_RARD2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_RARD"
+    },
+    {
       "iname": "COND_CH_LW_ELSI",
       "type": 1,
       "value_i1": 40,
@@ -1363,9 +1483,21 @@
       "value_s1": "UN_LW_P_VNLA_01"
     },
     {
+      "iname": "COND_CH_VN_01_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_VNLA_01"
+    },
+    {
       "iname": "COND_CH_VKTR_01",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_VKTR_01"
+    },
+    {
+      "iname": "COND_CH_VK_01_2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_VKTR_01"
     },
     {
@@ -1495,6 +1627,12 @@
       "value_s1": "UN_LW_P_HLNA_01"
     },
     {
+      "iname": "COND_CH_HL_01_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_HLNA_01"
+    },
+    {
       "iname": "COND_CH_THLA_01",
       "type": 1,
       "value_i1": 40,
@@ -1519,9 +1657,21 @@
       "value_s1": "UN_LW_P_MORE"
     },
     {
+      "iname": "COND_CH_MORE2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_MORE"
+    },
+    {
       "iname": "COND_CH_CWEL",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_CWEL"
+    },
+    {
+      "iname": "COND_CH_CWEL2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_CWEL"
     },
     {
@@ -1558,6 +1708,12 @@
       "iname": "COND_CH_CRLT",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_CRLT"
+    },
+    {
+      "iname": "COND_CH_LW_CRLT2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_CRLT"
     },
     {
@@ -1630,6 +1786,12 @@
       "iname": "COND_CH_GRSR_01",
       "type": 1,
       "value_i1": 40,
+      "value_s1": "UN_LW_P_GRSR_01"
+    },
+    {
+      "iname": "COND_CH_GR_01_2",
+      "type": 1,
+      "value_i1": 80,
       "value_s1": "UN_LW_P_GRSR_01"
     },
     {
@@ -1873,10 +2035,28 @@
       "value_s1": "VC_LW_FINA_01"
     },
     {
+      "iname": "COND_VC_LW_SRTN",
+      "type": 4,
+      "value_i1": 1,
+      "value_s1": "VC_LW_SRTN"
+    },
+    {
       "iname": "COND_VC_LW_TSLP",
       "type": 4,
       "value_i1": 1,
       "value_s1": "VC_LW_TSLP"
+    },
+    {
+      "iname": "COND_VC_LW_TS_01",
+      "type": 4,
+      "value_i1": 1,
+      "value_s1": "VC_LW_TSLP_01"
+    },
+    {
+      "iname": "COND_VC_LW_JEDN2",
+      "type": 4,
+      "value_i1": 1,
+      "value_s1": "VC_LW_JEDN2"
     },
     {
       "iname": "COND_VC_LW_THDG",
@@ -2719,6 +2899,60 @@
       "value_s1": "UN_LW_P_JEDN_01"
     },
     {
+      "iname": "COND_CH_MA_02",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_MACR_02"
+    },
+    {
+      "iname": "COND_CH_FF13_LTN",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_FF13_P_LTNG"
+    },
+    {
+      "iname": "COND_CH_FF13_HOP",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_FF13_P_HOPE"
+    },
+    {
+      "iname": "COND_CH_FF13_SNO",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_FF13_P_SNOW"
+    },
+    {
+      "iname": "COND_CH_GR_02",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_GRSR_02"
+    },
+    {
+      "iname": "COND_CH_SHNC",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_SHNC"
+    },
+    {
+      "iname": "COND_CH_LBRK",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_LBRK"
+    },
+    {
+      "iname": "COND_CH_ALIA",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_ALIA"
+    },
+    {
+      "iname": "COND_CH_LUCA_01",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_LUCA_01"
+    },
+    {
       "iname": "COND_CH_LW_HLNA2",
       "type": 1,
       "value_i1": 80,
@@ -2735,6 +2969,36 @@
       "type": 1,
       "value_i1": 80,
       "value_s1": "UN_LW_P_VKTR"
+    },
+    {
+      "iname": "COND_CH_GL_LW_FRVA2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_FRVA"
+    },
+    {
+      "iname": "COND_CH_GL_LW_ZZAN_01_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_ZZAN_01"
+    },
+    {
+      "iname": "COND_CH_RY_01_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_RYER_01"
+    },
+    {
+      "iname": "COND_CH_RI_01_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_RIRY_01"
+    },
+    {
+      "iname": "COND_CH_FD_01_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_FDRC_01"
     }
   ]
 }

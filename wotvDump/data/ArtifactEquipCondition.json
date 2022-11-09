@@ -246,7 +246,14 @@
         "JB_LW_SDLE",
         "JB_LW_DAC_FIRE",
         "JB_LW_FINA_01",
-        "JB_LW_JEDN_01"
+        "JB_LW_JEDN_01",
+        "JB_LW_MACR_02",
+        "JB_FF13_LTNG",
+        "JB_FF13_HOPE",
+        "JB_FF13_SNOW",
+        "JB_LW_GRSR_02",
+        "JB_LW_MHA_FIRE",
+        "JB_LW_ALIA"
       ]
     },
     {
@@ -325,7 +332,14 @@
         "JB_LW_SDLE",
         "JB_LW_DAC_FIRE",
         "JB_LW_FINA_01",
-        "JB_LW_JEDN_01"
+        "JB_LW_JEDN_01",
+        "JB_LW_MACR_02",
+        "JB_FF13_LTNG",
+        "JB_FF13_HOPE",
+        "JB_FF13_SNOW",
+        "JB_LW_GRSR_02",
+        "JB_LW_MHA_FIRE",
+        "JB_LW_ALIA"
       ]
     },
     {
@@ -363,7 +377,10 @@
         "JB_PRS5_JOKR",
         "JB_PRS5_VOLT",
         "JB_LW_RYER",
-        "JB_LW_BNI_FIRE"
+        "JB_LW_BNI_FIRE",
+        "JB_FF13_LTNG",
+        "JB_FF13_SNOW",
+        "JB_LW_GRSR_02"
       ]
     },
     {
@@ -398,7 +415,10 @@
         "JB_LW_BELS",
         "JB_PRS5_QUEN",
         "JB_LW_SDLE",
-        "JB_LW_FINA_01"
+        "JB_LW_FINA_01",
+        "JB_LW_MACR_02",
+        "JB_FF13_HOPE",
+        "JB_LW_MHA_FIRE"
       ]
     },
     {
@@ -431,7 +451,10 @@
         "JB_LW_BELS",
         "JB_PRS5_QUEN",
         "JB_LW_SDLE",
-        "JB_LW_FINA_01"
+        "JB_LW_FINA_01",
+        "JB_LW_MACR_02",
+        "JB_FF13_HOPE",
+        "JB_LW_MHA_FIRE"
       ]
     },
     {
@@ -464,7 +487,8 @@
         "JB_PRS5_JOKR",
         "JB_PRS5_VOLT",
         "JB_LW_RYER",
-        "JB_LW_BNI_FIRE"
+        "JB_LW_BNI_FIRE",
+        "JB_FF13_LTNG"
       ]
     },
     {
@@ -570,7 +594,14 @@
         "JB_LW_SDLE",
         "JB_LW_DAC_FIRE",
         "JB_LW_FINA_01",
-        "JB_LW_JEDN_01"
+        "JB_LW_JEDN_01",
+        "JB_LW_MACR_02",
+        "JB_FF13_LTNG",
+        "JB_FF13_HOPE",
+        "JB_FF13_SNOW",
+        "JB_LW_GRSR_02",
+        "JB_LW_MHA_FIRE",
+        "JB_LW_ALIA"
       ]
     },
     {
@@ -648,7 +679,9 @@
         "JB_LW_ASTR",
         "JB_LW_BNI_FIRE",
         "JB_LW_SDLE",
-        "JB_LW_JEDN_01"
+        "JB_LW_JEDN_01",
+        "JB_FF13_HOPE",
+        "JB_FF13_SNOW"
       ],
       "sex": 1
     },
@@ -718,7 +751,12 @@
         "JB_LW_RYER",
         "JB_LW_BNI_FIRE",
         "JB_LW_DAC_FIRE",
-        "JB_LW_FINA_01"
+        "JB_LW_FINA_01",
+        "JB_LW_MACR_02",
+        "JB_FF13_LTNG",
+        "JB_LW_GRSR_02",
+        "JB_LW_MHA_FIRE",
+        "JB_LW_ALIA"
       ],
       "sex": 2
     },
@@ -752,7 +790,9 @@
         "JB_LW_ESTR",
         "JB_PRS5_JOKR",
         "JB_LW_ASTR",
-        "JB_LW_RYER"
+        "JB_LW_RYER",
+        "JB_FF13_LTNG",
+        "JB_LW_GRSR_02"
       ]
     },
     {
@@ -771,7 +811,8 @@
         "JB_FF15_PRMP",
         "JB_LW_STIA",
         "JB_LW_DAC_FIRE",
-        "JB_LW_JEDN_01"
+        "JB_LW_JEDN_01",
+        "JB_LW_ALIA"
       ]
     },
     {
@@ -800,7 +841,9 @@
         "JB_LW_BELS",
         "JB_PRS5_QUEN",
         "JB_LW_SDLE",
-        "JB_LW_FINA_01"
+        "JB_LW_FINA_01",
+        "JB_LW_MACR_02",
+        "JB_FF13_HOPE"
       ]
     },
     {
@@ -824,7 +867,8 @@
         "JB_FF4_GLBZ",
         "JB_LW_LNAN",
         "JB_LW_SDLE",
-        "JB_LW_FINA_01"
+        "JB_LW_FINA_01",
+        "JB_LW_MACR_02"
       ]
     },
     {
@@ -842,7 +886,8 @@
         "JB_LW_IBRA",
         "JB_LW_MORE",
         "JB_FF6_TERA",
-        "JB_FF6_CLES"
+        "JB_FF6_CLES",
+        "JB_LW_MHA_FIRE"
       ]
     },
     {
@@ -933,7 +978,13 @@
         "JB_LW_SDLE",
         "JB_LW_DAC_FIRE",
         "JB_LW_FINA_01",
-        "JB_LW_JEDN_01"
+        "JB_LW_JEDN_01",
+        "JB_LW_MACR_02",
+        "JB_FF13_LTNG",
+        "JB_FF13_HOPE",
+        "JB_LW_GRSR_02",
+        "JB_LW_MHA_FIRE",
+        "JB_LW_ALIA"
       ]
     },
     {
@@ -964,7 +1015,8 @@
         "JB_LW_LCIO",
         "JB_FF6_TERA",
         "JB_FF6_CLES",
-        "JB_PRS5_VOLT"
+        "JB_PRS5_VOLT",
+        "JB_FF13_LTNG"
       ]
     },
     {
@@ -986,7 +1038,8 @@
         "JB_LW_MNK_FIRE",
         "JB_LW_BEA_FIRE",
         "JB_FF7_TIFA",
-        "JB_PRS5_QUEN"
+        "JB_PRS5_QUEN",
+        "JB_FF13_SNOW"
       ]
     },
     {
@@ -1009,7 +1062,8 @@
         "JB_NIER_N9TS",
         "JB_LW_OBRN",
         "JB_FF15_ARNA",
-        "JB_LW_LLN_FIRE"
+        "JB_LW_LLN_FIRE",
+        "JB_LW_GRSR_02"
       ]
     },
     {
@@ -1051,7 +1105,8 @@
         "JB_TOMB_LARA",
         "JB_LW_JEDN",
         "JB_FF15_PRMP",
-        "JB_LW_JEDN_01"
+        "JB_LW_JEDN_01",
+        "JB_LW_ALIA"
       ]
     },
     {
@@ -1080,7 +1135,8 @@
         "JB_LW_CAL_FIRE",
         "JB_LW_MMC_FIRE",
         "JB_LW_GRSR_01",
-        "JB_LW_SDLE"
+        "JB_LW_SDLE",
+        "JB_LW_MACR_02"
       ]
     },
     {
@@ -1112,7 +1168,8 @@
         "JB_LW_LCIO",
         "JB_FF6_TERA",
         "JB_FF6_CLES",
-        "JB_PRS5_VOLT"
+        "JB_PRS5_VOLT",
+        "JB_FF13_LTNG"
       ]
     },
     {
@@ -1135,7 +1192,14 @@
       "jobs": [
         "JB_LW_LIB_FIRE",
         "JB_LW_IBRA",
-        "JB_LW_BELS"
+        "JB_LW_BELS",
+        "JB_LW_MHA_FIRE"
+      ]
+    },
+    {
+      "iname": "AEC_BOOM",
+      "jobs": [
+        "JB_FF13_HOPE"
       ]
     },
     {
@@ -1153,7 +1217,8 @@
         "JB_FFT_DELT",
         "JB_LW_MKN_FIRE",
         "JB_NIER_N2TB",
-        "JB_LW_MSM_FIRE"
+        "JB_LW_MSM_FIRE",
+        "JB_FF13_LTNG"
       ]
     },
     {
@@ -1178,7 +1243,8 @@
         "UN_LW_P_FALM",
         "UN_LW_P_LYCS",
         "UN_FF6_P_CLES",
-        "UN_LW_P_ASTR"
+        "UN_LW_P_ASTR",
+        "UN_LW_P_SHNC"
       ]
     },
     {
@@ -1206,7 +1272,8 @@
         "UN_LW_P_JEDN",
         "UN_LW_P_LCIO",
         "UN_FF6_P_LOCK",
-        "UN_PRS5_P_VOLT"
+        "UN_PRS5_P_VOLT",
+        "UN_FF13_P_HOPE"
       ]
     },
     {
@@ -1231,7 +1298,8 @@
         "UN_LW_P_MURG",
         "UN_LW_P_FDRC_01",
         "UN_LW_P_OBRN",
-        "UN_FF15_P_NCTS"
+        "UN_FF15_P_NCTS",
+        "UN_LW_P_MACR_02"
       ]
     },
     {
@@ -1256,7 +1324,8 @@
         "UN_LW_P_MINU",
         "UN_LW_P_STIA",
         "UN_FF6_P_TERA",
-        "UN_LW_P_IRDL_01"
+        "UN_LW_P_IRDL_01",
+        "UN_LW_P_LBRK"
       ]
     },
     {
@@ -1283,7 +1352,35 @@
         "UN_LW_P_LNAN",
         "UN_LW_P_ESTR",
         "UN_PRS5_P_QUEN",
-        "UN_LW_P_RSNC"
+        "UN_LW_P_RSNC",
+        "UN_FF13_P_LTNG"
+      ]
+    },
+    {
+      "iname": "AEC_RNG_011",
+      "units": [
+        "UN_LW_P_MDNA",
+        "UN_LW_P_CLEY",
+        "UN_LW_P_VRID",
+        "UN_LW_P_SRJS",
+        "UN_LW_P_GLMS",
+        "UN_LW_P_NASR",
+        "UN_LW_P_VKTR",
+        "UN_LW_P_FRVA",
+        "UN_FFT_P_AGRA",
+        "UN_LW_P_LSWL",
+        "UN_LW_P_CHEL",
+        "UN_FF4_P_ROSA",
+        "UN_FF10_P_ARON",
+        "UN_LW_P_THLA_01",
+        "UN_LW_P_VLRC",
+        "UN_FF7_P_BART",
+        "UN_FF15_P_ARNA",
+        "UN_LW_P_RFAL",
+        "UN_LW_P_BELS",
+        "UN_LW_P_IREZ",
+        "UN_LW_P_MCRD",
+        "UN_FF13_P_SNOW"
       ]
     }
   ]

@@ -769,11 +769,23 @@
       "value": "Squire"
     },
     {
+      "key": "JB_FFT_RAMZ_M",
+      "value": "Squire"
+    },
+    {
       "key": "JB_FFT_GFGR",
       "value": "Fell Knight"
     },
     {
+      "key": "JB_FFT_GFGR_M",
+      "value": "Fell Knight"
+    },
+    {
       "key": "JB_FFT_ORND",
+      "value": "Sword Saint"
+    },
+    {
+      "key": "JB_FFT_ORND_M",
       "value": "Sword Saint"
     },
     {
@@ -861,11 +873,23 @@
       "value": "Holy Knight"
     },
     {
+      "key": "JB_FFT_AGRA_M",
+      "value": "Holy Knight"
+    },
+    {
       "key": "JB_FFT_DELT",
       "value": "Squire"
     },
     {
+      "key": "JB_FFT_DELT_M",
+      "value": "Squire"
+    },
+    {
       "key": "JB_FFT_MSTD",
+      "value": "Machinist"
+    },
+    {
+      "key": "JB_FFT_MSTD_M",
       "value": "Machinist"
     },
     {
@@ -1210,6 +1234,10 @@
     },
     {
       "key": "JB_LW_LIB_SOIL",
+      "value": "Scholar"
+    },
+    {
+      "key": "JB_LW_LIB_THUN",
       "value": "Scholar"
     },
     {
@@ -1925,6 +1953,94 @@
       "value": "King of the Beach"
     },
     {
+      "key": "JB_LW_MACR_02",
+      "value": "Steeled Queen"
+    },
+    {
+      "key": "JB_LW_MACR_02_M",
+      "value": "Illustrious Queen"
+    },
+    {
+      "key": "JB_FF13_LTNG",
+      "value": "Knight of Light"
+    },
+    {
+      "key": "JB_FF13_LTNG_M",
+      "value": "Knight of Light"
+    },
+    {
+      "key": "JB_FF13_HOPE",
+      "value": "Hero of the Future"
+    },
+    {
+      "key": "JB_FF13_HOPE_M",
+      "value": "Hero of the Future"
+    },
+    {
+      "key": "JB_FF13_SNOW",
+      "value": "Indomitable Hero"
+    },
+    {
+      "key": "JB_FF13_SNOW_M",
+      "value": "Indomitable Hero"
+    },
+    {
+      "key": "JB_LW_GRSR_02",
+      "value": "Resolute Flagbearer"
+    },
+    {
+      "key": "JB_LW_GRSR_02_M",
+      "value": "Azure Spear of Reform"
+    },
+    {
+      "key": "JB_LW_ALIA",
+      "value": "Dragon Princess"
+    },
+    {
+      "key": "JB_LW_ALIA_M",
+      "value": "Dragon-Stag Princess"
+    },
+    {
+      "key": "JB_LW_MHA_FIRE",
+      "value": "Grimoire Keeper"
+    },
+    {
+      "key": "JB_LW_MHA_ICE",
+      "value": "Grimoire Keeper"
+    },
+    {
+      "key": "JB_LW_MHA_WIND",
+      "value": "Grimoire Keeper"
+    },
+    {
+      "key": "JB_LW_MHA_SOIL",
+      "value": "Grimoire Keeper"
+    },
+    {
+      "key": "JB_LW_MHA_THUN",
+      "value": "Grimoire Keeper"
+    },
+    {
+      "key": "JB_LW_MHA_WATER",
+      "value": "Grimoire Keeper"
+    },
+    {
+      "key": "JB_LW_MHA_SHINE",
+      "value": "Grimoire Keeper"
+    },
+    {
+      "key": "JB_LW_MHA_DARK",
+      "value": "Grimoire Keeper"
+    },
+    {
+      "key": "JB_LW_MHA_EX_M",
+      "value": "Grimoire Keeper EX"
+    },
+    {
+      "key": "JB_LW_LUCA_01_M",
+      "value": "Grimoire Keeper [Polymagic]"
+    },
+    {
       "key": "JB_LW_VERN_M",
       "value": "Lancer [Swiftpierce]"
     },
@@ -2019,6 +2135,10 @@
     {
       "key": "JB_LW_FDRC_01_M",
       "value": "Duelist [Glamoursway]"
+    },
+    {
+      "key": "JB_LW_SHNC_M",
+      "value": "Duelist [Everdance]"
     },
     {
       "key": "JB_LW_CAL_EX_M",
@@ -2245,6 +2365,10 @@
       "value": "Energist [Lifepulse]"
     },
     {
+      "key": "JB_LW_LBRK_M",
+      "value": "Energist [Focalfire]"
+    },
+    {
       "key": "JB_LW_RSNC_M",
       "value": "Devout [Metaphysic]"
     },
@@ -2259,6 +2383,10 @@
     {
       "key": "JB_LW_IREZ_M",
       "value": "Hunter [Mindseye]"
+    },
+    {
+      "key": "JB_LW_CLE",
+      "value": ""
     }
   ]
 }

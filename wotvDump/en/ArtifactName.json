@@ -205,12 +205,40 @@
       "value": "Coral Sword +5"
     },
     {
+      "key": "AF_LW_SWO_006_6",
+      "value": "Coral Sword +6"
+    },
+    {
       "key": "AF_LW_SWO_016",
       "value": "Excalibur"
     },
     {
       "key": "AF_LW_SWO_031",
       "value": "Astraea Aurora"
+    },
+    {
+      "key": "AF_LW_SWO_035",
+      "value": "Wave Blade"
+    },
+    {
+      "key": "AF_LW_SWO_035_1",
+      "value": "Wave Blade +1"
+    },
+    {
+      "key": "AF_LW_SWO_035_2",
+      "value": "Wave Blade +2"
+    },
+    {
+      "key": "AF_LW_SWO_035_3",
+      "value": "Wave Blade +3"
+    },
+    {
+      "key": "AF_LW_SWO_035_4",
+      "value": "Wave Blade +4"
+    },
+    {
+      "key": "AF_LW_SWO_035_5",
+      "value": "Wave Blade +5"
     },
     {
       "key": "AF_SWO_FF14_TNCT",
@@ -261,8 +289,16 @@
       "value": "Nagnarok +5"
     },
     {
+      "key": "AF_FFT_SWO_001_6",
+      "value": "Nagnarok +6"
+    },
+    {
       "key": "AF_FFT_SWO_002",
       "value": "Lesalia Royal Guard Standard-Issue Sword"
+    },
+    {
+      "key": "AF_FFT_SWO_002_1",
+      "value": "Lesalia Royal Guard Standard-Issue Sword +1"
     },
     {
       "key": "AF_FF10_SWO_001",
@@ -319,6 +355,10 @@
     {
       "key": "AF_LW_SWO_025_5",
       "value": "Tyrfing +5"
+    },
+    {
+      "key": "AF_LW_SWO_025_6",
+      "value": "Tyrfing +6"
     },
     {
       "key": "AF_LW_SWO_029",
@@ -469,6 +509,38 @@
       "value": "Starlight Sword"
     },
     {
+      "key": "AF_FF13_SWO_000",
+      "value": "Blazefire Saber"
+    },
+    {
+      "key": "AF_FF13_SWO_000_1",
+      "value": "Blazefire Saber +1"
+    },
+    {
+      "key": "AF_FF13_SWO_000_2",
+      "value": "Blazefire Saber +2"
+    },
+    {
+      "key": "AF_FF13_SWO_000_3",
+      "value": "Blazefire Saber +3"
+    },
+    {
+      "key": "AF_FF13_SWO_000_4",
+      "value": "Blazefire Saber +4"
+    },
+    {
+      "key": "AF_FF13_SWO_000_5",
+      "value": "Blazefire Saber +5"
+    },
+    {
+      "key": "AF_FF13_SWO_000_5_B",
+      "value": "Blazefire Saber +5"
+    },
+    {
+      "key": "AF_FF13_UNI_000",
+      "value": "Airwing"
+    },
+    {
       "key": "AF_LW_BSW_000",
       "value": "Greatsword"
     },
@@ -551,6 +623,10 @@
     {
       "key": "AF_LW_BSW_003_5",
       "value": "Rune Blade +5"
+    },
+    {
+      "key": "AF_LW_BSW_003_6",
+      "value": "Rune Blade +6"
     },
     {
       "key": "AF_LW_BSW_004",
@@ -801,6 +877,10 @@
       "value": "Glimmering Edge: Quelsaad +5"
     },
     {
+      "key": "AF_LW_KAT_013",
+      "value": "Kumokiri"
+    },
+    {
       "key": "AF_NIER_KAT_000",
       "value": "Virtuous Contract"
     },
@@ -959,6 +1039,30 @@
     {
       "key": "AF_PRS5_FIS_000_5",
       "value": "Brass Knuckles +5"
+    },
+    {
+      "key": "AF_LW_FIS_012",
+      "value": "Tiger Fangs"
+    },
+    {
+      "key": "AF_LW_FIS_012_1",
+      "value": "Tiger Fangs +1"
+    },
+    {
+      "key": "AF_LW_FIS_012_2",
+      "value": "Tiger Fangs +2"
+    },
+    {
+      "key": "AF_LW_FIS_012_3",
+      "value": "Tiger Fangs +3"
+    },
+    {
+      "key": "AF_LW_FIS_012_4",
+      "value": "Tiger Fangs +4"
+    },
+    {
+      "key": "AF_LW_FIS_012_5",
+      "value": "Tiger Fangs +5"
     },
     {
       "key": "AF_LW_SPE_000",
@@ -1149,8 +1253,60 @@
       "value": "Stoss Spear +5"
     },
     {
+      "key": "AF_LW_SPE_005",
+      "value": "Holy Lance"
+    },
+    {
+      "key": "AF_LW_SPE_005_1",
+      "value": "Holy Lance +1"
+    },
+    {
+      "key": "AF_LW_SPE_005_2",
+      "value": "Holy Lance +2"
+    },
+    {
+      "key": "AF_LW_SPE_005_3",
+      "value": "Holy Lance +3"
+    },
+    {
+      "key": "AF_LW_SPE_005_4",
+      "value": "Holy Lance +4"
+    },
+    {
+      "key": "AF_LW_SPE_005_5",
+      "value": "Holy Lance +5"
+    },
+    {
       "key": "AF_LW_SPE_018",
       "value": "Customized Lance"
+    },
+    {
+      "key": "AF_LW_SPE_018_1",
+      "value": "Customized Lance +1"
+    },
+    {
+      "key": "AF_LW_SPE_022",
+      "value": "Platinum Lance"
+    },
+    {
+      "key": "AF_LW_SPE_022_1",
+      "value": "Platinum Lance +1"
+    },
+    {
+      "key": "AF_LW_SPE_022_2",
+      "value": "Platinum Lance +2"
+    },
+    {
+      "key": "AF_LW_SPE_022_3",
+      "value": "Platinum Lance +3"
+    },
+    {
+      "key": "AF_LW_SPE_022_4",
+      "value": "Platinum Lance +4"
+    },
+    {
+      "key": "AF_LW_SPE_022_5",
+      "value": "Platinum Lance +5"
     },
     {
       "key": "AF_LW_DAG_000",
@@ -1339,6 +1495,10 @@
     {
       "key": "AF_LW_DAG_007_5",
       "value": "Swordbreaker +5"
+    },
+    {
+      "key": "AF_LW_DAG_010",
+      "value": "Feather Baselard"
     },
     {
       "key": "AF_LW_NKN_000",
@@ -1749,6 +1909,30 @@
       "value": "Valiant +5"
     },
     {
+      "key": "AF_LW_GUN_004",
+      "value": "Peacemaker"
+    },
+    {
+      "key": "AF_LW_GUN_004_1",
+      "value": "Peacemaker +1"
+    },
+    {
+      "key": "AF_LW_GUN_004_2",
+      "value": "Peacemaker +2"
+    },
+    {
+      "key": "AF_LW_GUN_004_3",
+      "value": "Peacemaker +3"
+    },
+    {
+      "key": "AF_LW_GUN_004_4",
+      "value": "Peacemaker +4"
+    },
+    {
+      "key": "AF_LW_GUN_004_5",
+      "value": "Peacemaker +5"
+    },
+    {
       "key": "AF_LW_ROD_000",
       "value": "Staff"
     },
@@ -2137,6 +2321,10 @@
       "value": "Healing Mace +5"
     },
     {
+      "key": "AF_LW_MAC_009_6",
+      "value": "Healing Mace +6"
+    },
+    {
       "key": "AF_LW_MAC_013",
       "value": "Diamond Mace"
     },
@@ -2159,6 +2347,30 @@
     {
       "key": "AF_LW_MAC_013_5",
       "value": "Diamond Mace +5"
+    },
+    {
+      "key": "AF_LW_MAC_004",
+      "value": "Punisher"
+    },
+    {
+      "key": "AF_LW_MAC_004_1",
+      "value": "Punisher +1"
+    },
+    {
+      "key": "AF_LW_MAC_004_2",
+      "value": "Punisher +2"
+    },
+    {
+      "key": "AF_LW_MAC_004_3",
+      "value": "Punisher +3"
+    },
+    {
+      "key": "AF_LW_MAC_004_4",
+      "value": "Punisher +4"
+    },
+    {
+      "key": "AF_LW_MAC_004_5",
+      "value": "Punisher +5"
     },
     {
       "key": "AF_LW_AXE_000",
@@ -4125,6 +4337,10 @@
       "value": "Thunder Ring"
     },
     {
+      "key": "AF_LW_RNG_011",
+      "value": "Frost Ring"
+    },
+    {
       "key": "AF_LW_BSW_011",
       "value": "Crimson Saber"
     },
@@ -4134,27 +4350,31 @@
     },
     {
       "key": "AF_FFT_ACC_001",
-      "value": "Sortilége"
+      "value": "Sortilge"
     },
     {
       "key": "AF_FFT_ACC_001_1",
-      "value": "Sortilége +1"
+      "value": "Sortilge +1"
     },
     {
       "key": "AF_FFT_ACC_001_2",
-      "value": "Sortilége +2"
+      "value": "Sortilge +2"
     },
     {
       "key": "AF_FFT_ACC_001_3",
-      "value": "Sortilége +3"
+      "value": "Sortilge +3"
     },
     {
       "key": "AF_FFT_ACC_001_4",
-      "value": "Sortilége +4"
+      "value": "Sortilge +4"
     },
     {
       "key": "AF_FFT_ACC_001_5",
-      "value": "Sortilége +5"
+      "value": "Sortilge +5"
+    },
+    {
+      "key": "AF_FFT_ACC_001_6",
+      "value": "Sortilge +6"
     },
     {
       "key": "AF_LW_HLM_005",
@@ -4183,6 +4403,10 @@
     {
       "key": "AF_LW_HLM_009",
       "value": "Savage King's Helm"
+    },
+    {
+      "key": "AF_LW_HLM_009_1",
+      "value": "Savage King's Helm +1"
     },
     {
       "key": "AF_LW_SWO_023",
@@ -4231,6 +4455,10 @@
     {
       "key": "AF_LW_HAT_005_5",
       "value": "Wolf Mask +5"
+    },
+    {
+      "key": "AF_LW_HAT_005_6",
+      "value": "Wolf Mask +6"
     },
     {
       "key": "AF_FF4_ARM_001",
@@ -4351,6 +4579,10 @@
     {
       "key": "AF_LW_CLT_006_5",
       "value": "Fides Lacerna +5"
+    },
+    {
+      "key": "AF_LW_CLT_006_6",
+      "value": "Fides Lacerna +6"
     },
     {
       "key": "AF_LW_BOW_004",
@@ -4853,6 +5085,30 @@
       "value": "Forbidden Tome: Gelumortis +5"
     },
     {
+      "key": "AF_LW_BOK_010",
+      "value": "Diaries of a Mischievous Witch"
+    },
+    {
+      "key": "AF_LW_BOK_010_1",
+      "value": "Diaries of a Mischievous Witch +1"
+    },
+    {
+      "key": "AF_LW_BOK_010_2",
+      "value": "Diaries of a Mischievous Witch +2"
+    },
+    {
+      "key": "AF_LW_BOK_010_3",
+      "value": "Diaries of a Mischievous Witch +3"
+    },
+    {
+      "key": "AF_LW_BOK_010_4",
+      "value": "Diaries of a Mischievous Witch +4"
+    },
+    {
+      "key": "AF_LW_BOK_010_5",
+      "value": "Diaries of a Mischievous Witch +5"
+    },
+    {
       "key": "AF_LW_SWO_005",
       "value": "Flametongue"
     },
@@ -4875,6 +5131,10 @@
     {
       "key": "AF_LW_SWO_005_5",
       "value": "Flametongue +5"
+    },
+    {
+      "key": "AF_LW_SWO_005_6",
+      "value": "Flametongue +6"
     },
     {
       "key": "AF_LW_RNG_006",
@@ -5249,6 +5509,54 @@
       "value": "Jeweled Belt +5"
     },
     {
+      "key": "AF_FF13_ACCE_002",
+      "value": "Hope's Scarf"
+    },
+    {
+      "key": "AF_FF13_ACCE_002_1",
+      "value": "Hope's Scarf +1"
+    },
+    {
+      "key": "AF_FF13_ACCE_002_2",
+      "value": "Hope's Scarf +2"
+    },
+    {
+      "key": "AF_FF13_ACCE_002_3",
+      "value": "Hope's Scarf +3"
+    },
+    {
+      "key": "AF_FF13_ACCE_002_4",
+      "value": "Hope's Scarf +4"
+    },
+    {
+      "key": "AF_FF13_ACCE_002_5",
+      "value": "Hope's Scarf +5"
+    },
+    {
+      "key": "AF_LW_ACC_074",
+      "value": "Crow Cloak"
+    },
+    {
+      "key": "AF_LW_ACC_074_1",
+      "value": "Crow Cloak +1"
+    },
+    {
+      "key": "AF_LW_ACC_074_2",
+      "value": "Crow Cloak +2"
+    },
+    {
+      "key": "AF_LW_ACC_074_3",
+      "value": "Crow Cloak +3"
+    },
+    {
+      "key": "AF_LW_ACC_074_4",
+      "value": "Crow Cloak +4"
+    },
+    {
+      "key": "AF_LW_ACC_074_5",
+      "value": "Crow Cloak +5"
+    },
+    {
       "key": "AF_LW_CLT_027",
       "value": "Producer's Jacket"
     },
@@ -5345,6 +5653,42 @@
       "value": "Beach King's Sash"
     },
     {
+      "key": "AF_CLT_LW_MACR_02_1",
+      "value": "Sworn Sister's Dress (Hourne)"
+    },
+    {
+      "key": "AF_CLT_FF13_LTNG_1",
+      "value": "Lightning's Garter Bag"
+    },
+    {
+      "key": "AF_CLT_FF13_HOPE_1",
+      "value": "Hope's Jacket"
+    },
+    {
+      "key": "AF_ACC_FF13_SNOW_1",
+      "value": "Engagement Necklace"
+    },
+    {
+      "key": "AF_CLT_LW_GRSR_02_1",
+      "value": "Sworn Sister's Dress (Wezette)"
+    },
+    {
+      "key": "AF_CLT_LW_SHNC_1",
+      "value": "Whistling-Edge Overcoat"
+    },
+    {
+      "key": "AF_GRO_LW_LBRK_1",
+      "value": "Lady's Cuffclaws"
+    },
+    {
+      "key": "AF_CLT_LW_LUCA_1",
+      "value": "Little Devil Dress"
+    },
+    {
+      "key": "AF_ACC_LW_ALIA_1",
+      "value": "Ancient Dragon Tiara"
+    },
+    {
       "key": "AF_SWO_LW_SLEN_2",
       "value": "Astraea Aurora"
     },
@@ -5355,6 +5699,38 @@
     {
       "key": "AF_GUN_LW_JEDN_01_2",
       "value": "Hydropump Blaster"
+    },
+    {
+      "key": "AF_MAC_LW_MACR_02_2",
+      "value": "Machrie (Queen of Hourne) Specific Weapon"
+    },
+    {
+      "key": "AF_SWO_FF13_LTNG_2",
+      "value": "Lightning Specific Weapon_Sword"
+    },
+    {
+      "key": "AF_GUN_FF13_LTNG_2",
+      "value": "Lightning Specific Weapon_Gun"
+    },
+    {
+      "key": "AF_FF13_HOPE_2",
+      "value": "Hope Specific Weapon"
+    },
+    {
+      "key": "AF_SPE_LW_GRSR_02_2",
+      "value": "Glaciela (Flagbearer of Reform) Specific Weapon"
+    },
+    {
+      "key": "AF_SWO_LW_SHNC_2",
+      "value": "Chunak Specific Weapon"
+    },
+    {
+      "key": "AF_BOK_LW_LUCA_01_2",
+      "value": "Lu'Cia (Halloween) Trust Master Specific Weapon"
+    },
+    {
+      "key": "AF_GUN_LW_ALIA_2",
+      "value": "Alaya Trust Master Specific Weapon"
     },
     {
       "key": "AF_LW_ACC_072",

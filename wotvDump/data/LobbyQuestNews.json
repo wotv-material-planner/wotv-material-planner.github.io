@@ -164,8 +164,8 @@
       "event_type": 3,
       "banner": "LobbyBanner_Tower_FFT_001",
       "news": "QLN_TOWER_1",
-      "start": "2020/09/02",
-      "end": "2020/09/15 17:59:59"
+      "start": "2022/09/28",
+      "end": "2022/11/01 23:59:59"
     },
     {
       "iname": "QLN_RAID_1_2",
@@ -350,6 +350,14 @@
       "news": "QLN_TOWER_9",
       "start": "2022/08/10",
       "end": "2022/08/23 23:59:59"
+    },
+    {
+      "iname": "QLN_TOWER_10",
+      "event_type": 3,
+      "banner": "LobbyBanner_Tower_0001",
+      "news": "QLN_TOWER_10",
+      "start": "2022/09/14",
+      "end": "2022/09/27 23:59:59"
     },
     {
       "iname": "QLN_RAID_1_10",
@@ -639,6 +647,13 @@
       "news": "QLN_RAID_2",
       "start": "2022/09/01",
       "end": "2022/09/06 23:59:59"
+    },
+    {
+      "iname": "QLN_EV_DEF_FF13",
+      "event_type": 0,
+      "banner": "LobbyBanner_Event_FF13_01",
+      "start": "2022/09/20 18:30:00",
+      "end": "2022/11/08 23:59:59"
     }
   ]
 }

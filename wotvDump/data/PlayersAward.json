@@ -610,6 +610,48 @@
       "collabo": 0
     },
     {
+      "iname": "LW_PA_00098",
+      "order_no": 72,
+      "type": 2,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_00099",
+      "order_no": 73,
+      "type": 2,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_00100",
+      "order_no": 74,
+      "type": 2,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_00101",
+      "order_no": 75,
+      "type": 2,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_00102",
+      "order_no": 76,
+      "type": 2,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_00103",
+      "order_no": 77,
+      "type": 2,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
       "iname": "AWD_P_Anniv_1",
       "order_no": 10,
       "type": 2,
@@ -878,6 +920,76 @@
     {
       "iname": "AWD_P_FF10_10",
       "order_no": 63,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_1",
+      "order_no": 78,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_2",
+      "order_no": 79,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_3",
+      "order_no": 80,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_4",
+      "order_no": 81,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_5",
+      "order_no": 82,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_6",
+      "order_no": 83,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_7",
+      "order_no": 84,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_8",
+      "order_no": 85,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_9",
+      "order_no": 86,
+      "type": 2,
+      "grade": 6,
+      "collabo": 1
+    },
+    {
+      "iname": "AWD_P_FF13_10",
+      "order_no": 87,
       "type": 2,
       "grade": 6,
       "collabo": 1
@@ -5463,6 +5575,258 @@
     {
       "iname": "LW_PA_CH_165_4",
       "order_no": 1160,
+      "type": 1,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_166_1",
+      "order_no": 1161,
+      "type": 1,
+      "grade": 2,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_166_2",
+      "order_no": 1162,
+      "type": 1,
+      "grade": 3,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_166_3",
+      "order_no": 1163,
+      "type": 1,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_166_4",
+      "order_no": 1164,
+      "type": 1,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_167_1",
+      "order_no": 1165,
+      "type": 2,
+      "grade": 2,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_167_2",
+      "order_no": 1166,
+      "type": 2,
+      "grade": 3,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_167_3",
+      "order_no": 1167,
+      "type": 2,
+      "grade": 4,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_167_4",
+      "order_no": 1168,
+      "type": 2,
+      "grade": 5,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_168_1",
+      "order_no": 1169,
+      "type": 2,
+      "grade": 2,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_168_2",
+      "order_no": 1170,
+      "type": 2,
+      "grade": 3,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_168_3",
+      "order_no": 1171,
+      "type": 2,
+      "grade": 4,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_168_4",
+      "order_no": 1172,
+      "type": 2,
+      "grade": 5,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_169_1",
+      "order_no": 1173,
+      "type": 2,
+      "grade": 2,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_169_2",
+      "order_no": 1174,
+      "type": 2,
+      "grade": 3,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_169_3",
+      "order_no": 1175,
+      "type": 2,
+      "grade": 4,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_169_4",
+      "order_no": 1176,
+      "type": 2,
+      "grade": 5,
+      "collabo": 1
+    },
+    {
+      "iname": "LW_PA_CH_170_1",
+      "order_no": 1177,
+      "type": 1,
+      "grade": 2,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_170_2",
+      "order_no": 1178,
+      "type": 1,
+      "grade": 3,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_170_3",
+      "order_no": 1179,
+      "type": 1,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_170_4",
+      "order_no": 1180,
+      "type": 1,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_171_1",
+      "order_no": 1181,
+      "type": 1,
+      "grade": 2,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_171_2",
+      "order_no": 1182,
+      "type": 1,
+      "grade": 3,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_171_3",
+      "order_no": 1183,
+      "type": 1,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_171_4",
+      "order_no": 1184,
+      "type": 1,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_172_1",
+      "order_no": 1185,
+      "type": 1,
+      "grade": 2,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_172_2",
+      "order_no": 1186,
+      "type": 1,
+      "grade": 3,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_172_3",
+      "order_no": 1187,
+      "type": 1,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_172_4",
+      "order_no": 1188,
+      "type": 1,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_173_1",
+      "order_no": 1189,
+      "type": 1,
+      "grade": 2,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_173_2",
+      "order_no": 1190,
+      "type": 1,
+      "grade": 3,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_173_3",
+      "order_no": 1191,
+      "type": 1,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_173_4",
+      "order_no": 1192,
+      "type": 1,
+      "grade": 5,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_183_1",
+      "order_no": 1229,
+      "type": 1,
+      "grade": 2,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_183_2",
+      "order_no": 1230,
+      "type": 1,
+      "grade": 3,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_183_3",
+      "order_no": 1231,
+      "type": 1,
+      "grade": 4,
+      "collabo": 0
+    },
+    {
+      "iname": "LW_PA_CH_183_4",
+      "order_no": 1232,
       "type": 1,
       "grade": 5,
       "collabo": 0

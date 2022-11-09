@@ -110,27 +110,27 @@
     },
     {
       "key": "AWD_G_FF04_1",
-      "value": "FFIV Collaboration — Trials of Reckoning — Guild Total Score Rank 1"
+      "value": "FFIV Collaboration  Trials of Reckoning  Guild Total Score Rank 1"
     },
     {
       "key": "AWD_G_FF04_2",
-      "value": "FFIV Collaboration — Trials of Reckoning — Guild Total Score Top 10"
+      "value": "FFIV Collaboration  Trials of Reckoning  Guild Total Score Top 10"
     },
     {
       "key": "AWD_G_FF04_3",
-      "value": "FFIV Collaboration — Trials of Reckoning — Guild Total Score Top 50"
+      "value": "FFIV Collaboration  Trials of Reckoning  Guild Total Score Top 50"
     },
     {
       "key": "AWD_G_FF04_4",
-      "value": "FFIV Collaboration — Trials of Reckoning — Guild High Score Rank 1"
+      "value": "FFIV Collaboration  Trials of Reckoning  Guild High Score Rank 1"
     },
     {
       "key": "AWD_G_FF04_5",
-      "value": "FFIV Collaboration — Trials of Reckoning — Guild High Score Top 10"
+      "value": "FFIV Collaboration  Trials of Reckoning  Guild High Score Top 10"
     },
     {
       "key": "AWD_G_FF04_6",
-      "value": "FFIV Collaboration — Trials of Reckoning — Guild High Score Top 50"
+      "value": "FFIV Collaboration  Trials of Reckoning  Guild High Score Top 50"
     },
     {
       "key": "AWD_G_FF04_7",
@@ -174,7 +174,7 @@
     },
     {
       "key": "AWD_G_FF10_3",
-      "value": "If I say, \"What’s our goal?\" you say, \"Victory!\""
+      "value": "If I say, \"Whats our goal?\" you say, \"Victory!\""
     },
     {
       "key": "AWD_G_FF10_4",
@@ -218,7 +218,7 @@
     },
     {
       "key": "AWD_G_FF07_2",
-      "value": "No more games─it's over!"
+      "value": "No more gamesit's over!"
     },
     {
       "key": "AWD_G_FF07_3",
@@ -309,6 +309,42 @@
       "value": "Listen to my story."
     },
     {
+      "key": "AWD_G_FF13_1",
+      "value": "Protection"
+    },
+    {
+      "key": "AWD_G_FF13_2",
+      "value": "Entourage"
+    },
+    {
+      "key": "AWD_G_FF13_3",
+      "value": "Strategic Warfare"
+    },
+    {
+      "key": "AWD_G_FF13_4",
+      "value": "Decimation"
+    },
+    {
+      "key": "AWD_G_FF13_5",
+      "value": "Strike Team"
+    },
+    {
+      "key": "AWD_G_FF13_6",
+      "value": "Solidarity"
+    },
+    {
+      "key": "AWD_G_FF13_7",
+      "value": "Relentless Assault"
+    },
+    {
+      "key": "AWD_G_FF13_8",
+      "value": "Tri-disaster"
+    },
+    {
+      "key": "AWD_G_FF13_9",
+      "value": "Aggression"
+    },
+    {
       "key": "AWD_G_LGGB01_1",
       "value": "1st Guild Battle Supremacy Champion"
     },
@@ -359,6 +395,18 @@
     {
       "key": "AWD_G_S2022_1_3",
       "value": "Azure Dragon Cup 2022 Top 50"
+    },
+    {
+      "key": "AWD_G_S2022_2_1",
+      "value": "Vermilion Bird Cup 2022 Victor"
+    },
+    {
+      "key": "AWD_G_S2022_2_2",
+      "value": "Vermilion Bird Cup 2022 Top 10"
+    },
+    {
+      "key": "AWD_G_S2022_2_3",
+      "value": "Vermilion Bird Cup 2022 Top 50"
     }
   ]
 }

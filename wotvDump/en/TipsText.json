@@ -10,7 +10,7 @@
     },
     {
       "key": "TIPS_ALL_003",
-      "value": "You can send gifts to friends starting from 12:00 a.m. (PST) the day after you befriend them. Make new friends and send them gifts every day!"
+      "value": "You can send gifts to friends starting from 00:00, World Time (PST) the day after you befriend them. Make new friends and send them gifts every day!"
     },
     {
       "key": "TIPS_ALL_004",
@@ -30,7 +30,7 @@
     },
     {
       "key": "TIPS_ALL_008",
-      "value": "On the Equipment Crafting screen, you can use the slide bar to batch craft an Equipment Item up to +5 in one go."
+      "value": "On the Crafting screen, you can use the slide bar to select the + degree to batch craft an equipment item."
     },
     {
       "key": "TIPS_ALL_009",
@@ -110,7 +110,7 @@
     },
     {
       "key": "TIPS_ALLQE_017",
-      "value": "You can configure Bookmark settings using the \"Edit Bookmarks\" button on the Hard Quest List screen.<br>Bookmarked Hard Quests have a ★ next to them."
+      "value": "You can configure Bookmark settings using the \"Edit Bookmarks\" button on the Hard Quest List screen.<br>Bookmarked Hard Quests have a  next to them."
     },
     {
       "key": "TIPS_ALLQE_018",
@@ -138,7 +138,7 @@
     },
     {
       "key": "TIPS_DUEL_003",
-      "value": "Rankings are reset every Monday at 12:00 a.m. (PST). Weekly Ranking Rewards are better than those that can be earned daily, so do your best to aim for a high rank by the end of the week."
+      "value": "Rankings are reset every Monday at 00:00, World Time (PST). Weekly Ranking Rewards are better than those that can be earned daily, so do your best to aim for a high rank by the end of the week."
     },
     {
       "key": "TIPS_RAID_001",

@@ -1305,6 +1305,10 @@
       "value": "Full-Life"
     },
     {
+      "key": "SK_LW_WHM_S_4_3_NAIA",
+      "value": "Full-Life"
+    },
+    {
       "key": "SK_LW_WHM_S_1_INIT",
       "value": "Cure"
     },
@@ -2217,6 +2221,26 @@
       "value": "Move +1"
     },
     {
+      "key": "SK_FFT_EC_RAMZ_A_01",
+      "value": "Tailwind: Holy"
+    },
+    {
+      "key": "SK_FFT_EC_RAMZ_C_01",
+      "value": "Shimmering Blade Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_RAMZ_C_01B",
+      "value": "Shimmering Blade+"
+    },
+    {
+      "key": "SK_FFT_EC_RAMZ_C_02",
+      "value": "Shout Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_RAMZ_C_02B",
+      "value": "Shout+"
+    },
+    {
       "key": "SK_FFT_GFGR_ATK",
       "value": "Normal Attack"
     },
@@ -2265,6 +2289,26 @@
       "value": "Sellsword's Pride"
     },
     {
+      "key": "SK_FFT_EC_GFGR_A_01",
+      "value": "Abyssal Blade: Dark"
+    },
+    {
+      "key": "SK_FFT_EC_GFGR_C_01",
+      "value": "Deception Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_GFGR_C_01B",
+      "value": "Deception+"
+    },
+    {
+      "key": "SK_FFT_EC_GFGR_C_02",
+      "value": "Shadowblade Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_GFGR_C_02B",
+      "value": "Shadowblade+"
+    },
+    {
       "key": "SK_FFT_ORND_ATK",
       "value": "Normal Attack"
     },
@@ -2311,6 +2355,26 @@
     {
       "key": "SK_FFT_ORND_P_2",
       "value": "Battlewise"
+    },
+    {
+      "key": "SK_FFT_EC_ORND_A_01",
+      "value": "Hallowed Bolt: Extreme"
+    },
+    {
+      "key": "SK_FFT_EC_ORND_C_01",
+      "value": "Crush Armor Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_ORND_C_01B",
+      "value": "Crush Armor+"
+    },
+    {
+      "key": "SK_FFT_EC_ORND_C_02",
+      "value": "Crest of the Black Lion Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_ORND_C_02B",
+      "value": "Crest of the Black Lion+"
     },
     {
       "key": "SK_LW_WGN_ATK",
@@ -2753,6 +2817,26 @@
       "value": "Knight's Honor"
     },
     {
+      "key": "SK_FFT_EC_AGRA_A_01",
+      "value": "Northswain's Strike: Destruction"
+    },
+    {
+      "key": "SK_FFT_EC_AGRA_C_01",
+      "value": "Judgment Blade Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_AGRA_C_01B",
+      "value": "Judgment Blade+"
+    },
+    {
+      "key": "SK_FFT_EC_AGRA_C_02",
+      "value": "Knight's Honor Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_AGRA_C_02B",
+      "value": "Knight's Honor II"
+    },
+    {
       "key": "SK_FFT_DELT_ATK",
       "value": "Normal Attack"
     },
@@ -2801,6 +2885,26 @@
       "value": "Acquired AP Up"
     },
     {
+      "key": "SK_FFT_EC_DELT_A_01",
+      "value": "Crush Accessory+"
+    },
+    {
+      "key": "SK_FFT_EC_DELT_C_01",
+      "value": "Karma Blade Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_DELT_C_01B",
+      "value": "Karma Blade+"
+    },
+    {
+      "key": "SK_FFT_EC_DELT_C_02",
+      "value": "Acquired AP Up Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_DELT_C_02B",
+      "value": "Acquired AP Up II"
+    },
+    {
       "key": "SK_FFT_MSTD_ATK",
       "value": "Normal Attack"
     },
@@ -2847,6 +2951,26 @@
     {
       "key": "SK_FFT_MSTD_P_2",
       "value": "Missile ATK Up"
+    },
+    {
+      "key": "SK_FFT_EC_MSTD_A_01",
+      "value": "Power Shot: Piercing"
+    },
+    {
+      "key": "SK_FFT_EC_MSTD_C_01",
+      "value": "Safeguard Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_MSTD_C_01B",
+      "value": "Safeguard+"
+    },
+    {
+      "key": "SK_FFT_EC_MSTD_C_02",
+      "value": "Quick Shot Enhancement"
+    },
+    {
+      "key": "SK_FFT_EC_MSTD_C_02B",
+      "value": "Quick Shot+"
     },
     {
       "key": "SK_LW_CAL_ATK",
@@ -3257,6 +3381,10 @@
       "value": "War Maiden's Acuity"
     },
     {
+      "key": "SK_LW_GRSR_S_2_B",
+      "value": "War Maiden's Acuity"
+    },
+    {
       "key": "SK_LW_GRSR_S_3",
       "value": "Cross Impact"
     },
@@ -3291,6 +3419,74 @@
     {
       "key": "SK_LW_EC_GRSR_C_02B",
       "value": "War Maiden's Pride"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_C_02B_B",
+      "value": "War Maiden's Pride"
+    },
+    {
+      "key": "SK_LW_ALIA_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_ALIA_M_1",
+      "value": "Hail of Bullets"
+    },
+    {
+      "key": "SK_LW_ALIA_M_2",
+      "value": "Rending Tri-Shot"
+    },
+    {
+      "key": "SK_LW_ALIA_M_3",
+      "value": "March of the Dragon Princess"
+    },
+    {
+      "key": "SK_LW_ALIA_S_1",
+      "value": "Eraser"
+    },
+    {
+      "key": "SK_LW_ALIA_S_2",
+      "value": "Quickfire Stance"
+    },
+    {
+      "key": "SK_LW_ALIA_S_3",
+      "value": "Slug Shot"
+    },
+    {
+      "key": "SK_LW_ALIA_S_4",
+      "value": "Heart Taker"
+    },
+    {
+      "key": "SK_LW_ALIA_R_1",
+      "value": "Dragon Dodge"
+    },
+    {
+      "key": "SK_LW_ALIA_P_1",
+      "value": "Draconic Sharpshooting"
+    },
+    {
+      "key": "SK_LW_ALIA_P_2",
+      "value": "Heavy Ordnance Techniques"
+    },
+    {
+      "key": "SK_LW_ALIA_EN_A_01",
+      "value": "Armor Borer"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_C_01",
+      "value": "Draconic Sharpshooting Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_C_01B",
+      "value": "Dragon-Stag Sharpshooting"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_C_02",
+      "value": "March of the Dragon Princess Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_ALIA_C_02B",
+      "value": "March of the Dragon-Stag Princess"
     },
     {
       "key": "SK_LW_LSWL_ATK",
@@ -3482,35 +3678,35 @@
     },
     {
       "key": "SK_LW_MKN_WIND_P_1",
-      "value": "Wind‑Enhancing Rune"
+      "value": "WindEnhancing Rune"
     },
     {
       "key": "SK_LW_MKN_SOIL_P_1",
-      "value": "Earth‑Enhancing Rune"
+      "value": "EarthEnhancing Rune"
     },
     {
       "key": "SK_LW_MKN_FIRE_P_1",
-      "value": "Fire‑Enhancing Rune"
+      "value": "FireEnhancing Rune"
     },
     {
       "key": "SK_LW_MKN_ICE_P_1",
-      "value": "Ice‑Enhancing Rune"
+      "value": "IceEnhancing Rune"
     },
     {
       "key": "SK_LW_MKN_THUN_P_1",
-      "value": "Lightning‑Enhancing Rune"
+      "value": "LightningEnhancing Rune"
     },
     {
       "key": "SK_LW_MKN_WATR_P_1",
-      "value": "Water‑Enhancing Rune"
+      "value": "WaterEnhancing Rune"
     },
     {
       "key": "SK_LW_MKN_SHIN_P_1",
-      "value": "Light‑Enhancing Rune"
+      "value": "LightEnhancing Rune"
     },
     {
       "key": "SK_LW_MKN_DARK_P_1",
-      "value": "Dark‑Enhancing Rune"
+      "value": "DarkEnhancing Rune"
     },
     {
       "key": "SK_LW_MKN_P_2",
@@ -4881,6 +5077,14 @@
       "value": "Fake Death"
     },
     {
+      "key": "SK_LW_ZZAN_M_3_ZZAN_01",
+      "value": "Fake Death"
+    },
+    {
+      "key": "SK_LW_ZZAN_M_3_ZZAN_01B",
+      "value": "CT Up after Reraise"
+    },
+    {
       "key": "SK_LW_ZZAN_S_1",
       "value": "Blade Lash"
     },
@@ -5010,6 +5214,10 @@
     },
     {
       "key": "SK_LW_CRLT_S_1",
+      "value": "Attract Wall"
+    },
+    {
+      "key": "SK_LW_CRLT_S_1_B",
       "value": "Attract Wall"
     },
     {
@@ -5413,6 +5621,10 @@
       "value": "Wounding Fangs"
     },
     {
+      "key": "SK_LW_GRSR_01_M_2_B",
+      "value": "Wounding Fangs"
+    },
+    {
       "key": "SK_LW_GRSR_01_M_3",
       "value": "Grand Explosion"
     },
@@ -5462,6 +5674,10 @@
     },
     {
       "key": "SK_LW_EC_GRSR_01_C_02B",
+      "value": "Rending Fangs"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_01_C_02B_B",
       "value": "Rending Fangs"
     },
     {
@@ -6454,6 +6670,10 @@
     },
     {
       "key": "SK_LW_LLN_P_2",
+      "value": "Unwavering Javelineer"
+    },
+    {
+      "key": "SK_LW_LLN_P_2_SUB",
       "value": "Unwavering Javelineer"
     },
     {
@@ -7685,6 +7905,402 @@
       "value": "Midsummer Sniper"
     },
     {
+      "key": "SK_LW_MACR_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_MACR_M_1",
+      "value": "Glimmer of Conviction"
+    },
+    {
+      "key": "SK_LW_MACR_M_2",
+      "value": "Evocative Vestige"
+    },
+    {
+      "key": "SK_LW_MACR_M_3",
+      "value": "Steel Determination"
+    },
+    {
+      "key": "SK_LW_MACR_M_3_B",
+      "value": "CT Up after Reraise"
+    },
+    {
+      "key": "SK_LW_MACR_M_3_C",
+      "value": "Attack Ability Activation Time Reduced after Reraise"
+    },
+    {
+      "key": "SK_LW_MACR_S_1",
+      "value": "Disparage"
+    },
+    {
+      "key": "SK_LW_MACR_S_2",
+      "value": "Queen's Edict"
+    },
+    {
+      "key": "SK_LW_MACR_S_3",
+      "value": "Law of Fortitude"
+    },
+    {
+      "key": "SK_LW_MACR_S_4",
+      "value": "Halting Force"
+    },
+    {
+      "key": "SK_LW_MACR_R_1",
+      "value": "Royal Reprehension"
+    },
+    {
+      "key": "SK_LW_MACR_P_1",
+      "value": "Silver Wolf's Insight"
+    },
+    {
+      "key": "SK_LW_EC_MACR_A_01",
+      "value": "Drain Strike"
+    },
+    {
+      "key": "SK_LW_EC_MACR_C_01",
+      "value": "Steel Determination Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_MACR_C_01B",
+      "value": "Spirit of Hourne"
+    },
+    {
+      "key": "SK_LW_EC_MACR_C_02",
+      "value": "Silver Wolf's Insight Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_MACR_C_02B",
+      "value": "Tribute of the Silver Wolf"
+    },
+    {
+      "key": "SK_FF13_LTNG_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_FF13_LTNG_M_1",
+      "value": "Barrier Buster"
+    },
+    {
+      "key": "SK_FF13_LTNG_M_2",
+      "value": "Lifesiphon"
+    },
+    {
+      "key": "SK_FF13_LTNG_M_2_AD",
+      "value": "Recovers AP when enemy is KO'd"
+    },
+    {
+      "key": "SK_FF13_LTNG_M_3",
+      "value": "Relentless Assault"
+    },
+    {
+      "key": "SK_FF13_LTNG_S_1",
+      "value": "Sparkstrike"
+    },
+    {
+      "key": "SK_FF13_LTNG_S_2",
+      "value": "Ready to Pursue"
+    },
+    {
+      "key": "SK_FF13_LTNG_S_3",
+      "value": "Pursuit"
+    },
+    {
+      "key": "SK_FF13_LTNG_S_4",
+      "value": "Brake Launch"
+    },
+    {
+      "key": "SK_FF13_LTNG_S_5",
+      "value": "Spatial Shot"
+    },
+    {
+      "key": "SK_FF13_LTNG_R_1",
+      "value": "Countersiphon"
+    },
+    {
+      "key": "SK_FF13_LTNG_P_1",
+      "value": "Mark of the L'Cie"
+    },
+    {
+      "key": "SK_FF13_LTNG_EN_A_01",
+      "value": "Scourge"
+    },
+    {
+      "key": "SK_FF13_EC_LTNG_C_01",
+      "value": "Lifesiphon Enhancement"
+    },
+    {
+      "key": "SK_FF13_EC_LTNG_C_01B",
+      "value": "Lifesiphon II"
+    },
+    {
+      "key": "SK_FF13_EC_LTNG_C_02",
+      "value": "Ready to Pursue Enhancement"
+    },
+    {
+      "key": "SK_FF13_EC_LTNG_C_02B",
+      "value": "Ready to Pursue II"
+    },
+    {
+      "key": "SK_FF13_HOPE_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_FF13_HOPE_M_1",
+      "value": "Fissure"
+    },
+    {
+      "key": "SK_FF13_HOPE_M_2",
+      "value": "Phys-synergy"
+    },
+    {
+      "key": "SK_FF13_HOPE_M_3",
+      "value": "Imperilga"
+    },
+    {
+      "key": "SK_FF13_HOPE_S_1",
+      "value": "Guiding Light"
+    },
+    {
+      "key": "SK_FF13_HOPE_S_2",
+      "value": "Building Block"
+    },
+    {
+      "key": "SK_FF13_HOPE_S_3",
+      "value": "Stopga"
+    },
+    {
+      "key": "SK_FF13_HOPE_S_4",
+      "value": "Ruinga"
+    },
+    {
+      "key": "SK_FF13_HOPE_R_1",
+      "value": "Counterpacify"
+    },
+    {
+      "key": "SK_FF13_HOPE_P_1",
+      "value": "Defying Fate"
+    },
+    {
+      "key": "SK_FF13_HOPE_P_2",
+      "value": "Concealed Rage"
+    },
+    {
+      "key": "SK_FF13_HOPE_EN_A_01",
+      "value": "Holy Guardian"
+    },
+    {
+      "key": "SK_FF13_EC_HOPE_C_01",
+      "value": "Building Block Enhancement"
+    },
+    {
+      "key": "SK_FF13_EC_HOPE_C_01B",
+      "value": "Building Block II"
+    },
+    {
+      "key": "SK_FF13_EC_HOPE_C_02",
+      "value": "Phys-synergy Enhancement"
+    },
+    {
+      "key": "SK_FF13_EC_HOPE_C_02B",
+      "value": "Phys-synergy II"
+    },
+    {
+      "key": "SK_FF13_SNOW_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_FF13_SNOW_M_1",
+      "value": "Smite"
+    },
+    {
+      "key": "SK_FF13_SNOW_M_2",
+      "value": "Ravage"
+    },
+    {
+      "key": "SK_FF13_SNOW_M_3",
+      "value": "Reprieve"
+    },
+    {
+      "key": "SK_FF13_SNOW_S_1",
+      "value": "Froststrike"
+    },
+    {
+      "key": "SK_FF13_SNOW_S_2",
+      "value": "Triple Guard"
+    },
+    {
+      "key": "SK_FF13_SNOW_S_3",
+      "value": "Double Strike"
+    },
+    {
+      "key": "SK_FF13_SNOW_S_4",
+      "value": "Launch"
+    },
+    {
+      "key": "SK_FF13_SNOW_R_1",
+      "value": "Revenger"
+    },
+    {
+      "key": "SK_FF13_SNOW_P_1",
+      "value": "Hero's Honor"
+    },
+    {
+      "key": "SK_FF13_SNOW_EN_A_01",
+      "value": "Close Call"
+    },
+    {
+      "key": "SK_FF13_SNOW_EN_A_01_B",
+      "value": "HP Recovery at Below 20% HP"
+    },
+    {
+      "key": "SK_FF13_EC_SNOW_C_01",
+      "value": "Smite Enhancement"
+    },
+    {
+      "key": "SK_FF13_EC_SNOW_C_01B",
+      "value": "Smite II"
+    },
+    {
+      "key": "SK_FF13_EC_SNOW_C_02",
+      "value": "Hero's Honor Enhancement"
+    },
+    {
+      "key": "SK_FF13_EC_SNOW_C_02B",
+      "value": "Hero's Fate"
+    },
+    {
+      "key": "SK_LW_GRSR_02_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_GRSR_02_M_1",
+      "value": "Shining Conviction"
+    },
+    {
+      "key": "SK_LW_GRSR_02_M_2",
+      "value": "Triple Cross"
+    },
+    {
+      "key": "SK_LW_GRSR_02_M_3",
+      "value": "Azure Soul"
+    },
+    {
+      "key": "SK_LW_GRSR_02_S_1",
+      "value": "Dispelling Spearflight"
+    },
+    {
+      "key": "SK_LW_GRSR_02_S_2",
+      "value": "Beacon of Reform"
+    },
+    {
+      "key": "SK_LW_GRSR_02_S_3",
+      "value": "Wolf Trail"
+    },
+    {
+      "key": "SK_LW_GRSR_02_S_4",
+      "value": "Stalling Spear"
+    },
+    {
+      "key": "SK_LW_GRSR_02_R_1",
+      "value": "Silver Wolf's Step"
+    },
+    {
+      "key": "SK_LW_GRSR_02_P_1",
+      "value": "Adamance of the Bull"
+    },
+    {
+      "key": "SK_LW_GRSR_02_EN_A_01",
+      "value": "Spear of Sending"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_02_C_01",
+      "value": "Adamance of the Bull Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_02_C_01B",
+      "value": "Tribute of the Bull"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_02_C_02",
+      "value": "Azure Soul Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_GRSR_02_C_02B",
+      "value": "Spirit of Wezette"
+    },
+    {
+      "key": "SK_LW_MHA_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_LW_MHA_M_1",
+      "value": "Swift End"
+    },
+    {
+      "key": "SK_LW_MHA_M_1_AD",
+      "value": "CT Up when enemy is KO'd"
+    },
+    {
+      "key": "SK_LW_MHA_M_2",
+      "value": "Unhappy Ending"
+    },
+    {
+      "key": "SK_LW_MHA_M_3",
+      "value": "Spell of Shielding"
+    },
+    {
+      "key": "SK_LW_MHA_S_1_INIT",
+      "value": "Deconstruction"
+    },
+    {
+      "key": "SK_LW_MHA_S_2_INIT",
+      "value": "Attritional Protection"
+    },
+    {
+      "key": "SK_LW_MHA_S_3",
+      "value": "Archaic Healing"
+    },
+    {
+      "key": "SK_LW_MHA_S_4",
+      "value": "Maddening Verse"
+    },
+    {
+      "key": "SK_LW_MHA_R_1",
+      "value": "Hidden Resistance"
+    },
+    {
+      "key": "SK_LW_MHA_P_1",
+      "value": "Clandestine Reading"
+    },
+    {
+      "key": "SK_LW_MHA_P_2",
+      "value": "Grimoire Keeper Mastery"
+    },
+    {
+      "key": "SK_LW_MHA_EN_A_01",
+      "value": "Toad's Curse"
+    },
+    {
+      "key": "SK_LW_EC_MHA_C_01",
+      "value": "Swift End Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_MHA_C_01B",
+      "value": "Sudden End"
+    },
+    {
+      "key": "SK_LW_EC_MHA_C_01B_AD",
+      "value": "CT Up when enemy is KO'd"
+    },
+    {
+      "key": "SK_LW_EC_MHA_C_02",
+      "value": "Spell of Shielding Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_MHA_C_02B",
+      "value": "Spell of Fortification"
+    },
+    {
       "key": "SK_TOMB_LARA_ATK",
       "value": "Normal Attack"
     },
@@ -7883,6 +8499,26 @@
     {
       "key": "SK_LW_EC_RAB_C_02B",
       "value": "Duelist Mastery"
+    },
+    {
+      "key": "SK_LW_EC_RAB_A_02",
+      "value": "Triple Reave"
+    },
+    {
+      "key": "SK_LW_EC_RAB_C_03",
+      "value": "Pressure Flurry Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_RAB_C_03B",
+      "value": "Break Flurry"
+    },
+    {
+      "key": "SK_LW_EC_RAB_C_04",
+      "value": "Defensive Footwork Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_RAB_C_04B",
+      "value": "Preservative Footwork"
     },
     {
       "key": "SK_LW_EC_CAL_A_01",
@@ -8657,6 +9293,10 @@
       "value": "Choco Pellets"
     },
     {
+      "key": "SK_CHCB_M_02B",
+      "value": "Choco Pellets"
+    },
+    {
       "key": "SK_CHCB_M_03",
       "value": "Choco Esuna"
     },
@@ -8669,6 +9309,10 @@
       "value": "Counter"
     },
     {
+      "key": "SK_CHCB_R_01B",
+      "value": "Counter"
+    },
+    {
       "key": "SK_CHCB1_ATK",
       "value": "Normal Attack"
     },
@@ -8677,7 +9321,15 @@
       "value": "Choco Pellets"
     },
     {
+      "key": "SK_CHCB1_M_02B",
+      "value": "Choco Pellets"
+    },
+    {
       "key": "SK_CHCB1_R_01",
+      "value": "Counter"
+    },
+    {
+      "key": "SK_CHCB1_R_01B",
       "value": "Counter"
     },
     {
@@ -9103,6 +9755,30 @@
     {
       "key": "SK_TSLP_M_04",
       "value": "Heavenswind"
+    },
+    {
+      "key": "SK_TSLP_01_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_TSLP_01_M_01",
+      "value": "Wind Lash"
+    },
+    {
+      "key": "SK_TSLP_01_M_02",
+      "value": "Cloudrender"
+    },
+    {
+      "key": "SK_TSLP_01_M_03",
+      "value": "Sylphic Dance"
+    },
+    {
+      "key": "SK_TSLP_01_M_04",
+      "value": "Winds of the Four"
+    },
+    {
+      "key": "SK_TSLP_01_M_05",
+      "value": "Tornado"
     },
     {
       "key": "SK_OCHU_ATK",
@@ -10113,6 +10789,114 @@
       "value": "Severing Slash"
     },
     {
+      "key": "SK_USMG_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_USMG_M_01",
+      "value": "Targeting"
+    },
+    {
+      "key": "SK_USMG_M_02",
+      "value": "Napalm"
+    },
+    {
+      "key": "SK_USMG_M_03",
+      "value": "Tail Hammer"
+    },
+    {
+      "key": "SK_USMG_M_04",
+      "value": "Photon Blaster"
+    },
+    {
+      "key": "SK_FALC_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_FALC_M_01",
+      "value": "Charge"
+    },
+    {
+      "key": "SK_FALC_M_02",
+      "value": "Gatling Gun"
+    },
+    {
+      "key": "SK_FALC_M_03",
+      "value": "Gunfire"
+    },
+    {
+      "key": "SK_CPPF_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_CPPF_M_1",
+      "value": "Rifle Butt"
+    },
+    {
+      "key": "SK_CPPF_M_2",
+      "value": "Combat Orders"
+    },
+    {
+      "key": "SK_CPPF_M_3",
+      "value": "Sharpshooting"
+    },
+    {
+      "key": "SK_CPPF_M_4",
+      "value": "Double Shot"
+    },
+    {
+      "key": "SK_CPPF_R_1",
+      "value": "Counterattack"
+    },
+    {
+      "key": "SK_GSRC_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_GSRC_M_1",
+      "value": "Percussive Blow"
+    },
+    {
+      "key": "SK_GSRC_M_2",
+      "value": "Savage Stomp"
+    },
+    {
+      "key": "SK_GSRC_M_3",
+      "value": "Murderous Might"
+    },
+    {
+      "key": "SK_GSRC_M_4",
+      "value": "Dominating Fist"
+    },
+    {
+      "key": "SK_GSRC_M_4_GRA",
+      "value": "Dominating Fist"
+    },
+    {
+      "key": "SK_FANG_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_FANG_M_1",
+      "value": "Slowing Thrust"
+    },
+    {
+      "key": "SK_FANG_M_2",
+      "value": "Blitz"
+    },
+    {
+      "key": "SK_FANG_M_3",
+      "value": "Deprotect"
+    },
+    {
+      "key": "SK_FANG_M_4",
+      "value": "Highwind"
+    },
+    {
+      "key": "SK_FANG_R_1",
+      "value": "Counterlance"
+    },
+    {
       "key": "SK_MRGE_ATK",
       "value": "Normal Attack"
     },
@@ -10294,7 +11078,7 @@
     },
     {
       "key": "SK_CSLI_02_M_03",
-      "value": "Let’s Dance!"
+      "value": "Lets Dance!"
     },
     {
       "key": "SK_CSLI_02_M_03_RA",
@@ -10557,6 +11341,30 @@
       "value": "Silent Darkness"
     },
     {
+      "key": "SK_SRTN_ATK",
+      "value": "Normal Attack"
+    },
+    {
+      "key": "SK_SRTN_M_01",
+      "value": "Angry Bloom"
+    },
+    {
+      "key": "SK_SRTN_M_02",
+      "value": "Uneasy Voice"
+    },
+    {
+      "key": "SK_SRTN_M_03",
+      "value": "Coiling Ivy"
+    },
+    {
+      "key": "SK_SRTN_M_04",
+      "value": "Tectonics"
+    },
+    {
+      "key": "SK_SRTN_R_01",
+      "value": "Sweet Nourishment"
+    },
+    {
       "key": "SK_AGON_M_01_R",
       "value": "Core Laser"
     },
@@ -10717,6 +11525,10 @@
       "value": "Holy Night's Judgment"
     },
     {
+      "key": "SK_LB_LW_RAMD_01_B",
+      "value": "Holy Night's Judgment"
+    },
+    {
       "key": "SK_LB_LW_MACR_01",
       "value": "Holy Night's Gift"
     },
@@ -10725,7 +11537,15 @@
       "value": "Ultima"
     },
     {
+      "key": "SK_LB_FFT_RAMZ_B",
+      "value": "Ultima"
+    },
+    {
       "key": "SK_LB_FFT_ORND",
+      "value": "Swordplay: Thunder God"
+    },
+    {
+      "key": "SK_LB_FFT_ORND_B",
       "value": "Swordplay: Thunder God"
     },
     {
@@ -11081,6 +11901,42 @@
       "value": "Beachside Blastorama"
     },
     {
+      "key": "SK_LB_LW_MACR_02",
+      "value": "Queen's Gambit"
+    },
+    {
+      "key": "SK_LB_FF13_LTNG",
+      "value": "Army of One"
+    },
+    {
+      "key": "SK_LB_FF13_HOPE",
+      "value": "Last Resort"
+    },
+    {
+      "key": "SK_LB_FF13_SNOW",
+      "value": "Sovereign Fist"
+    },
+    {
+      "key": "SK_LB_LW_GRSR_02",
+      "value": "Valkyrie Burst"
+    },
+    {
+      "key": "SK_LB_LW_SHNC",
+      "value": "Blade of the Fatal Waltz"
+    },
+    {
+      "key": "SK_LB_LW_LUCA_01",
+      "value": "Arcane Assimilation"
+    },
+    {
+      "key": "SK_LB_LW_LUCA_01_AD",
+      "value": "Arcane Shot"
+    },
+    {
+      "key": "SK_LB_LW_ALIA",
+      "value": "Guns of the Dragon Princess"
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "Hellfire"
     },
@@ -11295,6 +12151,14 @@
     {
       "key": "SK_SMN_FF10_VLFR",
       "value": "Energy Blast"
+    },
+    {
+      "key": "SK_SMN_SRTN",
+      "value": "Tectonics"
+    },
+    {
+      "key": "SK_SMN_TSLP_01",
+      "value": "Tornado"
     },
     {
       "key": "SK_UN_BD_EC_HP_200",
@@ -12629,6 +13493,26 @@
       "value": "Chi Flow Awakening"
     },
     {
+      "key": "SK_LW_EC_PSI_A_03",
+      "value": "Dispelling Doubleshot"
+    },
+    {
+      "key": "SK_LW_EC_PSI_C_05",
+      "value": "Detonation Blast Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_PSI_C_05B",
+      "value": "Deflagration Blast"
+    },
+    {
+      "key": "SK_LW_EC_PSI_C_06",
+      "value": "Hyper-Vitality Enhancement"
+    },
+    {
+      "key": "SK_LW_EC_PSI_C_06B",
+      "value": "Hyper-Efficiency"
+    },
+    {
       "key": "SK_LW_EC_THI_A_01",
       "value": "Needle Toss"
     },
@@ -13301,6 +14185,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_RIRY_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_VSTR",
       "value": "Master Ability"
     },
@@ -13389,6 +14277,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_NAIA_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_SRJS",
       "value": "Master Ability"
     },
@@ -13414,6 +14306,10 @@
     },
     {
       "key": "SK_MA_LW_VADM",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_VADM_2",
       "value": "Master Ability"
     },
     {
@@ -13473,6 +14369,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_SDLX_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_YERM",
       "value": "Master Ability"
     },
@@ -13482,6 +14382,10 @@
     },
     {
       "key": "SK_MA_LW_P_RAMD_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_P_RAMD_01_2",
       "value": "Master Ability"
     },
     {
@@ -13501,6 +14405,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_P_MACR_01_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_GL_MA_LW_P_MACR_01_2",
       "value": "Master Ability"
     },
@@ -13517,11 +14425,23 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_FFT_RAMZ_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_FFT_GFGR",
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_FFT_GFGR_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_FFT_ORND",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FFT_ORND_2",
       "value": "Master Ability"
     },
     {
@@ -13557,6 +14477,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_ADLD_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_VKTR",
       "value": "Master Ability"
     },
@@ -13569,6 +14493,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_THLA_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_RAIN",
       "value": "Master Ability"
     },
@@ -13578,6 +14506,10 @@
     },
     {
       "key": "SK_MA_LW_FRVA",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_FRVA_2",
       "value": "Master Ability"
     },
     {
@@ -13629,7 +14561,15 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_LVES_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_FFT_AGRA",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FFT_AGRA_2",
       "value": "Master Ability"
     },
     {
@@ -13637,7 +14577,15 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_FFT_DELT_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_FFT_MSTD",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FFT_MSTD_2",
       "value": "Master Ability"
     },
     {
@@ -13646,6 +14594,10 @@
     },
     {
       "key": "SK_MA_LW_STRN_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_STRN_01_2",
       "value": "Master Ability"
     },
     {
@@ -13661,6 +14613,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_GRSR_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_RRIR",
       "value": "Master Ability"
     },
@@ -13669,7 +14625,15 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_RYER_01_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_RIRY_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_RIRY_01_2",
       "value": "Master Ability"
     },
     {
@@ -13733,6 +14697,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_RARD_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_ELSI",
       "value": "Master Ability"
     },
@@ -13741,7 +14709,15 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_VNLA_01_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_VKTR_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_VKTR_01_2",
       "value": "Master Ability"
     },
     {
@@ -13829,6 +14805,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_HLNA_01_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_THLA_01",
       "value": "Master Ability"
     },
@@ -13845,11 +14825,23 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_ZZAN_01_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_MORE",
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_MORE_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_LW_CWEL",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_CWEL_2",
       "value": "Master Ability"
     },
     {
@@ -13858,6 +14850,10 @@
     },
     {
       "key": "SK_MA_LW_CRLT",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_CRLT_2",
       "value": "Master Ability"
     },
     {
@@ -13913,6 +14909,10 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_GRSR_01_2",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_MA_TOMB_LARA",
       "value": "Master Ability"
     },
@@ -13938,6 +14938,10 @@
     },
     {
       "key": "SK_MA_LW_FDRC_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_FDRC_01_2",
       "value": "Master Ability"
     },
     {
@@ -14085,6 +15089,42 @@
       "value": "Master Ability"
     },
     {
+      "key": "SK_MA_LW_MACR_02",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FF13_LTNG",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FF13_HOPE",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_FF13_SNOW",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_GRSR_02",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_SHNC",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_LBRK",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_LUCA_01",
+      "value": "Master Ability"
+    },
+    {
+      "key": "SK_MA_LW_ALIA",
+      "value": "Master Ability"
+    },
+    {
       "key": "SK_LW_SLASH_1",
       "value": "Slash ATK +2"
     },
@@ -14209,6 +15249,26 @@
       "value": "Evasion Rate +8"
     },
     {
+      "key": "SK_LW_CRIAVOI_1",
+      "value": "Critical Evasion +2"
+    },
+    {
+      "key": "SK_LW_CRIAVOI_2",
+      "value": "Critical Evasion +3"
+    },
+    {
+      "key": "SK_LW_CRIAVOI_3",
+      "value": "Critical Evasion +5"
+    },
+    {
+      "key": "SK_LW_CRIAVOI_4",
+      "value": "Critical Evasion +10"
+    },
+    {
+      "key": "SK_LW_CRIAVOI_5",
+      "value": "Critical Evasion +20"
+    },
+    {
       "key": "SK_LW_MAGICPOW_1",
       "value": "MAG +8"
     },
@@ -14287,6 +15347,26 @@
     {
       "key": "SK_LW_PIERCEMDEF_5",
       "value": "SPR Piercing Rate +20"
+    },
+    {
+      "key": "SK_LW_PIERCEMAG_1",
+      "value": "Magic Attack Res Piercing Rate +2"
+    },
+    {
+      "key": "SK_LW_PIERCEMAG_2",
+      "value": "Magic Attack Res Piercing Rate +3"
+    },
+    {
+      "key": "SK_LW_PIERCEMAG_3",
+      "value": "Magic Attack Res Piercing Rate +5"
+    },
+    {
+      "key": "SK_LW_PIERCEMAG_4",
+      "value": "Magic Attack Res Piercing Rate +10"
+    },
+    {
+      "key": "SK_LW_PIERCEMAG_5",
+      "value": "Magic Attack Res Piercing Rate +20"
     },
     {
       "key": "SK_LW_PIERCESLA_1",
@@ -14417,6 +15497,46 @@
       "value": "Max HP +15% for 3 turns from commencement of battle"
     },
     {
+      "key": "SK_LW_DFRANGE_1",
+      "value": "Area Attack Res +1 for 3 turns from commencement of battle"
+    },
+    {
+      "key": "SK_LW_DFRANGE_2",
+      "value": "Area Attack Res +2 for 3 turns from commencement of battle"
+    },
+    {
+      "key": "SK_LW_DFRANGE_3",
+      "value": "Area Attack Res +3 for 3 turns from commencement of battle"
+    },
+    {
+      "key": "SK_LW_DFRANGE_4",
+      "value": "Area Attack Res +5 for 3 turns from commencement of battle"
+    },
+    {
+      "key": "SK_LW_DFRANGE_5",
+      "value": "Area Attack Res +10 for 3 turns from commencement of battle"
+    },
+    {
+      "key": "SK_LW_DF_DARK_1",
+      "value": "Dark Res +1"
+    },
+    {
+      "key": "SK_LW_DF_DARK_2",
+      "value": "Dark Res +2"
+    },
+    {
+      "key": "SK_LW_DF_DARK_3",
+      "value": "Dark Res +3"
+    },
+    {
+      "key": "SK_LW_DF_DARK_4",
+      "value": "Dark Res +5"
+    },
+    {
+      "key": "SK_LW_DF_DARK_5",
+      "value": "Dark Res +10"
+    },
+    {
       "key": "SK_LW_SWO_003_1",
       "value": "Sleep Blade"
     },
@@ -14466,6 +15586,14 @@
     },
     {
       "key": "SK_LW_SWO_007_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_005_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_005_5",
       "value": ""
     },
     {
@@ -14637,6 +15765,26 @@
       "value": ""
     },
     {
+      "key": "SK_FFT_SWO_002_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FFT_SWO_002_1_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FFT_SWO_002_1_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FFT_SWO_002_1_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FFT_SWO_002_1_5",
+      "value": ""
+    },
+    {
       "key": "SK_FFT_ACC_001_1",
       "value": ""
     },
@@ -14802,6 +15950,14 @@
     },
     {
       "key": "SK_LW_RNG_010_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_RNG_011_1",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_RNG_011_5",
       "value": ""
     },
     {
@@ -15313,6 +16469,38 @@
       "value": "Firing Order"
     },
     {
+      "key": "SK_CLT_LW_MACR_02_1",
+      "value": "Bulwark of the Bull"
+    },
+    {
+      "key": "SK_CLT_FF13_LTNG_1",
+      "value": "Enspark"
+    },
+    {
+      "key": "SK_CLT_FF13_HOPE_1",
+      "value": "Empower & Enchant"
+    },
+    {
+      "key": "SK_ACC_FF13_SNOW_1",
+      "value": "Enfreeze"
+    },
+    {
+      "key": "SK_CLT_LW_GRSR_02_1",
+      "value": "Silver Wolf's Grace"
+    },
+    {
+      "key": "SK_CLT_LW_SHNC_1",
+      "value": "Stroke of Luck"
+    },
+    {
+      "key": "SK_CLT_LW_LUCA_01",
+      "value": "Little Devil's Smile"
+    },
+    {
+      "key": "SK_ACC_LW_ALIA_1",
+      "value": "Dragon's Bloodline"
+    },
+    {
       "key": "SK_SPE_LW_VERN_1_1",
       "value": ""
     },
@@ -15570,6 +16758,10 @@
     },
     {
       "key": "SK_SPE_LW_MCRD_1_1",
+      "value": ""
+    },
+    {
+      "key": "SK_GRO_LW_LBRK_1",
       "value": ""
     },
     {
@@ -16346,6 +17538,246 @@
     },
     {
       "key": "SK_VC_LW_MIRROR_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CACT_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CACT_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CACT_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_01_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ARMN_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZUUU_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZUUU_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZUUU_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_OGRE_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_OGRE_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_OGRE_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BOMB_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BOMB_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BOMB_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BYLO_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BYLO_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_BYLO_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RART_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RART_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RART_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RYER_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RYER_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RYER_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RIRY_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RIRY_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_RIRY_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VNLA_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VNLA_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_VNLA_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LEONIS_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LEONIS_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LEONIS_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HOURN_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HOURN_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HOURN_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FENICE_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FENICE_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FENICE_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_WEZETT_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_WEZETT_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_WEZETT_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CRYSTAL_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CRYSTAL_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_CRYSTAL_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LEONIS2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LEONIS2_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_LEONIS2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HOURN2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HOURN2_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HOURN2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FENICE2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FENICE2_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_FENICE2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_WEZETT2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_WEZETT2_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_WEZETT2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DYNVERK_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DYNVERK_GSAW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_DYNVERK_GSMAX",
       "value": ""
     },
     {
@@ -18925,6 +20357,370 @@
       "value": ""
     },
     {
+      "key": "SK_VC_LW_SRTN_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SRTN_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SRTN_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SRTN_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SRTN_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SRTN_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SRTN_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SRTN_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_SRTN_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SRTN_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SRTN_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_SRTN_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV1_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV1_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV1_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV1_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV2_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV2_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV2_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV2_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV2_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV2_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV2_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_FF13_MV3_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV3_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV3_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FF13_MV3_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_TSLP_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TSLP_01_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TSLP_01_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_TSLP_01_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_JEDN2_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN2_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN2_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN2_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN2_P3",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN2_P3AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_JEDN2_P3MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL3_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL3_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_LW_HALL3_P2MAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_HALL3_PVA",
+      "value": "Curses Come in Threes"
+    },
+    {
       "key": "SK_VC_LW_JEDN_01_GS",
       "value": ""
     },
@@ -19030,6 +20826,54 @@
     },
     {
       "key": "SK_VC_LW_COMIC_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_GS",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_GS_AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_GSMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_GS_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_GS_AW_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_GSMAX_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_P",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_PAW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_P_2",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_P_2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_VC_LW_ZZAN_01_P_2MAX",
       "value": ""
     },
     {
@@ -20373,6 +22217,18 @@
       "value": ""
     },
     {
+      "key": "SK_GL_VC_FFT_MV1_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FFT_MV1_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FFT_MV1_P2MAX",
+      "value": ""
+    },
+    {
       "key": "SK_VC_FFCC_MV1_P",
       "value": ""
     },
@@ -21310,6 +23166,18 @@
     },
     {
       "key": "SK_VC_FFT_MV3_PMAX",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FFT_MV3_P2",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FFT_MV3_P2AW",
+      "value": ""
+    },
+    {
+      "key": "SK_GL_VC_FFT_MV3_P2MAX",
       "value": ""
     },
     {
@@ -22286,7 +24154,7 @@
     },
     {
       "key": "SK_BTL_HEALP_1_50_U",
-      "value": "Healing Power 1-50 Up　[Do Not Use]"
+      "value": "Healing Power 1-50 Up[Do Not Use]"
     },
     {
       "key": "SK_BTL_HEALP_1_999_U",
@@ -22314,7 +24182,7 @@
     },
     {
       "key": "SK_BTL_HEALP_1_50_D",
-      "value": "▼Healing Power 1-50 Down"
+      "value": "Healing Power 1-50 Down"
     },
     {
       "key": "SK_BTL_STR_MAGIC_1_100_U",
@@ -22879,6 +24747,10 @@
     {
       "key": "SK_BTL_RATK_1-100_D",
       "value": "Area Attack Res 1-100 Down"
+    },
+    {
+      "key": "SK_BTL_SATK_1-999_U",
+      "value": "Unit Attack Res 1-999 Up"
     },
     {
       "key": "SK_BTL_PKILLER_MAN_1-100_U",
@@ -25046,11 +26918,11 @@
     },
     {
       "key": "SK_LW_CRI_1",
-      "value": "Generic Critical Dmg Up 3–8"
+      "value": "Generic Critical Dmg Up 38"
     },
     {
       "key": "SK_LW_CRI_5",
-      "value": "Generic Critical Dmg Up 10–15"
+      "value": "Generic Critical Dmg Up 1015"
     },
     {
       "key": "SK_LW_FF15_ACC_001_1",
@@ -25151,6 +27023,46 @@
     {
       "key": "SK_LW_ROD_028_5",
       "value": "Arcane Tuning Rod"
+    },
+    {
+      "key": "SK_LW_DAG_010_1",
+      "value": "Feather Baselard"
+    },
+    {
+      "key": "SK_LW_DAG_010_2",
+      "value": "Feather Baselard"
+    },
+    {
+      "key": "SK_LW_DAG_010_3",
+      "value": "Feather Baselard"
+    },
+    {
+      "key": "SK_LW_DAG_010_4",
+      "value": "Feather Baselard"
+    },
+    {
+      "key": "SK_LW_DAG_010_5",
+      "value": "Feather Baselard"
+    },
+    {
+      "key": "SK_LW_KAT_013_1",
+      "value": "Kumokiri "
+    },
+    {
+      "key": "SK_LW_KAT_013_2",
+      "value": "Kumokiri "
+    },
+    {
+      "key": "SK_LW_KAT_013_3",
+      "value": "Kumokiri "
+    },
+    {
+      "key": "SK_LW_KAT_013_4",
+      "value": "Kumokiri "
+    },
+    {
+      "key": "SK_LW_KAT_013_5",
+      "value": "Kumokiri "
     },
     {
       "key": "SK_LW_FF6_ACC_003_1",
@@ -25285,6 +27197,102 @@
       "value": "AGI Down for 3 turns on Critical Hit"
     },
     {
+      "key": "SK_FF13_SWO_000_1",
+      "value": "Blazefire Saber"
+    },
+    {
+      "key": "SK_FF13_SWO_000_5",
+      "value": "Blazefire Saber"
+    },
+    {
+      "key": "SK_FF13_SWO_000_1_S",
+      "value": "Blazefire Saber"
+    },
+    {
+      "key": "SK_FF13_SWO_000_5_S",
+      "value": "Blazefire Saber"
+    },
+    {
+      "key": "SK_FF13_SWO_LTNG_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_SWO_LTNG_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_SWO_LTNG_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_SWO_LTNG_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_SWO_LTNG_5",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_SWO_LTNG_5_B",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_UNI_000_1",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_UNI_000_2",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_UNI_000_3",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_UNI_000_4",
+      "value": ""
+    },
+    {
+      "key": "SK_FF13_UNI_000_5",
+      "value": ""
+    },
+    {
+      "key": "SK_LW_SPE_022_1_S",
+      "value": "Platinum Lance"
+    },
+    {
+      "key": "SK_LW_SPE_022_5_S",
+      "value": "Platinum Lance"
+    },
+    {
+      "key": "SK_LW_SPE_022_1",
+      "value": "Platinum Lance"
+    },
+    {
+      "key": "SK_LW_SPE_022_5",
+      "value": "Platinum Lance"
+    },
+    {
+      "key": "SK_FF13_ACCE_002_1",
+      "value": "Hope's Scarf"
+    },
+    {
+      "key": "SK_FF13_ACCE_002_2",
+      "value": "Hope's Scarf"
+    },
+    {
+      "key": "SK_FF13_ACCE_002_3",
+      "value": "Hope's Scarf"
+    },
+    {
+      "key": "SK_FF13_ACCE_002_4",
+      "value": "Hope's Scarf"
+    },
+    {
+      "key": "SK_FF13_ACCE_002_5",
+      "value": "Hope's Scarf"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "Brotherhood Awakening 2"
     },
@@ -25369,8 +27377,36 @@
       "value": "MAG +30%"
     },
     {
+      "key": "SK_LW_PLUS6_19",
+      "value": "Slash Attack +10"
+    },
+    {
       "key": "SK_LW_PLUS6_HIT_10",
       "value": "Accuracy Rate +10"
+    },
+    {
+      "key": "SK_LW_PLUS6_HP_10",
+      "value": "HP +10%"
+    },
+    {
+      "key": "SK_LW_PLUS6_CRT_10",
+      "value": "Critical Hit Rate +10"
+    },
+    {
+      "key": "SK_LW_PLUS6_CRT_ATKMGK_UP",
+      "value": "Target's ATK/MAG +20% for 3 turns on Critical Hit"
+    },
+    {
+      "key": "SK_LW_PLUS6_HEALP_10",
+      "value": "Healing Power +10%"
+    },
+    {
+      "key": "SK_LW_PLUS6_DARKKR_20",
+      "value": "Dark Eater +20"
+    },
+    {
+      "key": "SK_LW_PLUS6_CRTAV_20",
+      "value": "Critical Evasion Rate +20"
     },
     {
       "key": "SK_FF4_ROD_000_1",
@@ -25489,6 +27525,10 @@
       "value": "Tyrfing"
     },
     {
+      "key": "SK_LW_SWO_025_6",
+      "value": "Tyrfing +6"
+    },
+    {
       "key": "SK_LW_SPE_018_1",
       "value": "Camillo Spear"
     },
@@ -25527,6 +27567,114 @@
     {
       "key": "SK_LW_HLM_009_5",
       "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_SPE_018_1_1",
+      "value": "Camillo Spear"
+    },
+    {
+      "key": "SK_LW_SPE_018_1_2",
+      "value": "Camillo Spear"
+    },
+    {
+      "key": "SK_LW_SPE_018_1_3",
+      "value": "Camillo Spear"
+    },
+    {
+      "key": "SK_LW_SPE_018_1_4",
+      "value": "Camillo Spear"
+    },
+    {
+      "key": "SK_LW_SPE_018_1_5",
+      "value": "Camillo Spear"
+    },
+    {
+      "key": "SK_LW_HLM_009_1_1",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_HLM_009_1_2",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_HLM_009_1_3",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_HLM_009_1_4",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_HLM_009_1_5",
+      "value": "Muraga Helm"
+    },
+    {
+      "key": "SK_LW_SWO_035_1",
+      "value": "Wave Blade"
+    },
+    {
+      "key": "SK_LW_SWO_035_5",
+      "value": "Wave Blade"
+    },
+    {
+      "key": "SK_LW_ACC_074_1",
+      "value": "Crow Cloak"
+    },
+    {
+      "key": "SK_LW_ACC_074_2",
+      "value": "Crow Cloak"
+    },
+    {
+      "key": "SK_LW_ACC_074_3",
+      "value": "Crow Cloak"
+    },
+    {
+      "key": "SK_LW_ACC_074_4",
+      "value": "Crow Cloak"
+    },
+    {
+      "key": "SK_LW_ACC_074_5",
+      "value": "Crow Cloak"
+    },
+    {
+      "key": "SK_LW_GUN_004_1",
+      "value": "Peacemaker"
+    },
+    {
+      "key": "SK_LW_GUN_004_2",
+      "value": "Peacemaker"
+    },
+    {
+      "key": "SK_LW_GUN_004_3",
+      "value": "Peacemaker"
+    },
+    {
+      "key": "SK_LW_GUN_004_4",
+      "value": "Peacemaker"
+    },
+    {
+      "key": "SK_LW_GUN_004_5",
+      "value": "Peacemaker"
+    },
+    {
+      "key": "SK_LW_BOK_010_1",
+      "value": "Diaries of a Mischievous Witch Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_BOK_010_2",
+      "value": "Diaries of a Mischievous Witch Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_BOK_010_3",
+      "value": "Diaries of a Mischievous Witch Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_BOK_010_4",
+      "value": "Diaries of a Mischievous Witch Specific Passive Ability"
+    },
+    {
+      "key": "SK_LW_BOK_010_5",
+      "value": "Diaries of a Mischievous Witch Specific Passive Ability"
     },
     {
       "key": "SK_SCOC_ATK",
@@ -25957,6 +28105,10 @@
       "value": "Shallow Grave"
     },
     {
+      "key": "SK_GHUL_M_04_B",
+      "value": "Shallow Grave"
+    },
+    {
       "key": "SK_GHUL_R_01",
       "value": "Mauling Counter"
     },
@@ -25986,6 +28138,10 @@
     },
     {
       "key": "SK_WYVN_M_01",
+      "value": "Gnashing Bite"
+    },
+    {
+      "key": "SK_WYVN_M_01_GR",
       "value": "Gnashing Bite"
     },
     {

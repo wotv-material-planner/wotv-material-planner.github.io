@@ -141,6 +141,18 @@
       "value": "August Login Bonus"
     },
     {
+      "key": "LB_202209",
+      "value": "September Login Bonus"
+    },
+    {
+      "key": "LB_202210",
+      "value": "2.5 Year Anniversary Encore Login Bonus"
+    },
+    {
+      "key": "LB_202211",
+      "value": "November Login Bonus"
+    },
+    {
       "key": "LB_LIMIT_GL_0001",
       "value": "Release Commemoration"
     },
@@ -171,6 +183,10 @@
     {
       "key": "LB_LIMIT_0007",
       "value": "FFT Collaboration Celebratory Login Bonus"
+    },
+    {
+      "key": "LB_COMEBACK_005",
+      "value": "Comeback Login Bonus"
     },
     {
       "key": "LB_LIMIT_GL0001",
@@ -254,15 +270,15 @@
     },
     {
       "key": "LB_LIMIT_GL0021",
-      "value": "Six-Month Anniversary Countdown —<br>Login Bonus Part I"
+      "value": "Six-Month Anniversary Countdown <br>Login Bonus Part I"
     },
     {
       "key": "LB_LIMIT_GL0022",
-      "value": "Six-Month Anniversary Countdown —<br>Login Bonus Part II"
+      "value": "Six-Month Anniversary Countdown <br>Login Bonus Part II"
     },
     {
       "key": "LB_LIMIT_GL0023",
-      "value": "Six-Month Anniversary Countdown —<br>Login Bonus Part III"
+      "value": "Six-Month Anniversary Countdown <br>Login Bonus Part III"
     },
     {
       "key": "LB_LIMIT_GL0024",
@@ -438,7 +454,7 @@
     },
     {
       "key": "LB_LIMIT_GL0067",
-      "value": "FFⅠ Collaboration Reissue Countdown Login Bonus"
+      "value": "FF Collaboration Reissue Countdown Login Bonus"
     },
     {
       "key": "LB_LIMIT_GL0068",
@@ -767,6 +783,58 @@
     {
       "key": "LB_LIMIT_GL0149",
       "value": "2.5 Year Anniversary Countdown Part I Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0150",
+      "value": "2.5 Year Anniversary Countdown Part II Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0151",
+      "value": "2.5 Year Anniversary Countdown Part III Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0152",
+      "value": "2.5 Year Anniversary Countdown Part IV Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0153",
+      "value": "FINAL FANTASY XIII Collaboration Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0154",
+      "value": "2.5 Year Anniversary Part I Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0155",
+      "value": "FINAL FANTASY XIII Collaboration Part II Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0156",
+      "value": "FINAL FANTASY TACTICS Collaboration Reissue Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0157",
+      "value": "2.5 Year Anniversary Part II Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0158",
+      "value": "2.5 Year Anniversary Part III Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0159",
+      "value": "2.5 Year Anniversary Part IV Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0160",
+      "value": "Halloween Festival 2022 Part I Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0161",
+      "value": "Halloween Festival 2022 Part II Login Bonus"
+    },
+    {
+      "key": "LB_LIMIT_GL0162",
+      "value": "Upcoming JP 3rd Anniversary Login Bonus"
     }
   ]
 }

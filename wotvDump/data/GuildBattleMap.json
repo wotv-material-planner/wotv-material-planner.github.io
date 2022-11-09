@@ -227,9 +227,27 @@
         },
         {
           "start_at": "2022/08/03",
-          "end_at": "2119/12/31 23:59:59",
+          "end_at": "2022/09/06 23:59:59",
           "quest_id": "QE_GVG_GL_00036",
           "map_iname": "GuildMapIcon_GL_0017"
+        },
+        {
+          "start_at": "2022/09/07",
+          "end_at": "2022/10/04 23:59:59",
+          "quest_id": "QE_GVG_GL_00038",
+          "map_iname": "GuildMapIcon_0030"
+        },
+        {
+          "start_at": "2022/10/05",
+          "end_at": "2022/11/01 23:59:59",
+          "quest_id": "QE_GVG_GL_00040",
+          "map_iname": "GuildMapIcon_GL_0016"
+        },
+        {
+          "start_at": "2022/11/02",
+          "end_at": "2119/12/31 23:59:59",
+          "quest_id": "QE_GVG_GL_00042",
+          "map_iname": "GuildMapIcon_0032"
         }
       ]
     }

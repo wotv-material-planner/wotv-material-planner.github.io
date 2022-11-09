@@ -663,6 +663,13 @@
       "body_type": "W"
     },
     {
+      "iname": "DU_LW_GRSR_02",
+      "sex": 2,
+      "charaId": "LAPSgrsr",
+      "anm_type": 1,
+      "body_type": "W"
+    },
+    {
       "iname": "DU_LW_CEAN",
       "sex": 1,
       "charaId": "LAPScean",
@@ -901,6 +908,13 @@
       "body_type": "MM"
     },
     {
+      "iname": "DU_LW_OBRN_99",
+      "sex": 1,
+      "charaId": "LAPSobrn",
+      "anm_type": 1,
+      "body_type": "MM"
+    },
+    {
       "iname": "DU_LW_NEAA",
       "sex": 2,
       "charaId": "LAPSneaa",
@@ -958,6 +972,13 @@
     },
     {
       "iname": "DU_LW_RTAL",
+      "sex": 2,
+      "charaId": "LAPSrtal",
+      "anm_type": 1,
+      "body_type": "W"
+    },
+    {
+      "iname": "DU_LW_RTAL_99",
       "sex": 2,
       "charaId": "LAPSrtal",
       "anm_type": 1,
@@ -1102,6 +1123,20 @@
       "charaId": "LAPSch00",
       "anm_type": 1,
       "body_type": "S"
+    },
+    {
+      "iname": "DU_LW_YT_00",
+      "sex": 1,
+      "charaId": "LAPSyt00",
+      "anm_type": 1,
+      "body_type": "MM"
+    },
+    {
+      "iname": "DU_LW_YT_01",
+      "sex": 2,
+      "charaId": "LAPSyt01",
+      "anm_type": 1,
+      "body_type": "W"
     },
     {
       "iname": "DU_LW_NB_00",
@@ -1376,20 +1411,6 @@
       "anm_type": 0
     },
     {
-      "iname": "DU_LW_YT_00",
-      "sex": 1,
-      "charaId": "LAPSyt00",
-      "anm_type": 1,
-      "body_type": "MM"
-    },
-    {
-      "iname": "DU_LW_YT_01",
-      "sex": 2,
-      "charaId": "LAPSyt01",
-      "anm_type": 1,
-      "body_type": "W"
-    },
-    {
       "iname": "DU_LW_OCHU",
       "sex": 3,
       "charaId": "LAPSochu",
@@ -1474,6 +1495,27 @@
       "body_type": "W"
     },
     {
+      "iname": "DU_LW_EXIA",
+      "sex": 2,
+      "charaId": "LAPSexia",
+      "anm_type": 1,
+      "body_type": "W"
+    },
+    {
+      "iname": "DU_LW_SONL",
+      "sex": 2,
+      "charaId": "LAPSsonl",
+      "anm_type": 1,
+      "body_type": "W"
+    },
+    {
+      "iname": "DU_LW_FRAZ",
+      "sex": 1,
+      "charaId": "LAPSfraz",
+      "anm_type": 1,
+      "body_type": "MM"
+    },
+    {
       "iname": "DU_LW_RYER_02",
       "sex": 2,
       "charaId": "LAPSryer",
@@ -1493,6 +1535,27 @@
       "charaId": "LAPSgrso",
       "anm_type": 1,
       "body_type": "MM"
+    },
+    {
+      "iname": "DU_LW_MACR_02",
+      "sex": 2,
+      "charaId": "LAPSmacr",
+      "anm_type": 1,
+      "body_type": "W"
+    },
+    {
+      "iname": "DU_LW_GRFD",
+      "sex": 1,
+      "charaId": "LAPSgrfd",
+      "anm_type": 1,
+      "body_type": "L"
+    },
+    {
+      "iname": "DU_LW_URAL",
+      "sex": 2,
+      "charaId": "LAPSural",
+      "anm_type": 1,
+      "body_type": "W"
     }
   ]
 }

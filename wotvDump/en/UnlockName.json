@@ -141,8 +141,16 @@
       "value": "Event Archives"
     },
     {
+      "key": "Oval",
+      "value": "Ovalite"
+    },
+    {
       "key": "UnitExStar",
       "value": "Unit Enhancement"
+    },
+    {
+      "key": "BGRepeat",
+      "value": "Background Repeat"
     }
   ]
 }

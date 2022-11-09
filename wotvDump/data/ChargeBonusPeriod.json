@@ -1013,6 +1013,126 @@
       "begin_at": "2022/08/24",
       "end_at": "2022/08/30 23:59:59",
       "charge_bonus_id": "CHARGE_BONUS_GL_0177"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0178",
+      "begin_at": "2022/08/31",
+      "end_at": "2022/09/06 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0178"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0179",
+      "begin_at": "2022/08/31",
+      "end_at": "2022/09/06 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0179"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0180",
+      "begin_at": "2022/09/07",
+      "end_at": "2022/09/13 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0180"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0181",
+      "begin_at": "2022/09/07",
+      "end_at": "2022/09/13 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0181"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0182",
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/20 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0182"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0183",
+      "begin_at": "2022/09/14",
+      "end_at": "2022/09/20 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0183"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0184",
+      "begin_at": "2022/09/20 18:30:00",
+      "end_at": "2022/09/27 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0184"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0185",
+      "begin_at": "2022/09/20 18:30:00",
+      "end_at": "2022/09/27 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0185"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0186",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/10/04 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0186"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0187",
+      "begin_at": "2022/09/28",
+      "end_at": "2022/10/04 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0187"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0188",
+      "begin_at": "2022/10/05",
+      "end_at": "2022/10/11 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0188"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0189",
+      "begin_at": "2022/10/05",
+      "end_at": "2022/10/11 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0189"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0190",
+      "begin_at": "2022/10/12",
+      "end_at": "2022/10/18 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0190"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0191",
+      "begin_at": "2022/10/12",
+      "end_at": "2022/10/18 17:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0191"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0192",
+      "begin_at": "2022/10/18 18:30:00",
+      "end_at": "2022/10/25 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0192"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0193",
+      "begin_at": "2022/10/18 18:30:00",
+      "end_at": "2022/10/25 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0193"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0194",
+      "begin_at": "2022/10/26",
+      "end_at": "2022/11/01 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0194"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0195",
+      "begin_at": "2022/10/26",
+      "end_at": "2022/11/01 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0195"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0196",
+      "begin_at": "2022/11/02",
+      "end_at": "2022/11/08 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0196"
+    },
+    {
+      "iname": "BONUS_PERIOD_GL_0197",
+      "begin_at": "2022/11/02",
+      "end_at": "2022/11/08 23:59:59",
+      "charge_bonus_id": "CHARGE_BONUS_GL_0197"
     }
   ]
 }

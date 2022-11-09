@@ -133,6 +133,34 @@
       "value": ""
     },
     {
+      "key": "SE_EV_WEEK_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_WEEK_01(Duplicate1)",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_WEEK_01(Duplicate2)",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_WEEK_01(Duplicate3)",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_WEEK_01(Duplicate4)",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_WEEK_01(Duplicate5)",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_WEEK_01(Duplicate6)",
+      "value": ""
+    },
+    {
       "key": "SE_EV_AW_HIGH_01",
       "value": ""
     },
@@ -293,6 +321,18 @@
       "value": ""
     },
     {
+      "key": "SE_EV_MACR_02_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GRSR_02_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_ALIA_01",
+      "value": ""
+    },
+    {
       "key": "SE_EV_GL_TU_IREZ",
       "value": ""
     },
@@ -305,7 +345,39 @@
       "value": ""
     },
     {
+      "key": "SE_EV_GL_TU_MACR_02",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_LTNG",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_SNOW",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_GRSR_02",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_LUCA_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_SHNC",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_GL_TU_ALIA",
+      "value": ""
+    },
+    {
       "key": "SE_CHAL_04",
+      "value": ""
+    },
+    {
+      "key": "SE_CHAL_05",
       "value": ""
     },
     {
@@ -457,6 +529,26 @@
       "value": ""
     },
     {
+      "key": "SE_EV_17_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_17_EX_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_18_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_18_EX_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_18_EX2_01",
+      "value": ""
+    },
+    {
       "key": "SE_EV_02_01",
       "value": ""
     },
@@ -521,15 +613,19 @@
       "value": ""
     },
     {
+      "key": "SE_EV_FFT_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_FFT_01_EX",
+      "value": ""
+    },
+    {
       "key": "SE_EV_FFT_02_01",
       "value": ""
     },
     {
       "key": "SE_EV_FFT_02_EX",
-      "value": ""
-    },
-    {
-      "key": "SE_EV_FFT_01",
       "value": ""
     },
     {
@@ -589,7 +685,11 @@
       "value": ""
     },
     {
-      "key": "SE_EV_FFT_01_EX",
+      "key": "SE_EV_LBRK",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_LBRK_EX",
       "value": ""
     },
     {
@@ -661,6 +761,10 @@
       "value": ""
     },
     {
+      "key": "SE_EV_ART_CRF_13",
+      "value": ""
+    },
+    {
       "key": "SE_EV_ART_CRF_14",
       "value": ""
     },
@@ -678,6 +782,18 @@
     },
     {
       "key": "SE_EV_ART_CRF_18",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_ART_CRF_19",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_ART_CRF_20",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_ART_CRF_25",
       "value": ""
     },
     {
@@ -933,6 +1049,14 @@
       "value": ""
     },
     {
+      "key": "SE_EV_FF13_01_01",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_FF13_01_EX",
+      "value": ""
+    },
+    {
       "key": "SE_EV_GL_TOMB_01",
       "value": ""
     },
@@ -1098,6 +1222,34 @@
     },
     {
       "key": "SE_EV_2ANV_6",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_2_5ANV_1",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_2_5ANV_2",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_2_5ANV_3",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_2_5ANV_4",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_2_5ANV_5",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_2_5ANV_6",
+      "value": ""
+    },
+    {
+      "key": "SE_EV_2_5ANV_7",
       "value": ""
     },
     {

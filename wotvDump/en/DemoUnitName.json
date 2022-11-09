@@ -102,7 +102,7 @@
     },
     {
       "key": "DU_LW_MACR",
-      "value": "Machérie Hourne, Machérie"
+      "value": "Machrie Hourne, Machrie"
     },
     {
       "key": "DU_LW_DRIO",
@@ -202,7 +202,7 @@
     },
     {
       "key": "DU_LW_SO_05",
-      "value": "«Rubeus» Soldier, «Rubeus» Soldier, «Rubeus» Soldiers, Resistance"
+      "value": "Rubeus Soldier, Rubeus Soldier, Rubeus Soldiers, Resistance"
     },
     {
       "key": "DU_LW_NADR",
@@ -298,7 +298,7 @@
     },
     {
       "key": "DU_LW_LMRE",
-      "value": "Lemuré"
+      "value": "Lemur"
     },
     {
       "key": "DU_LW_HAVS",
@@ -379,6 +379,10 @@
     {
       "key": "DU_LW_GRSR",
       "value": "Glaciela Wezette, Glaciela"
+    },
+    {
+      "key": "DU_LW_GRSR_02",
+      "value": "Glaciela (New Outfit 1), Glaciela"
     },
     {
       "key": "DU_LW_CEAN",
@@ -517,6 +521,10 @@
       "value": "Oberon Heindler, Oberon"
     },
     {
+      "key": "DU_LW_OBRN_99",
+      "value": "Oberon Heindler (Vision)"
+    },
+    {
       "key": "DU_LW_NEAA",
       "value": "Neia"
     },
@@ -551,6 +559,10 @@
     {
       "key": "DU_LW_RTAL",
       "value": "Lucielle Ovis, Lucielle, Woman Called \"Princess\", Shalze"
+    },
+    {
+      "key": "DU_LW_RTAL_99",
+      "value": "Lucielle Ovis (Vision)"
     },
     {
       "key": "DU_LW_SO_07",
@@ -631,6 +643,14 @@
     {
       "key": "DU_LW_CH_00",
       "value": "Young Boy"
+    },
+    {
+      "key": "DU_LW_YT_00",
+      "value": "Villager, Villager (Male), Generic Adult Male Villager, Kels, Thorbek, Man, Man of the Forest, Seafarer"
+    },
+    {
+      "key": "DU_LW_YT_01",
+      "value": "Villager, Villager (Female), Generic Adult Female Villager, Woman, Woman of the Forest"
     },
     {
       "key": "DU_LW_NB_00",
@@ -789,14 +809,6 @@
       "value": "Will of Light"
     },
     {
-      "key": "DU_LW_YT_00",
-      "value": "Villager, Villager (Male), Generic Adult Male Villager, Kels, Thorbek, Man, Man of the Forest, Seafarer"
-    },
-    {
-      "key": "DU_LW_YT_01",
-      "value": "Villager, Villager (Female), Generic Adult Female Villager, Woman, Woman of the Forest"
-    },
-    {
       "key": "DU_LW_OCHU",
       "value": "Ochu"
     },
@@ -845,6 +857,18 @@
       "value": "Shelva"
     },
     {
+      "key": "DU_LW_EXIA",
+      "value": "Exia"
+    },
+    {
+      "key": "DU_LW_SONL",
+      "value": "Sonille"
+    },
+    {
+      "key": "DU_LW_FRAZ",
+      "value": "Freyser"
+    },
+    {
       "key": "DU_LW_RYER_02",
       "value": "Little Leela, Little Leela (Past)"
     },
@@ -855,6 +879,18 @@
     {
       "key": "DU_LW_GRSO",
       "value": "Grosso"
+    },
+    {
+      "key": "DU_LW_MACR_02",
+      "value": "Machrie (New Outfit 1), Machrie"
+    },
+    {
+      "key": "DU_LW_GRFD",
+      "value": "Gryfford"
+    },
+    {
+      "key": "DU_LW_URAL",
+      "value": "Eurel"
     }
   ]
 }

@@ -26,7 +26,7 @@
     },
     {
       "key": "SE_ST_010203",
-      "value": "«Caelum» Returns"
+      "value": "Caelum Returns"
     },
     {
       "key": "SE_ST_010301",
@@ -289,6 +289,22 @@
       "value": "Merciless Bullets"
     },
     {
+      "key": "SE_ST_020903",
+      "value": "Love, Hatred, and..."
+    },
+    {
+      "key": "SE_ST_021001",
+      "value": "To the Frontlines"
+    },
+    {
+      "key": "SE_ST_021002",
+      "value": "Garvall's Aspirations "
+    },
+    {
+      "key": "SE_ST_021003",
+      "value": "Feelings Untold"
+    },
+    {
       "key": "SE_WD_010101",
       "value": "Lion's Great Forest"
     },
@@ -363,6 +379,26 @@
     {
       "key": "SE_WD_010209",
       "value": "Migra Mountain Range"
+    },
+    {
+      "key": "SE_EV_18_01",
+      "value": "As Blood Demands"
+    },
+    {
+      "key": "SE_EV_18_EX_01",
+      "value": "As Blood Demands [EX]"
+    },
+    {
+      "key": "SE_EV_18_EX2_01",
+      "value": "As Blood Demands [EX2]"
+    },
+    {
+      "key": "SE_MU_EV_18_EX",
+      "value": "[Multi] As Blood Demands [EX]"
+    },
+    {
+      "key": "SE_MU_EV_18_EX2",
+      "value": "[Multi] As Blood Demands [EX2]"
     },
     {
       "key": "SE_EV_15_01",
@@ -557,6 +593,66 @@
       "value": "The Admirable Prince [EX]"
     },
     {
+      "key": "SE_MU_ART_CRF_19",
+      "value": "Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_19",
+      "value": "Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_13",
+      "value": "Equipment Training Quest (Holy Lance)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_13",
+      "value": "Equipment Training Quest (Holy Lance)"
+    },
+    {
+      "key": "SE_EV_RNDM_01",
+      "value": "Random Battle Quest"
+    },
+    {
+      "key": "SE_EV_GL_ART_CRF_02",
+      "value": "Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "SE_MU_GL_ART_CRF_02",
+      "value": "Equipment Training Quest (Hydropump Blaster)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_17",
+      "value": "Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_17",
+      "value": "Equipment Training Quest (Jeweled Belt)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_18",
+      "value": "Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_18",
+      "value": "Equipment Training Quest (Prunus Lamina)"
+    },
+    {
+      "key": "SE_EV_RC_BST_01",
+      "value": "Beast Hunt Quest"
+    },
+    {
+      "key": "SE_MU_RC_BST_01",
+      "value": "Beast Hunt Quest"
+    },
+    {
+      "key": "SE_EV_ART_CRF_16",
+      "value": "Equipment Training Quest (Diamond Mace)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_16",
+      "value": "Equipment Training Quest (Diamond Mace)"
+    },
+    {
       "key": "SE_EV_ART_CRF_15",
       "value": "Equipment Training Quest (Kurokasumi)"
     },
@@ -595,6 +691,14 @@
     {
       "key": "SE_MU_ART_CRF_11",
       "value": "Equipment Training Quest (Gigantaxe)"
+    },
+    {
+      "key": "SE_EV_GL_ART_CRF_01",
+      "value": "Equipment Training Quest (Pious Gloves)"
+    },
+    {
+      "key": "SE_MU_GL_ART_CRF_01",
+      "value": "Equipment Training Quest (Pious Gloves)"
     },
     {
       "key": "SE_EV_ART_CRF_10",
@@ -669,6 +773,30 @@
       "value": "Brutal Difficulty Equipment Training Quest"
     },
     {
+      "key": "SE_EV_MCRD",
+      "value": "Macleod Acquisition Quest"
+    },
+    {
+      "key": "SE_EV_MCRD_EX",
+      "value": "High Difficulty Macleod Acquisition Ex-Quest"
+    },
+    {
+      "key": "SE_MU_EV_MCRD_EX",
+      "value": "[Multi] High Difficulty Macleod Acquisition Ex-Quest"
+    },
+    {
+      "key": "SE_EV_RNEL",
+      "value": "Ranell Acquisition Quest"
+    },
+    {
+      "key": "SE_EV_RNEL_EX",
+      "value": "High Difficulty Ranell Acquisition Ex-Quest"
+    },
+    {
+      "key": "SE_MU_EV_RNEL_EX",
+      "value": "[Multi] High Difficulty Ranell Acquisition Ex-Quest"
+    },
+    {
       "key": "SE_EV_SERL",
       "value": "Cyrelle Acquisition Quest"
     },
@@ -710,7 +838,7 @@
     },
     {
       "key": "SE_PTQ_FF6_01",
-      "value": "FFVI Collaboration — Trials of Reckoning"
+      "value": "FFVI Collaboration  Trials of Reckoning"
     },
     {
       "key": "SE_GL_EV_COL2022",
@@ -753,6 +881,162 @@
       "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
     },
     {
+      "key": "SE_EV_2_5ANV_1",
+      "value": "2.5 Year Anniversary Countdown Quest "
+    },
+    {
+      "key": "SE_EV_2_5ANV_2",
+      "value": "2.5 Year Anniversary Countdown Quest "
+    },
+    {
+      "key": "SE_EV_2_5ANV_3",
+      "value": "2.5 Year Anniversary Countdown Quest "
+    },
+    {
+      "key": "SE_EV_2_5ANV_4",
+      "value": "2.5 Year Anniversary Countdown Quest "
+    },
+    {
+      "key": "SE_EV_2_5ANV_5",
+      "value": "2.5 Year Anniversary Countdown Quest "
+    },
+    {
+      "key": "SE_EV_2_5ANV_6",
+      "value": "2.5 Year Anniversary Countdown Quest "
+    },
+    {
+      "key": "SE_EV_2_5ANV_7",
+      "value": "2.5 Year Anniversary Countdown Quest "
+    },
+    {
+      "key": "SE_EV_GL_TU_GRSR_02",
+      "value": "Glaciela (Flagbearer of Reform) Starter Quest"
+    },
+    {
+      "key": "SE_EV_GRSR_02_01",
+      "value": "Resolute Flagbearer Training Quest"
+    },
+    {
+      "key": "SE_EV_GL_TU_ALIA",
+      "value": "Alaya Rundall Starter Quest"
+    },
+    {
+      "key": "SE_EV_ALIA_01",
+      "value": "Dragon Princess Training Quest"
+    },
+    {
+      "key": "SE_EV_17_01",
+      "value": "That Which Must Be Protected"
+    },
+    {
+      "key": "SE_EV_17_EX_01",
+      "value": "That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "SE_MU_EV_17_EX",
+      "value": "[Multi] That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "SE_EV_ART_CRF_25",
+      "value": "Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_25",
+      "value": "Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
+      "key": "SE_MU_ART_CRF_20",
+      "value": "Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "SE_EV_ART_CRF_20",
+      "value": "Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "SE_EV_GL_TU_LUCA_01",
+      "value": "Lu'Cia (Halloween) Starter Quest"
+    },
+    {
+      "key": "SE_EV_GL_TU_SHNC",
+      "value": "Chunak Starter Quest"
+    },
+    {
+      "key": "SE_EV_LBRK",
+      "value": "Rivelka Acquisition Quest"
+    },
+    {
+      "key": "SE_EV_LBRK_EX",
+      "value": "High Difficulty Rivelka Acquisition Ex-Quest"
+    },
+    {
+      "key": "SE_MU_EV_LBRK_EX",
+      "value": "[Multi] High Difficulty Rivelka Acquisition Ex-Quest"
+    },
+    {
+      "key": "SE_PTQ_FF13_01",
+      "value": "FFXIII Collaboration  Trials of Reckoning"
+    },
+    {
+      "key": "SE_EV_FFT_01",
+      "value": "FINAL FANTASY TACTICS Quest"
+    },
+    {
+      "key": "SE_EV_FFT_01_EX",
+      "value": "FINAL FANTASY TACTICS Quest [EX]"
+    },
+    {
+      "key": "SE_MU_FFT_01_EX",
+      "value": "FINAL FANTASY TACTICS Quest [EX]"
+    },
+    {
+      "key": "SE_EV_FFT_02_01",
+      "value": "FINAL FANTASY TACTICS Part II Event Quest"
+    },
+    {
+      "key": "SE_EV_FFT_02_EX",
+      "value": "FINAL FANTASY TACTICS Part II Event Quest [EX]"
+    },
+    {
+      "key": "SE_MU_FFT_02_EX",
+      "value": "FINAL FANTASY TACTICS Part II Event Quest [EX]"
+    },
+    {
+      "key": "SE_EV_FF13_01_01",
+      "value": "FINAL FANTASY XIII Event Quest"
+    },
+    {
+      "key": "SE_EV_FF13_01_EX",
+      "value": "FINAL FANTASY XIII [EX]"
+    },
+    {
+      "key": "SE_MU_FF13_01_EX",
+      "value": "[Multi] FINAL FANTASY XIII [EX]"
+    },
+    {
+      "key": "SE_EV_GL_TU_MACR_02",
+      "value": "Machrie (Queen of Hourne) Starter Quest"
+    },
+    {
+      "key": "SE_EV_GL_TU_LTNG",
+      "value": "Deeds of the Soldier Defying Fate"
+    },
+    {
+      "key": "SE_EV_GL_TU_SNOW",
+      "value": "Deeds of the Leader of NORA"
+    },
+    {
+      "key": "SE_EV_MACR_02_01",
+      "value": "Steeled Queen Training Quests"
+    },
+    {
+      "key": "SE_CHAL_05",
+      "value": "Challenge Quest V"
+    },
+    {
+      "key": "SE_MU_CHAL_05",
+      "value": "[Multi] Challenge Quest V"
+    },
+    {
       "key": "SE_EV_VC_ADLD_01",
       "value": "Blood on the Ice Enhancement Quest"
     },
@@ -771,30 +1055,6 @@
     {
       "key": "SE_MU_GL_FFEXU_02",
       "value": "[Multi] Creeping Malice EX"
-    },
-    {
-      "key": "SE_EV_GL_ART_CRF_02",
-      "value": "Equipment Training Quest (Hydropump Blaster)"
-    },
-    {
-      "key": "SE_MU_GL_ART_CRF_02",
-      "value": "Equipment Training Quest (Hydropump Blaster)"
-    },
-    {
-      "key": "SE_EV_GL_ART_CRF_01",
-      "value": "Equipment Training Quest (Pious Gloves)"
-    },
-    {
-      "key": "SE_MU_GL_ART_CRF_01",
-      "value": "Equipment Training Quest (Pious Gloves)"
-    },
-    {
-      "key": "SE_EV_ART_CRF_17",
-      "value": "Equipment Training Quest (Jeweled Belt)"
-    },
-    {
-      "key": "SE_MU_ART_CRF_17",
-      "value": "Equipment Training Quest (Jeweled Belt)"
     },
     {
       "key": "SE_EV_GL_TOMB_01",
@@ -829,60 +1089,8 @@
       "value": "Deeds of the Other Fina"
     },
     {
-      "key": "SE_EV_MCRD",
-      "value": "Macleod Acquisition Quest"
-    },
-    {
-      "key": "SE_EV_MCRD_EX",
-      "value": "High Difficulty Macleod Acquisition Ex-Quest"
-    },
-    {
-      "key": "SE_MU_EV_MCRD_EX",
-      "value": "[Multi] High Difficulty Macleod Acquisition Ex-Quest"
-    },
-    {
-      "key": "SE_MU_ART_CRF_18",
-      "value": "Equipment Training Quest (Prunus Lamina)"
-    },
-    {
-      "key": "SE_EV_ART_CRF_18",
-      "value": "Equipment Training Quest (Prunus Lamina)"
-    },
-    {
-      "key": "SE_EV_RNDM_01",
-      "value": "Random Battle Quest"
-    },
-    {
-      "key": "SE_EV_RC_BST_01",
-      "value": "Beast Hunt Quest"
-    },
-    {
-      "key": "SE_MU_RC_BST_01",
-      "value": "Beast Hunt Quest"
-    },
-    {
-      "key": "SE_EV_RNEL",
-      "value": "Ranell Acquisition Quest"
-    },
-    {
-      "key": "SE_EV_RNEL_EX",
-      "value": "High Difficulty Ranell Acquisition Ex-Quest"
-    },
-    {
-      "key": "SE_MU_EV_RNEL_EX",
-      "value": "[Multi] High Difficulty Ranell Acquisition Ex-Quest"
-    },
-    {
-      "key": "SE_EV_ART_CRF_16",
-      "value": "Equipment Training Quest (Diamond Mace)"
-    },
-    {
-      "key": "SE_MU_ART_CRF_16",
-      "value": "Equipment Training Quest (Diamond Mace)"
-    },
-    {
       "key": "SE_PTQ_FF10_02",
-      "value": "FFX Collaboration Reissue — Trials of Reckoning II"
+      "value": "FFX Collaboration Reissue  Trials of Reckoning II"
     },
     {
       "key": "SE_EV_FF10_01_01",
@@ -1046,7 +1254,7 @@
     },
     {
       "key": "SE_PTQ_FF4_02",
-      "value": "FFIV Collaboration — Trials of Reckoning II"
+      "value": "FFIV Collaboration  Trials of Reckoning II"
     },
     {
       "key": "SE_EV_AST_DUEL_1",
@@ -1054,7 +1262,7 @@
     },
     {
       "key": "SE_PTQ_FF15_01",
-      "value": "FFXV Collaboration — Trials of Reckoning"
+      "value": "FFXV Collaboration  Trials of Reckoning"
     },
     {
       "key": "SE_EV_FF15_01_01",
@@ -1234,7 +1442,7 @@
     },
     {
       "key": "SE_PTQ_FF7R_01",
-      "value": "FFVIIR Collaboration — Trials of Reckoning"
+      "value": "FFVIIR Collaboration  Trials of Reckoning"
     },
     {
       "key": "SE_EV_FF7_01_01",
@@ -1266,7 +1474,7 @@
     },
     {
       "key": "SE_PTQ_FF10_01",
-      "value": "FFX Collaboration — Trials of Reckoning"
+      "value": "FFX Collaboration  Trials of Reckoning"
     },
     {
       "key": "SE_EV_OBR_01",
@@ -1286,15 +1494,15 @@
     },
     {
       "key": "SE_EV_LMRE",
-      "value": "Lemuré Acquisition Quest"
+      "value": "Lemur Acquisition Quest"
     },
     {
       "key": "SE_EV_LMRE_EX",
-      "value": "High Difficulty Lemuré Acquisition Ex-Quest"
+      "value": "High Difficulty Lemur Acquisition Ex-Quest"
     },
     {
       "key": "SE_MU_EV_LMRE_EX",
-      "value": "[Multi] High Difficulty Lemuré Acquisition Ex-Quest"
+      "value": "[Multi] High Difficulty Lemur Acquisition Ex-Quest"
     },
     {
       "key": "SE_EV_NY2020",
@@ -1326,31 +1534,31 @@
     },
     {
       "key": "SE_EV_WW_MB1",
-      "value": "Sprouts of Devouring Ep. 1 — Warriors Who Bear the Light"
+      "value": "Sprouts of Devouring Ep. 1  Warriors Who Bear the Light"
     },
     {
       "key": "SE_EV_WW_MB_EX1",
-      "value": "Sprouts of Devouring — EXVIUS UNIVERSE EX1"
+      "value": "Sprouts of Devouring  EXVIUS UNIVERSE EX1"
     },
     {
       "key": "SE_MU_EV_WWMBEX1",
-      "value": "[Multi] Sprouts of Devouring — EXVIUS UNIVERSE EX1"
+      "value": "[Multi] Sprouts of Devouring  EXVIUS UNIVERSE EX1"
     },
     {
       "key": "SE_EV_WW_MB2",
-      "value": "Sprouts of Devouring Ep. 2 — A Frightful Mutation"
+      "value": "Sprouts of Devouring Ep. 2  A Frightful Mutation"
     },
     {
       "key": "SE_EV_WW_MB_EX2",
-      "value": "Sprouts of Devouring — EXVIUS UNIVERSE EX2"
+      "value": "Sprouts of Devouring  EXVIUS UNIVERSE EX2"
     },
     {
       "key": "SE_MU_EV_WWMBEX2",
-      "value": "[Multi] Sprouts of Devouring — EXVIUS UNIVERSE EX2"
+      "value": "[Multi] Sprouts of Devouring  EXVIUS UNIVERSE EX2"
     },
     {
       "key": "SE_EV_WW_MB3",
-      "value": "Sprouts of Devouring Ep. 3 — Endings and Beginnings"
+      "value": "Sprouts of Devouring Ep. 3  Endings and Beginnings"
     },
     {
       "key": "SE_PTQ_0001",
@@ -1358,7 +1566,7 @@
     },
     {
       "key": "SE_PTQ_FF4_01",
-      "value": "FFIV Collaboration — Trials of Reckoning"
+      "value": "FFIV Collaboration  Trials of Reckoning"
     },
     {
       "key": "SE_EV_WAVE_001",
@@ -1561,6 +1769,10 @@
       "value": "Truststone/Refinement Chamber (Glory)"
     },
     {
+      "key": "SE_EV_WEEK_01",
+      "value": "Wayfarer's Chamber"
+    },
+    {
       "key": "SE_EV_UNITEXP_01",
       "value": "EXP Chamber"
     },
@@ -1747,30 +1959,6 @@
     {
       "key": "SE_EV_ART_CRF_01",
       "value": "Equipment Training Quest"
-    },
-    {
-      "key": "SE_EV_FFT_01",
-      "value": "FINAL FANTASY TACTICS Quest"
-    },
-    {
-      "key": "SE_EV_FFT_01_EX",
-      "value": "FINAL FANTASY TACTICS Quest [EX]"
-    },
-    {
-      "key": "SE_MU_FFT_01_EX",
-      "value": "FINAL FANTASY TACTICS Quest [EX]"
-    },
-    {
-      "key": "SE_EV_FFT_02_01",
-      "value": "FINAL FANTASY TACTICS Part II Event Quest"
-    },
-    {
-      "key": "SE_EV_FFT_02_EX",
-      "value": "FINAL FANTASY TACTICS Part II Event Quest [EX]"
-    },
-    {
-      "key": "SE_MU_FFT_02_EX",
-      "value": "FINAL FANTASY TACTICS Part II Event Quest [EX]"
     },
     {
       "key": "SE_EV_ART_CRF_06",

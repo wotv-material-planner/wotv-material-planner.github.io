@@ -158,7 +158,7 @@
     },
     {
       "key": "COND_HA_LW_MACR",
-      "value": "Unit [Machérie] is at least Lv. 1"
+      "value": "Unit [Machrie] is at least Lv. 1"
     },
     {
       "key": "COND_HA_LW_FINA",
@@ -354,7 +354,7 @@
     },
     {
       "key": "COND_HA_LW_LMRE",
-      "value": "Unit [Lemuré] is at least Lv. 1"
+      "value": "Unit [Lemur] is at least Lv. 1"
     },
     {
       "key": "COND_HA_LW_GS_01",
@@ -419,6 +419,22 @@
     {
       "key": "COND_HA_LW_FI_01",
       "value": "Unit [Dark Fina] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_MA_02",
+      "value": "Unit [Machrie (Queen of Hourne)] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_GR_02",
+      "value": "Unit [Glaciela (Flagbearer of Reform)] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_SHNC",
+      "value": "Unit [Chunak] is at least Lv. 1"
+    },
+    {
+      "key": "COND_HA_LW_ALIA",
+      "value": "Unit [Alaya Rundall] is at least Lv. 1"
     },
     {
       "key": "COND_CH_LW_MONT",
@@ -489,6 +505,10 @@
       "value": "Unit [Rairyuu] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_RIRY2",
+      "value": "Unit [Rairyuu] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_VSTR",
       "value": "Unit [Vistralle] is at least Lv. 40"
     },
@@ -545,6 +565,10 @@
       "value": "Unit [Naiah] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_NAIA2",
+      "value": "Unit [Naiah] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_SRJS",
       "value": "Unit [Serjes] is at least Lv. 40"
     },
@@ -559,6 +583,10 @@
     {
       "key": "COND_CH_LW_VADM",
       "value": "Unit [Vadim] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_VADM2",
+      "value": "Unit [Vadim] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_MURM",
@@ -622,11 +650,11 @@
     },
     {
       "key": "COND_CH_LW_MACR",
-      "value": "Unit [Machérie Hourne] is at least Lv. 40"
+      "value": "Unit [Machrie Hourne] is at least Lv. 40"
     },
     {
       "key": "COND_CH_LW_MACR2",
-      "value": "Unit [Machérie Hourne] is at least Lv. 80"
+      "value": "Unit [Machrie Hourne] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_SZRT",
@@ -651,6 +679,10 @@
     {
       "key": "COND_CH_LW_SDLX",
       "value": "Unit [Shadowlynx] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_SDLX2",
+      "value": "Unit [Shadowlynx] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_RA_01",
@@ -678,11 +710,11 @@
     },
     {
       "key": "COND_CH_LW_MA_01",
-      "value": "Unit [Machérie (Winter)] is at least Lv. 40"
+      "value": "Unit [Machrie (Winter)] is at least Lv. 40"
     },
     {
       "key": "COND_CH_GL_LW_MA_01_2",
-      "value": "Unit [Machérie (Winter)] is at least Lv. 80"
+      "value": "Unit [Machrie (Winter)] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_ETRE",
@@ -697,12 +729,24 @@
       "value": "Unit [Ramza] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_FFT_R_2",
+      "value": "Unit [Ramza] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_FFT_GFGR",
       "value": "Unit [Gaffgarion] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_FFT_G_2",
+      "value": "Unit [Gaffgarion] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_FFT_ORND",
       "value": "Unit [Orlandeau] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FFT_O_2",
+      "value": "Unit [Orlandeau] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_WHIS",
@@ -737,8 +781,16 @@
       "value": "Unit [Adelard] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_ADLD2",
+      "value": "Unit [Adelard] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_THLA",
       "value": "Unit [Salire] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_THLA2",
+      "value": "Unit [Salire] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_VKTR",
@@ -797,16 +849,32 @@
       "value": "Unit [Raviesse] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_LVES2",
+      "value": "Unit [Raviesse] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_FFT_MSTD",
       "value": "Unit [Mustadio] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FFT_M_2",
+      "value": "Unit [Mustadio] is at least Lv. 80"
     },
     {
       "key": "COND_CH_FFT_DELT",
       "value": "Unit [Delita] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_FFT_D_2",
+      "value": "Unit [Delita] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_FFT_AGRA",
       "value": "Unit [Agrias] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FFT_A_2",
+      "value": "Unit [Agrias] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_IRDL",
@@ -815,6 +883,10 @@
     {
       "key": "COND_CH_LW_ST_01",
       "value": "Unit [Sterne (Knight of Ruin)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_ST_01_2",
+      "value": "Unit [Sterne (Knight of Ruin)] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_LSWL",
@@ -827,6 +899,10 @@
     {
       "key": "COND_CH_LW_GRSR",
       "value": "Unit [Glaciela Wezette] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LW_GRSR2",
+      "value": "Unit [Glaciela Wezette] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_RRIR",
@@ -901,6 +977,10 @@
       "value": "Unit [Rhaldor] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_RARD2",
+      "value": "Unit [Rhaldor] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_LW_ELSI",
       "value": "Unit [Ellshra] is at least Lv. 40"
     },
@@ -909,8 +989,16 @@
       "value": "Unit [Vinera (Winter)] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_VN_01_2",
+      "value": "Unit [Vinera (Winter)] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_VKTR_01",
       "value": "Unit [Viktora (Winter)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_VK_01_2",
+      "value": "Unit [Viktora (Winter)] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_CRIS",
@@ -997,6 +1085,10 @@
       "value": "Unit [Helena (Black-Robed Witch)] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_HL_01_2",
+      "value": "Unit [Helena (Black-Robed Witch)] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_THLA_01",
       "value": "Unit [Salire (Sweetheart)] is at least Lv. 40"
     },
@@ -1013,8 +1105,16 @@
       "value": "Unit [Moore] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_MORE2",
+      "value": "Unit [Moore] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_CWEL",
       "value": "Unit [Corwell] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_CWEL2",
+      "value": "Unit [Corwell] is at least Lv. 80"
     },
     {
       "key": "COND_CH_LW_LI_01",
@@ -1041,6 +1141,10 @@
       "value": "Unit [Charlotte] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_LW_CRLT2",
+      "value": "Unit [Charlotte] is at least Lv. 80"
+    },
+    {
       "key": "COND_CH_VLRC",
       "value": "Unit [Velric] is at least Lv. 40"
     },
@@ -1062,7 +1166,7 @@
     },
     {
       "key": "COND_CH_LMRE",
-      "value": "Unit [Lemuré] is at least Lv. 40"
+      "value": "Unit [Lemur] is at least Lv. 40"
     },
     {
       "key": "COND_CH_GRGS",
@@ -1087,6 +1191,10 @@
     {
       "key": "COND_CH_GRSR_01",
       "value": "Unit [Glaciela (Regalia)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_GR_01_2",
+      "value": "Unit [Glaciela (Regalia)] is at least Lv. 80"
     },
     {
       "key": "COND_CH_GL_TOMB_LARA",
@@ -1198,7 +1306,7 @@
     },
     {
       "key": "COND_VC_LW_SOKYU",
-      "value": "Vision card [Second Division of the Kingdom of Leonis, «Caelum»] is at least Lv. 1"
+      "value": "Vision card [Second Division of the Kingdom of Leonis, Caelum] is at least Lv. 1"
     },
     {
       "key": "COND_VC_LW_TRNNG",
@@ -1249,8 +1357,20 @@
       "value": "Vision card [The Other Me] is at least Lv. 1"
     },
     {
+      "key": "COND_VC_LW_SRTN",
+      "value": "Vision card [Princess of Verdant Vengeance, Sheratan] is at least Lv. 1"
+    },
+    {
       "key": "COND_VC_LW_TSLP",
       "value": "Vision card [Gale-Begetting Heavenly Four, Tetra Sylphid] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_TS_01",
+      "value": "Vision card [Vexing Vortex, Dark Tetra Sylphid] is at least Lv. 1"
+    },
+    {
+      "key": "COND_VC_LW_JEDN2",
+      "value": "Vision card [Intersecting Destinies] is at least Lv. 1"
     },
     {
       "key": "COND_VC_LW_THDG",
@@ -1266,7 +1386,7 @@
     },
     {
       "key": "COND_VC_LW_ROBST",
-      "value": "Vision card [Hourne's First Division, «Solidus»] is at least Lv. 1"
+      "value": "Vision card [Hourne's First Division, Solidus] is at least Lv. 1"
     },
     {
       "key": "COND_VC_LW_FNRR",
@@ -1474,7 +1594,7 @@
     },
     {
       "key": "COND_VC_LW_GUREN",
-      "value": "Vision card [Chivalrous Outlaws, «Rubeus»] is at least Lv. 1"
+      "value": "Vision card [Chivalrous Outlaws, Rubeus] is at least Lv. 1"
     },
     {
       "key": "COND_VC_LW_CHCB",
@@ -1813,6 +1933,42 @@
       "value": "Unit [Jayden (Summer)] is at least Lv. 40"
     },
     {
+      "key": "COND_CH_MA_02",
+      "value": "Unit [Machrie (Queen of Hourne)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF13_LTN",
+      "value": "Unit [Lightning] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF13_HOP",
+      "value": "Unit [Hope] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_FF13_SNO",
+      "value": "Unit [Snow] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_GR_02",
+      "value": "Unit [Glaciela (Flagbearer of Reform)] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_SHNC",
+      "value": "Unit [Chunak] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LBRK",
+      "value": "Unit [Rivelka] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_ALIA",
+      "value": "Unit [Alaya Rundall] is at least Lv. 40"
+    },
+    {
+      "key": "COND_CH_LUCA_01",
+      "value": "Unit [Lu'Cia (Halloween)] is at least Lv. 40"
+    },
+    {
       "key": "COND_CH_LW_HLNA2",
       "value": "Unit [Helena Leonis] is at least Lv. 80"
     },
@@ -1823,6 +1979,26 @@
     {
       "key": "COND_CH_LW_VKTR2",
       "value": "Unit [Viktora] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_GL_LW_FRVA2",
+      "value": "Unit [Fryevia] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_GL_LW_ZZAN_01_2",
+      "value": "Unit [Zazan the Unkillable] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_RY_01_2",
+      "value": "Unit [Little Leela (Halloween)] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_RI_01_2",
+      "value": "Unit [Rairyuu (Halloween)] is at least Lv. 80"
+    },
+    {
+      "key": "COND_CH_FD_01_2",
+      "value": "Unit [Frederika (Halloween)] is at least Lv. 80"
     }
   ]
 }

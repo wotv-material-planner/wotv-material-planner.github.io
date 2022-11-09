@@ -25,6 +25,10 @@
       "value": "Guild Title Mission"
     },
     {
+      "key": "GMG_AW_2022_2",
+      "value": "Guild Title Mission"
+    },
+    {
       "key": "MG_DAILY_001",
       "value": "Daily Mission"
     },
@@ -102,15 +106,15 @@
     },
     {
       "key": "MG_STORY_001",
-      "value": "Story Quest — Part 1"
+      "value": "Story Quest  Part 1"
     },
     {
       "key": "MG_STORY_IT",
-      "value": "Story Quest — Interlude"
+      "value": "Story Quest  Interlude"
     },
     {
       "key": "MG_STORY_002",
-      "value": "Story Quest — Part 2"
+      "value": "Story Quest  Part 2"
     },
     {
       "key": "MG_VIP_LOGB_01",
@@ -194,11 +198,11 @@
     },
     {
       "key": "MG_MP_QEST_14",
-      "value": "Story Quest Pack — Interlude I"
+      "value": "Story Quest Pack  Interlude I"
     },
     {
       "key": "MG_MP_QEST_15",
-      "value": "Story Quest Pack — Interlude II"
+      "value": "Story Quest Pack  Interlude II"
     },
     {
       "key": "MG_MP_QEST_16",
@@ -233,6 +237,10 @@
       "value": "Story Quest Pack Part 2 VIII"
     },
     {
+      "key": "MG_MP_QEST_24",
+      "value": "Story Quest Pack Part 2 IX"
+    },
+    {
       "key": "MG_MP_GL_RANK_01",
       "value": "Player Rank Pack I"
     },
@@ -246,6 +254,10 @@
     },
     {
       "key": "MG_MONDAY_001",
+      "value": "Monday Mission"
+    },
+    {
+      "key": "MG_MONDAY_002",
       "value": "Monday Mission"
     },
     {
@@ -750,51 +762,75 @@
     },
     {
       "key": "MG_P5R_1_02",
-      "value": "Metaverse Fragment: Old Castle — Central Tower [EX1]"
+      "value": "Metaverse Fragment: Old Castle  Central Tower [EX1]"
     },
     {
       "key": "MG_MU_P5R_1_02",
-      "value": "[Multi] Metaverse Fragment: Old Castle — Central Tower [EX1]"
+      "value": "[Multi] Metaverse Fragment: Old Castle  Central Tower [EX1]"
     },
     {
       "key": "MG_P5R_1_03",
-      "value": "Brutal Difficulty Metaverse Fragment: Old Castle — Central Tower [EX1]"
+      "value": "Brutal Difficulty Metaverse Fragment: Old Castle  Central Tower [EX1]"
     },
     {
       "key": "MG_MU_P5R_1_03",
-      "value": "[Multi] Brutal Difficulty Metaverse Fragment: Old Castle — Central Tower [EX1]"
+      "value": "[Multi] Brutal Difficulty Metaverse Fragment: Old Castle  Central Tower [EX1]"
     },
     {
       "key": "MG_P5R_1_04",
-      "value": "Metaverse Fragment: Bank — Underground Vault [EX2]"
+      "value": "Metaverse Fragment: Bank  Underground Vault [EX2]"
     },
     {
       "key": "MG_MU_P5R_1_04",
-      "value": "[Multi] Metaverse Fragment: Bank — Underground Vault [EX2]"
+      "value": "[Multi] Metaverse Fragment: Bank  Underground Vault [EX2]"
     },
     {
       "key": "MG_P5R_1_05",
-      "value": "Brutal Difficulty Metaverse Fragment: Bank — Underground Vault [EX2]"
+      "value": "Brutal Difficulty Metaverse Fragment: Bank  Underground Vault [EX2]"
     },
     {
       "key": "MG_MU_P5R_1_05",
-      "value": "[Multi] Brutal Difficulty Metaverse Fragment: Bank — Underground Vault [EX2]"
+      "value": "[Multi] Brutal Difficulty Metaverse Fragment: Bank  Underground Vault [EX2]"
     },
     {
       "key": "MG_P5R_1_06",
-      "value": "Metaverse Fragment: Casino — Manager Area [EX3]"
+      "value": "Metaverse Fragment: Casino  Manager Area [EX3]"
     },
     {
       "key": "MG_MU_P5R_1_06",
-      "value": "[Multi] Metaverse Fragment: Casino — Manager Area [EX3]"
+      "value": "[Multi] Metaverse Fragment: Casino  Manager Area [EX3]"
     },
     {
       "key": "MG_P5R_1_07",
-      "value": "Brutal Difficulty Metaverse Fragment: Casino — Manager Area [EX3]"
+      "value": "Brutal Difficulty Metaverse Fragment: Casino  Manager Area [EX3]"
     },
     {
       "key": "MG_MU_P5R_1_07",
-      "value": "[Multi] Brutal Difficulty Metaverse Fragment: Casino — Manager Area [EX3]"
+      "value": "[Multi] Brutal Difficulty Metaverse Fragment: Casino  Manager Area [EX3]"
+    },
+    {
+      "key": "MG_FF13_1_01",
+      "value": "FINAL FANTASY XIII"
+    },
+    {
+      "key": "MG_FF13_1_M_01",
+      "value": "FINAL FANTASY XIII [Intermediate]"
+    },
+    {
+      "key": "MG_FF13_1_02",
+      "value": "FINAL FANTASY XIII [EX]"
+    },
+    {
+      "key": "MG_MU_FF13_1_02",
+      "value": "[Multi] FINAL FANTASY XIII [EX]"
+    },
+    {
+      "key": "MG_FF13_1_03",
+      "value": "Brutal Difficulty FINAL FANTASY XIII [EX]"
+    },
+    {
+      "key": "MG_MU_FF13_1_03",
+      "value": "[Multi] Brutal Difficulty FINAL FANTASY XIII [EX]"
     },
     {
       "key": "MG_EV_RC_BST_01",
@@ -829,6 +865,18 @@
       "value": "[Multi] High Difficulty Macleod Acquisition Ex-Quest"
     },
     {
+      "key": "MG_LBRK01_01",
+      "value": "Rivelka Acquisition Quest"
+    },
+    {
+      "key": "MG_LBRK01_02",
+      "value": "High Difficulty Rivelka Acquisition Ex-Quest"
+    },
+    {
+      "key": "MG_MU_LBRK01_01",
+      "value": "[Multi] High Difficulty Rivelka Acquisition Ex-Quest"
+    },
+    {
       "key": "MG_FF14_1_01",
       "value": "FINAL FANTASY XIV"
     },
@@ -850,7 +898,7 @@
     },
     {
       "key": "MG_GL_FFT_2_CH_01",
-      "value": "[Part II] FINAL FANTASY TACTICS"
+      "value": "FFT Character Quest"
     },
     {
       "key": "MG_FFT_1_01",
@@ -867,6 +915,34 @@
     {
       "key": "MG_FFT_1_M_01",
       "value": "FINAL FANTASY TACTICS [Intermediate]"
+    },
+    {
+      "key": "MG_FFT_1_04",
+      "value": "Brutal Difficulty FINAL FANTASY TACTICS [EX]"
+    },
+    {
+      "key": "MG_FFT_1_05",
+      "value": "[Multi] Brutal Difficulty FINAL FANTASY TACTICS [EX]"
+    },
+    {
+      "key": "MG_FFT_2_01",
+      "value": "[Part II] FINAL FANTASY TACTICS"
+    },
+    {
+      "key": "MG_FFT_2_02",
+      "value": "[Part II] FINAL FANTASY TACTICS [EX]"
+    },
+    {
+      "key": "MG_FFT_2_03",
+      "value": "[Multi] [Part II] FINAL FANTASY TACTICS [EX]"
+    },
+    {
+      "key": "MG_FFT_2_04",
+      "value": "Brutal Difficulty FINAL FANTASY TACTICS [Part II] [EX]"
+    },
+    {
+      "key": "MG_FFT_2_05",
+      "value": "[Multi] Brutal Difficulty FINAL FANTASY TACTICS [Part II] [EX]"
     },
     {
       "key": "MG_FF1_1_01",
@@ -907,18 +983,6 @@
     {
       "key": "MG_FF1_1_M_05",
       "value": "[Multi] Brutal Difficulty FINAL FANTASY I [EX2]"
-    },
-    {
-      "key": "MG_FFT_2_01",
-      "value": "[Part II] FINAL FANTASY TACTICS"
-    },
-    {
-      "key": "MG_FFT_2_02",
-      "value": "[Part II] FINAL FANTASY TACTICS [EX]"
-    },
-    {
-      "key": "MG_FFT_2_03",
-      "value": "[Multi] [Part II] FINAL FANTASY TACTICS [EX]"
     },
     {
       "key": "MG_FF4_1_01",
@@ -1041,6 +1105,54 @@
       "value": "[Multi] Brutal Difficulty Equipment Training Quest (Prunus Lamina)"
     },
     {
+      "key": "MG_EV_ART_CRF_34",
+      "value": "Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_34",
+      "value": "[Multi] Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_35",
+      "value": "Brutal Difficulty Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_35",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Tiger Fangs)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_36",
+      "value": "Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_36",
+      "value": "[Multi] Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_37",
+      "value": "Brutal Difficulty Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_37",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Crow Cloak)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_55",
+      "value": "Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_55",
+      "value": "[Multi] Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_56",
+      "value": "Brutal Difficulty Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_56",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Diaries of a Mischievous Witch)"
+    },
+    {
       "key": "MG_GL_NIER_CH_01",
       "value": "NieR:Automata Character Quest"
     },
@@ -1155,6 +1267,10 @@
     {
       "key": "MG_GL_P5R_CH_01",
       "value": "P5R Character Quest"
+    },
+    {
+      "key": "MG_GL_FF13_CH_01",
+      "value": "FFXIII Character Quest"
     },
     {
       "key": "MG_GL_FF7_SNS_1",
@@ -1501,6 +1617,42 @@
       "value": "Check Out the PV"
     },
     {
+      "key": "MG_GL_LW_SNS_38",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "MG_GL_LW_SNS_39",
+      "value": "Watch the 2.5 Year Anniversary Video"
+    },
+    {
+      "key": "MG_GL_LW_SNS_40",
+      "value": "The 2.5 Year Anniversary Celebration begins! Check the dedicated site for more!"
+    },
+    {
+      "key": "MG_GL_LW_SNS_41",
+      "value": "2.5 Year Anniversary & FFXIII Collaboration Social Media Campaigns"
+    },
+    {
+      "key": "MG_GL_LW_SNS_42",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "MG_GL_LW_SNS_43",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "MG_GL_LW_SNS_44",
+      "value": "Check Out the PV"
+    },
+    {
+      "key": "MG_GL_LW_SNS_45",
+      "value": "Watch the YouTube Video"
+    },
+    {
+      "key": "MG_GL_LW_SNS_46",
+      "value": "Check Out the PV"
+    },
+    {
       "key": "MG_EV_SHIV_01",
       "value": "Shiva Challenge"
     },
@@ -1591,6 +1743,22 @@
     {
       "key": "MG_MU_RC_DEM_01",
       "value": "[Multi] Demon Purge Quest"
+    },
+    {
+      "key": "MG_EV_ART_CRF_22",
+      "value": "Equipment Training Quest (Holy Lance)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_22",
+      "value": "[Multi] Equipment Training Quest (Holy Lance)"
+    },
+    {
+      "key": "MG_EV_ART_CRF_23",
+      "value": "Brutal Difficulty Equipment Training Quest (Holy Lance)"
+    },
+    {
+      "key": "MG_MU_ART_CRF_23",
+      "value": "[Multi] Brutal Difficulty Equipment Training Quest (Holy Lance)"
     },
     {
       "key": "MG_EV_ART_CRF_20",
@@ -2094,15 +2262,15 @@
     },
     {
       "key": "MG_LMRE01_01",
-      "value": "Lemuré Acquisition Quest"
+      "value": "Lemur Acquisition Quest"
     },
     {
       "key": "MG_LMRE01_02",
-      "value": "High Difficulty Lemuré Acquisition Ex-Quest"
+      "value": "High Difficulty Lemur Acquisition Ex-Quest"
     },
     {
       "key": "MG_MU_LMRE01_01",
-      "value": "[Multi] High Difficulty Lemuré Acquisition Ex-Quest"
+      "value": "[Multi] High Difficulty Lemur Acquisition Ex-Quest"
     },
     {
       "key": "MG_SERL01_01",
@@ -2130,19 +2298,19 @@
     },
     {
       "key": "MG_WW_MB_EX_01",
-      "value": "Sprouts of Devouring — EXVIUS UNIVERSE EX1 Mission"
+      "value": "Sprouts of Devouring  EXVIUS UNIVERSE EX1 Mission"
     },
     {
       "key": "MG_MU_WWMBEX_01",
-      "value": "[Multi] Sprouts of Devouring — EXVIUS UNIVERSE EX1 Mission"
+      "value": "[Multi] Sprouts of Devouring  EXVIUS UNIVERSE EX1 Mission"
     },
     {
       "key": "MG_WW_MB_EX_02",
-      "value": "Sprouts of Devouring — EXVIUS UNIVERSE EX2 Mission"
+      "value": "Sprouts of Devouring  EXVIUS UNIVERSE EX2 Mission"
     },
     {
       "key": "MG_MU_WWMBEX_02",
-      "value": "[Multi] Sprouts of Devouring — EXVIUS UNIVERSE EX2 Mission"
+      "value": "[Multi] Sprouts of Devouring  EXVIUS UNIVERSE EX2 Mission"
     },
     {
       "key": "MG_EV_ART_SCR_00",
@@ -2273,6 +2441,18 @@
       "value": "Guild Battle Guild Victories"
     },
     {
+      "key": "MG_SM_2022_2_1",
+      "value": "Guild Battle Individual Participation"
+    },
+    {
+      "key": "MG_SM_2022_2_2",
+      "value": "Guild Battle Individual Star Acquisition"
+    },
+    {
+      "key": "MG_SM_2022_2_3",
+      "value": "Guild Battle Guild Victories"
+    },
+    {
       "key": "MG_AF_MAT_6",
       "value": "Obtain Awakening +6 Equipment Crafting Materials"
     },
@@ -2285,44 +2465,48 @@
       "value": "[Multi] Challenge Quest IV"
     },
     {
+      "key": "MG_MU_CHAL_05",
+      "value": "[Multi] Challenge Quest V"
+    },
+    {
       "key": "MG_PT_FF4_01_1",
-      "value": "Trials of Reckoning Quest — Normal"
+      "value": "Trials of Reckoning Quest  Normal"
     },
     {
       "key": "MG_PT_FF4_01_2",
-      "value": "Trials of Reckoning Quest — Hard"
+      "value": "Trials of Reckoning Quest  Hard"
     },
     {
       "key": "MG_PT_FF6_01_1",
-      "value": "Trials of Reckoning Quest — Normal"
+      "value": "Trials of Reckoning Quest  Normal"
     },
     {
       "key": "MG_PT_FF6_01_2",
-      "value": "Trials of Reckoning Quest — Hard"
+      "value": "Trials of Reckoning Quest  Hard"
     },
     {
       "key": "MG_PT_FF10_01_1",
-      "value": "Trials of Reckoning Quest — Normal"
+      "value": "Trials of Reckoning Quest  Normal"
     },
     {
       "key": "MG_PT_FF10_01_2",
-      "value": "Trials of Reckoning Quest — Hard"
+      "value": "Trials of Reckoning Quest  Hard"
     },
     {
       "key": "MG_PT_FF10_02_1",
-      "value": "Trials of Reckoning Quest — Normal"
+      "value": "Trials of Reckoning Quest  Normal"
     },
     {
       "key": "MG_PT_FF10_02_2",
-      "value": "Trials of Reckoning Quest — Hard"
+      "value": "Trials of Reckoning Quest  Hard"
     },
     {
       "key": "MG_PT_LW_01_1",
-      "value": "Trials of Reckoning Quest — Normal"
+      "value": "Trials of Reckoning Quest  Normal"
     },
     {
       "key": "MG_PT_LW_01_2",
-      "value": "Trials of Reckoning Quest — Hard"
+      "value": "Trials of Reckoning Quest  Hard"
     },
     {
       "key": "MG_MU_RAID_RV_01",
@@ -2346,27 +2530,35 @@
     },
     {
       "key": "MG_PT_FF7_01_1",
-      "value": "Trials of Reckoning Quest — Normal"
+      "value": "Trials of Reckoning Quest  Normal"
     },
     {
       "key": "MG_PT_FF7_01_2",
-      "value": "Trials of Reckoning Quest — Hard"
+      "value": "Trials of Reckoning Quest  Hard"
     },
     {
       "key": "MG_PT_FF15_01_1",
-      "value": "Trials of Reckoning Quest — Normal"
+      "value": "Trials of Reckoning Quest  Normal"
     },
     {
       "key": "MG_PT_FF15_01_2",
-      "value": "Trials of Reckoning Quest — Hard"
+      "value": "Trials of Reckoning Quest  Hard"
     },
     {
       "key": "MG_PT_FF4_01_3",
-      "value": "Trials of Reckoning Quest — Normal"
+      "value": "Trials of Reckoning Quest  Normal"
     },
     {
       "key": "MG_PT_FF4_01_4",
-      "value": "Trials of Reckoning Quest — Hard"
+      "value": "Trials of Reckoning Quest  Hard"
+    },
+    {
+      "key": "MG_PT_FF13_01_1",
+      "value": "Trials of Reckoning Quest  Normal"
+    },
+    {
+      "key": "MG_PT_FF13_01_2",
+      "value": "Trials of Reckoning Quest  Hard"
     },
     {
       "key": "MG_EV_WAVE_001",
@@ -2535,6 +2727,62 @@
     {
       "key": "MG_MU_EV16_1_03",
       "value": "[Multi] Brutal Difficulty For the Love of a Smile [EX]"
+    },
+    {
+      "key": "MG_EV17_1_01",
+      "value": "That Which Must Be Protected"
+    },
+    {
+      "key": "MG_EV17_1_02",
+      "value": "That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "MG_EV17_1_03",
+      "value": "Brutal Difficulty That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "MG_MU_EV17_1_02",
+      "value": "[Multi] That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "MG_MU_EV17_1_03",
+      "value": "[Multi] Brutal Difficulty That Which Must Be Protected [EX]"
+    },
+    {
+      "key": "MG_EV18_1_01",
+      "value": "As Blood Demands"
+    },
+    {
+      "key": "MG_EV18_1_02",
+      "value": "As Blood Demands [EX]"
+    },
+    {
+      "key": "MG_EV18_1_03",
+      "value": "Brutal Difficulty As Blood Demands [EX]"
+    },
+    {
+      "key": "MG_MU_EV18_1_02",
+      "value": "[Multi] As Blood Demands [EX]"
+    },
+    {
+      "key": "MG_MU_EV18_1_03",
+      "value": "[Multi] Brutal Difficulty As Blood Demands [EX]"
+    },
+    {
+      "key": "MG_EV18_1_04",
+      "value": "As Blood Demands [EX2]"
+    },
+    {
+      "key": "MG_MU_EV18_1_04",
+      "value": "[Multi] As Blood Demands [EX2]"
+    },
+    {
+      "key": "MG_EV18_1_05",
+      "value": "Brutal Difficulty As Blood Demands [EX2]"
+    },
+    {
+      "key": "MG_MU_EV18_1_05",
+      "value": "[Multi] Brutal Difficulty As Blood Demands [EX2]"
     },
     {
       "key": "MG_DAILY_002_5",
@@ -2813,6 +3061,34 @@
       "value": "Trials of Reckoning Support Daily Mission"
     },
     {
+      "key": "MG_DAILY_040_1",
+      "value": "2.5 Year Anniversary Countdown Mission"
+    },
+    {
+      "key": "MG_DAILY_040_2",
+      "value": "2.5 Year Anniversary Countdown Mission"
+    },
+    {
+      "key": "MG_DAILY_040_3",
+      "value": "2.5 Year Anniversary Countdown Mission"
+    },
+    {
+      "key": "MG_DAILY_040_4",
+      "value": "2.5 Year Anniversary Countdown Mission"
+    },
+    {
+      "key": "MG_DAILY_040_5",
+      "value": "2.5 Year Anniversary Countdown Mission"
+    },
+    {
+      "key": "MG_DAILY_040_6",
+      "value": "2.5 Year Anniversary Countdown Mission"
+    },
+    {
+      "key": "MG_DAILY_040_7",
+      "value": "2.5 Year Anniversary Countdown Mission"
+    },
+    {
       "key": "MG_DAILY_GL_038_7",
       "value": "Trials of Reckoning Support Daily Mission"
     },
@@ -2842,6 +3118,62 @@
     },
     {
       "key": "MG_DAILY_GL_038_14",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_1",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_2",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_3",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_4",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_5",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_6",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_7",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_8",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_9",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_10",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_11",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_12",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_13",
+      "value": "Trials of Reckoning Support Daily Mission"
+    },
+    {
+      "key": "MG_DAILY_GL_041_14",
       "value": "Trials of Reckoning Support Daily Mission"
     },
     {
@@ -3661,60 +3993,152 @@
       "value": "[Monthly Mission] Guild Statues"
     },
     {
+      "key": "MG_MONTHLY_118_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_118_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_118_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_118_4",
+      "value": "[Monthly Mission] Wayfarer's Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_118_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_118_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_118_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
+      "key": "MG_MONTHLY_119_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_119_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_119_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_119_4",
+      "value": "[Monthly Mission] Wayfarer's Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_119_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_119_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_119_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
+      "key": "MG_MONTHLY_120_1",
+      "value": "[Monthly Mission] Story Quests"
+    },
+    {
+      "key": "MG_MONTHLY_120_2",
+      "value": "[Monthly Mission] Hard Quests"
+    },
+    {
+      "key": "MG_MONTHLY_120_3",
+      "value": "[Monthly Mission] Multi Quests"
+    },
+    {
+      "key": "MG_MONTHLY_120_4",
+      "value": "[Monthly Mission] Wayfarer's Chamber"
+    },
+    {
+      "key": "MG_MONTHLY_120_5",
+      "value": "[Monthly Mission] Arena"
+    },
+    {
+      "key": "MG_MONTHLY_120_6",
+      "value": "[Monthly Mission] Chocobo Expedition"
+    },
+    {
+      "key": "MG_MONTHLY_120_7",
+      "value": "[Monthly Mission] Guild Statues"
+    },
+    {
       "key": "MG_LAPS_P_LUCA",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_LAPS_P_VKTR",
-      "value": "Consume Visiore — Limited Period"
+      "value": "Consume Visiore  Limited Period"
     },
     {
       "key": "MG_GL_LAPS_P_FRVA",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_LAPS_P_VNLA",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_LAPS_P_WROL",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_LAPS_P_QILF",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_LAPS_P_ORDR",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_LAPS_P_DELT",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_LAPS_P_IRDL",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_P_STRN_01",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_P_GRSR",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_P_GL_JEDN",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_P_GL_VLUC",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
     },
     {
       "key": "MG_P_GL_FDRC_01",
-      "value": "Consume Visiore — Limited Period Bonus"
+      "value": "Consume Visiore  Limited Period Bonus"
+    },
+    {
+      "key": "MG_P_GL_FF13",
+      "value": "Visiore-back Campaign"
+    },
+    {
+      "key": "MG_P_GL_LUCA_01",
+      "value": "Visiore Consumption Bonus Campaign"
     },
     {
       "key": "MG_PLY_ANIV_AW_01",
@@ -4642,6 +5066,138 @@
     },
     {
       "key": "MG_ST_2204_12",
+      "value": "Guild Statues"
+    },
+    {
+      "key": "MG_ST_2205_01",
+      "value": "Daily Mission"
+    },
+    {
+      "key": "MG_ST_2205_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2205_03",
+      "value": "Acquire Item (Secret Book of Refinement)"
+    },
+    {
+      "key": "MG_ST_2205_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2205_06",
+      "value": "Story Quests"
+    },
+    {
+      "key": "MG_ST_2205_07",
+      "value": "Hard Quests"
+    },
+    {
+      "key": "MG_ST_2205_08",
+      "value": "Multi Quests"
+    },
+    {
+      "key": "MG_ST_2205_09",
+      "value": "Wayfarer's Chamber"
+    },
+    {
+      "key": "MG_ST_2205_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2205_11",
+      "value": "Chocobo Expeditions"
+    },
+    {
+      "key": "MG_ST_2205_12",
+      "value": "Guild Statues"
+    },
+    {
+      "key": "MG_ST_2206_01",
+      "value": "Daily Missions"
+    },
+    {
+      "key": "MG_ST_2206_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2206_03",
+      "value": "Acquire Item (Secret Book of Refinement)"
+    },
+    {
+      "key": "MG_ST_2206_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2206_06",
+      "value": "Story Quests"
+    },
+    {
+      "key": "MG_ST_2206_07",
+      "value": "Hard Quests"
+    },
+    {
+      "key": "MG_ST_2206_08",
+      "value": "Multi Quests"
+    },
+    {
+      "key": "MG_ST_2206_09",
+      "value": "Wayfarer's Chamber"
+    },
+    {
+      "key": "MG_ST_2206_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2206_11",
+      "value": "Chocobo Expedition"
+    },
+    {
+      "key": "MG_ST_2206_12",
+      "value": "Guild Statues"
+    },
+    {
+      "key": "MG_ST_2207_01",
+      "value": "Daily Missions"
+    },
+    {
+      "key": "MG_ST_2207_02",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2207_03",
+      "value": "Acquire Item (Secret Book of Refinement)"
+    },
+    {
+      "key": "MG_ST_2207_05",
+      "value": "Equipment"
+    },
+    {
+      "key": "MG_ST_2207_06",
+      "value": "Story Quests"
+    },
+    {
+      "key": "MG_ST_2207_07",
+      "value": "Hard Quests"
+    },
+    {
+      "key": "MG_ST_2207_08",
+      "value": "Multi Quests"
+    },
+    {
+      "key": "MG_ST_2207_09",
+      "value": "Wayfarer's Chamber"
+    },
+    {
+      "key": "MG_ST_2207_10",
+      "value": "Arena"
+    },
+    {
+      "key": "MG_ST_2207_11",
+      "value": "Chocobo Expedition"
+    },
+    {
+      "key": "MG_ST_2207_12",
       "value": "Guild Statues"
     },
     {

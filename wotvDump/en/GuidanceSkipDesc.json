@@ -159,6 +159,14 @@
     {
       "key": "Archive",
       "value": "Would you like to hear the explanation for the Farplane Archives?"
+    },
+    {
+      "key": "Oval",
+      "value": "Would you like to hear the explanation for Ovalite?"
+    },
+    {
+      "key": "BGRepeat",
+      "value": "Would you like to hear the explanation for Background Repeat?"
     }
   ]
 }

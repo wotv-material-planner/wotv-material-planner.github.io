@@ -769,11 +769,23 @@
       "value": ""
     },
     {
+      "key": "JB_FFT_RAMZ_M",
+      "value": ""
+    },
+    {
       "key": "JB_FFT_GFGR",
       "value": ""
     },
     {
+      "key": "JB_FFT_GFGR_M",
+      "value": ""
+    },
+    {
       "key": "JB_FFT_ORND",
+      "value": ""
+    },
+    {
+      "key": "JB_FFT_ORND_M",
       "value": ""
     },
     {
@@ -861,11 +873,23 @@
       "value": ""
     },
     {
+      "key": "JB_FFT_AGRA_M",
+      "value": ""
+    },
+    {
       "key": "JB_FFT_DELT",
       "value": ""
     },
     {
+      "key": "JB_FFT_DELT_M",
+      "value": ""
+    },
+    {
       "key": "JB_FFT_MSTD",
+      "value": ""
+    },
+    {
+      "key": "JB_FFT_MSTD_M",
       "value": ""
     },
     {
@@ -1210,6 +1234,10 @@
     },
     {
       "key": "JB_LW_LIB_SOIL",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_LIB_THUN",
       "value": ""
     },
     {
@@ -1925,6 +1953,94 @@
       "value": ""
     },
     {
+      "key": "JB_LW_MACR_02",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MACR_02_M",
+      "value": ""
+    },
+    {
+      "key": "JB_FF13_LTNG",
+      "value": ""
+    },
+    {
+      "key": "JB_FF13_LTNG_M",
+      "value": ""
+    },
+    {
+      "key": "JB_FF13_HOPE",
+      "value": ""
+    },
+    {
+      "key": "JB_FF13_HOPE_M",
+      "value": ""
+    },
+    {
+      "key": "JB_FF13_SNOW",
+      "value": ""
+    },
+    {
+      "key": "JB_FF13_SNOW_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_GRSR_02",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_GRSR_02_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_ALIA",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_ALIA_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_FIRE",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_ICE",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_WIND",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_SOIL",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_THUN",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_WATER",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_SHINE",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_DARK",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_MHA_EX_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_LUCA_01_M",
+      "value": ""
+    },
+    {
       "key": "JB_LW_VERN_M",
       "value": ""
     },
@@ -2018,6 +2134,10 @@
     },
     {
       "key": "JB_LW_FDRC_01_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_SHNC_M",
       "value": ""
     },
     {
@@ -2245,6 +2365,10 @@
       "value": ""
     },
     {
+      "key": "JB_LW_LBRK_M",
+      "value": ""
+    },
+    {
       "key": "JB_LW_RSNC_M",
       "value": ""
     },
@@ -2258,6 +2382,10 @@
     },
     {
       "key": "JB_LW_IREZ_M",
+      "value": ""
+    },
+    {
+      "key": "JB_LW_CLE",
       "value": ""
     }
   ]

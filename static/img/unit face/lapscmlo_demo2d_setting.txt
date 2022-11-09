@@ -1,0 +1,1 @@
+﻿{"x":-12.0,"y":344.0,"width":128.0,"height":128.0,"posOffsetX":0.0,"posOffsetY":0.0,"scaleX":1.0,"scaleY":1.0,"faceTypes":["angry","m","sad","smile","surprised"]}

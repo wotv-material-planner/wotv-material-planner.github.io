@@ -1474,23 +1474,23 @@
     },
     {
       "key": "IT_JB_MM_MSW",
-      "value": "Nightblade’s Memory (Green)"
+      "value": "Nightblades Memory (Green)"
     },
     {
       "key": "IT_JB_MM_MSW_2",
-      "value": "Nightblade’s Memory (Blue)"
+      "value": "Nightblades Memory (Blue)"
     },
     {
       "key": "IT_JB_MM_MSW_3",
-      "value": "Nightblade’s Memory (Purple)"
+      "value": "Nightblades Memory (Purple)"
     },
     {
       "key": "IT_JB_MM_MSW_4",
-      "value": "Nightblade’s Memory (Yellow)"
+      "value": "Nightblades Memory (Yellow)"
     },
     {
       "key": "IT_JB_MM_MSW_5",
-      "value": "Nightblade’s Memory (Red)"
+      "value": "Nightblades Memory (Red)"
     },
     {
       "key": "IT_JB_MM_FF10_TIDU",
@@ -2453,6 +2453,146 @@
       "value": "Beachside Stag's Memory (Red)"
     },
     {
+      "key": "IT_JB_MM_MACR",
+      "value": "Steeled Queen's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_MACR_2",
+      "value": "Steeled Queen's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_MACR_3",
+      "value": "Steeled Queen's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_MACR_4",
+      "value": "Steeled Queen's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_MACR_5",
+      "value": "Steeled Queen's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_LTNG",
+      "value": "Knight of Light's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_LTNG_2",
+      "value": "Knight of Light's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_LTNG_3",
+      "value": "Knight of Light's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_LTNG_4",
+      "value": "Knight of Light's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_LTNG_5",
+      "value": "Knight of Light's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_HOPE",
+      "value": "Hero of the Future's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_HOPE_2",
+      "value": "Hero of the Future's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_HOPE_3",
+      "value": "Hero of the Future's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_HOPE_4",
+      "value": "Hero of the Future's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_HOPE_5",
+      "value": "Hero of the Future's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_SNOW",
+      "value": "Indomitable Hero's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_SNOW_2",
+      "value": "Indomitable Hero's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_SNOW_3",
+      "value": "Indomitable Hero's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_SNOW_4",
+      "value": "Indomitable Hero's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_FF13_SNOW_5",
+      "value": "Indomitable Hero's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_02",
+      "value": "Resolute Flagbearer's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_02_2",
+      "value": "Resolute Flagbearer's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_02_3",
+      "value": "Resolute Flagbearer's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_02_4",
+      "value": "Resolute Flagbearer's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_GRSR_02_5",
+      "value": "Resolute Flagbearer's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA",
+      "value": "Dragon Princess's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_2",
+      "value": "Dragon Princess's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_3",
+      "value": "Dragon Princess's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_4",
+      "value": "Dragon Princess's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_ALIA_5",
+      "value": "Dragon Princess's Memory (Red)"
+    },
+    {
+      "key": "IT_JB_MM_MHA",
+      "value": "Grimoire Keeper's Memory (Green)"
+    },
+    {
+      "key": "IT_JB_MM_MHA_2",
+      "value": "Grimoire Keeper's Memory (Blue)"
+    },
+    {
+      "key": "IT_JB_MM_MHA_3",
+      "value": "Grimoire Keeper's Memory (Purple)"
+    },
+    {
+      "key": "IT_JB_MM_MHA_4",
+      "value": "Grimoire Keeper's Memory (Yellow)"
+    },
+    {
+      "key": "IT_JB_MM_MHA_5",
+      "value": "Grimoire Keeper's Memory (Red)"
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "Fire Alcryst (Green)"
     },
@@ -2810,163 +2950,163 @@
     },
     {
       "key": "IT_UN_AW_FIRE_R2",
-      "value": "Fire Awakening Soul (2★)"
+      "value": "Fire Awakening Soul (2)"
     },
     {
       "key": "IT_UN_AW_FIRE_R3",
-      "value": "Fire Awakening Soul (3★)"
+      "value": "Fire Awakening Soul (3)"
     },
     {
       "key": "IT_UN_AW_FIRE_R4",
-      "value": "Fire Awakening Soul (4★)"
+      "value": "Fire Awakening Soul (4)"
     },
     {
       "key": "IT_UN_AW_FIRE_R5",
-      "value": "Fire Awakening Soul (5★)"
+      "value": "Fire Awakening Soul (5)"
     },
     {
       "key": "IT_UN_AW_FIRE_R6",
-      "value": "Fire Awakening Soul (6★)"
+      "value": "Fire Awakening Soul (6)"
     },
     {
       "key": "IT_UN_AW_ICE_R2",
-      "value": "Ice Awakening Soul (2★)"
+      "value": "Ice Awakening Soul (2)"
     },
     {
       "key": "IT_UN_AW_ICE_R3",
-      "value": "Ice Awakening Soul (3★)"
+      "value": "Ice Awakening Soul (3)"
     },
     {
       "key": "IT_UN_AW_ICE_R4",
-      "value": "Ice Awakening Soul (4★)"
+      "value": "Ice Awakening Soul (4)"
     },
     {
       "key": "IT_UN_AW_ICE_R5",
-      "value": "Ice Awakening Soul (5★)"
+      "value": "Ice Awakening Soul (5)"
     },
     {
       "key": "IT_UN_AW_ICE_R6",
-      "value": "Ice Awakening Soul (6★)"
+      "value": "Ice Awakening Soul (6)"
     },
     {
       "key": "IT_UN_AW_WIND_R2",
-      "value": "Wind Awakening Soul (2★)"
+      "value": "Wind Awakening Soul (2)"
     },
     {
       "key": "IT_UN_AW_WIND_R3",
-      "value": "Wind Awakening Soul (3★)"
+      "value": "Wind Awakening Soul (3)"
     },
     {
       "key": "IT_UN_AW_WIND_R4",
-      "value": "Wind Awakening Soul (4★)"
+      "value": "Wind Awakening Soul (4)"
     },
     {
       "key": "IT_UN_AW_WIND_R5",
-      "value": "Wind Awakening Soul (5★)"
+      "value": "Wind Awakening Soul (5)"
     },
     {
       "key": "IT_UN_AW_WIND_R6",
-      "value": "Wind Awakening Soul (6★)"
+      "value": "Wind Awakening Soul (6)"
     },
     {
       "key": "IT_UN_AW_SOIL_R2",
-      "value": "Earth Awakening Soul (2★)"
+      "value": "Earth Awakening Soul (2)"
     },
     {
       "key": "IT_UN_AW_SOIL_R3",
-      "value": "Earth Awakening Soul (3★)"
+      "value": "Earth Awakening Soul (3)"
     },
     {
       "key": "IT_UN_AW_SOIL_R4",
-      "value": "Earth Awakening Soul (4★)"
+      "value": "Earth Awakening Soul (4)"
     },
     {
       "key": "IT_UN_AW_SOIL_R5",
-      "value": "Earth Awakening Soul (5★)"
+      "value": "Earth Awakening Soul (5)"
     },
     {
       "key": "IT_UN_AW_SOIL_R6",
-      "value": "Earth Awakening Soul (6★)"
+      "value": "Earth Awakening Soul (6)"
     },
     {
       "key": "IT_UN_AW_THUNDER_R2",
-      "value": "Lightning Awakening Soul (2★)"
+      "value": "Lightning Awakening Soul (2)"
     },
     {
       "key": "IT_UN_AW_THUNDER_R3",
-      "value": "Lightning Awakening Soul (3★)"
+      "value": "Lightning Awakening Soul (3)"
     },
     {
       "key": "IT_UN_AW_THUNDER_R4",
-      "value": "Lightning Awakening Soul (4★)"
+      "value": "Lightning Awakening Soul (4)"
     },
     {
       "key": "IT_UN_AW_THUNDER_R5",
-      "value": "Lightning Awakening Soul (5★)"
+      "value": "Lightning Awakening Soul (5)"
     },
     {
       "key": "IT_UN_AW_THUNDER_R6",
-      "value": "Lightning Awakening Soul (6★)"
+      "value": "Lightning Awakening Soul (6)"
     },
     {
       "key": "IT_UN_AW_WATER_R2",
-      "value": "Water Awakening Soul (2★)"
+      "value": "Water Awakening Soul (2)"
     },
     {
       "key": "IT_UN_AW_WATER_R3",
-      "value": "Water Awakening Soul (3★)"
+      "value": "Water Awakening Soul (3)"
     },
     {
       "key": "IT_UN_AW_WATER_R4",
-      "value": "Water Awakening Soul (4★)"
+      "value": "Water Awakening Soul (4)"
     },
     {
       "key": "IT_UN_AW_WATER_R5",
-      "value": "Water Awakening Soul (5★)"
+      "value": "Water Awakening Soul (5)"
     },
     {
       "key": "IT_UN_AW_WATER_R6",
-      "value": "Water Awakening Soul (6★)"
+      "value": "Water Awakening Soul (6)"
     },
     {
       "key": "IT_UN_AW_SHINE_R2",
-      "value": "Light Awakening Soul (2★)"
+      "value": "Light Awakening Soul (2)"
     },
     {
       "key": "IT_UN_AW_SHINE_R3",
-      "value": "Light Awakening Soul (3★)"
+      "value": "Light Awakening Soul (3)"
     },
     {
       "key": "IT_UN_AW_SHINE_R4",
-      "value": "Light Awakening Soul (4★)"
+      "value": "Light Awakening Soul (4)"
     },
     {
       "key": "IT_UN_AW_SHINE_R5",
-      "value": "Light Awakening Soul (5★)"
+      "value": "Light Awakening Soul (5)"
     },
     {
       "key": "IT_UN_AW_SHINE_R6",
-      "value": "Light Awakening Soul (6★)"
+      "value": "Light Awakening Soul (6)"
     },
     {
       "key": "IT_UN_AW_DARK_R2",
-      "value": "Dark Awakening Soul (2★)"
+      "value": "Dark Awakening Soul (2)"
     },
     {
       "key": "IT_UN_AW_DARK_R3",
-      "value": "Dark Awakening Soul (3★)"
+      "value": "Dark Awakening Soul (3)"
     },
     {
       "key": "IT_UN_AW_DARK_R4",
-      "value": "Dark Awakening Soul (4★)"
+      "value": "Dark Awakening Soul (4)"
     },
     {
       "key": "IT_UN_AW_DARK_R5",
-      "value": "Dark Awakening Soul (5★)"
+      "value": "Dark Awakening Soul (5)"
     },
     {
       "key": "IT_UN_AW_DARK_R6",
-      "value": "Dark Awakening Soul (6★)"
+      "value": "Dark Awakening Soul (6)"
     },
     {
       "key": "IT_AW_VBALL_N",
@@ -3082,7 +3222,7 @@
     },
     {
       "key": "IT_PI_LW_MACR",
-      "value": "Machérie Hourne Unit Shard"
+      "value": "Machrie Hourne Unit Shard"
     },
     {
       "key": "IT_PI_LW_HLNA",
@@ -3390,7 +3530,7 @@
     },
     {
       "key": "IT_PI_LW_MACR_01",
-      "value": "Machérie (Winter) Unit Shard"
+      "value": "Machrie (Winter) Unit Shard"
     },
     {
       "key": "IT_PI_LW_LATH",
@@ -3534,7 +3674,7 @@
     },
     {
       "key": "IT_PI_LW_LMRE",
-      "value": "Lemuré Unit Shard"
+      "value": "Lemur Unit Shard"
     },
     {
       "key": "IT_PI_LW_GRGS",
@@ -3717,6 +3857,42 @@
       "value": "Jayden (Summer) Unit Shard"
     },
     {
+      "key": "IT_PI_LW_MACR_02",
+      "value": "Machrie (Queen of Hourne) Unit Shard"
+    },
+    {
+      "key": "IT_PI_FF13_LTNG",
+      "value": "Lightning Unit Shard"
+    },
+    {
+      "key": "IT_PI_FF13_HOPE",
+      "value": "Hope Unit Shard"
+    },
+    {
+      "key": "IT_PI_FF13_SNOW",
+      "value": "Snow Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_GRSR_02",
+      "value": "Glaciela (Flagbearer of Reform) Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_SHNC",
+      "value": "Chunak Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_LBRK",
+      "value": "Rivelka Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_ALIA",
+      "value": "Alaya Rundall Unit Shard"
+    },
+    {
+      "key": "IT_PI_LW_LUCA_01",
+      "value": "Lu'Cia (Halloween) Unit Shard"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "Mont Leonis Mindsphere"
     },
@@ -3754,7 +3930,7 @@
     },
     {
       "key": "IT_SP_LW_MACR",
-      "value": "Machérie Hourne Mindsphere"
+      "value": "Machrie Hourne Mindsphere"
     },
     {
       "key": "IT_SP_LW_FDRC",
@@ -3770,7 +3946,7 @@
     },
     {
       "key": "IT_SP_LW_MACR_01",
-      "value": "Machérie (Winter) Mindsphere"
+      "value": "Machrie (Winter) Mindsphere"
     },
     {
       "key": "IT_SP_LW_MRND",
@@ -4162,7 +4338,7 @@
     },
     {
       "key": "IT_SP_LW_LMRE",
-      "value": "Lemuré Mindsphere"
+      "value": "Lemur Mindsphere"
     },
     {
       "key": "IT_SP_LW_GRGS",
@@ -4182,7 +4358,7 @@
     },
     {
       "key": "IT_SP_GL_LW_WNTR_UR",
-      "value": "[Winter] UR Unit Mindsphere"
+      "value": "(Winter) UR Unit Mindsphere"
     },
     {
       "key": "IT_SP_LW_HALL_UR",
@@ -4299,6 +4475,30 @@
     {
       "key": "IT_SP_LW_FINA_01",
       "value": "Dark Fina Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_MACR_02",
+      "value": "Machrie (Queen of Hourne) Mindsphere"
+    },
+    {
+      "key": "IT_SP_FF13_UR",
+      "value": "[FFXIII] UR Unit Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_GRSR_02",
+      "value": "Glaciela (Flagbearer of Reform) Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_SHNC",
+      "value": "Chunak Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_LBRK",
+      "value": "Rivelka Mindsphere"
+    },
+    {
+      "key": "IT_SP_LW_ALIA",
+      "value": "Alaya Rundall Mindsphere"
     },
     {
       "key": "IT_SB_EXP_FIRE_01",
@@ -4474,339 +4674,355 @@
     },
     {
       "key": "IT_SB_AW_IFRT_R2",
-      "value": "Ifrit's Awakening Stone (2★)"
+      "value": "Ifrit's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_IFRT_R3",
-      "value": "Ifrit's Awakening Stone (3★)"
+      "value": "Ifrit's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_GLEM_R2",
-      "value": "Golem's Awakening Stone (2★)"
+      "value": "Golem's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_GLEM_R3",
-      "value": "Golem's Awakening Stone (3★)"
+      "value": "Golem's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_SIRE_R2",
-      "value": "Siren's Awakening Stone (2★)"
+      "value": "Siren's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_SIRE_R3",
-      "value": "Siren's Awakening Stone (3★)"
+      "value": "Siren's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_IGNT_R2",
-      "value": "Iron Giant's Awakening Stone (2★)"
+      "value": "Iron Giant's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_IGNT_R3",
-      "value": "Iron Giant's Awakening Stone (3★)"
+      "value": "Iron Giant's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_BHMT_R2",
-      "value": "Behemoth's Awakening Stone (2★)"
+      "value": "Behemoth's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_BHMT_R3",
-      "value": "Behemoth's Awakening Stone (3★)"
+      "value": "Behemoth's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_MABR_R2",
-      "value": "Malboro's Awakening Stone (2★)"
+      "value": "Malboro's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_MABR_R3",
-      "value": "Malboro's Awakening Stone (3★)"
+      "value": "Malboro's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_SHIV_R2",
-      "value": "Shiva's Awakening Stone (2★)"
+      "value": "Shiva's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_SHIV_R3",
-      "value": "Shiva's Awakening Stone (3★)"
+      "value": "Shiva's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_RAMU_R2",
-      "value": "Ramuh's Awakening Stone (2★)"
+      "value": "Ramuh's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_RAMU_R3",
-      "value": "Ramuh's Awakening Stone (3★)"
+      "value": "Ramuh's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_ODIN_R2",
-      "value": "Odin's Awakening Stone (2★)"
+      "value": "Odin's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_ODIN_R3",
-      "value": "Odin's Awakening Stone (3★)"
+      "value": "Odin's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_LAMA_01_R2",
-      "value": "Lamia Queen's Awakening Stone (2★)"
+      "value": "Lamia Queen's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_LAMA_01_R3",
-      "value": "Lamia Queen's Awakening Stone (3★)"
+      "value": "Lamia Queen's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_TSLP_R2",
-      "value": "Tetra Sylphid's Awakening Stone (2★)"
+      "value": "Tetra Sylphid's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_TSLP_R3",
-      "value": "Tetra Sylphid's Awakening Stone (3★)"
+      "value": "Tetra Sylphid's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_OCHU_R2",
-      "value": "Ochu's Awakening Stone (2★)"
+      "value": "Ochu's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_OCHU_R3",
-      "value": "Ochu's Awakening Stone (3★)"
+      "value": "Ochu's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_THDG_R2",
-      "value": "Two-Headed Dragon's Awakening Stone (2★)"
+      "value": "Two-Headed Dragon's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_THDG_R3",
-      "value": "Two-Headed Dragon's Awakening Stone (3★)"
+      "value": "Two-Headed Dragon's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_DABL_R2",
-      "value": "Diabolos's Awakening Stone (2★)"
+      "value": "Diabolos's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_DABL_R3",
-      "value": "Diabolos's Awakening Stone (3★)"
+      "value": "Diabolos's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_MDFY_R2",
-      "value": "Mindflayer's Awakening Stone (2★)"
+      "value": "Mindflayer's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_MDFY_R3",
-      "value": "Mindflayer's Awakening Stone (3★)"
+      "value": "Mindflayer's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_FNRR_R2",
-      "value": "Fenrir's Awakening Stone (2★)"
+      "value": "Fenrir's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_FNRR_R3",
-      "value": "Fenrir's Awakening Stone (3★)"
+      "value": "Fenrir's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_TITN_R2",
-      "value": "Titan's Awakening Stone (2★)"
+      "value": "Titan's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_TITN_R3",
-      "value": "Titan's Awakening Stone (3★)"
+      "value": "Titan's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_BLMN_R2",
-      "value": "Bloody Moon’s Awakening Stone (2★)"
+      "value": "Bloody Moons Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_BLMN_R3",
-      "value": "Bloody Moon’s Awakening Stone (3★)"
+      "value": "Bloody Moons Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_AGON_R2",
-      "value": "Aigaion's Awakening Stone (2★)"
+      "value": "Aigaion's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_AGON_R3",
-      "value": "Aigaion's Awakening Stone (3★)"
+      "value": "Aigaion's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_CHCB1_R2",
-      "value": "Chocobo's Awakening Stone (2★)"
+      "value": "Chocobo's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_CHCB1_R3",
-      "value": "Chocobo's Awakening Stone (3★)"
+      "value": "Chocobo's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_MOGL_R2",
-      "value": "Moogle (Winter)'s Awakening Stone (2★)"
+      "value": "Moogle (Winter)'s Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_MOGL_R3",
-      "value": "Moogle (Winter)'s Awakening Stone (3★)"
+      "value": "Moogle (Winter)'s Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_TNBR_R2",
-      "value": "Tonberry's Awakening Stone (2★)"
+      "value": "Tonberry's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_TNBR_R3",
-      "value": "Tonberry's Awakening Stone (3★)"
+      "value": "Tonberry's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_LVAT_R2",
-      "value": "Leviathan's Awakening Stone (2★)"
+      "value": "Leviathan's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_LVAT_R3",
-      "value": "Leviathan's Awakening Stone (3★)"
+      "value": "Leviathan's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_GCAL_R2",
-      "value": "Glacial's Awakening Stone (2★)"
+      "value": "Glacial's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_GCAL_R3",
-      "value": "Glacial's Awakening Stone (3★)"
+      "value": "Glacial's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_TYPN_R2",
-      "value": "Typhon's Awakening Stone (2★)"
+      "value": "Typhon's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_TYPN_R3",
-      "value": "Typhon's Awakening Stone (3★)"
+      "value": "Typhon's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_MRLT_R2",
-      "value": "Marilith's Awakening Stone (2★)"
+      "value": "Marilith's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_MRLT_R3",
-      "value": "Marilith's Awakening Stone (3★)"
+      "value": "Marilith's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_BAHM_R2",
-      "value": "Bahamut's Awakening Stone  (2★)"
+      "value": "Bahamut's Awakening Stone  (2)"
     },
     {
       "key": "IT_SB_AW_BAHM_R3",
-      "value": "Bahamut's Awakening Stone  (3★)"
+      "value": "Bahamut's Awakening Stone  (3)"
     },
     {
       "key": "IT_SB_AW_OMEG_R2",
-      "value": "Omega's Awakening Stone  (2★)"
+      "value": "Omega's Awakening Stone  (2)"
     },
     {
       "key": "IT_SB_AW_OMEG_R3",
-      "value": "Omega's Awakening Stone  (3★)"
+      "value": "Omega's Awakening Stone  (3)"
     },
     {
       "key": "IT_SB_AW_PNIX_R2",
-      "value": "Phoenix's Awakening Stone  (2★)"
+      "value": "Phoenix's Awakening Stone  (2)"
     },
     {
       "key": "IT_SB_AW_PNIX_R3",
-      "value": "Phoenix's Awakening Stone  (3★)"
+      "value": "Phoenix's Awakening Stone  (3)"
     },
     {
       "key": "IT_SB_AW_CORL_R2",
-      "value": "Coeurl's Awakening Stone  (2★)"
+      "value": "Coeurl's Awakening Stone  (2)"
     },
     {
       "key": "IT_SB_AW_CORL_R3",
-      "value": "Coeurl's Awakening Stone  (3★)"
+      "value": "Coeurl's Awakening Stone  (3)"
     },
     {
       "key": "IT_SB_AW_CBCL_R2",
-      "value": "Carbuncle's Awakening Stone  (2★)"
+      "value": "Carbuncle's Awakening Stone  (2)"
     },
     {
       "key": "IT_SB_AW_CBCL_R3",
-      "value": "Carbuncle's Awakening Stone  (3★)"
+      "value": "Carbuncle's Awakening Stone  (3)"
     },
     {
       "key": "IT_SB_AW_ICDG_R2",
-      "value": "Freizess's Awakening Stone (2★)"
+      "value": "Freizess's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_ICDG_R3",
-      "value": "Freizess's Awakening Stone (3★)"
+      "value": "Freizess's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_KRKN_R2",
-      "value": "Kraken's Awakening Stone (2★)"
+      "value": "Kraken's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_KRKN_R3",
-      "value": "Kraken's Awakening Stone (3★)"
+      "value": "Kraken's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_DMCM_R2",
-      "value": "Demon Chimera's Awakening Stone (2★)"
+      "value": "Demon Chimera's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_DMCM_R3",
-      "value": "Demon Chimera's Awakening Stone (3★)"
+      "value": "Demon Chimera's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_EFKS_R2",
-      "value": "Elafikeras's Awakening Stone (2★)"
+      "value": "Elafikeras's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_EFKS_R3",
-      "value": "Elafikeras's Awakening Stone (3★)"
+      "value": "Elafikeras's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_WHDG_R2",
-      "value": "White Dragon's Awakening Stone (2★)"
+      "value": "White Dragon's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_WHDG_R3",
-      "value": "White Dragon's Awakening Stone (3★)"
+      "value": "White Dragon's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_ARMN_03_R2",
-      "value": "Golden Ahriman's Awakening Stone (2★)"
+      "value": "Golden Ahriman's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_ARMN_03_R3",
-      "value": "Golden Ahriman's Awakening Stone (3★)"
+      "value": "Golden Ahriman's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_LICH_R2",
-      "value": "Lich's Awakening Stone (2★)"
+      "value": "Lich's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_LICH_R3",
-      "value": "Lich's Awakening Stone (3★)"
+      "value": "Lich's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_BCRD_R2",
-      "value": "Brachiosaur's Awakening Stone (2★)"
+      "value": "Brachiosaur's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_BCRD_R3",
-      "value": "Brachiosaur's Awakening Stone (3★)"
+      "value": "Brachiosaur's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_EURP_R2",
-      "value": "Europa's Awakening Stone (2★)"
+      "value": "Europa's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_EURP_R3",
-      "value": "Europa's Awakening Stone (3★)"
+      "value": "Europa's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_ODIN_01_R2",
-      "value": "Dark Odin's Awakening Stone (2★)"
+      "value": "Dark Odin's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_ODIN_01_R3",
-      "value": "Dark Odin's Awakening Stone (3★)"
+      "value": "Dark Odin's Awakening Stone (3)"
     },
     {
       "key": "IT_SB_AW_ANIM_R2",
-      "value": "Anima's Awakening Stone (2★)"
+      "value": "Anima's Awakening Stone (2)"
     },
     {
       "key": "IT_SB_AW_ANIM_R3",
-      "value": "Anima's Awakening Stone (3★)"
+      "value": "Anima's Awakening Stone (3)"
+    },
+    {
+      "key": "IT_SB_AW_SRTN_R2",
+      "value": "Sheratan Awakening Stone (2)"
+    },
+    {
+      "key": "IT_SB_AW_SRTN_R3",
+      "value": "Sheratan Awakening Stone (3)"
+    },
+    {
+      "key": "IT_SB_AW_TSLP_01_R2",
+      "value": "Dark Tetra Sylphid Awakening Stone (2)"
+    },
+    {
+      "key": "IT_SB_AW_TSLP_01_R3",
+      "value": "Dark Tetra Sylphid Awakening Stone (3)"
     },
     {
       "key": "IT_SB_SKP_RESET",
@@ -4917,6 +5133,14 @@
       "value": "Secret Book of Refinement (Arcane Tuning Rod)"
     },
     {
+      "key": "IT_AF_AW_RFAL",
+      "value": "Secret Book of Refinement (Feather Baselard)"
+    },
+    {
+      "key": "IT_AF_AW_LYCS",
+      "value": "Secret Book of Refinement (Kumokiri)"
+    },
+    {
       "key": "IT_AF_AW_GLOVE",
       "value": "Secret Book of Refinement (Gloves)"
     },
@@ -4999,6 +5223,10 @@
     {
       "key": "IT_AF_MAT_THUNDER_03",
       "value": "Lightning Vein Ore"
+    },
+    {
+      "key": "IT_AF_MAT_ICE_03",
+      "value": "Ice Vein Ore"
     },
     {
       "key": "IT_AF_MAT_WATER_03",
@@ -5189,6 +5417,10 @@
       "value": "Spine Blade Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_SWO_035",
+      "value": "Wave Blade Crafting Recipe"
+    },
+    {
       "key": "IT_AF_LW_BSW_001",
       "value": "Claymore Crafting Recipe"
     },
@@ -5259,6 +5491,10 @@
     {
       "key": "IT_AF_LW_SPE_004",
       "value": "Ice Lance Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_SPE_005",
+      "value": "Holy Lance Crafting Recipe"
     },
     {
       "key": "IT_AF_LW_SPE_006",
@@ -5462,7 +5698,7 @@
     },
     {
       "key": "IT_AF_FFT_ACC_001",
-      "value": "Sortilége Crafting Recipe"
+      "value": "Sortilge Crafting Recipe"
     },
     {
       "key": "IT_AF_LW_HLM_005",
@@ -5541,6 +5777,18 @@
       "value": "Thornlet Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_ACC_074",
+      "value": "Crow Cloak Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_SPE_018",
+      "value": "Customized Lance Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_HLM_009",
+      "value": "Savage King's Helm Crafting Recipe"
+    },
+    {
       "key": "IT_AF_LW_ACC_049",
       "value": "Beastbane Pendant Crafting Recipe"
     },
@@ -5603,6 +5851,10 @@
     {
       "key": "IT_AF_LW_BOK_008",
       "value": "Forbidden Tome: Gelumortis Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_BOK_010",
+      "value": "Diaries of a Mischievous Witch Crafting Recipe"
     },
     {
       "key": "IT_AF_LW_ACC_040",
@@ -5781,6 +6033,10 @@
       "value": "Diamond Mace Crafting Recipe"
     },
     {
+      "key": "IT_AF_LW_MAC_004",
+      "value": "Punisher Crafting Recipe"
+    },
+    {
       "key": "IT_AF_LW_BSW_011",
       "value": "Crimson Saber Crafting Recipe"
     },
@@ -5791,6 +6047,30 @@
     {
       "key": "IT_AF_GL_LW_GUN_013",
       "value": "Hydropump Blaster Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_FF13_SWO_000",
+      "value": "Blazefire Saber Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_FFT_SWO_002",
+      "value": "Lesalia Royal Guard Standard-Issue Sword Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_FIS_012",
+      "value": "Tiger Fangs Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_SPE_022",
+      "value": "Platinum Lance Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_FF13_ACCE_002",
+      "value": "Hope's Scarf Crafting Recipe"
+    },
+    {
+      "key": "IT_AF_LW_GUN_004",
+      "value": "Peacemaker Crafting Recipe"
     },
     {
       "key": "IT_AF_AW_LCIO",
@@ -6129,6 +6409,14 @@
       "value": "Winter Festival Medal"
     },
     {
+      "key": "IT_EC_MEDAL_WH3",
+      "value": "Limited Seasonal Reissue Winter Unit Summon Medal"
+    },
+    {
+      "key": "IT_EC_MEDAL_WH4",
+      "value": "Limited Seasonal Reissue Winter Vision Card Summon Medal"
+    },
+    {
       "key": "IT_EC_MEDAL_GF_A",
       "value": "Global Festival Medal A"
     },
@@ -6151,6 +6439,10 @@
     {
       "key": "IT_EC_MEDAL_GF_F",
       "value": "Global Festival Medal F"
+    },
+    {
+      "key": "IT_EC_MEDAL_GF_G",
+      "value": "Global Festival Medal G"
     },
     {
       "key": "IT_EC_MEDAL_GF_6th",
@@ -6553,6 +6845,38 @@
       "value": "August Unit Summon Medal D"
     },
     {
+      "key": "IT_EC_SUMMON_09_U_03_A",
+      "value": "September Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_09_VC_03_A",
+      "value": "September Vision Card Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_09_VC_03_B",
+      "value": "September Vision Card Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_10_U_03_A",
+      "value": "October Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_10_VC_03_A",
+      "value": "October Vision Card Summon Medal A"
+    },
+    {
+      "key": "IT_EC_SUMMON_10_U_03_B",
+      "value": "October Unit Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_10_VC_03_B",
+      "value": "October Vision Card Summon Medal B"
+    },
+    {
+      "key": "IT_EC_SUMMON_11_U_03_A",
+      "value": "November Unit Summon Medal A"
+    },
+    {
       "key": "IT_EC_SUMMON_U_SEASON",
       "value": "[Limited Seasonal Reissue] Unit Summon Medal"
     },
@@ -6599,6 +6923,14 @@
     {
       "key": "IT_US_G_10_UR_01",
       "value": "[Beginners Only] UR Guaranteed 10x Summon Ticket A"
+    },
+    {
+      "key": "IT_US_G_U_100COST_UR_01",
+      "value": "[Comeback-Limited] 100-Cost UR Unit Guaranteed 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_U_100COST_UR_02",
+      "value": "[Comeback-Limited] Lv. 99 100-Cost UR Unit Guaranteed Summon Ticket"
     },
     {
       "key": "IT_US_SE_JB_05_GL_13",
@@ -7141,6 +7473,10 @@
       "value": "Select Spinel x30 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_JB_05_GL_44",
+      "value": "Select Spinel x100 Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_JB_04_GL_35",
       "value": "Select Citrine x30 Summon Ticket"
     },
@@ -7159,6 +7495,10 @@
     {
       "key": "IT_US_SE_JB_04_GL_37",
       "value": "Select Citrine x30 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_JB_04_GL_38",
+      "value": "Select Citrine x100 Summon Ticket"
     },
     {
       "key": "IT_US_SE_JB_03_GL_28",
@@ -7249,6 +7589,22 @@
       "value": "FFT Reissue Summon Medal B"
     },
     {
+      "key": "IT_EC_FFT_2_A_R_2",
+      "value": "FFT Reissue 2022 Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_FFT_4_B_R_1",
+      "value": "FFT Reissue 2022 Unit Summon Medal B"
+    },
+    {
+      "key": "IT_EC_FFT_GL_1",
+      "value": "FFT Reissue 2022 Vision Card Summon Medal"
+    },
+    {
+      "key": "IT_EC_FFT_5",
+      "value": "FFT Reissue 2022 Event Medal"
+    },
+    {
       "key": "IT_EC_TOWER_001",
       "value": "Tower Medal"
     },
@@ -7323,6 +7679,14 @@
     {
       "key": "IT_EC_EV16_1",
       "value": "For the Love of a Smile Medal"
+    },
+    {
+      "key": "IT_EC_EV17_1",
+      "value": "That Which Must Be Protected Medal"
+    },
+    {
+      "key": "IT_EC_EV18_1",
+      "value": "As Blood Demands Medal"
     },
     {
       "key": "IT_EC_WW_EV01_1",
@@ -7411,6 +7775,14 @@
     {
       "key": "IT_EC_TOMB_4",
       "value": "Crystal Dynamics 30th Anniversary Commemorative Vision Card Summon Medal"
+    },
+    {
+      "key": "IT_EC_2nd_5",
+      "value": "2.5 Year Anniversary Login Medal"
+    },
+    {
+      "key": "IT_EC_LOGIN_GL2211",
+      "value": "November Login Medal"
     },
     {
       "key": "IT_US_G_FFT_01",
@@ -7650,23 +8022,23 @@
     },
     {
       "key": "IT_US_GL_SE_AW-ITEM_03",
-      "value": "Select Awakening Soul (6★) x50 Summon Ticket"
+      "value": "Select Awakening Soul (6) x50 Summon Ticket"
     },
     {
       "key": "IT_US_GL_SE_AW-ITEM_04",
-      "value": "Select Awakening Soul (5★) x50 Summon Ticket"
+      "value": "Select Awakening Soul (5) x50 Summon Ticket"
     },
     {
       "key": "IT_US_GL_SE_AW-ITEM_05",
-      "value": "Select Awakening Soul (4★) x50 Summon Ticket"
+      "value": "Select Awakening Soul (4) x50 Summon Ticket"
     },
     {
       "key": "IT_US_GL_SE_AW-ITEM_06",
-      "value": "Select Awakening Soul (3★) x50 Summon Ticket"
+      "value": "Select Awakening Soul (3) x50 Summon Ticket"
     },
     {
       "key": "IT_US_GL_SE_AW-ITEM_07",
-      "value": "Select Awakening Soul (2★) x50 Summon Ticket"
+      "value": "Select Awakening Soul (2) x50 Summon Ticket"
     },
     {
       "key": "IT_US_SE_PI_COM_01",
@@ -7769,6 +8141,14 @@
       "value": "Select Element Magicite (M) x200 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_SB_AW_R2_01",
+      "value": "Select Esper Awakening Stone (2) x10 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_SB_AW_R3_01",
+      "value": "Select Esper Awakening Stone (3) x10 Summon Ticket "
+    },
+    {
       "key": "IT_US_SE_SP_GL_LW_01",
       "value": "Select Mindsphere x80 Reserved Summon Ticket"
     },
@@ -7809,6 +8189,10 @@
       "value": "Wind/Dark-Type UR Unit Guaranteed Summon Ticket"
     },
     {
+      "key": "IT_US_G_U_UR_09",
+      "value": "Wind/Dark-Type UR Unit Guaranteed Summon Ticket"
+    },
+    {
       "key": "IT_US_G_U_SSR_99_01",
       "value": "[Beginners Only] Recommended Lv. 99 MR Unit Summon Ticket"
     },
@@ -7846,7 +8230,7 @@
     },
     {
       "key": "IT_US_G_BEGINNER_01",
-      "value": "New Players' First 7 Days Only — UR Unit Guaranteed FREE 10x Summon Ticket"
+      "value": "New Players' First 7 Days Only  UR Unit Guaranteed FREE 10x Summon Ticket"
     },
     {
       "key": "IT_US_G_CNY21_01",
@@ -8409,6 +8793,10 @@
       "value": "Select Awakening Prism x50 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_AW-ITEM_18",
+      "value": "Select Awakening Prism x250 Summon Ticket"
+    },
+    {
       "key": "IT_VPI_LW_GLEM",
       "value": "\"Rock Cliff Titan, Golem\" Vision Card Shard"
     },
@@ -8422,7 +8810,7 @@
     },
     {
       "key": "IT_VPI_LW_SOKYU",
-      "value": "\"Second Division of the Kingdom of Leonis, «Caelum»\" Vision Card Shard"
+      "value": "\"Second Division of the Kingdom of Leonis, Caelum\" Vision Card Shard"
     },
     {
       "key": "IT_VPI_LW_TRAINING",
@@ -8618,11 +9006,11 @@
     },
     {
       "key": "IT_VPI_LW_TRSV_01",
-      "value": "\"Long-Distance Communication Device «Heaven»\" Vision Card Shard"
+      "value": "\"Long-Distance Communication Device Heaven\" Vision Card Shard"
     },
     {
       "key": "IT_VPI_LW_TRSV_02",
-      "value": "\"Long-Distance Communication Device «Earth»\" Vision Card Shard"
+      "value": "\"Long-Distance Communication Device Earth\" Vision Card Shard"
     },
     {
       "key": "IT_VPI_LW_MIRROR",
@@ -8690,7 +9078,7 @@
     },
     {
       "key": "IT_VPI_LW_ROBUST",
-      "value": "\"Hourne's First Division, «Solidus»\" Vision Card Shard"
+      "value": "\"Hourne's First Division, Solidus\" Vision Card Shard"
     },
     {
       "key": "IT_VPI_LW_MDFY",
@@ -8734,7 +9122,7 @@
     },
     {
       "key": "IT_VPI_LW_GUREN",
-      "value": "\"Chivalrous Outlaws, «Rubeus»\" Vision Card Shard"
+      "value": "\"Chivalrous Outlaws, Rubeus\" Vision Card Shard"
     },
     {
       "key": "IT_VPI_LW_CHCB",
@@ -9042,11 +9430,11 @@
     },
     {
       "key": "IT_VPI_LW_ANV1",
-      "value": "\"Second-Anniversary Banquet — Part I\" Vision Card Shard"
+      "value": "\"Second-Anniversary Banquet  Part I\" Vision Card Shard"
     },
     {
       "key": "IT_VPI_LW_ANV2",
-      "value": "\"Second-Anniversary Banquet — Part II\" Vision Card Shard"
+      "value": "\"Second-Anniversary Banquet  Part II\" Vision Card Shard"
     },
     {
       "key": "IT_VPI_LW_ODIN_01",
@@ -9109,8 +9497,40 @@
       "value": "\"Stag of the Shining Summer\" Vision Card Shard"
     },
     {
+      "key": "IT_VPI_LW_SRTN",
+      "value": "\"Princess of Verdant Vengeance, Sheratan\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_FF13_MV1",
+      "value": "\"Odin's Chosen\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_FF13_MV2",
+      "value": "\"Alexander's Chosen\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_FF13_MV3",
+      "value": "\"Shiva's Chosen\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_TSLP_01",
+      "value": "\"Vexing Vortex, Dark Tetra Sylphid\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_JEDN2",
+      "value": "\"Intersecting Destinies\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_HALL3",
+      "value": "\"Nightmare Before Halloween\" Vision Card Shard"
+    },
+    {
       "key": "IT_VPI_LW_COMIC",
       "value": "\"Friend or Foe?\" Vision Card Shard"
+    },
+    {
+      "key": "IT_VPI_LW_ZZAN_01",
+      "value": "\"Rise of the Immortal\" Vision Card Shard"
     },
     {
       "key": "IT_VPI_LW_ADLD2",
@@ -9335,6 +9755,14 @@
     {
       "key": "IT_EC_PRS5_3",
       "value": "P5R Vision Card Summon Medal"
+    },
+    {
+      "key": "IT_EC_FF13_1",
+      "value": "FFXIII Event Medal"
+    },
+    {
+      "key": "IT_EC_FF13_5",
+      "value": "[FFXIII] Trials of Reckoning Medal"
     },
     {
       "key": "IT_EC_RAID_23",
@@ -9574,7 +10002,7 @@
     },
     {
       "key": "IT_US_SE_PI_GL_33",
-      "value": "Select N–MR Unit Shard x50 Summon Ticket"
+      "value": "Select NMR Unit Shard x50 Summon Ticket"
     },
     {
       "key": "IT_US_SE_PI_GL_34",
@@ -9777,6 +10205,18 @@
       "value": "Select Summer Unit Shard x80 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_PI_GL_84",
+      "value": "[September Login Bonus] Select Unit Shard x5 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_85",
+      "value": "Select Global Unit/Vision Card Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_86",
+      "value": "Select Global Unit Mindsphere x80 Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_PI_GL_87",
       "value": "[Compensation] Select Fire/Lightning-Type UR Unit Summon Ticket"
     },
@@ -9791,6 +10231,66 @@
     {
       "key": "IT_US_SE_PI_GL_90",
       "value": "[Compensation] Select Wind/Dark-Type UR Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_91",
+      "value": "Select Global Unit Shard x80 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_92",
+      "value": "Select Global Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_93",
+      "value": "[Special Price] Select Global Unit Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_94",
+      "value": "Select Global Unit Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_95",
+      "value": "Select Winter Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_96",
+      "value": "Select FFXIII Unit Shard x120 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_97",
+      "value": "[2.5 Year Anniversary] Select Unit Shard x20 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_98",
+      "value": "[2.5 Year Anniversary] Select UR Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_99",
+      "value": "Select FFXIII Unit Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_100",
+      "value": "[Comeback-Limited] Select UR Unit Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_101",
+      "value": "[FFT Reissue 2022] Select Unit Shard x120 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_102",
+      "value": "Select FFT UR Unit Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_103",
+      "value": "[Updates #21] Select Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_104",
+      "value": "[Autumn 2022] Select UR Unit Shard x40 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_PI_GL_105",
+      "value": "[Autumn 2022] Select MR Unit Shard x50 Summon Ticket"
     },
     {
       "key": "IT_US_SE_VPI_GL_16",
@@ -9841,6 +10341,34 @@
       "value": "[Compensation] Select UR Vision Card Shard x275 Summon Ticket"
     },
     {
+      "key": "IT_US_SE_VPI_GL_28",
+      "value": "Select Global Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_29",
+      "value": "[Special Price] Select Global Vision Card Shard x50 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_30",
+      "value": "Select Global Vision Card Shard x50 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_31",
+      "value": "[2.5 Year Anniversary] Select UR Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_32",
+      "value": "[Comeback-Limited] Select UR Vision Card Shard x50 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_33",
+      "value": "[2.5 Year Anniversary Part IV] Select UR Vision Card Shard x25 Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_VPI_GL_34",
+      "value": "[Autumn 2022] Select UR Vision Card Shard x25 Summon Ticket"
+    },
+    {
       "key": "IT_US_SE_VPI_11",
       "value": "[New Year's] Select UR Vision Card Shard x75 Summon Ticket"
     },
@@ -9883,6 +10411,10 @@
     {
       "key": "IT_US_WINTER_SE_GL05",
       "value": "Select Winter Unit Shard x100 Summon Ticket"
+    },
+    {
+      "key": "IT_US_WINTER_SE_GL06",
+      "value": "Select Winter Unit Shard x80 Summon Ticket"
     },
     {
       "key": "IT_US_GLFEST_SE_GL01",
@@ -10265,6 +10797,18 @@
       "value": "[FFX] Boss Battle Ticket II"
     },
     {
+      "key": "IT_PT_SKIP_FF13",
+      "value": "[FFXIII] Trials of Reckoning Quest Skip Ticket"
+    },
+    {
+      "key": "IT_PT_BSSKIP_FF13_1",
+      "value": "[FFXIII] Trials of Reckoning Boss Skip Ticket"
+    },
+    {
+      "key": "IT_PT_BOSS_FF13_1",
+      "value": "[FFXIII] Boss Battle Ticket"
+    },
+    {
       "key": "IT_PT_SKIP_002",
       "value": "Trials of Reckoning Quest Skip Ticket"
     },
@@ -10381,6 +10925,18 @@
       "value": "September Token"
     },
     {
+      "key": "IT_STAMP_2205",
+      "value": "October Token"
+    },
+    {
+      "key": "IT_STAMP_2206",
+      "value": "November Token"
+    },
+    {
+      "key": "IT_STAMP_2207",
+      "value": "December Token"
+    },
+    {
       "key": "IT_KEY_JP",
       "value": "JP Key"
     },
@@ -10474,7 +11030,7 @@
     },
     {
       "key": "IT_US_G_PU_LMRE_10",
-      "value": "[Lemuré] Featured 10x Summon Ticket"
+      "value": "[Lemur] Featured 10x Summon Ticket"
     },
     {
       "key": "IT_US_G_PU_CLUD_10",
@@ -10885,12 +11441,52 @@
       "value": "[Limited Seasonal Reissue] Featured 10x Summon Ticket"
     },
     {
+      "key": "IT_US_G_PU_U_GRSR_02",
+      "value": "[Glaciela (Flagbearer of Reform)] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_GRSR_02_10",
+      "value": "[Glaciela (Flagbearer of Reform)] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_LUCA_01",
+      "value": "[Lu'Cia (Halloween)] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_LUCA_01_10",
+      "value": "[Lu'Cia (Halloween)] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_SHNC",
+      "value": "[Chunak] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_SHNC_10",
+      "value": "[Chunak] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_ALIA",
+      "value": "[Alaya Rundall] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_ALIA_10",
+      "value": "[Alaya Rundall] Featured 10x Summon Ticket"
+    },
+    {
       "key": "IT_US_G_PU_V_FFX",
       "value": "FFX Reissue Featured Vision Card Summon Ticket"
     },
     {
       "key": "IT_US_G_PU_V_FFX_10",
       "value": "FFX Reissue Featured Vision Card 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_FF13",
+      "value": "[FFXIII] Featured Vision Card Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_FF13_10",
+      "value": "[FFXIII] Featured Vision Card 10x Summon Ticket"
     },
     {
       "key": "IT_US_G_PU_V_VLFR",
@@ -10921,12 +11517,64 @@
       "value": "[The Other Me] Featured Summon Ticket"
     },
     {
+      "key": "IT_US_G_PU_V_SRTN",
+      "value": "[Princess of Verdant Vengeance, Sheratan] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_HALL3",
+      "value": "[Nightmare Before Halloween] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_V_JEDN2",
+      "value": "[Intersecting Destinies] Featured Summon Ticket"
+    },
+    {
       "key": "IT_US_G_P5R_01",
       "value": "P5R Summon Ticket"
     },
     {
       "key": "IT_US_G_FFX_01",
       "value": "FFX Reissue Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_WINTER_10",
+      "value": "[Limited Seasonal Reissue] Winter 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_FF13",
+      "value": "FFXIII Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_GLFES_02",
+      "value": "[Global Festival] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_GLFES_02_10",
+      "value": "[Global Festival] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_FFT",
+      "value": "[FFT Reissue 2022] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_FFT_10",
+      "value": "[FFT Reissue 2022] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_MACR_02",
+      "value": "[Machrie (Queen of Hourne)] Featured Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_MACR_02_10",
+      "value": "[Machrie (Queen of Hourne)] Featured 10x Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_FF13",
+      "value": "[FFXIII] Featured Unit Summon Ticket"
+    },
+    {
+      "key": "IT_US_G_PU_U_FF13_10",
+      "value": "[FFXIII] Featured Unit 10x Summon Ticket"
     },
     {
       "key": "IT_US_SE_U_FF4R",
@@ -11026,6 +11674,10 @@
     },
     {
       "key": "IT_US_SE_U_PI_XTAL_01",
+      "value": "Select Warrior of the Crystals Summon Ticket"
+    },
+    {
+      "key": "IT_US_SE_U_PI_XTAL_02",
       "value": "Select Warrior of the Crystals Summon Ticket"
     },
     {
@@ -11189,6 +11841,14 @@
       "value": "[Reissue Festival] Halloween Summon Medal"
     },
     {
+      "key": "IT_EC_SUMMON_HALL_04",
+      "value": "Halloween Festival 2022 Unit Summon Medal"
+    },
+    {
+      "key": "IT_EC_SUMMON_HALL_05",
+      "value": "Halloween Festival 2022 Vision Card Summon Medal"
+    },
+    {
       "key": "IT_US_SE_JB_EM_05_04",
       "value": "Select Element Alcryst (Red) x10 Summon Ticket"
     },
@@ -11257,6 +11917,10 @@
       "value": "Equipment Summon Medal B"
     },
     {
+      "key": "IT_EC_MEDAL_EQPT_C",
+      "value": "Equipment Summon Medal C"
+    },
+    {
       "key": "IT_EC_SUMMON_SUMM_01",
       "value": "[Reissue Festival] Summer Summon Medal"
     },
@@ -11278,6 +11942,14 @@
     },
     {
       "key": "IT_EC_SUMMON_FES_07",
+      "value": "Crystal Festival Reissue Summon Medal"
+    },
+    {
+      "key": "IT_EC_SUMMON_FES_10",
+      "value": "Crystal Festival Reissue Summon Medal"
+    },
+    {
+      "key": "IT_EC_SUMMON_FES_11",
       "value": "Crystal Festival Reissue Summon Medal"
     },
     {
@@ -11319,6 +11991,22 @@
     {
       "key": "IT_EC_FFS_2",
       "value": "FF Series Vision Card Summon Medal"
+    },
+    {
+      "key": "IT_EC_FF13_2_01_A",
+      "value": "FFXIII Unit Summon Medal A"
+    },
+    {
+      "key": "IT_EC_FF13_2_01_B",
+      "value": "FFXIII Unit Summon Medal B"
+    },
+    {
+      "key": "IT_EC_FF13_3_01_A",
+      "value": "FFXIII Vision Card Summon Medal A"
+    },
+    {
+      "key": "IT_EC_FF13_3_01_B",
+      "value": "FFXIII Vision Card Summon Medal B"
     },
     {
       "key": "IT_EC_MEDAL_10MDL",
